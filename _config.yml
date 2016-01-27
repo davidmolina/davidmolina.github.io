@@ -6,13 +6,38 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+name: Dave Molina
+author: Dave Molina
 title: Hi, I'm Dave Molina.
 email: david@operationcode.org
-description: An accomplished military officer, entrepreneur, and self-taught developer, Dave is the founder of Operation Code, a coding nonprofit that helps get active military, guard & reserve citizen soldiers, veterans and military spouses coding and building software to change the world.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://davidmolina.github.io/" # the base hostname & protocol for your site
+description: "An accomplished military officer, entrepreneur, and self-taught developer, Dave is the founder of Operation Code, a coding nonprofit that helps get active military, guard & reserve citizen soldiers, veterans and military spouses coding and building software to change the world."
+
+# RDF structured data
+job_title: Founder, executive director
+employer: Operation Code
+url: "http://davidmolina.github.io/"
+location:
+  city: Portland
+  state: Oregon
+  country: United States of America
+
+# Social metadata
+social:
+  name: Dave Molina
+  links:
+    - https://twitter.com/davidcmolina
+    - https://facebook.com/david.molina1
+    - https://instagram.com/davidcmolina
+    - https://github.com/davidmolina
+
+# Misc
 twitter_username: davidcmolina
 github_username:  davidmolina
 
+# Permalink structure, see http://jekyllrb.com/docs/permalinks/
+permalink: /:year/:month/:day/:title/
+
 # Build settings
 markdown: kramdown
+encoding: UTF-8
+branch: master
