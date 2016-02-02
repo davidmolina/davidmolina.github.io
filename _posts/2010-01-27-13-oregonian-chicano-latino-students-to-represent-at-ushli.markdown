@@ -13,4 +13,4 @@ IN all, thirteen of Oregon’s best and brightest Chicana/o and Latina/o student
 
 The plan is once we return is to create a social media campaign via Oregon State University to share the 13 students’ stories with everyone. Tens of dozens of student requests came in, but we faced major fundraising hurdles. We hope that this group lays the foundation for organizing future Oregon delegations to Chicago. I want to thank John Haroldson, and Mario Magaña for getting me all riled up and part of changing how we build future Oregon Latina/o leaders. Thanks guys!
 
-[Originally posted on Tumblr](http://davidcmolina.tumblr.com/)
+[Originally posted on Posterous](http://molina.posterous.com/)

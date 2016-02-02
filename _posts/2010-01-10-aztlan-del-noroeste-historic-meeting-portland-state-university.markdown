@@ -31,4 +31,4 @@ Citing @sacca, I propose the regional leadership focus on: doushebags, porn, and
 9. Learn everything today and graduate. Tomorrow, get out there and execute.
 10. Lead from the front.
 
-[Originally posted on Tumblr](http://davidcmolina.tumblr.com/)
+[Originally posted on Posterous](http://molina.posterous.com/)
