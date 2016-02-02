@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interview with Mary Campos (Des Moines, IA)"
+title:  "Interview with Mary Campos on careers in civil-service"
 date:   2010-02-18 17:12:43 -0800
 categories: jekyll update
 ---
