@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "13 Oregonian Chicana/o and Latina/o students to represent at USHLI"
-date:   2010-01-10 17:12:43 -0800
+date:   2010-01-27 17:12:43 -0800
 categories: jekyll update
 ---
 IN all, thirteen of Oregon’s best and brightest Chicana/o and Latina/o students will be represented at this year’s United States Hispanic Leadership Institute (USHLI), Annual National Conference in Chicago; from first generation to new immigrants, from high school and junior college to university students, the caliber and quality is superb. Donors and sponsors have paved some of the way, and most of the participating students are investing their way as well. Tens and dozens of volunteer hours have contributed to this effort. Some stories of the students attending:
