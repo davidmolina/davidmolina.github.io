@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Maya defies the weather"
+date:   2010-04-30 17:12:43 -0800
+categories: jekyll update
+---
+Over the past week our daughter, Maya, has been feeling under the weather. It's been difficult as parents trying to get some shuteye, but more so, it's been even more difficult for her. She knows and hates a runny nose. Calls it "mocos" and demands that her mother or I wipe them off. Her pediatrician has also been concerned because she's not gaining the weight that she is supposed to as a toddler. They've asked us to feed her more foods with lots of fatty foods, i.e. cottage cheese, cheese, peanut butter, etc. I'll admit Maya has her preferences and she'll eat plenty when she loves the foods we give her, but how do you guarantee or how do we know as parents that she is where she is supposed to be in weight?
+This afternoon, while grabbing to-go at Outlaw BBQ, a restaurant nearby in Gresham, I was telling the lady about our experience. She explained to me that those sentiments were exactly what the doctor told her parents many moons ago. She's no longer concerned because she has grown and gained considerable weight now. The two young ladies behind the counter, Molly and Cammy, both were surprised Maya was curious, walking around and climbing chairs. I had explained that Maya wasn't feeling up to it, but mentioned that she knew a lot of words in English & Spanish. I had Maya repeat several like: I love you, mama, papa, bus, monkey, dos, cheese, Ribis, Sonia, Molly and Cammy. I was proud of my daughter as she repeated all these words. I do think she's still reeling from under the weather, but her climbing the chair and running around was a great moment. It was great to hear her repeat beautiful words, one by one. It was then that I knew she is very much loved, nourished, and is continuously learning from her loving grandparents, aunts, uncles, and cousins. Most days, I think Maya defies the weather.
+
+[Originally posted on Posterous](http://molina.posterous.com/)
