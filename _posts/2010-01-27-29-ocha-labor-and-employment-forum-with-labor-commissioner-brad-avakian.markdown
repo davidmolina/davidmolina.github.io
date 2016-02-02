@@ -5,6 +5,8 @@ date:   2010-01-29 17:12:43 -0800
 categories: jekyll update
 ---
 "I've lived and worked 44 years in the U.S., and sent two sons off to American universities, but the respect we get from Oregon employers, sadly, is sometimes hostile, often being treated indifferently because of the color of our skin." - participant
+
+At the core of my public service work on the Oregon Commission on Hispanic Affairs is having a pulse of the Chicano/Latino community. I was disturbed to hear through my friends over at Univision KUNP-TV the challenges facing Oregonian Latino workers which led me to ask more questions, and ultimately ask our Labor Commissioner Brad Avakian if he and his bilingual staff would join me to have a meaningful conversation and respond to questions from local workers.  
 ---
 On January 28, 2010, huddled inside a Mexican grocery store & panaderia in Gresham, Oregon, Labor Commissioner Brad Avakian and I hosted a Labor & Employment Forum to educate Oregonian workers of their rights as workers, the work of the Bureau of Labor and Industries (BOLI) and most importantly to listen to concerns from the Latino community. Interestingly, it began with a conversation I was having with Roxy De La Torre and Delia Hernandez over at KUNP-TV Univision regarding Latino workers not being paid. In their role as journalists they would receive calls and emails from workers who had performed work but were not being paid, workers who often didn’t know their rights, and workers who sent their requests over to BOLI but were being denied a claim. I became curious, and asked Commissioner Brad Avakian if he and his bilingual staff would join me at a community forum in Gresham to discuss and respond to these concerns, which he happily agreed to. Oregon Labor Commissioner Avakian leads BOLI and is one of six statewide-elected officials. He’s the person responsible for ensuring that “when you work a days work, you get paid.”
 
@@ -44,4 +46,4 @@ Heartfelt thanks to Commissioner Avakian and his bilingual staff for their parti
 ---
 Commissioner David Molina serves on the Oregon Commission on Hispanic Affairs, an eleven-member statewide commission with statutory authority that advises the governors’ office and legislative body on all policy issues pertaining to Oregon’s largest and fastest-growing ethnic community, Latinos. Appointed by Governor Ted Kulongoski in April 2006, he was recently reappointed to a second three-year term.
 
-[Originally posted on Posterous](http://molina.posterous.com/)
+[Originally posted on Posterous](http://molina.posterous.com/) and [LatinoPoliticsBlog](http://latinopoliticsblog.com/2010/02/19/labor-employment-community-forum-with-labor-commissioner-brad-avakian/)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interview with Dr. Chuy Negrete (Chicago, IL) on careers in musicology and importance of preserving history"
+title:  "Interview with Dr. Chuy Negrete on careers in musicology and importance of preserving history"
 date:   2010-02-18 17:12:43 -0800
 categories: jekyll update
 ---
