@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Right and Wrongs of SB 1070"
+title:  "The right and wrongs of SB 1070"
 date:   2010-05-18 17:12:43 -0800
 categories: jekyll update
 ---

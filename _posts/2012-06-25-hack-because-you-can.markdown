@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hack Because You Can"
+title:  "Hack because you can"
 date:   2012-06-25 17:12:43 -0800
 categories: jekyll update
 ---

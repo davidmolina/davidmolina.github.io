@@ -4,7 +4,7 @@ title: About Dave Molina
 permalink: /about/
 ---
 
-I am the founder of [Operation Code](http://operationcode.org), co-founder at [BilingualHire](http://bilingualhire.co), [hobbyist photographer](https://www.instagram.com/davidcmolina/), and [family man](https://www.instagram.com/p/-u6FbsRUlR/?taken-by=davidcmolina). I tweet from [@davidcmolina](http://twitter.com/davidcmolina/) and email from [david@operationcode.org](mailto:david@operationcode.org). I write essays on [Medium](https://medium.com/@davidcmolina) and [this site](http://davidmolina.github.io/).
+I am the founder of [Operation Code](http://operationcode.org), co-founder at [BilingualHire](http://bilingualhire.co), [amateur programmer](https://github.com/davidmolina), and [family man](https://www.instagram.com/p/-u6FbsRUlR/?taken-by=davidcmolina). I tweet from [@davidcmolina](http://twitter.com/davidcmolina/) and email from [david@operationcode.org](mailto:david@operationcode.org). I write essays on [Medium](https://medium.com/@davidcmolina) and [this site](http://davidmolina.github.io/).
 
 I started Operation Code in 2014 when I committed the [first line of code](https://github.com/OperationCode/operationcode/commits/master).
 
