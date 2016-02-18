@@ -12,4 +12,4 @@ Before that, I served as an [US Army Captain](https://www.instagram.com/p/BAiRSa
 
 I grew up in Mt. Vernon, Washington, the son of Mexican immigrants from Nayarit and started my first job with Sakuma Farms and Olympic Fish Company. A former high school drop-out I went onto graduate high school a year late and do a few years at Skagit Valley Community College.
 
-Want to chat? Feel free to [email me](mailto:david@operationcode.org), or if you have a question that other people might be interested in as well, open a GitHub issue on [davidmolina/ama](https://github.com/davidmolina) so that others can read it too.
+Want to chat? Feel free to [email me](mailto:david@operationcode.org), or if you have a question that other people might be interested in as well, use Twitter instead.
