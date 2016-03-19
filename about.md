@@ -8,8 +8,6 @@ I am the founder of [Operation Code](http://operationcode.org), co-founder at [B
 
 I started Operation Code in 2014 when I committed the [first line of code](https://github.com/OperationCode/operationcode/commits/master).
 
-Before that, I served as an [US Army Captain](https://www.instagram.com/p/BAiRSa8RUvp/?taken-by=davidcmolina) at the Joint Personal Effects Depot at Dover AFB and prior to that as an aide-de-camp to a flag officer (brigadier general). I began my military career as an enlisted private.
+Before that, I proudly served as a [US Army Captain](https://www.instagram.com/p/BAiRSa8RUvp/?taken-by=davidcmolina) at the Joint Personal Effects Depot at Dover AFB (active-duty) and once served as an aide-de-camp to a brigadier general. I began my military career as an enlisted private in 2000 and assigned to the 364th Civil Affairs Brigade (Airborne).
 
-I grew up in Mt. Vernon, Washington, the son of Mexican immigrants from Nayarit and started my first job with Sakuma Farms and Olympic Fish Company. A former high school drop-out I went onto graduate high school a year late and do a few years at Skagit Valley Community College.
-
-Want to chat? Feel free to [email me](mailto:david@operationcode.org), or if you have a question that other people might be interested in as well, use Twitter instead.
+I grew up in Mt. Vernon, Washington, the son of Mexican immigrants from Nayarit and started my first job with Sakuma Farms and Olympic Fish Company. A former high school drop-out I went onto barely graduate high school a year late and do a few years at Skagit Valley Community College before going to Oregon State University.
