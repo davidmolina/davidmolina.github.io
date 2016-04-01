@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Dave Molina
+title: About David Molina
 permalink: /about/
 ---
 
@@ -10,4 +10,4 @@ I started Operation Code in 2014 when I committed the [first line of code](https
 
 Before that, I proudly served as a [US Army Captain](https://www.instagram.com/p/BAiRSa8RUvp/?taken-by=davidcmolina) at the Joint Personal Effects Depot at Dover AFB (active-duty) and once served as an aide-de-camp to a brigadier general. I began my military career as an enlisted private in 2000 and assigned to the 364th Civil Affairs Brigade (Airborne).
 
-I grew up in Mt. Vernon, Washington, the son of Mexican immigrants from Nayarit and started my first job with Sakuma Farms and Olympic Fish Company. A former high school drop-out I went onto barely graduate high school a year late and do a few years at Skagit Valley Community College before going to Oregon State University.
+I grew up in Mt. Vernon, Washington, the son of Mexican immigrants from Nayarit and started my first job with Sakuma Brothers Farms and Olympic Fish Company. A former high school drop-out I went onto barely graduate high school a year late and do a few years at Skagit Valley Community College before going to Oregon State University.

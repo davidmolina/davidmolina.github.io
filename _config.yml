@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-name: Dave Molina
-author: Dave Molina
-title: Hi, I'm Dave Molina.
+name: David Molina
+author: David Molina
+title: Hi, I'm David Molina.
 email: david@operationcode.org
 description: "An accomplished military officer, entrepreneur, and self-taught developer, Dave is the founder of Operation Code, a coding nonprofit that helps get active military, guard & reserve citizen soldiers, veterans and military spouses coding and building software to change the world."
 
@@ -23,7 +23,7 @@ location:
 
 # Social metadata
 social:
-  name: Dave Molina
+  name: David Molina
   links:
     - https://twitter.com/davidcmolina
     - https://facebook.com/david.molina1
