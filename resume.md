@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur, [ex-Army Captain](https://foursquare.com/v/joint-personal-effects-depot-jped/4dd10b85d22deadedd8fbe62) and programmer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or building the family business. If I'm not coding or closing a sale, I'm most likely hanging with our [daughters](https://twitter.com/davidcmolina/status/478276357663629312), [wife](https://twitter.com/davidcmolina/status/495738797565284353), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
+I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and programmer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or building the family business. If I'm not coding or closing a sale, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312), [wife](https://twitter.com/davidcmolina/status/495738797565284353), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
 
 ## Education
 
@@ -15,7 +15,7 @@ I am an entrepreneur, [ex-Army Captain](https://foursquare.com/v/joint-personal-
 
 Activities and Societies: Student Government, Army ROTC, Sigma Nu Fraternity, Kalmekak and MEChA
 
-During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2001-2002 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissionined Officer.
+During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2001-2002 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissioned Officer.
 
 # Skagit Valley College
 
@@ -39,7 +39,7 @@ I started off strong, but dropped out in the 10th grade to work. Fed up with mem
 
 *[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
 
-I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), and a [shopping list](https://github.com/davidmolina/shoppingList). After learning enough, created a freelance web development shop and consulted with small businesses to register their domain and launch their websites.
+I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). After learning enough began freelancing web development.
 
 # U.S. Army School of Infantry
 
@@ -56,14 +56,14 @@ I enjoy using Ruby on Rails and Jekyll. Currently I'm learning Ember and Hugo, a
 
 *[BilingualHire](http://bilingualhire.co) - Portland, Oregon, Feb 2013 to Present*
 
-Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful coursework and flushed out our first Minimal Viable Product (MPV), a job posting service allowing anyone to post a bilingual job opportunity. Currently, refactoring and overhauling the codebase with another rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume).
+Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful coursework and flushed out our Minimal Viable Product (MVP), a job posting service allowing anyone to post a bilingual job opportunity. Currently, refactoring and overhauling the codebase with another rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume).
 
 # S-2/3 OIC, Public Affairs & Protocol Officer
 
 *[Joint Personal Effects Depot](http://www.army.mil/article/104747/) - Dover AFB, Delaware,
 Feb 2011 to Feb 2013*
 
-Mobilized as a 1st Lieutenant and promoted to Captain upon arrival to support the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the lead project officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and civilian leaders. During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover process, established public affairs/protocol procedures and coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations (AFMAO)/Armed Forces Medical Examiner System (AFMES) and Wing, from flag officers to Members of Congress. Launched SharePoint intranet and trained department personnel on HTML/maintenance, launched the command's external website, jped.mil, using DotNetNuke, and Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit August 2011. I was humbled to be part of such an [amazing mission](https://twitter.com/davidcmolina/status/284748039019712512), and work with [great counterparts](https://twitter.com/davidcmolina/status/293833974575415298).
+Mobilized as a 1st Lieutenant and promoted to Captain upon arrival to support the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the lead project officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and civilian leaders. During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover process, established public affairs/protocol procedures and coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations (AFMAO)/Armed Forces Medical Examiner System (AFMES) and Wing, from flag officers to Members of Congress. Launched SharePoint intranet and trained department personnel on HTML/maintenance, launched the command's external website, jped.mil, using DotNetNuke, and Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit in August 2011. I was humbled to be part of such an [amazing mission](https://twitter.com/davidcmolina/status/284748039019712512).
 
 # Co-Founder & Business Development
 
@@ -77,7 +77,7 @@ We chose to shut it down after not getting the traction we expected.
 
 *BilingualHire Staffing Services - Portland, Oregon, June 2009 to Feb 2011*
 
-After returning from active-duty and a short stint at the Oregon legislature relaunched our bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. It was short lived again due to military deployment to Dover, but not before I served on the Oregon Staffing Association Board of Directors as Legislative Director. After Dover, we restarted this staffing business in the federal contracting space and in 2013 won a $769k landscaping contract. In 2013 (really 2014), I spun off BilingualHire into a [web application](http://bilingualhire.co), and on contracting pursued my contractors license and won a small $88k federal contract. I continue working this as my [day job](https://twitter.com/davidcmolina/status/478228764963266560) to provide for my family while [learning to code]().
+After returning from active-duty and a short stint at the Oregon legislature relaunched our bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. It was short lived again due to military deployment to Dover, but not before I served on the Oregon Staffing Association Board of Directors as Legislative Director. After Dover, we restarted this staffing business in the federal contracting space and in 2013 won a $769k landscaping contract. In 2013 (really 2014), I spun off BilingualHire into a [web application](http://bilingualhire.co), and on contracting pursued my contractors license and won a small $88k federal contract. I continue working this as my [day job](https://twitter.com/davidcmolina/status/478228764963266560) to provide for my family while [learning to code](https://twitter.com/davidcmolina/status/575008011355209728).
 
 # Committee Administrator
 
@@ -106,9 +106,9 @@ Selected as [ aide-de-camp](http://www.quartermaster.army.mil/jccoe/Special_Prog
 
 *RED Consulting Group, LLP - Beaverton, Oregon, Nov 2004 to Dec 2006*
 
-At the age of 25, I Joined my college friend and girlfriend, Rosa Olivares & Edith Quiroz, respectively, to launch a Chicano/Latino consultancy and recruiting company. We started off working out of our apartment living room, and after a year expanded into a Beaverton office. During this time, we led over a dozen executive bilingual searches, and conducted Latino cultural competency trainings throughout the state.
+At the age of 25, I Joined my college friend and girlfriend, Rosa Olivares & Edith Quiroz, respectively, to launch a Chicano/Latino consultancy and recruiting company despite being told we were too young. We started off working out of our apartment living room, and after a year expanded into a Beaverton office. During this time, we led over a dozen executive bilingual searches, and conducted Latino cultural competency trainings throughout the state.
 
-We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. Now my co-founder and wife, Edith Molina, does this [consulting work](http://thinkmujer.com/leadership/) under her own name, Edith Molina, and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com/program).
+We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. Now my co-founder and wife, [Edith Molina](http://thinkmujer.com/leadership/), does this consulting work under her own name and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com/program).
 
 # Director of Fund Development & Special Projects
 
@@ -120,9 +120,9 @@ During my short tenure, coordinated the Salud Familiar Latina/o Family Health Fa
 
 # Guest Writer
 
-*El Hispanic News y Más - Portland, Oregon, Oct 2003 to Mar 2004*
+*[El Hispanic News y Más](http://www.elhispanicnews.com/) - Portland, Oregon, Oct 2003 to Mar 2004*
 
-I returned to the states after Costa Rica determined to own a media company and write. I reached out to this historic Portland Hispanic publication, and began writing. I credit owner, Clara Padilla-Andrews, and editor-in-chief, Julie Cortez for giving me a shot. Wrote just a few articles in-between finishing up my political science degree:
+After Costa Rica I returned to the states determined to own a media company and write. I reached out to this historic Hispanic publication. I credit publisher/credit owner, Clara Padilla-Andrews, and editor-in-chief, Julie Cortez for giving me an opportunity to learn the trade. Wrote just a few articles in-between finishing up my political science degree:
 
 - Los Angeles, California: Dec 17, 2003, *"Series of Spanish Rock Concerts Raises Scholarships for Hispanics."*
 
@@ -134,7 +134,7 @@ I returned to the states after Costa Rica determined to own a media company and 
 
 Accepted to an international internship (IE3) in San Jose, Costa Rica, I researched, drafted and published articles for the Institute for Central American Studies (ICAS) monthly journal, Mesoamerica, that focused on the realities of Central America and understanding of the region.
 
-I cut my teeth here writing and credit the Executive Director, Linda Holland, for her persistence and helping me improve my writing. In 2014, ICAS was renamed to the [Institute for Central American Development Studies](http://icads.org/). During my time in-country, I joined the [Club de Montañismo at La Universidad de Costa Rica](http://www.clubmont.ucr.ac.cr/) and trekked a ton throughout country to places that were not on tourist maps. I also improved my Spanish during this time.
+I cut my teeth here writing and credit the Executive Director, Linda Holland, for her persistence and helping me improve my writing. In 2014, ICAS was renamed to the [Institute for Central American Development Studies](http://icads.org/). During my time in-country, I joined the [Club de Montañismo at La Universidad de Costa Rica](http://www.clubmont.ucr.ac.cr/) and trekked a ton on weekends to places that were not on tourist maps. I also improved my Spanish during this time.
 
 # Cadet
 
@@ -154,19 +154,19 @@ After [graduating Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-b
 
 *[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
 
-Two-years after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) overtime to include, software mentorship, scholarships, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/@operation_code), [Twitter](twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org).
+Two-years after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) overtime to include, software mentorship, scholarships, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/@operation_code), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org), and if you can give, [give](http://operationcode.org/donate).
 
 # Co-Organizer
 
 *[Ruby on Rails PDX](http://www.meetup.com/ruby-on-rails-pdx/) - Portland, Oregon, Feb 2016 to Present*
 
-Co-organizer with two other rubyist, Chris Hough and Layne McNish, bringing together developers and expose new ones to the rails application framework together in a comfortable, relaxed setting.
+Co-organizer with two other rubyist, Chris Hough and Layne McNish, bringing together developers and expose new folks to the rails application framework together in a comfortable, relaxed setting.
 
 # Co-Organizer
 
 *Dover Coders - Dover, Delaware, May 2012 to Feb 2013*
 
-Created and co-organized a Dover Coders meetup group with another friend and co-worker, Lawrence, while I was deployed here. We had over a dozen meetups, and my first entry into software development.
+Created and co-organized a Dover Coders meetup group with another co-worker, Lawrence Wehle, while I was deployed here. We had over a dozen meetups, and my first entry into software development.
 
 # Advisor
 
