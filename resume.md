@@ -15,7 +15,7 @@ I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/
 
 Activities and Societies: Student Government, Army ROTC, Sigma Nu Fraternity, Kalmekak and MEChA
 
-During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2001-2002 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissioned Officer.
+During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2000-2001 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissioned Officer.
 
 # Skagit Valley College
 
@@ -45,10 +45,10 @@ I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My
 
 *[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
 
-I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations. The other half in class writing OPORDs. Mornings we ran 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
+I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refinining our OPORD writing skills. Mornings we ran 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
 
 ## Skills
-I enjoy using Ruby on Rails and Jekyll. Currently I'm learning Ember and Hugo, and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with Jekyll, I used Middleman, WordPress, SharePoint, and DotNetNuke.
+I enjoy using Ruby on Rails, Jekyll, and learning new web technologies. Currently, I'm learning Ember, Hugo, Middleman and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
 
 ## Work Experience
 
