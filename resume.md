@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Resumé
+title: David Molina's Resumé
 permalink: /resume/
 ---
 
 ## Summary
 
-I am an entrepreneur, [ex-Army Captain](https://www.instagram.com/p/BAiRSa8RUvp/?taken-by=davidcmolina) and programmer. You can usually find me [coffee in-hand](https://www.instagram.com/p/9ydxHkRUhl/?taken-by=davidcmolina), building [Operation Code](https://github.com/OperationCode/operationcode), or building the family business. If I'm not coding or closing a sale, I'm most likely hanging with our [daughters](https://www.instagram.com/p/-u6FbsRUlR/?taken-by=davidcmolina), or enjoying Portland's food trucks.
+I am an entrepreneur, [ex-Army Captain](https://foursquare.com/v/joint-personal-effects-depot-jped/4dd10b85d22deadedd8fbe62) and programmer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or building the family business. If I'm not coding or closing a sale, I'm most likely hanging with our [daughters](https://twitter.com/davidcmolina/status/497231094929190912), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
 
 ## Education
 
@@ -15,7 +15,7 @@ I am an entrepreneur, [ex-Army Captain](https://www.instagram.com/p/BAiRSa8RUvp/
 
 Activities and Societies: Student Government, Army ROTC, Sigma Nu Fraternity, Kalmekak and MEChA
 
-During [Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) I applied and was accepted for the 2001-2002 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissionined Officer.
+During Army bootcamp I applied and was accepted for the 2001-2002 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissionined Officer.
 
 # Skagit Valley College
 
@@ -27,7 +27,7 @@ I started at Skagit Valley College via the Running Start program where I took co
 
 # Mount Vernon High School
 
-Activities and Societies: Migrant Student Leadership Program, MEChA, National Youth Leadership Forum on Law & the Constitution,
+Activities and Societies: Migrant Student Leadership Program, MEChA, National Youth Leadership Forum on Law & the Constitution
 
 *Diploma - Mount Vernon, WA, 1994 to 1997*
 
@@ -37,49 +37,47 @@ I started off strong, but dropped out in the 10th grade to work. Fed up with mem
 
 # Thinkful
 
-*Front End Web Develpment, 2014*
+*[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
 
 I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), and a [shopping list](https://github.com/davidmolina/shoppingList). After learning enough, created a freelance web development shop and consulted with small businesses to register their domain and launch their websites.
 
 # U.S. Army School of Infantry
 
-*Junior School for Boys - Fort Benning, Georgia, 2005*
+*[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
 
-I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations. The other half in class writing OPORDs. Mornings we ran 5ks to, "When my granny was 91" and "C-130 Rolling Down the Strip."
+I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations. The other half in class writing OPORDs. Mornings we ran 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
 
 ## Skills
-I enjoy using Ruby on Rails (web application), and Jekyll for static-site. I'm learning Ember and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). I use Jekyll for this blog, and previously used WordPress, SharePoint, and DotNetNuke.
+I enjoy using Ruby on Rails and Jekyll. Currently I'm learning Ember and Hugo, and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to learning about  Jekyll, I used WordPress, SharePoint, and DotNetNuke for blogging.
 
 ## Work Experience
 
 ## Co-Founder
 
-*[BilingualHire](http://bilingualhire.co) - Portland, Oregon, May 2014 to Present*
+*[BilingualHire](http://bilingualhire.co) - Portland, Oregon, Feb 2013 to Present*
 
-Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails](https://onemonth.com/) and learned the basics of Ruby on Rails building out our first Minimal Viable Product (MPV), a job posting service allowing anyone to post a bilingual job opportunity. Currently, refactoring and overhauling the code with another rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume).
+Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab and flushed out our first Minimal Viable Product (MPV), a job posting service allowing anyone to post a bilingual job opportunity. Currently, refactoring and overhauling the code with another rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume).
 
 # S-2/3 OIC, Public Affairs & Protocol Officer
 
 *[Joint Personal Effects Depot](http://www.army.mil/article/104747/) - Dover AFB, Delaware,
 Feb 2011 to Feb 2013*
 
-Mobilized as a 1st Lieutenant and promoted to Captain upon arrival to support the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the lead project officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and civilian leaders. During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover process, established public affairs/protocol procedures and coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations ([AFMAO](http://www.mortuary.af.mil/))/Armed Forces Medical Examiner System ([AFMES](http://www.health.mil/afmes)) and Wing, from flag officers to Members of Congress. Launched SharePoint intranet and trained department personnel on HTML/maintenance, launched the command's external website, jped.mil, using [DotNetNuke](https://foursquare.com/v/joint-personal-effects-depot-jped/4dd10b85d22deadedd8fbe62/photos?openPhotoId=5113a09be4b0fcaa617ee871), and Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit August 2011.
+Mobilized as a 1st Lieutenant and promoted to Captain upon arrival to support the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the lead project officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and civilian leaders. During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover process, established public affairs/protocol procedures and coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations ([AFMAO](http://www.mortuary.af.mil/))/Armed Forces Medical Examiner System ([AFMES](http://www.health.mil/afmes)) and Wing, from flag officers to Members of Congress. Launched SharePoint intranet and trained department personnel on HTML/maintenance, launched the command's external website, jped.mil, using DotNetNuke, and Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit August 2011.
 
 # Co-Founder & Business Development
 
 *[NestNote](https://www.crunchbase.com/organization/nestnote#/entity) - New York City (remote), Jul 2012 to Oct 2012*
 
-I worked with founder & developer, Vitaliy Dikker, who I met at [AngelHack](https://www.instagram.com/p/MOGcwiRUht/?taken-by=davidcmolina) on social note taking app, NestNote. NestNote aimed to help people on Twitter capture reminders, to-do's, notes, and store them privately for later viewing. Organic to Twitter, NestNote converted hashtags into "digital files" and tweets into reminders and notes. Users could use NestNote to create reminders and notes by simply adding a #hashtag (filename) and the user-handle @nestnote to the tweet and NestNote did the rest. Example: #books Read Good to Great @nestnote
+I worked with co-founder & developer, Vitaliy Dikker, who I met at [AngelHack](https://www.pinterest.com/yangbodu/angelhackny/) on social note taking app, NestNote. NestNote aimed to help people on Twitter capture reminders, to-do's, notes, and store them privately for later viewing. Organic to Twitter, NestNote converted hashtags into "digital files" and tweets into reminders and notes. Users could use NestNote to create reminders and notes by simply adding a #hashtag (filename) and the user-handle @nestnote to the tweet and NestNote did the rest. Example: #books Read Good to Great @nestnote
 
-Twitter users could access their [NestNote](http://www.nestnote.com), and upon signup, users would be prompted to connect their NestNote with their Twitter account. After confirming NestNotes would appear by digital files. Under each digital file is the users reminders and to-do's that were captured with date and time stamp.
-
-NestNote could be helpful for young professionals, students, writers, bloggers, entrepreneurs and venture capitalists who find it convenient to file their tweets into their favorite category depository.
+We chose to shut it down after not getting the traction we expected.
 
 # Co-Founder & Managing Partner
 
 *BilingualHire Staffing Services - Portland, Oregon, June 2009 to Feb 2011*
 
-After returning from active-duty, relaunched the family business. Served on the Oregon Staffing Association Board of Directors as Legislative Director. It was short lived again, and paused the company due to military deployment to Dover. My co-founder and wife, Edith Molina, continues to do [this work](http://thinkmujer.com/leadership/) as a consultant for the Nonprofit Association of Oregon.
+After returning from active-duty and a short stint at the Oregon legislature relaunched our bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. It was short lived again due to military deployment to Dover, but not before I served on the Oregon Staffing Association Board of Directors as Legislative Director. After Dover, we restarted this business in the federal contracting space and in 2013 won a $769k landscaping contract. In 2013 (really 2014), I spun off BilingualHire into a [web application](http://bilingualhire.co). On the contracting side, I pursued my contractors license and won a small $88k federal contract and working this as my day job to provide for my family while learning to code.
 
 # Committee Administrator
 
@@ -110,7 +108,7 @@ Selected as [ aide-de-camp](http://www.quartermaster.army.mil/jccoe/Special_Prog
 
 At the age of 25, I Joined my college friend and girlfriend, Rosa Olivares & Edith Quiroz, respectively, to launch a Chicano/Latino consultancy and recruiting company. We started off working out of our small apartment livingroom, and after over a year expanded into a small office in downtown Beaverton to better serve our clients. During this time, we led over a dozen executive bilingual searches, and conducted Latino cultural competency trainings throughout the state.
 
-We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work.
+We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. My co-founder and wife, Edith Molina, does this [consulting work](http://thinkmujer.com/leadership/) under her own name, Edith Molina, and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com).
 
 # Director of Fund Development & Special Projects
 
@@ -156,7 +154,7 @@ After [graduating Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-b
 
 *[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
 
-Determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include, code schools and vocational schools for aspiring programmers. What became a small open source projects has evolved to an incorporated Oregon nonprofit, with a [pending 501(c)(3) application](https://twitter.com/operation_code/status/707267330066108417) to the IRS, a [Board of Directors](http://operationcode.org/board), a growing community of military/veterans learning to code, [software mentors](http://operation-code.slack.com), and software companies all [supporting](https://operationcode.org/blog/2016/03/02/conference-scholarships.html) veterans to fill the nation's technical talent shortage with American patriots who can code.
+Determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include, code schools and vocational schools for aspiring programmers. What became a small open source project has evolved to become an incorporated Oregon nonprofit, with a [pending 501(c)(3) application](https://twitter.com/operation_code/status/707267330066108417) to the IRS, a governing [Board of Directors](http://operationcode.org/board), a growing community of military/veterans learning to code, [software mentors](http://operation-code.slack.com), a [donation page](operationcode.org/donate) using Stripe, and software companies all [supporting](https://operationcode.org/blog/2016/03/02/conference-scholarships.html) veterans to fill the nation's technical talent shortage with American patriots who can code. Learn more on our [blog](https://medium.com/@operation_code).
 
 # Co-Organizer
 
