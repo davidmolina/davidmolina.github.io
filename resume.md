@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and programmer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or building the family business. If I'm not coding or closing a sale, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312), [wife](https://twitter.com/davidcmolina/status/495738797565284353), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
+I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and self-taught developer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or working the family business. If I'm not coding or closing a sale, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312), [wife](https://twitter.com/davidcmolina/status/495738797565284353), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
 
 ## Education
 
@@ -31,7 +31,7 @@ Activities and Societies: Migrant Student Leadership Program, MEChA, National Yo
 
 *Diploma - Mount Vernon, WA, 1994 to 1997*
 
-I started off strong, but dropped out in the 10th grade to work. Fed up with memorizations and pointless history lessons I started working at Olympic Fish Company (LaConner) gutting and weighing fish, and forklifting through the season into the spring before returning and finishing a year late. During the summers I worked for J&H Construction & Sakuma Brothers Farms. I credit Ms. Dianne Best, Dr. Ken Fox, Mrs. Maria Perez, and Mr. Daniel Reyes for squaring me away.
+I started off strong, but dropped out my sophomore year. Fed up with memorizations and pointless history lessons I started working at Olympic Fish Company (LaConner) gutting and weighing fish, and forklifting through the season into the spring before returning and finishing a year late. During the summers I worked for J&H Construction & Sakuma Brothers Farms. I credit Ms. Dianne Best, Dr. Ken Fox, Mrs. Maria Perez, and Mr. Daniel Reyes for squaring me away.
 
 ## Additional Coursework
 
@@ -39,16 +39,16 @@ I started off strong, but dropped out in the 10th grade to work. Fed up with mem
 
 *[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
 
-I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). After learning enough began freelancing web development.
+I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). After learning enough began freelancing web development that summer.
 
 # U.S. Army School of Infantry
 
 *[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
 
-I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refinining our OPORD writing skills. Mornings we ran 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
+I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refinining our OPORD writing skills. Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
 
 ## Skills
-I enjoy using Ruby on Rails, Jekyll, and learning new web technologies. Currently, I'm learning Ember, Hugo, Middleman and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
+I enjoy using Ruby on Rails, Jekyll, and learning new web technologies. Currently, I'm learning Ember, Hugo and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
 
 ## Work Experience
 
@@ -63,7 +63,7 @@ Tired of waiting for a co-founder to build out the product, I enrolled in [One M
 *[Joint Personal Effects Depot](http://www.army.mil/article/104747/) - Dover AFB, Delaware,
 Feb 2011 to Feb 2013*
 
-Mobilized as a 1st Lieutenant and promoted to Captain upon arrival to support the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the lead project officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and civilian leaders. During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover process, established public affairs/protocol procedures and coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations (AFMAO)/Armed Forces Medical Examiner System (AFMES) and Wing, from flag officers to Members of Congress. Launched SharePoint intranet and trained department personnel on HTML/maintenance, launched the command's external website, jped.mil, using DotNetNuke, and Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit in August 2011. I was humbled to be part of such an [amazing mission](https://twitter.com/davidcmolina/status/284748039019712512).
+Mobilized as a 1st Lieutenant and promoted to Captain upon arrival to support the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the lead project officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and civilian leaders. During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover process, established public affairs/protocol procedures and coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations (AFMAO)/Armed Forces Medical Examiner System (AFMES) and Wing, from flag officers to Members of Congress. Launched SharePoint intranet and trained department personnel on HTML/maintenance, launched the command's external website, jped.mil, using DotNetNuke, and Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit in August 2011. I was humbled to be part of such an [rewarding mission](https://twitter.com/davidcmolina/status/284748039019712512).
 
 # Co-Founder & Business Development
 
