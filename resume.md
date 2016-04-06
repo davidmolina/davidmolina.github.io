@@ -8,49 +8,13 @@ permalink: /resume/
 
 I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and self-taught developer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or working the family business. If I'm not coding or closing a sale, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312), [wife](https://twitter.com/davidcmolina/status/495738797565284353), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
 
-## Education
-
-# Oregon State University
-*BA, Political Science - Corvallis, Oregon, 2001 to 2004*
-
-Activities and Societies: Student Government, Army ROTC, Sigma Nu Fraternity, Kalmekak and MEChA
-
-During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2000-2001 academic year. After graduating AIT, I packed up my personal stuff in Mount Vernon, drove to Corvallis and enrolled in spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began my journey to be a Commissioned Officer.
-
-# Skagit Valley College
-
-*AA - Mount Vernon, WA, 1997 to 2000*
-
-Activities and Societies: MEChA
-
-I started at Skagit Valley College via the Running Start program where I took college coursework counting towards both high school and college credits. I founded the MEChA chapter here, and created the Gente del Sol festival and co-organized it for two-years to raise funds for scholarships.
-
-# Mount Vernon High School
-
-Activities and Societies: Migrant Student Leadership Program, MEChA, National Youth Leadership Forum on Law & the Constitution
-
-*Diploma - Mount Vernon, WA, 1994 to 1997*
-
-I started off strong, but dropped out my sophomore year. Fed up with memorizations and pointless history lessons I started working at Olympic Fish Company (LaConner) gutting and weighing fish, and forklifting through the season into the spring before returning and finishing a year late. During the summers I worked for J&H Construction & Sakuma Brothers Farms. I credit Ms. Dianne Best, Dr. Ken Fox, Mrs. Maria Perez, and Mr. Daniel Reyes for squaring me away.
-
-## Additional Coursework
-
-# Thinkful
-
-*[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
-
-I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). After learning enough began freelancing web development that summer.
-
-# U.S. Army School of Infantry
-
-*[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
-
-I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refinining our OPORD writing skills. Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
-
-## Skills
-I enjoy using Ruby on Rails, Jekyll, and learning new web technologies. Currently, I'm learning Ember, Hugo and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
-
 ## Work Experience
+
+# Founder & Executive Director
+
+*[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
+
+Two-years after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) over time to include, software mentorship, scholarships, apprenticeship, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/@operation_code), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org), and if you can give, [give](http://operationcode.org/donate).
 
 ## Co-Founder
 
@@ -77,38 +41,32 @@ We chose to shut it down after not getting the traction we expected.
 
 *BilingualHire Staffing Services - Portland, Oregon, June 2009 to Feb 2011*
 
-After returning from active-duty and a short stint at the Oregon legislature relaunched our bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. It was short lived again due to military deployment to Dover, but not before I served on the Oregon Staffing Association Board of Directors as Legislative Director. After Dover, we restarted this staffing business in the federal contracting space and in 2013 won a $769k landscaping contract. In 2013 (really 2014), I spun off BilingualHire into a [web application](http://bilingualhire.co), and on contracting pursued my contractors license and won a small $88k federal contract. I continue working this as my [day job](https://twitter.com/davidcmolina/status/478228764963266560) to provide for my family while [learning to code](https://twitter.com/davidcmolina/status/575008011355209728).
+After returning from active-duty and a short stint at the Oregon legislature relaunched our bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. It was short lived again due to military deployment to Dover, but not before I served on the Oregon Staffing Association Board of Directors as Legislative Director. After Dover, we restarted this staffing business in the federal contracting space and in 2013 won a $769,000 landscaping contract. In 2013 (really 2014), I spun off BilingualHire into a [web application](http://bilingualhire.co), and on contracting pursued my contractors license and won a small $88,000 federal contract. I continue working this as my [day job](https://twitter.com/davidcmolina/status/478228764963266560) to provide for my family while [learning to code](https://twitter.com/davidcmolina/status/575008011355209728).
 
 # Committee Administrator
 
 *[House Committee on Veterans & Emergency Services](https://olis.leg.state.or.us/liz/2009R1/Committees/HVES/Overview) - Salem, Oregon, Jan 2009 to June 2009*
 
-Fresh off active-duty, spent 6 months staffing the House Committee on Veterans & Emergency for Chair, Rep. Jean Cowan (D-Newport) at the Oregon Capitol in Salem. During my public service time here, managed Rep. Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. Learned how legislation becomes law and treasure the great mentorship by my Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and LTC Dick Tobiason (Ret.), of Bend, Ore.
+Fresh off active-duty, spent 6 months staffing the House Committee on Veterans & Emergency for Chair, Rep. Jean Cowan (D-Newport) at the Oregon Capitol in Salem. During my public service time here, managed Rep. Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. Learned how legislation becomes law and treasure the great mentorship by my Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and retired Lt. Col Dick Tobiason of Bend, Ore.
 
 # Summary Court Martial Officer
 *[Joint Personal Effects Depot](http://www.c-span.org/video/?195351-1/joint-personal-effects-depot) - Aberdeen Proving Ground, Maryland, Mar 2007 to July 2008*
 
-Mobilized and served 18 months active-duty in support of a [unique joint organization](http://usmilitary.about.com/od/deploymentsconflicts/a/personalprop.htm) responsible for the collection, inventory and return of the personal effects of Fallen Services Members and Wounded Service Members. During my tenure, I authored dozens of operational improvement memos, authored and revised Standard Operating Procedures, assigned assistant billing official with additional coursework at the Pentagon, co-authored the Department of Defense Center for Army Lessons Learned Handbook, and developed performance measurements and certifications for improved readiness.
-
-# Sales
-
-*[Nordstrom Washington Square](http://shop.nordstrom.com/) - Tigard, Oregon, Oct 2006 to Dec 2006*
-
-Provide superior customer service to every guest and help them look and feel their very best. Specialized in men's Faconnable.
+Mobilized and served 18 months active-duty in support of a [unique joint organization](http://usmilitary.about.com/od/deploymentsconflicts/a/personalprop.htm) responsible for the collection, inventory and return of the personal effects of Fallen Services Members and Wounded Service Members. During my tenure at the JPED, I authored dozens of operational improvement memos, authored and revised Standard Operating Procedures, assigned assistant billing official with additional coursework at the Pentagon, co-authored the Department of Defense Center for Army Lessons Learned JPED Handbook, and developed performance measurements and certifications for improved readiness.
 
 # Aide-de-Camp to Army Brigadier General
 
 *[104th Division](https://en.wikipedia.org/wiki/104th_Infantry_Division) - Vancouver Barracks, Washington, Jul 2005 to Dec 2006*
 
-Selected as [ aide-de-camp](http://www.quartermaster.army.mil/jccoe/Special_Programs_Directorate/Enlisted_Aide_web_documents/Senior_Leader_Aide_Handbook_2010.pdf) for Army BG Eldon Regua, Assistant Division Commander (Operations). In this role, traveled extensively with the General, coordinated all transportation and lodging, draft and provide editorial support on speeches, coordinate protocol, schedule meetings and visits, and worked closely with the Secretary of the General Staff, MAJ Ignacio Perez. Sometimes I would aide-de-camp for the Commanding General, MG TK Moffett.
+Selected as [ aide-de-camp](http://www.quartermaster.army.mil/jccoe/Special_Programs_Directorate/Enlisted_Aide_web_documents/Senior_Leader_Aide_Handbook_2010.pdf) for Army Brig. Gen. Eldon Regua, Assistant Division Commander-Operations. In this role, traveled extensively with the General, coordinated all transportation and lodging, draft and provide editorial support on speeches, coordinate protocol, schedule meetings and visits, and worked closely with the Secretary of the General Staff, Maj. Ignacio Perez. Sometimes I would aide-de-camp for the Commanding General, Maj. Gen. TK Moffett.
 
 # Co-Founder & Managing Partner
 
 *RED Consulting Group, LLP - Beaverton, Oregon, Nov 2004 to Dec 2006*
 
-At the age of 25, I Joined my college friend and girlfriend, Rosa Olivares & Edith Quiroz, respectively, to launch a Chicano/Latino consultancy and recruiting company despite being told we were too young. We started off working out of our apartment living room, and after a year expanded into a Beaverton office. During this time, we led over a dozen executive bilingual searches, and conducted Latino cultural competency trainings throughout the state.
+At the age of 25, I joined my college friend and girlfriend, Rosa Olivares & Edith Quiroz, respectively, to launch a Chicano/Latino consultancy and recruiting company despite being told we were too young. We started off working out of our apartment living room, and after a year expanded into a Beaverton office. During this time, we led over a dozen executive bilingual searches, and conducted Latino cultural competency trainings throughout the state.
 
-We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. Now my co-founder and wife, [Edith Molina](http://thinkmujer.com/leadership/), does this consulting work under her own name and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com/program).
+We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. My co-founder and wife, [Edith Molina](http://thinkmujer.com/leadership/) continues to do this consulting work under her own name and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com/program).
 
 # Director of Fund Development & Special Projects
 
@@ -140,21 +98,55 @@ I cut my teeth here writing and credit the Executive Director, Linda Holland, fo
 
 *[104th Division](https://en.wikipedia.org/wiki/104th_Infantry_Division_(United_States)) - Salem, Oregon, July 2002 to June 2005*
 
-I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, LTC Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, CPT John Mills. I thoroughly enjoyed my time here, and did a lot of rucking through City of Salem and a few to Dog Mountain with the drill sergeants.
+I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, Lt. Col. Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, Capt. John Mills. I thoroughly enjoyed my time here, and did a lot of rucking through City of Salem w/ enlisted mentor, Staff Sgt. George Everts and a few to Dog Mountain with the drill sergeants.
 
 # Soldier
 
 *364th Civil Affairs Brigade (Airborne)- Portland, Oregon, Feb 2001 to July 2002*
 
-After [graduating Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Fort Sill, Oklahoma and AIT at Fort Leonard Wood, Missouri, I started my enlisted career as a Private First Class in the Special Functions Team here for drill-weekends, and mentored by LTC Jon Lopey and MAJ Rich Valdez.
+After [graduating bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Fort Sill, Oklahoma and AIT at Fort Leonard Wood, Missouri, I started my enlisted career as a Private First Class in the Special Functions Team here for drill-weekends, and mentored by Lt. Col Jon Lopey and Maj. Javier Valdez.
+
+## Education
+
+# Thinkful
+
+*[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
+
+I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). Didn't finish the course, but after learning enough began freelancing web development that summer.
+
+# U.S. Army School of Infantry
+
+*[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
+
+I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refinining our OPORD writing skills. Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
+
+# Oregon State University
+*BA, Political Science - Corvallis, Oregon, 2001 to 2004*
+
+Activities and Societies: Student Government, Army ROTC, Sigma Nu Fraternity, Kalmekak and MEChA
+
+During [ bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2000-2001 academic year and after basic headed off to Corvallis to start spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began one of the most rewarding journey's to be a Commissioned Officer.
+
+# Skagit Valley College
+
+*AA - Mount Vernon, WA, 1997 to 2000*
+
+Activities and Societies: MEChA
+
+I started at Skagit Valley College via the Running Start program where I took college coursework counting towards both high school and college credits. I founded the MEChA chapter here, and created the Gente del Sol festival and co-organized it for two-years to raise funds for scholarships.
+
+# Mount Vernon High School
+
+Activities and Societies: Migrant Student Leadership Program, MEChA, National Youth Leadership Forum on Law & the Constitution
+
+*Diploma - Mount Vernon, WA, 1994 to 1997*
+
+I started off strong, but dropped out my sophomore year. Fed up with memorizations and pointless history lessons I started working at Olympic Fish Company (LaConner) gutting and weighing fish, and forklifting through the season into the spring before returning and finishing a year late. During the summers I worked for J&H Construction & Sakuma Brothers Farms. I credit Ms. Dianne Best, Dr. Ken Fox, Mrs. Maria Perez, and Mr. Daniel Reyes for squaring me away.
+
+## Skills
+I enjoy using Ruby on Rails, Jekyll, and learning new web technologies. Currently, I'm learning Ember, Hugo and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
 
 ## Volunteer Experiences and Causes
-
-# Founder & Executive Director
-
-*[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
-
-Two-years after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) overtime to include, software mentorship, scholarships, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/@operation_code), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org), and if you can give, [give](http://operationcode.org/donate).
 
 # Co-Organizer
 
@@ -166,7 +158,7 @@ Co-organizer with two other rubyist, Chris Hough and Layne McNish, bringing toge
 
 *Dover Coders - Dover, Delaware, May 2012 to Feb 2013*
 
-Created and co-organized a Dover Coders meetup group with another co-worker, Lawrence Wehle, while I was deployed here. We had over a dozen meetups, and my first entry into software development.
+Created and co-organized a Dover Coders meetup group with another JPED co-worker, Lawrence Wehle, while I was deployed to Dover AFB. We had over a dozen meetups, and it was rewarding meeting local experienced programmers.
 
 # Advisor
 
@@ -180,18 +172,18 @@ Addressing Latino leadership throughout Oregon through a philanthropic lens.
 
 Appointed by President Dr. Edward Ray to 22-person Board of Visitors to provide advice and recommendations for diversity recruitment and the retention of faculty, staff, and students.
 
-# Commissioner
+# Commissioner/Vice Chair
 
 *[Oregon Commission on Hispanic Affairs](http://www.oregon.gov/Hispanic/Pages/index.aspx) - Apr 2006 to Oct 2010*
 
-Governor-appointed to the commission, and in-between an active-duty mobilization, organized and co-hosted a [community townhall](https://www.flickr.com/photos/davidcmolina/albums/72157623488275662) on civil rights with Attorney General John Kroger, organized and co-hosted a [community townhall](https://www.flickr.com/photos/davidcmolina/albums/72157623504913568) on labor & employment rights with Labor Commissioner Brad Avakian, organized and hosted a [community townhall](https://www.flickr.com/photos/davidcmolina/albums/72157623488286284) on healthcare with distinguished public health advocates and agencies, testified before Senate Health Care Committee on Latino health disparities, [blogged](http://latinopoliticsblog.com/category/community-organizing-and-activism/david-molina/) and conducted numerous interviews on Spanish-language media, including: Univision, AlegreTV, LaGranD, LaPantera, and Tonalli Radio. My favorite memory was helping recruit Oregon Latino students to attend the [2010 U.S. Hispanic Leadership Institute (USHLI)](https://www.flickr.com/photos/davidcmolina/albums/72157623364078943) in Chicago.
+Governor-appointed to the commission, and in-between an active-duty mobilization, organized and co-hosted a community town hall on [civil rights with Attorney General John Kroger](https://www.flickr.com/photos/davidcmolina/albums/72157623488275662), organized and co-hosted a community town hall on [labor & employment rights with Labor Commissioner Brad Avakian](https://www.flickr.com/photos/davidcmolina/albums/72157623504913568), organized and hosted a [community town hall on healthcare](https://www.flickr.com/photos/davidcmolina/albums/72157623488286284) with distinguished public health advocates and agencies, testified before Senate Health Care Committee on Latino health disparities, [blogged](http://latinopoliticsblog.com/category/community-organizing-and-activism/david-molina/) and conducted numerous interviews on Spanish-language media, including: Univision, AlegreTV, LaGranD, LaPantera, and Tonalli Radio. In my final year, helped recruit Oregon Latino students to attend the [2010 U.S. Hispanic Leadership Institute (USHLI)](https://www.flickr.com/photos/davidcmolina/albums/72157623364078943) in Chicago.
 
-# Founder
+# Founder/Board President
 
-*[Oregon State University Chicano/Latino Alumni Association](https://www.flickr.com/photos/osuclaa/) - Corvallis, Oregon
+*[Oregon State University Chicano/Latino Alumni Association](https://securelb.imodules.com/s/resources/templates/login/index.aspx?sid=359&gid=1&pgid=813) - Corvallis, Oregon
 Apr 2006 to Oct 2010*
 
-Founded the OSU Chicana/o Alumni Association of Oregon State University (ChAOSU), formed first board of directors, raised funds and awarded annual book scholarships, organized and host annual on-campus reunion, launch an endownment scholarship fund for future generations, keynote at Si Se Pudo graduation, launch official OSU alumni page, and Facebook page.
+Founded the OSU Chicana/o Alumni Association of Oregon State University (ChAOSU), formed first board of directors, raised funds and awarded annual book scholarships, [organized and host annual campus reunions](https://www.flickr.com/photos/osuclaa/), launch an endowment scholarship fund for future generations, keynote at Si Se Pudo graduation, launch official OSU alumni page, and Facebook page.
 
 ## Recommendations
 
