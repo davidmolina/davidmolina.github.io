@@ -13,3 +13,5 @@ The next few posts are my experiences and thoughts.
 The Twitter #hashtag used was #angelhackny.
 
 [Originally posted on Tumblr](http://davidcmolina.tumblr.com/)
+
+Questions, corrections, or additions? Get in touch on [Twitter](http://twitter.com/davidcmolina).

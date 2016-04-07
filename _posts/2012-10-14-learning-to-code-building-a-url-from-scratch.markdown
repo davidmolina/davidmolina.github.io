@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning to code - building a URL from scratch"
+title:  "Learning to code - building a URL from scratch."
 date:   2012-10-14 17:12:43 -0800
 categories: jekyll update
 ---
