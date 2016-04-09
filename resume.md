@@ -66,7 +66,7 @@ Selected as [ aide-de-camp](http://www.quartermaster.army.mil/jccoe/Special_Prog
 
 At the age of 25, I joined my college friend and girlfriend, Rosa Olivares & Edith Quiroz, respectively, to launch a Chicano/Latino consultancy and recruiting company despite being told we were too young. We started off working out of our apartment living room, and after a year expanded into a Beaverton office. During this time, we led over a dozen executive bilingual searches, and conducted Latino cultural competency trainings throughout the state.
 
-We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. My co-founder and wife, [Edith Molina](http://thinkmujer.com/leadership/) continues to do this consulting work under her own name and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com/program).
+We closed our business in early 2007 as a result of impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. My co-founder and wife, [Edith Molina](http://thinkmujer.com/edith-molina/) continues to do this consulting work under her own name and leadership trainings under the name, [ThinkMujer](http://thinkmujer.com/about).
 
 # Director of Fund Development & Special Projects
 
