@@ -9,7 +9,7 @@ Over the weekend, I took our daughters to [Henry Hagg Lake](https://www.instagra
 
 You see, many people are afraid to venture on their own, launch a startup, or apply for that one dream job. When starting out everyone is afraid of sharing their idea, their startup with others for fear of them stealing it, or stealing their dream job. It's most prevalent in the Mexicano community, "*no le digas a nadien tus planes*." From my vantage point, you have most to fear not from telling people, but from *not telling enough people*. From people not caring. That's what you are most up against.
 
-When Rosa, Edith and myself co-founded RED Consulting Group, LLP, many adults twice our age told us point blank to our face, "aren't you too young to be consultants." Let that sink in for a second.
+When Rosa, Edith and myself co-founded RED Consulting Group, LLP, many adults twice our age told us point blank to our face, "aren't you too young to be consultants?" Let that sink in for a second.
 
 When I was on the Governor's Commission on Hispanic Affairs, it was hard to hear from others that, "Hispanics will never attend a town hall." Let that sink in.
 
