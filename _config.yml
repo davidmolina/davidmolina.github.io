@@ -7,13 +7,15 @@
 
 # Site settings
 name: David Molina
-author: David Molina
-title: Hi, I'm David Molina.
-email: david@operationcode.org
+title: David Molina - Entrepreneur, ex-Army Captain, and developer
 description: "An accomplished military officer, entrepreneur, and self-taught developer, David is the founder of Operation Code, a coding nonprofit that helps get active military, guard & reserve citizen soldiers, veterans and military spouses coding and building software to change the world."
+author: David Molina
+repository: davidmolina/davidmolina.github.io
+email: david@operationcode.org
+
 
 # RDF structured data
-job_title: Founder, executive director
+job_title: Founder & Executive Director
 employer: Operation Code
 url: "http://davidmolina.github.io/"
 location:
@@ -33,6 +35,8 @@ social:
 # Misc
 twitter_username: davidcmolina
 github_username:  davidmolina
+facebook_username: david.molina1
+instagram_username: davidcmolina
 
 # Permalink structure, see http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:day/:title/

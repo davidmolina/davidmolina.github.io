@@ -1,6 +1,6 @@
 ---
+title: Resumé
 layout: page
-title: David Molina's Resumé
 permalink: /resume/
 ---
 
@@ -14,7 +14,7 @@ I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/
 
 *[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
 
-Two-years after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) over time to include, software mentorship, scholarships, apprenticeship, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/@operation_code), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org), and if you can give, [give](http://operationcode.org/donate).
+Two-years after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) over time to include, software mentorship, scholarships, web apprenticeship, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://operationcode.org/blog), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org).
 
 ## Co-Founder
 
