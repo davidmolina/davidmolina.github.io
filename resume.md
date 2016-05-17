@@ -1,5 +1,5 @@
 ---
-title: Resumé
+title: Résumé
 layout: page
 permalink: /resume/
 ---
@@ -150,7 +150,7 @@ I enjoy using Ruby on Rails, Jekyll, and learning new web technologies. Currentl
 
 # Co-Organizer
 
-*[Ruby on Rails PDX](http://www.meetup.com/ruby-on-rails-pdx/) - Portland, Oregon, Feb 2016 to Present*
+*[Ruby on Rails PDX](http://www.meetup.com/ruby-on-rails-pdx/) - Portland, Oregon, Feb 2016 to May 2016*
 
 Co-organizer with two other rubyist, Chris Hough and Layne McNish, bringing together developers and expose new folks to the rails application framework together in a comfortable, relaxed setting.
 

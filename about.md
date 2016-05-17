@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About David Molina
+title: About
 permalink: /about/
 ---
 
