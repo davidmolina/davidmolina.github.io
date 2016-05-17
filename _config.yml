@@ -41,6 +41,10 @@ instagram_username: davidcmolina
 # Permalink structure, see http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:day/:title/
 
+# Enable redirects
+gems:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 encoding: UTF-8

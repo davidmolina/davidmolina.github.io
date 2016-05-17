@@ -1,5 +1,6 @@
 ---
 title: Twitter
 layout: page
-url: "https://twitter.com/davidcmolina"
+redirect_to:
+  - https://twitter.com/davidcmolina
 ---

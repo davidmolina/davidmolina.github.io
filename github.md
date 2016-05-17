@@ -1,5 +1,6 @@
 ---
 title: GitHub
 layout: page
-url: "https://github.com/davidmolina"
+redirect_to:
+  - https://github.com/davidmolina
 ---
