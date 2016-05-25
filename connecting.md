@@ -10,3 +10,4 @@ permalink: /connecting/
 - [Instagram](https://www.instagram.com/davidcmolina/)
 - [Facebook](https://www.facebook.com/david.molina1)
 - [GitHub](https://github.com/davidmolina/)
+- Skype username: davidcmolina
