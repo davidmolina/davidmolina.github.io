@@ -12,7 +12,7 @@ Previously, I lived on the east coast (Aberdeen Proving Ground, Dover AFB, Balti
 Now:
 
 - [Operation Code](https://operationcode.org) - Founder & Executive Director
-- [BilingualHire](https://bilingualhire.co) - Co-Founder & CEO
+- [BilingualHire](https://bilingualhire.co) - Co-Founder
 
 Previously:
 
