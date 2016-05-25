@@ -4,10 +4,32 @@ title: About
 permalink: /about/
 ---
 
-I am the founder of [Operation Code](http://operationcode.org), co-founder at [BilingualHire](http://bilingualhire.co), [amateur programmer](https://github.com/davidmolina), and [family man](https://www.instagram.com/p/-u6FbsRUlR/?taken-by=davidcmolina). I tweet from [@davidcmolina](http://twitter.com/davidcmolina/) and email from [david@operationcode.org](mailto:david@operationcode.org). I share stories on [Medium](https://medium.com/@davidcmolina) and [this site](http://davidmolina.github.io/).
+I'm David Molina and live in Portland, Oregon with my wife, [Edith Molina](http://thinkmujer.com/edith-molina/), and our [3 young daughters](https://www.instagram.com/p/-u6FbsRUlR/?taken-by=davidcmolina).
 
-I started Operation Code in 2014 when I committed the [first line of code](https://github.com/OperationCode/operationcode/commits/master) after not being able to leverage my New GI Bill to go to code school.
+Previously, I lived on the east coast (Aberdeen Proving Ground, Dover AFB, Baltimore). I grew up in Mt. Vernon, Washington and was born in Hood River, Oregon.
 
-Before that, I proudly served in our U.S. Army as an [ Captain](https://www.instagram.com/p/BAiRSa8RUvp/?taken-by=davidcmolina) at the Joint Personal Effects Depot on the Mortuary Affairs Complex at Dover AFB (active-duty) and once served as an aide-de-camp to a U.S. Army brigadier general. I began my enlisted career as a young private in 2000 at the Portland-based, 364th Civil Affairs Brigade (Airborne).
+# Work
+Now:
 
-I grew up in Mt. Vernon, Washington, the son of Mexican immigrants from Nayarit and started my first job with Sakuma Brothers Farms and Olympic Fish Company. A former high school drop-out, I went onto barely graduate a year late and do a few years at Skagit Valley Community College before going to Oregon State University where I got an ROTC commission.
+- [Operation Code](https://operationcode.org) - Founder & Executive Director
+- [BilingualHire](https://bilingualhire.co) - Co-Founder & CEO
+
+Previously:
+
+- [Joint Personal Effects Depot](https://www.army.mil/article/104747/) - S-2/3 OIC, Public Affairs & Protocol Officer
+- [Oregon State Legislature](https://www.oregonlegislature.gov/) - Committee Administrator, House Committee on Veterans & Emergency Services
+- More on my [resume](/resume)
+
+# Community Engagement
+I volunteer with the following organizations:
+
+- [Oregon Community Foundation, Latino Partnership Program Advisory Council](http://www.oregoncf.org/ocf-initiatives/civic-engagement/latino-partnership)
+
+# This Site
+- Generated with [Jekyll](https://jekyllrb.com/)
+- Hosted on [GitHub Pages](https://pages.github.com/)
+- Source on [GitHub](https://github.com/davidmolina/davidmolina.github.io)
+
+# Contact
+
+Feel free to [email me](mailto:david.c.molina@gmail.com).

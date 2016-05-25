@@ -1,15 +1,16 @@
 # http://davidmolina.github.io
 
-Hey, this is Dave Molina's personal site/blog using Jekyll, GitHub Pages, and Bootstrap.
+This is the repository for my personal site http://davidmolina.github.io. I’m using Jekyll with GitHub Pages for easy building and storing. I used to have a Posterous, and I've posted once on Medium, but this is where I put my stuff.
 
 # A quick note
 
-I make no guarantees that if you fork or clone this, any of this will work. I'm a self-taught developer, and learn by doing. Literally. Also, any of my essays. Don't copy them without permission. If you do reference, link them back to my [personal site/blog](http://davidmolina.github.io).
+I'm a self-taught developer, and learn by doing. Literally. If you see something here that doesn't make sense ping me on [Twitter](https://twitter.com/davidcmolina).
 
-Finally, thank you to all the kickass and amazing open source software developers out there, most especially those that have taken time over the years to teach me, walk me through code, hack + help, sponsored me, and helped get me to this point. Never forgetting where I come from, I'm trying to pay it forward with [Operation Code](http://operationcode.org).
+# A special thanks
+A special thanks to Chris Hough ([@chrishough](https://twitter.com/chrishough)), Fernando Paredes ([@nanoxd](https://twitter.com/nanoxd)), Nell Shamrell ([@nellshamrell](https://twitter.com/nellshamrell)), Jared Koumentis ([@shepbook](https://twitter.com/ShepBook)) for their patience, hacking w/ me and showing me the ropes, encouragement, and hack.hands mentor extraordinaire, Allen Wyma for his software mentorship. Never forgetting where I come from, I'm trying to pay it forward at [Operation Code](http://operationcode.org).
 
 ## License
 
-Content: [Creative Commons, BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Content: [Creative Commons, BYd-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Code: [MIT](http://opensource.org/licenses/mit-license.php)
