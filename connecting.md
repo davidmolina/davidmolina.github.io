@@ -9,5 +9,6 @@ permalink: /connecting/
 - [Twitter](https://twitter.com/davidcmolina)
 - [Instagram](https://www.instagram.com/davidcmolina/)
 - [Facebook](https://www.facebook.com/david.molina1)
+- [Foursquare](https://foursquare.com/davidcmolina)
+- [Skype](https://www.skype.com/) - username: davidcmolina
 - [GitHub](https://github.com/davidmolina/)
-- Skype username: davidcmolina
