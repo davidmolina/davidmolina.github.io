@@ -15,7 +15,7 @@ The Portland VA Medical Center doesn't need more security guards called to help 
 
 All of us in line aren't your average joes--we are World War II, Korean War, Vietnam, Persian Gulf I, Iraq and Afghanistan war veterans and every conflict in between--we are Veterans' who have traveled from as far as Roseburg and rural Oregon to native Portlander's.
 
-We're in 2010 and the VA continues to use 1990 machines and methods. Replace the tiny monitor. Use [text](https://en.wikipedia.org/wiki/Text_messaging). [Email]https://en.wikipedia.org/wiki/Email. [Tweet](https://en.wikipedia.org/wiki/Twitter). But expedite the process. Put a bigger screen with bold instructions. Put some courtesy back into this bottleneck.
+We're in 2010 and the VA continues to use 1990 machines and methods. Replace the tiny monitor. Use [text](https://en.wikipedia.org/wiki/Text_messaging). [Email](https://en.wikipedia.org/wiki/Email). [Tweet](https://en.wikipedia.org/wiki/Twitter). But expedite the process. Put a bigger screen with bold instructions. Put some courtesy back into this bottleneck.
 
 We just want our meds to relieve the pain and go back home. We wish not to develop an ulcer while waiting for meds. Portland VA Medical Center. Please. Its 2010.
 
