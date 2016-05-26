@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Portland Veterans Affairs (VA) Medical Center Prognosis."
-date:   2010-09-20 14:12:43 -0800
+date:   2010-09-10 14:12:43 -0800
 categories: jekyll update
 ---
 
