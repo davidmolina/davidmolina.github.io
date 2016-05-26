@@ -20,3 +20,5 @@ Driving north on I-5 this morning I listened intently to NPR Weekend and the cov
 At final formation this evening the commander had us take a moment in our own right to pause, reflect and pray for all those who lost their lives on 9/11, and our comrades-in-arms thereafter.
 
 Mission continues.
+
+[Originally posted on Posterous](http://molina.posterous.com/)

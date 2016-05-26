@@ -43,4 +43,6 @@ Today, yet again I was warned, "the VA Center across the river in Vancouver runs
 
 It's clear that Oregon and SW Washington Veterans' that go for their primary, secondary or emergency healthcare need bold, decisive and innovative leadership at the Portland VA Medical Center this year, today, not until the next Presidential election or new VA Secretary. Please. Everyone. Get. On. The. Same. Sheet. Of. Music. Thank you.
 
+[Originally posted on Posterous](http://molina.posterous.com/)
+
 *David Molina is an Army Veteran that served from 2000 to 2008, and in support of Operation Iraqi/Enduring Freedom from March 2007 to June 2008 as a Summary Court Martial Officer/S-3 Plans, Training and Operations Officer-in-Charge at the Joint Personal Effects Depot at Aberdeen Proving Ground in Maryland. He receives his healthcare through the VA.*

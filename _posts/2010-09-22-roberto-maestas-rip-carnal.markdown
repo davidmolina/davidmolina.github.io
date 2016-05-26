@@ -14,3 +14,5 @@ Maestas advised us to continue the fight on the high school and college campuses
 Today, Seattle's Mayor ordered flags to half-staff to honor Maestas. I was saddened by the news and headlines this morning. I will forever be grateful for his compassion for the well being of others; his courage to stand up for the little guy; his mentorship that day; the inspiration and his persistence he has imparted on others to succeed.
 
 RIP Roberto Maestas.
+
+[Originally posted on Posterous](http://molina.posterous.com/)
