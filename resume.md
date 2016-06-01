@@ -18,9 +18,9 @@ Two-years after exiting active-duty and determined to learn to code and build my
 
 ## Co-Founder
 
-*[BilingualHire](http://bilingualhire.co) - Portland, Oregon, Feb 2013 to Present*
+*[BilingualHire](http://bilingualhire.co) - Portland, Oregon, Apr 2014 to Present*
 
-Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful coursework and flushed out our Minimal Viable Product (MVP), a job posting service allowing anyone to post a bilingual job opportunity. Currently, refactoring and overhauling the codebase with another rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume).
+Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful coursework and flushed out our Minimal Viable Product (MVP), a job posting service allowing anyone to post a bilingual job opportunity, and gained traction, users and important customer feedback. In early 2016, rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume) joined as our first Ruby on Rails engineer to integrate this feedback and we re-launched the web application on May 30, 2016.
 
 # S-2/3 OIC, Public Affairs & Protocol Officer
 
@@ -52,7 +52,7 @@ Fresh off active-duty, spent 6 months staffing the House Committee on Veterans &
 # Summary Court Martial Officer
 *[Joint Personal Effects Depot](http://www.c-span.org/video/?195351-1/joint-personal-effects-depot) - Aberdeen Proving Ground, Maryland, Mar 2007 to July 2008*
 
-Mobilized and served 18 months active-duty in support of a [unique joint organization](http://usmilitary.about.com/od/deploymentsconflicts/a/personalprop.htm) responsible for the collection, inventory and return of the personal effects of Fallen Services Members and Wounded Service Members. During my tenure at the JPED, I authored dozens of operational improvement memos, authored and revised Standard Operating Procedures, assigned assistant billing official with additional coursework at the Pentagon, co-authored the Department of Defense Center for Army Lessons Learned JPED Handbook, and developed performance measurements and certifications for improved readiness.
+Mobilized and served 18 months active-duty in support of a [unique joint organization](http://usmilitary.about.com/od/deploymentsconflicts/a/personalprop.htm) responsible for the collection, inventory and return of the personal effects of Fallen Services Members and Wounded Service Members. During my tenure at the JPED, I authored dozens of operational improvement memos, authored and revised Standard Operating Procedures, assigned assistant billing official with additional coursework at the Pentagon, co-authored the Department of Defense Center for Army Lessons Learned JPED Handbook, and developed performance measures and certifications for improved readiness.
 
 # Aide-de-Camp to Army Brigadier General
 
