@@ -20,7 +20,7 @@ Previously:
 - [Oregon State Legislature](https://www.oregonlegislature.gov/) - Committee Administrator, House Committee on Veterans & Emergency Services
 - More on my [resume](/resume)
 
-# Community Engagement
+# Civic
 I volunteer with the following organizations:
 
 - [Oregon Community Foundation, Latino Partnership Program Advisory Council](http://www.oregoncf.org/ocf-initiatives/civic-engagement/latino-partnership)
@@ -32,4 +32,4 @@ I volunteer with the following organizations:
 
 # Contact
 
-Feel free to [email me](mailto:david.c.molina@gmail.com).
+Feel free to [connect online](/connecting), or [email me](mailto:david.c.molina@gmail.com).

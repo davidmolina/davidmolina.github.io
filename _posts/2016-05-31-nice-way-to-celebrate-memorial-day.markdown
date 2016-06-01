@@ -16,3 +16,5 @@ This year's Memorial Day morning I received a note from one of my board director
 In the afternoon I received a much anticipated note from Benevity, a global leader in online workplace giving, matching, and volunteering, indicating that Operation Code's charity profile was now 100% complete. I had started the process immediately after May 4th and first learned about Benevity from Google product manager, David Weekly, one of our first online donors.
 
 Let us live life to the fullest and honor the Fallen with the mission ahead of us.
+
+*David Molina was born on February 8, 1979, in Hood River, Oregon, and raised in the Skagit Valley. The son of Mexican immigrants, he was the first in his family to graduate high school, college, earn an officer commission, start a business and learn to code. He has been blogging off and on since 2009 and started this blog after having his content all over the place. When he is not blogging here or at [Operation Code](https://operationcode.org/blog), he is out [exploring Oregon with his wife and 3 young daughters](https://www.instagram.com/p/eImJtgRUmp/?taken-by=davidcmolina).*
