@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "The Eleventh Hour."
+date:   2011-04-09 17:12:43 -0800
+categories: jekyll update
+---
+
+This week the stress for almost every American reached new heights, be it in Oregon serving in the National Guard or Reserves to serving in the Middle East, when Congress and President Obama nearly missed the deadline for passing an agreed budget. In fact, for anyone serving in the military or civilian personnel in the federal government it became much more personal.
+
+On Thursday, April 7th I tweeted that all of us in the military would still be coming into work and we had received word that our April 15th check would be pro-rated to April 8th midnight. Of course, a tweet is just that in the military or civilian world, it's not until you see it on your pay stub. That all changed on Friday morning when service members approached our S1 (Personnel) on a debt on their 15th paycheck. How much? About half of their base pay. So if you are a Sergeant and you make for example $1,400 (before taxes) every two weeks, you'd only be receiving roughly $750 on the 15th. Of course, if Congress and President Obama couldn't agree on the budget in the next few weeks, the possibility existed that we in the military would not be paid on May 1st. Within hours the Defense Finance and Accounting Service (DFAS) went on overdrive, posted and confirmed this.
+
+In late January, I was mobilized for active-duty to the Joint Personal Effects Depot, the only Department of Defense (DoD) organization that is responsible for receiving, processing, inventorying and returning the personal effects of every service member and DoD civilian/contractor killed or wounded in operations overseas. I spoke to Army civilian contractors within the organization Friday morning and many have spouses in the military. Danielle for example, her husband was at the U.S. Army's National Training Center (NTC) at Fort Irwin, California and the possibility existed of seeing $0 come the 15th and potentially coming May 1st and she was worried how they would survive with mortgage payments, daycare, and putting food on the table and a roof over the kids. I sympathized with her. Danielle along with dozens others, the stress reached new heights.
+
+A morning briefing by our Executive Officer, MAJ Darius Highsmith (second in command) reiterated what we were all reading and hearing in the news, Facebook and Twitter feed. He put the rumor to rest that Army civilian contractors, at least those internally, would not be affected and would be coming into work on Monday. Unfortunately, the only member of the team that would be affected would be our sole GS civilian, Mr. Nelson Delgado, who is also a First Sergeant in the Army Reserves. The order by his leadership at the top was that he would be furloughed come Monday and was not to report to work, or work from home. Yes, our operations manager. In the briefing, the stress was very real given in today's work environment, two must work to make ends. Much more, the important mission that cannot wait.
+
+In 1995, I heard from one of our senior leaders that when the federal government shut down the military still came into work but our civilian counterparts walked off. It was tragic to watch yesterday's podcast from MSNBC Nightly News w/ Brian Williams that payments for spouses and families who've lost their loved ones in the Wars in Iraq and Afghanistan would stop. How do you even begin to tell a family member who has lost their other half in combat or from injuries sustained that they would have to wait? What do you tell a mom on the other line of the phone maybe not today, or tomorrow, but maybe next week? I'm curious how many member of Congress or senior White House staff have had the honor of working in casualty and mortuary affairs operations and the front line to supporting families in their most time of need?
+
+Last night, in the eleventh hour, Congress and President Obama reached an agreement. I'm certain if their pay along with their entire staff had stopped at midnight Friday, we would have seen an agreement not at the eleventh hour but much, much sooner.
+
+Americans serving in uniform and our families would much rather be focused on the mission that the American people, Congress and the President of the United States have ordered us to do, rather than figuring out if we're going to have enough before the end of the month.
+
+[Originally posted on Posterous](http://molina.posterous.com/)
