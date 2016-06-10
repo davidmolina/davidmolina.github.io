@@ -8,10 +8,10 @@
 # Site settings
 name: David Molina
 title: Hi, I'm David Molina.
-description: "An accomplished military officer, entrepreneur, and self-taught developer, David is the founder of Operation Code, a coding nonprofit that helps get active military, guard & reserve citizen soldiers, veterans and their families learn to code and build software to change the world."
+description: "An accomplished military officer, entrepreneur, and self-taught developer, David is the Founder & Executive Director of Operation Code, a coding nonprofit that helps active military, guard & reserve citizen soldiers, veterans and their families learn to code and build software to change the world."
 author: David Molina
 repository: davidmolina/davidmolina.github.io
-email: david.c.molina@gmail.com
+email: david@operationcode.org
 
 
 # RDF structured data
