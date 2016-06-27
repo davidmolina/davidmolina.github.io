@@ -18,5 +18,3 @@ In the Army, we have a saying. It's called KISS or keep it simple stupid. It's r
 I've found through the years that the more I write, the more I read, the more I observe other writers work, the more I understand what mattes and what doesn't. It doesn't just take practice, or commitment, it takes the courage to put yourself out there. Fear of writing and putting yourself out there for criticism is the number one deterrent for becoming a better writer.
 
 When I'm stuck writing, I don't Google it, or get back on Instagram, but remember the sage advice, "paint the picture."
-
-*David Molina was born on February 8, 1979, in Hood River, Oregon, and raised in the Skagit Valley. The son of Mexican immigrants, he was the first in his family to graduate high school, college, earn an officer commission, start a business and learn to code. He has been blogging off and on since 2009 and started this blog after having his content all over the place. When he is not blogging here or at [Operation Code](https://operationcode.org/blog), he is out [exploring Oregon with his wife and 3 young daughters](https://www.instagram.com/p/eImJtgRUmp/?taken-by=davidcmolina).*

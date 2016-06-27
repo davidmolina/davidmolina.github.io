@@ -38,5 +38,3 @@ Some general takeaways.
 This week has been insane. I'm sure FexEx Kinkos will be glad not to see me for a while.
 
 Tomorrow this time it will be over. Until the next one.
-
-*David Molina was born on February 8, 1979, in Hood River, Oregon, and raised in the Skagit Valley. The son of Mexican immigrants, he was the first in his family to graduate high school, college, earn an officer commission, start a business and learn to code. He has been blogging off and on since 2009 and started this blog after having his content all over the place. When he is not blogging here or at [Operation Code](https://operationcode.org/blog), he is out [exploring Oregon with his wife and 3 young daughters](https://www.instagram.com/p/eImJtgRUmp/?taken-by=davidcmolina).*
