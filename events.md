@@ -7,9 +7,10 @@ permalink: /events/
 ## Presentation, talks, conferences.
 
 # Upcoming
-- [CodeConf LA](http://codeconf.com) - *June 27-29, 2016, Los Angeles*. My [talk](http://codeconf.com/speakers/david-molina.html) is titled, "What Happens When Military Veterans Learn to Code." Description: Learning to code is complicated. Between Googling your way and figuring it out on your own, military veterans now have a resource at the ready. Is it an open source project? Is it a community of military veterans learning to code? Is it a community of software developers that want to give back? A coding nonprofit? It's all of the above.
+- None scheduled at this time. 
 
 # Previously
+- [CodeConf LA](http://codeconf.com) - *June 27-29, 2016, Los Angeles*. My [talk](http://codeconf.com/speakers/david-molina.html) is titled, "What Happens When Military Veterans Learn to Code." Description: Learning to code is complicated. Between Googling your way and figuring it out on your own, military veterans now have a resource at the ready. Is it an open source project? Is it a community of military veterans learning to code? Is it a community of software developers that want to give back? A coding nonprofit? It's all of the above.
 - [ThinkMujer](http://thinkmujer.com) - *June 3, 2016, Portland*. On-hand providing technical support for my wife's Latina women's initiative. Follow along on [Twitter](https://twitter.com/thinkmujer).
 - [Portland 1 Million Cups](http://www.meetup.com/1-Million-Cups-Portland/events/230137614/) - *May 18, 2016, Portland*. A presentation to founders, entrepreneurs, developers and doers at DeskHub about [Operation Code](https://operationcode.org) mission, history, programs & services and how we started.
 - [GeekWire Awards](http://www.geekwire.com/2016/geek-year-2016-vote-now-geekwire-awards/) - *May 12, 2016, Seattle*. Honored to attend and represent [Operation Code](https://operationcode.org) and our military veterans in the category of Geek of the Year. It recognizes a person (or group of people) who created a technological breakthrough that made the world a better place, or strengthened the community through their work or good deeds. Here's an [Instagram](https://www.instagram.com/p/BFVFxSKRUvd/?taken-by=davidcmolina) of an interview I did.
