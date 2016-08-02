@@ -8,6 +8,8 @@ id: /press
 
 I regularly speak with press about the importance of preparing our transitioning military and veterans to become software developers. Below are some highlights:
 
+[Get coding now with Operation Code Army veteran and founder David Molina](http://www.veteranonthemove.com/get-coding-now-with-operation-code-army-veteran-and-founder-david-molina/)・Veteran on the Move podcast - *August 1, 2016*
+
 [More and more veterans who leave the army are becoming coders, and the mission of Operation Code is to help veterans make that transition](http://softwareengineeringdaily.com/2016/03/20/helping-veterans-learn-code-david-molina/)・Software Engineering Daily - *March 20, 2016*
 
 [When the call of duty is technology, veterans rally to support each other through Operation Code](http://www.geekwire.com/2016/call-duty-technology-veterans-rally-support-operation-code/)・GeekWire - *January 7, 2016*
