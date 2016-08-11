@@ -12,6 +12,8 @@ I regularly speak with press about the importance of preparing our transitioning
 
 [How to pick a programming language to learn for new developers – Part 2](http://mentoringdevelopers.com/episode-36-how-to-pick-a-programming-language-to-learn-for-new-developers-part-2/)・Mentoring Developers podcast - *June 7, 2016*
 
+[Humans of Tech - Operation Code](http://www.humansoftech.com/work/#/operationcode/) ・Humans of Tech - *March 21, 2016*
+
 [More and more veterans who leave the army are becoming coders, and the mission of Operation Code is to help veterans make that transition](http://softwareengineeringdaily.com/2016/03/20/helping-veterans-learn-code-david-molina/)・Software Engineering Daily - *March 20, 2016*
 
 [When the call of duty is technology, veterans rally to support each other through Operation Code](http://www.geekwire.com/2016/call-duty-technology-veterans-rally-support-operation-code/)・GeekWire - *January 7, 2016*
