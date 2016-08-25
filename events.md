@@ -7,7 +7,7 @@ permalink: /events/
 ## Presentation, talks, conferences.
 
 # Upcoming
-- None scheduled at this time. 
+- [VetsHack](http://vetshack.us) - *September 3-4, 2016, Los Angeles*
 
 # Previously
 - [CodeConf LA](http://codeconf.com) - *June 27-29, 2016, Los Angeles*. My [talk](http://codeconf.com/speakers/david-molina.html) is titled, "What Happens When Military Veterans Learn to Code." Description: Learning to code is complicated. Between Googling your way and figuring it out on your own, military veterans now have a resource at the ready. Is it an open source project? Is it a community of military veterans learning to code? Is it a community of software developers that want to give back? A coding nonprofit? It's all of the above.
