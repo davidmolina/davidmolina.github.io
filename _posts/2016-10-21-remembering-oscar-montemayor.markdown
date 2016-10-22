@@ -30,4 +30,5 @@ Oscar, we will miss you sorely at all the events and ceremonies celebrating the 
 
 Until we meet again, Oscar.
 
-Friday, October 21, 6:07 pm PDT update: Oscar is no longer on life-support and is breathing fine on his own. He's still at OHSU. Our plan is to visit tonight, this weekend. Keep praying for Oscar. 
+Friday, October 21, 6:07 pm PDT update: Oscar is no longer on life-support and is breathing fine on his own. He's still at OHSU. Our plan is to visit tonight, this weekend. Keep praying for Oscar.
+Saturday, October 22, 1:22 am PDT update: Sadly, Oscar did not make it. Please keep his family and son in your prayers. 
