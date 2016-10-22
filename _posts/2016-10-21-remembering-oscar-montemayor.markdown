@@ -26,6 +26,8 @@ After college, you were there for us when we launched the OSU Chicano/Latino Alu
 
 A few years ago my buddy, Gerardo Ochoa, put a team together to compete in the Chicanos of Oregon Golf Association Jalapeño Tour. Man you had quite a swing. As you already know, we'll keep swinging in your honor.
 
-Oscar, we will miss you sorely at all the events and ceremonies celebrating the closing of one chapter and the opening of the next. But we know you will be with us every step of the day. 
+Oscar, we will miss you sorely at all the events and ceremonies celebrating the closing of one chapter and the opening of the next. But we know you will be with us every step of the day.
 
 Until we meet again, Oscar.
+
+Friday, October 21, 6:07 pm PDT update: Oscar is no longer on life-support and is breathing fine on his own. He's still at OHSU. Our plan is to visit tonight, this weekend. Keep praying for Oscar. 
