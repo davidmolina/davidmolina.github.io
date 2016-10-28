@@ -16,7 +16,7 @@ Oscar, hermano.
 <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by David Molina (@davidcmolina) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-10-21T15:13:26+00:00">Oct 21, 2016 at 8:13am PDT</time></p></div>
 </blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js">
 </script>
-*photo from Si Pudo Graduation, 2009*
+()*photo from Si Se Pudo Graduation, 2009*)
 
 Words cannot express the lives you impacted throughout decades of selfless service to not just Oregon State University, but students everywhere. Arriving to OSU in 2001, I knew only a few people, but you empowered many through your humbleness, your love of mentoring and coaching, and your love for ensuring all of us first-generation college students believed we belonged at the university. That migrant students belonged.
 
@@ -31,4 +31,5 @@ Oscar, we will miss you sorely at all the events and ceremonies celebrating the 
 Until we meet again, Oscar.
 
 Friday, October 21, 6:07 pm PDT update: Oscar is no longer on life-support and is breathing fine on his own. He's still at OHSU. Our plan is to visit tonight, this weekend. Keep praying for Oscar.
-Saturday, October 22, 1:22 am PDT update: Sadly, Oscar did not make it. Please keep his family and son in your prayers. 
+
+Saturday, October 22, 1:42 am PDT update: Sadly, Oscar did not make it. Please keep his family and son, Victor, in your prayers and thoughts. Rest in peace, brother. 
