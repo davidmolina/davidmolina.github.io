@@ -32,4 +32,6 @@ Until we meet again, Oscar.
 
 Friday, October 21, 6:07 pm PDT update: Oscar is no longer on life-support and is breathing fine on his own. He's still at OHSU. Our plan is to visit tonight, this weekend. Keep praying for Oscar.
 
-Saturday, October 22, 1:42 am PDT update: Sadly, Oscar did not make it. Please keep his family and son, Victor, in your prayers and thoughts. Rest in peace, brother. 
+Saturday, October 22, 1:42 am PDT update: Sadly, Oscar did not make it. Please keep his family and son, Victor, in your prayers and thoughts. Rest in peace, brother.
+
+Thursday, October 27, 1:00 pm: A service will be held at St. James Catholic Church in McMinnville, Oregon to celebrate the life of Oscar Montemayor. Burial services to follow.
