@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RIP Rick Garrett. We'll Continue Serving on The Other Side."
-date:   2011-01-15 17:12:43 -0800
+date:   2011-01-15 08:12:43 -0800
 categories: jekyll update
 ---
 
@@ -12,7 +12,7 @@ Upon arrival in March 2007, Rick shared his stories, almost military historian l
 He was the official JPED photographer capturing tens of thousands of memories, from those who we have lost forever to the heart & soul that make the organization work--its Soldiers, Marines, Airmen and Army Civilians. It was always a sad moment when a fellow service-member was leaving the operation--most served a short tour, the Air Force even shorter--and, Rick would put these awesome, creative and one-of-a-kind framed memorabilias to the outgoing individual. In earnest, Rick and the First Sergeant (the other mastermind)  would collude on this work of art--and on the last day the First Sergeant would present it on behalf of the entire JPED family. We always knew Rick was behind it as he had a way with design, a way with words, and the creative eye. I will forever cherish his gift. He put me in Time Magazine.
 
 It breaks my heart that we bid our farewells. It's a sad moment to pen this. Wish I wasn't.
-Rick, it was truly an honor to serve with you! May you rest in peace brother.. our prayers go out to your Dorothy and your family. Our awesome & shared memories will always live on. 
+Rick, it was truly an honor to serve with you! May you rest in peace brother.. our prayers go out to your Dorothy and your family. Our awesome & shared memories will always live on.
 
 We'll continue serving on the other side.
 
