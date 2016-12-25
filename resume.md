@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and self-taught developer. You can usually find me coffee in-hand, building [Operation Code](https://operationcode.org), or working the family business. If I'm not coding or closing a sale, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312), [wife](https://twitter.com/davidcmolina/status/495738797565284353), or enjoying [Portland's food trucks](https://twitter.com/davidcmolina/status/698136223856988160).
+I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and self-taught developer. You can usually find me tea and MacBook Air in-hand, building [Operation Code](https://operationcode.org), or growing the family business. If I'm not hustling, building the business or coding, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312) and [wife](https://twitter.com/davidcmolina/status/495738797565284353).
 
 ## Work Experience
 
@@ -14,13 +14,13 @@ I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/
 
 *[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
 
-Eighteen months after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/press) over time to include, software mentorship, scholarships, web apprenticeship, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/operation-code), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org).
+Eighteen months after exiting active-duty and determined to learn to code and build my dream web application using my education benefits earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the New GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/history) over time to include, software mentorship, scholarships, web apprenticeship, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://medium.com/operation-code), [Twitter](http://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org).
 
 ## Co-Founder
 
 *[BilingualHire](http://bilingualhire.co) - Portland, Oregon, Apr 2014 to Present*
 
-Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful coursework and flushed out our Minimal Viable Product (MVP), a job posting service allowing anyone to post a bilingual job opportunity, and gained traction, users and important customer feedback. In early 2016, rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume) joined as our first Ruby on Rails engineer to integrate this feedback and we re-launched the web application on May 30, 2016.
+Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful coursework and flushed out our Minimal Viable Product (MVP), a job posting service allowing anyone to post a bilingual job opportunity, and gained traction, users and important customer feedback. In early 2016, rubyist and friend, [Chris Hough](https://github.com/chrishough/my-resume) joined as our first Ruby on Rails engineer to integrate this feedback and we re-launched the web application on May 30, 2016. [Start posting a bilingual job today](https://bilingualhire.co/).
 
 # Plans, Training & Operations Officer (S-2/3 OIC), Public Affairs & Protocol Officer
 
