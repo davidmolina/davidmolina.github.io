@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy Merry Christmas Eve."
+title:  "Happy Christmas Eve."
 date:   2016-12-24 04:02:43 -0800
 categories: jekyll update
 ---
@@ -13,7 +13,7 @@ This morning fired up the fireplace.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Merry Christmas Eve! Fired up the fireplace. Yes!</p>&mdash; David Molina (@davidcmolina) <a href="https://twitter.com/davidcmolina/status/812726381981286400">December 24, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Honestly, it's my favorite part of the day. So far we've not cut any wood today (we have plenty), but tons of time playing Jenga with my girls. [Check out out my Snaps for some - @davidcmolina](https://www.snapchat.com/add/davidcmolina) and more from today. Drank up some tea & some Mexican-style eggs. 
+Honestly, it's my favorite part of the day. So far we've not cut any wood today (we have plenty), but tons of time playing Jenga with my girls. [Check out out my Snaps for some - @davidcmolina](https://www.snapchat.com/add/davidcmolina) and more from today. Drank up some tea & some Mexican-style eggs.
 
 My brother-in-law, Izzy, came out and we picked up some tables, Tequila Patron and start prepping his house for tonight.
 
