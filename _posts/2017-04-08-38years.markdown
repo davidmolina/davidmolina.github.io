@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "David Molina at 38."
+date:   2017-04-08 04:02:43 -0800
+categories: jekyll update
+---
+
+_I don't pretend to know all the answers, and will fail many times before finding them, but I won't settle for status quo or stop finding them._
+
+At 38, things don't feel like they've slowed down. Not for one New York second. When I departed with my little family in tow back to Portland, Ore. and hanging up my beret and uniform I thought we'd raise three little girls and build a company. Afford things, nice Portland house and picket fence and help those around us. Flash news: things take time, things don't always line up, and sometimes the thing you wanted to build doesn't take off (the right product/market fit) and you end up building something else. That other thing was Operation Code and for the [latter half of 3-years it's been a volunteer full-time job](https://operationcode.org/history). Yes, volunteer and no salary. Our office, you ask? Slack. An app that is constantly on both on my iMac and my iPhone.
+
+_So how have you survived? Code, grit and hustle._
+
+I learned enough Ruby on Rails to become dangerous. Enough to build something on the internet locally and deploy it to the web. Enough to be comfortable around the command line. I took these skills, and coupled with what I learned through the years knocked on doors (literally) and pitched websites and any IT services to anyone that would kindly not throw me out their front door. I landscaped which gave me some runway to take a front-end course at [Thinkful.com](https://www.thinkful.com/). Cash would come in. Barely. We'd use this to survive that day, that week. We fell behind on everything. Credit suffered. We sold our house (purchased on a VA home loan) because we had to. Barely as the bank was taking it over. I moved my little family on a whims notice from outer SE Portland to a little farm town 24 miles outside of the city in Forest Grove, Ore., (they have good schools this way) and worked to rebuild our own confidence, get back on our feet and calibrate what we're building, and as a business mentor once said, "work on things you don't want to work on, to work on the things you want to work on."
+
+That said, I've been dedicating my time to building the non-coding related family businesses in construction and education (day job). Oddly enough, wearing muck boots,  driving an CAT 316E excavator and managing trucks and people pays. Oddly enough knowing how to code and doing strategy for an [education company](https://www.thinkmujer.com/) that my wife, Edith, runs has helped us get back on our feet. Barely. I know this because for the first time ever since graduating college we're paying nearly eight-thousand back in taxes from our businesses. What does that say? We did pretty good in 2016. But it doesn't feel like it by our credit score and struggle to grow our businesses.
+
+_Our most valuable asset today isn't what's in our bank account, but our time._
+
+I'm asked many times to have coffee, to meet, etc. Unfortunately, and unlike salaried employees with a 401k and benefits, I don't have the luxury to take every meeting. No. While it may look like I have the financial resources to give to others, or time, I simply don't. There is simply too much that needs to be done for the Operation Code team. Giving back to those who've served in uniform and want to better themselves by learning to code and joining or starting a tech startup is top on my list. I've been lucky to lead such a team, such amazing individuals from all walks of life who are now dedicating themselves to a life of a second service-- continuing to serve in their own communities as technology leaders.
+
+I'm also equally protective of my time with family. That means I draw the line somewhere in the day that is dictated around them. You see everyone reports to someone, everyone is outranked by someone and for me that's my girls.
+
+But, eventually I might have Office Hours where if you're in Portland, I'll have 15-min slots where we can meet. Eventually.
+
+_Balanced life._
+
+On this gorgeous Saturday morning, I count my blessings that I can sit here at a coffee shop, sip on a Chai Latte (I stopped drinking coffee mid last year), essay my thoughts and constantly work to build a more balanced life. That starts with taking care of my girls: ensuring they have a quality of life, great schools, more opportunities, more exposure, and do everything in my power at 38 to see me.
+
+Family dinners, Friday family movie nights and getaways where the internet goes off. Living in the moment that is.
