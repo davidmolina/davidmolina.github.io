@@ -6,7 +6,9 @@ permalink: /press/
 id: /press
 ---
 
-I regularly speak with press about the importance of preparing our transitioning military and veterans to become software developers. Below are some highlights:
+[How Operation Code helps veterans learn programming skills](https://opensource.com/article/17/4/operation-code-mentors-veterans)・OpenSource.com - *April 24, 2017*
+
+[Seattle coding-school tuition to be covered by GI Bill](http://www.seattletimes.com/news/seattles-code-fellows-wins-approval-under-gi-bill/)・The Seattle Times - *August 29, 2016*
 
 [Get coding now with Operation Code Army veteran and founder David Molina](http://www.veteranonthemove.com/get-coding-now-with-operation-code-army-veteran-and-founder-david-molina/)・Veteran on the Move podcast - *August 1, 2016*
 
