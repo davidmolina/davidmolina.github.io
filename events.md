@@ -66,6 +66,3 @@ permalink: /events/
 - [Vietnam Veterans of America Oregon State Council Retreat](https://vva.org/what-we-do/our-members/chapters/?gmw_post=chapter&gmw_address%5B%5D=&gmw_state=Oregon&gmw_distance=100&gmw_units=imperial&gmw_form=7&gmw_per_page=-1&gmw_lat=&gmw_lng=&gmw_px=pt&action=gmw_post) - *April 30, 2016, Newport*. Gave a quick 20-minute briefing to VVA Oregon State Council board and chapter president's during their annual retreat in Newport, Ore. on [Operation Code](https://operationcode.org).
 
 - [OSP Veterans' Association](https://www.oregon.gov/doc/OPS/PRISON/docs/Veterans_Club.pdf) - *April 21, 2016, Salem*. Keynote speaker at the OSP Veterans' Association April meeting on what we do at [Operation Code](https://operationcode.org). I was honored and humbled at the opportunity and immense interest of so many incarcerated vets to learn to code and build software to change the world. One vet told me he used to code in Pascal. Pascal! Majority veterans I spoke with were interested in coding to build useful skills so as to not return.
-
-# Invite
-If you'd like to invite me to come speak, [email me](mailto:david@operationcode.org).
