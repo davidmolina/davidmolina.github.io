@@ -4,19 +4,19 @@ title: What I'm Doing Now
 permalink: /now/
 ---
 
-Still living in Forest Grove, Oregon and commuting into the Portland office. The girls are age 6, 6, and 8 and becoming more and more fluent in Spanish everyday.
+Still living in Forest Grove, Oregon and commuting into the Portland office. Our twin girls are age 6, 6, our oldest is 8, and all fast becoming more and more fluent in Spanish everyday.
 
-I'm reading a lot on finance, management, strategy and listening to a lot of [EDM](https://open.spotify.com/user/1137072174/playlist/4XAEkK9s6yTAGyTtaMEC0e) and [Ignacio Robles](https://open.spotify.com/user/123891019/playlist/2NFJsDhYBgIs5cRWzYZsfb) while continuing to learn to code on my own and although I've stopped taking on web clients (exception of maintaining [ThinkMujer](https://thinkmujer.com)), and scaled back on maintaining [Operation Code](https://operationcode.org/) as our core team and contributor team has expanded, I'm continuing to learn Ruby on my own.
+I'm reading a lot on finance, management, strategy and listening to a lot of [EDM](https://open.spotify.com/user/1137072174/playlist/4XAEkK9s6yTAGyTtaMEC0e) and [Ignacio Robles](https://open.spotify.com/user/123891019/playlist/2NFJsDhYBgIs5cRWzYZsfb) while continuing to learn to program on my own and although I've stopped taking on web clients (exception of maintaining [ThinkMujer](https://thinkmujer.com)), and scaled back on maintaining [Operation Code](https://operationcode.org/) as our core team and contributor team has expanded. Regardless, I'm continuing to learn Ruby and learn at my own pace and going through [People Can Program](https://peoplecanprogram.com/index.html).
 
-I just completed a 7-week VA contract operating an CAT 316E excavator and moving thousands of cubic yards of dirt between 12 yard and 8 yard trucks, and enrolled in the Clark Construction Group Stategic Partnership Program in Seattle. I'm continuing to enjoy the business side and building teams.
+I just completed a 7-week U.S. Department of Veterans Affairs contract operating an CAT 316E excavator and moving thousands of cubic yards of dirt between both 12 yard and 8 yard trucks, and enrolled in the Clark Construction Group [Strategic Partnership Program](http://clarkconstruction.com/news/clark-kicks-strategic-partnership-program-seattle) in Seattle. I'm continuing to enjoy the business side and building companies.
 
 My day-to-day consist of a nice blend of:
-- scouring FBO, ORPIN and other databases for contracting opportunities and collaborating with generals and subcontractors (work)
-- collaborating w/ the Operation Code team on Slack in a completely remote/decentralized operating environment (volunteer)
-- collaborating w/ my wife's education company, ThinkMujer, on strategy and growth
+- business development for family-owned and operated construction contracting company (Molinas Construction Company)
+- strategy and growth for nonprofit charity helping the military community learn software development, enter the tech industry, and code the future (Operation Code)
+- strategy and growth for Latina-focused education company (ThinkMujer)
 
-When not working, I'm answering emails (always) and reading about becoming a better writer.
+When not building the businesses, I'm thinking about growing the businesses and trying to write more.
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was April 30th, 2017.
+This update was May 21, 2017.
