@@ -6,7 +6,11 @@ permalink: /press/
 id: /press
 ---
 
+[Thousands of Veterans Want to Learn to Code — But Can’t](https://backchannel.com/thousands-of-veterans-want-to-learn-to-code-but-cant-7ed60c167a61)・Backchannel - *May 3, 2017*
+
 [How Operation Code helps veterans learn programming skills](https://opensource.com/article/17/4/operation-code-mentors-veterans)・OpenSource.com - *April 24, 2017*
+
+[Why More Tech Companies Are Hiring People Without Degrees](https://www.fastcompany.com/3069259/why-more-tech-companies-are-hiring-people-without-degrees)・Fast Company - *April 3, 2017*
 
 [Seattle coding-school tuition to be covered by GI Bill](http://www.seattletimes.com/news/seattles-code-fellows-wins-approval-under-gi-bill/)・The Seattle Times - *August 29, 2016*
 

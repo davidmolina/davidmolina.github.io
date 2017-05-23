@@ -11,7 +11,7 @@ I'm reading a lot on finance, management, strategy and listening to a lot of [ED
 I just completed a 7-week U.S. Department of Veterans Affairs contract operating an CAT 316E excavator and moving thousands of cubic yards of dirt between both 12 yard and 8 yard trucks, and enrolled in the Clark Construction Group [Strategic Partnership Program](http://clarkconstruction.com/news/clark-kicks-strategic-partnership-program-seattle) in Seattle. I'm continuing to enjoy the business side and building companies.
 
 My day-to-day consist of a nice blend of:
-- business development for family-owned and operated construction contracting company (Molinas Construction Company)
+- business development for family-owned and operated construction company (Molinas Construction Company)
 - strategy and growth for nonprofit charity helping the military community learn software development, enter the tech industry, and code the future (Operation Code)
 - strategy and growth for Latina-focused education company (ThinkMujer)
 

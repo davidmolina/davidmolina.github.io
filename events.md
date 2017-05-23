@@ -7,8 +7,12 @@ permalink: /events/
 ## Presentation, talks, conferences.
 
 # Upcoming
+- [Tech Jobs Tour Seattle](https://techjobstour.com/tour-stops/seattle/) - *May 24, 2017* Invited to speak at Tech Jobs Tour when it comes to Seattle on the Operation Code mission, learning to code, and building an organization serving the unique needs of transitioning service members, veterans and military spouses.
 
 # Previously
+- [Bunker Labs Seattle, First Annual Muster](https://bunkerlabs.org/seattle/) - *May 5, 2017, Seattle, WA* Spoke at Bunker Labs Seattle First Annual Muster on the Operation Code mission, how we formed, why learning to code is imperative for veteran founders, building an MVP and never giving up on building a company. Watch the full remarks below.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavid.molina1%2Fvideos%2F10155229342904847%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 - [House Veterans Affairs Subcommittee on Economic Opportunity](https://www.instagram.com/p/BRbZKKPAMoe/) - *March 9, 2017, Washington, D.C.* Along w/ Marine veteran, Rick Rein, Director, Technology & Mentorship participated in an invite-only Roundtable discussion to examine modern day learning opportunities in tech education. We opened up the conversation on the undue bureaucratic processes that plague our states and national VA systems to expand tech education. Within 30 days after the Roundtable, House Majority Leader Kevin McCarthy announced the VET TEC Act. [Follow the bill here, add your name/company and learn more here](https://vettec.operationcode.org/). Together, we are [#operationcode](https://twitter.com/search?l=&q=%23operationcode&src=typd&lang=en).
 
@@ -41,7 +45,7 @@ permalink: /events/
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Congrats Grit, on your grit and hacking through <a href="https://twitter.com/hashtag/vetshack?src=hash">#vetshack</a>! <a href="https://twitter.com/WeSabio">@WeSabio</a> <a href="https://twitter.com/operation_code">@operation_code</a> <a href="https://t.co/puATTo4kTC">pic.twitter.com/puATTo4kTC</a></p>&mdash; David Molina (@davidcmolina) <a href="https://twitter.com/davidcmolina/status/772589593074012160">September 5, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- [PDX City Club](http://www.pdxcityclub.org) - *July 12, 2016, Portland*. Pleasure and honor speaking before PDX City Club members at ShiftDrinks on the Operation Code mission and how we empowering military veterans, transitioning servicemembers, and families to learn software development, enter the tech industry, and code the future.
+- [PDX City Club](http://www.pdxcityclub.org) - *July 12, 2016, Portland*. Pleasure and honor speaking before PDX City Club members at ShiftDrinks on the Operation Code mission and how we're empowering military veterans, transitioning servic emembers, and families to learn software development, enter the tech industry, and code the future.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here at <a href="https://twitter.com/PDXCityClub">@PDXCityClub</a> <a href="https://twitter.com/hashtag/civicdrinks?src=hash">#civicdrinks</a>. <a href="https://t.co/eIfVP5115t">pic.twitter.com/eIfVP5115t</a></p>&mdash; David Molina (@davidcmolina) <a href="https://twitter.com/davidcmolina/status/753019389973295104">July 13, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
