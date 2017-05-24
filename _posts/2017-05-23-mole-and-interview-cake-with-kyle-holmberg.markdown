@@ -5,7 +5,7 @@ date:   2017-05-23 00:00:03 -0100
 categories: jekyll update
 ---
 
-This past Sunday I met up for lunch w/ fellow veteran [Kyle Holmberg](https://kylemh.com/) who was in town for [PyCon](https://us.pycon.org/2017/), the largest annual gathering for the community that uses and develops the open-source Python programming language.
+This past Sunday I met up for lunch w/ prior service Oregon National guardsman [Kyle Holmberg](https://kylemh.com/) who was in town for [PyCon](https://us.pycon.org/2017/), the largest annual gathering for the community that uses and develops the open-source Python programming language.
 
 I took him over to the Hawthorne District and we enjoyed some Mole burritos at my friend's sustainable taqueria, [Cha Cha Cha Taqueria & Bar](http://www.chachachapdx.com/mission.html). Due to Operation Code's remote and decentralized structure, it's rare I meet our veterans in person (unless we're at a conference) and so anytime I get a chance to do that, time permitting, I will.
 
