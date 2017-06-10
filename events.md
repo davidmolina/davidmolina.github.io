@@ -7,14 +7,14 @@ permalink: /events/
 ## Presentation, talks, conferences.
 
 # Upcoming
-
+- [Tech Inclusion Seattle](https://seattle17.techinclusion.co/) - *June 14, 2017* Panelist at Tech Inclusion Seattle, an event focusing on solutions to diversity and inclusion in technology. The first day is a conference and startup showcase, with a career fair (registration is free) on the second day. Featuring amazing speakers from the local and national stage, the goal of the day is to inspire everyone to work together and learn from each other – to make the local the industry more inclusive! [Register here to get 50% off tickets](http://seattle17.Techinclusion.co?promo=operationcode50). Location: Galvanize Seattle at Pioneer Square, 111 S Jackson St. Seattle WA 98104.
 
 # Previously
-- [Tech Jobs Tour Seattle](https://techjobstour.com/tour-stops/seattle/) - *May 24, 2017* Invited to speak at Tech Jobs Tour when it comes to Seattle on the Operation Code mission, learning to code, and building an organization serving the unique needs of transitioning service members, veterans and military spouses.
+- [Tech Jobs Tour Seattle](https://techjobstour.com/tour-stops/seattle/) - *May 24, 2017* Invited to speak at Tech Jobs Tour when it comes to Seattle on the Operation Code mission, learning to code, and building an organization serving the unique needs of transitioning service members, veterans and military spouses. Location: Seattle Impact Hub, 220 2nd Ave S, Seattle, WA 98104.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavid.molina1%2Fvideos%2F10155292360219847%2F&show_text=0&width=225" width="225" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-- [Bunker Labs Seattle, First Annual Muster](https://bunkerlabs.org/seattle/) - *May 5, 2017, Seattle, WA* Spoke at Bunker Labs Seattle First Annual Muster on the Operation Code mission, how we formed, why learning to code is imperative for veteran founders, building an MVP and never giving up on building a company. Watch the full remarks below.
+- [Bunker Labs Seattle, First Annual Muster](https://bunkerlabs.org/seattle/) - *May 5, 2017, Seattle, WA* Spoke at Bunker Labs Seattle First Annual Muster on the Operation Code mission, how we formed, why learning to code is imperative for veteran founders, building an MVP and never giving up on building a company. Watch the full remarks below. Location: Seattle Impact Hub, 220 2nd Ave S, Seattle, WA 98104.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavid.molina1%2Fvideos%2F10155229342904847%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
