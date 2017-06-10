@@ -7,9 +7,13 @@ permalink: /events/
 ## Presentation, talks, conferences.
 
 # Upcoming
-- [Tech Jobs Tour Seattle](https://techjobstour.com/tour-stops/seattle/) - *May 24, 2017* Invited to speak at Tech Jobs Tour when it comes to Seattle on the Operation Code mission, learning to code, and building an organization serving the unique needs of transitioning service members, veterans and military spouses.
+
 
 # Previously
+- [Tech Jobs Tour Seattle](https://techjobstour.com/tour-stops/seattle/) - *May 24, 2017* Invited to speak at Tech Jobs Tour when it comes to Seattle on the Operation Code mission, learning to code, and building an organization serving the unique needs of transitioning service members, veterans and military spouses.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavid.molina1%2Fvideos%2F10155292360219847%2F&show_text=0&width=225" width="225" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
 - [Bunker Labs Seattle, First Annual Muster](https://bunkerlabs.org/seattle/) - *May 5, 2017, Seattle, WA* Spoke at Bunker Labs Seattle First Annual Muster on the Operation Code mission, how we formed, why learning to code is imperative for veteran founders, building an MVP and never giving up on building a company. Watch the full remarks below.
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdavid.molina1%2Fvideos%2F10155229342904847%2F&show_text=0&width=400" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
