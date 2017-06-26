@@ -11,12 +11,12 @@ I'm reading a lot on finance, management, and strategy while listening to a lot 
 I was awarded a U.S. Department of Veterans Affairs federal contract where I'm self-performing and operating an CAT 316E excavator and subcontracting the transportation to a local trucking outfit. I've also just graduated the [Clark Construction Group Strategic Partnership Program](http://clarkconstruction.com/news/clark-kicks-strategic-partnership-program-seattle) Seattle first inaugural class and expanding into the commercial sector. I'm continuing to enjoy the business side and building teams.
 
 My day-to-day consist of a nice blend of:
-- growing the family-owned construction company (Molinas Construction Company)
-- growing the nonprofit startup (Operation Code)
-- supporting my wife's Latina-focused education company (ThinkMujer)
+- family-owned construction company - [Molinas Construction Company](https://www.molinas.co/)
+- coding/nonprofit startup - [Operation Code](https://operationcode.org/)
+- education company - [ThinkMujer](https://www.thinkmujer.com/)
 
 When not building the businesses, I'm thinking about growing the businesses and trying to blog more and share my adventures on [social media](/connecting).
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was June 11, 2017.
+This update was June 26, 2017.
