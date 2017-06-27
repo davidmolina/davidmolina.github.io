@@ -19,4 +19,4 @@ When not building the businesses, I'm thinking about growing the businesses and 
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was June 11, 2017.
+This update was June 11, 2017
