@@ -8,7 +8,10 @@ id: /press
 
 *I regularly speak with the press about military veterans transition, open source, learning to code, and removing undue bureaucratic processes in government. Below are some highlights, including Operation Code in the press:*
 
-[The Denver Post](Veterans find community, mentorship in shared office space in Denver) — *June 7, 2017*
+[Sabio Stories](https://soundcloud.com/wesabio/davemolina) *June 16, 2017*
+> Operation Code Founder and Sabio friend and partner Dave Molina talks to us about transitioning into coding from Army life, the work he's done to create more opportunities for veterans to code, and why he loves working with Sabio.
+
+[The Denver Post](http://www.denverpost.com/2017/06/07/wework-veterans-in-residence-shared-office-space/) — *June 7, 2017*
 > A national effort to help veterans switch from military service to the entrepreneurial world has made its start in Denver. Veterans and family members, pursuing a variety of ventures, have begun gathering in a community office space near Union Station. An Air Force veteran is running a shoe company in which she sells sandals made of recycled tires, while a Marine runs a consulting agency to get veterans into the programming and coding industry.
 
 [USA Today: ](https://www.usatoday.com/story/tech/news/2017/05/30/heres-what-you-need-land-americas-best-jobs/101730006/) — *May 30, 2017*
