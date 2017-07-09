@@ -14,7 +14,7 @@ My day-to-day consist of a nice blend of:
 - [Molinas Construction Company](https://www.molinas.co/), a family-owned construction company
 - [Operation Code](https://operationcode.org/), a nonprofit charity helping the military community learn software development, enter the tech industry, and code the future
 
-When not building the family business, or helping veterans get into tech, I'm hanging w/ the family.
+When not building the family business, or Operation Code, I'm hanging w/ the family.
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
