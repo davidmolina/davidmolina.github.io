@@ -8,17 +8,17 @@
 # Site settings
 name: David Molina
 title: David Molina.
-description: "An accomplished military officer, entrepreneur, and self-taught developer, David Molina is the Founder & Executive Director of Operation Code, a coding nonprofit that helps active military, guard & reserve citizen soldiers, veterans and their families learn to code and build software to change the world."
+description: "An accomplished military officer, entrepreneur, and self-taught developer, David Molina is the Founder & CEO of Operation Code, a nonprofit charity helping the military community learn software development, enter the tech industry, and code the future."
 author: David Molina
 repository: davidmolina/davidmolina.github.io
 email: david@operationcode.org
 
 # RDF structured data
-job_title: Founder & Executive Director
+job_title: Founder & CEO
 employer: Operation Code
 url: "http://davidmolina.github.io/"
 location:
-  city: Portland
+  city: Forest Grove
   state: Oregon
   country: United States of America
 

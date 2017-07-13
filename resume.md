@@ -10,11 +10,11 @@ I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/
 
 ## Work Experience
 
-# Founder & Executive Director
+# Founder & CEO
 
 *[Operation Code](http://operationcode.org)* - Portland, Oregon, Aug 2014 to Present
 
-Eighteen months after exiting active-duty and determined to learn to code and build my dream web application using my education benefits, the New GI Bill, earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/history) over time to include, software mentorship, scholarships, web apprenticeship, employer services and advocacy for America's men and women who've served in uniform to learn to code and fill the nation's technical talent shortage. Learn more on our [blog](https://www.operationcode.org/blog), [Twitter](https://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org).
+Eighteen months after exiting active-duty and determined to learn to code and build my dream web application using my education benefits, the New GI Bill, earned after a decade in uniform, I created a website to petition our U.S. Congress to expand the GI Bill to include code schools. What became a small open source project and petition has [evolved](https://operationcode.org/history) over time to a national and global effort to help America's men and women who've served in uniform fill the nation's technical talent shortage. Learn more on our [State of Operation Code](https://medium.com/operation-code/state-of-operation-code-2016-506bdf2c1967), [Twitter](https://twitter.com/operation_code) or [Facebook](https://www.facebook.com/operationcode.org).
 
 ## Co-Founder
 
