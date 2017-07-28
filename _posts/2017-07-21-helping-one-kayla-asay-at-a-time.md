@@ -21,6 +21,6 @@ It was wonderful to see Marty respond so quickly to my request to meet w/ Kayla 
 
 Lastly, I advised Kayla to get with her Operation Code mentor and request an Interview Cake scholarship-- to help her nail and button down her interviewing skills.
 
-See previous blog post w/ Kyle.
+See [previous blog post](/2017/05/23/mole-and-interview-cake-with-kyle-holmberg/) w/ Kyle.
 
 To learn more about Operation Code [history and trajectory](https://operationcode.org/history), follow on [Twitter](https://twitter.com/operation_code), [Instagram](https://instagram.com/operation_code), and [Facebook](https://facebook.com/operationcode.org).

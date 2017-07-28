@@ -16,3 +16,5 @@ It turns out that at the top of that list was a scholarship license we had issue
 Already we have issued out about a half a dozen licenses to veteran members to prep for their upcoming interviews. He was very appreciative of the scholarship.
 
 At Operation Code, we work as a unit. And, that Interview Cake coordination and scholarship setup was due to our Utah Chapter Leader Ken Collier's dedicated efforts who secured it.
+
+To learn more about Operation Code [history and trajectory](https://operationcode.org/history), follow on [Twitter](https://twitter.com/operation_code), [Instagram](https://instagram.com/operation_code), and [Facebook](https://facebook.com/operationcode.org).
