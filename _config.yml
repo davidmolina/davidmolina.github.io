@@ -23,6 +23,18 @@ social:
     - https://instagram.com/davidcmolina
     - https://github.com/davidmolina
 
+navigation:
+  - title: About
+    url: /about
+  - title: Events
+    url: /events
+  - title: BilingualHire
+    url: https://bilingualhire.co/
+  - title: Operation Code
+    url: https://operationcode.org/
+  - title: Contact
+    url: /contact
+
 # Misc
 twitter_username: davidcmolina
 github_username:  davidmolina

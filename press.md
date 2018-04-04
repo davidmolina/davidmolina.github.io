@@ -3,7 +3,6 @@ title: Press
 excerpt: 'Select media clips of David Molina in the press talking about the importance of preparing our transitioning military and veterans to become software developers.'
 layout: page
 permalink: /press/
-id: /press
 ---
 
 *I regularly speak with the press about military veterans transition, open source, learning to code, and removing undue bureaucratic processes in government. Below are some highlights, including Operation Code in the press:*

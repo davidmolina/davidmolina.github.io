@@ -1,6 +1,7 @@
 ---
-layout: page
 title: What I'm Doing Now
+excerpt: 'What David Molina is up to now.'
+layout: page
 permalink: /now/
 ---
 

@@ -1,0 +1,6 @@
+- url: pages/now.html
+  title: Pages
+  group: navigation
+- url: pages/about.html
+  title: Front
+  group: navigation
