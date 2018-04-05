@@ -1,13 +1,13 @@
 ---
-title: Résumé
-excerpt: 'David Molina's resume.'
 layout: page
+title: Resume
+excerpt: 'The resume of David Molina.'
 permalink: /resume/
 ---
 
 ## Summary
 
-I am an entrepreneur, [ex-Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and self-taught developer. You can usually find me tea and MacBook Air in-hand, building [Operation Code](https://operationcode.org), or growing the family business. If I'm not hustling, building the business or coding, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312) and [wife](https://twitter.com/davidcmolina/status/495738797565284353).
+I am an entrepreneur, [former Army Captain](https://twitter.com/davidcmolina/status/293833974575415298) and self-taught developer. You can usually find me Ginger tea and MacBook Air in-hand, building [Operation Code](https://operationcode.org), or growing the family business. If I'm not hustling, building the business or coding, I'm most likely hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312).
 
 ## Work Experience
 

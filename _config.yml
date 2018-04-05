@@ -26,8 +26,16 @@ social:
 navigation:
   - title: About
     url: /about
+  - title: Connecting
+    url: /connecting
   - title: Events
     url: /events
+  - title: Now
+    url: /now
+  - title: Press
+    url: /press
+  - title: Resume
+    url: /resume
   - title: Contact
     url: /contact
 

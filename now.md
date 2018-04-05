@@ -5,11 +5,11 @@ layout: page
 permalink: /now/
 ---
 
-I live in Forest Grove, Oregon and work out of my downtown Portland office, when I'm not on the road or in the field. Our twin girls are ages 7, 7, and 9, respectively, and growing quickly.
+I live in Forest Grove, Oregon and when I'm not on the road or in the field, I work out of my downtown Portland office. Our daughters are ages 7, 7, and 9, respectively, and growing quickly.
 
-I'm focused a ton on building and scaling two startups: a federal contracting company I launched when exiting Dover AFB, and [Operation Code](https://operationcode.org/). When I'm not working, I'm learning Gatsby.js, fixing my personal credit, hanging w/ girls, and improving my credit score.
+I'm focused on building and scaling two startups: a federal contracting company, and [Operation Code](https://operationcode.org/). If that wasn't enough I'm also running for State Representative House District 29 to bring new leadership and a fresh perspective to the Salem Capitol. If you'd like to follow the campaign, [visit our campaign page](https://www.molinafororegon.com/).
 
-Oh, and I'm also running for State Representative, House District 29. If you'd like to follow the campaign, [visit our campaign page](https://www.molinafororegon.com/).
+When I'm not building companies, I'm hanging w/ my girls, learning Gatsby.js, and improving my personal credit score.
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
