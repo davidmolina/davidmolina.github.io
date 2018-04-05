@@ -5,18 +5,12 @@ layout: page
 permalink: /now/
 ---
 
-I live in Forest Grove, Oregon and work out of my downtown Portland office, when I'm not on the road or in the field. Our twin girls are ages 6, 6, and 8, respectively, and all fast becoming more fluent in Spanish everyday.
+I live in Forest Grove, Oregon and work out of my downtown Portland office, when I'm not on the road or in the field. Our twin girls are ages 7, 7, and 9, respectively, and growing quickly.
 
-I'm reading a lot on finance, management, and strategy while listening to a lot of [EDM](https://open.spotify.com/user/1137072174/playlist/4XAEkK9s6yTAGyTtaMEC0e) and [Ignacio Robles](https://open.spotify.com/user/123891019/playlist/2NFJsDhYBgIs5cRWzYZsfb) all while continuing to learn to program on my own. I maintain the [ThinkMujer](https://thinkmujer.com) site built using Jekyll and contribute to [Operation Code](https://github.com/OperationCode/). I'm continuing to learn Ruby, React and better understand the Rails framework as time permits.
+I'm focused a ton on building and scaling two startups: a federal contracting company I launched when exiting Dover AFB, and [Operation Code](https://operationcode.org/). When I'm not working, I'm learning Gatsby.js, fixing my personal credit, hanging w/ girls, and improving my credit score.
 
-On the business front, the family business was awarded a U.S. Department of Veterans Affairs federal contract where I'm self-performing and operating an CAT 316E excavator and moving thousands of cubic yards of dirt. I've also just graduated the [Clark Construction Group Strategic Partnership Program](http://clarkconstruction.com/news/clark-kicks-strategic-partnership-program-seattle) Seattle first inaugural class and looking to expand into the commercial sector. I put up [https://www.molinas.co/](https://www.molinas.co/) and working on updating it.
-
-My day-to-day consist of a nice blend of:
-- [Molinas Construction Company](https://www.molinas.co/), a family-owned construction company
-- [Operation Code](https://operationcode.org/), a nonprofit charity helping the military community learn software development, enter the tech industry, and code the future
-
-When not building the family business, or Operation Code, I'm hanging w/ the family.
+Oh, and I'm also running for State Representative, House District 29. If you'd like to follow the campaign, [visit our campaign page](https://www.molinafororegon.com/).
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was July 13, 2017.
+This update was April 4, 2018.
