@@ -7,19 +7,9 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur, [former Army Captain](https://twitter.com/davidcmolina/status/293833974575415298), self-taught developer, and candidate for state representative. You can usually find me tea and MacBook Air in-hand, building [Operation Code](https://operationcode.org), or growing the family business. When not making things happen, I'm hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312) and exploring the scenery.
+I am an entrepreneur, [former Army Captain](https://twitter.com/davidcmolina/status/293833974575415298), and self-taught developer. You can usually find me tea and MacBook Air in-hand, building [Operation Code](https://operationcode.org), and when not making things happen, I'm hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312).
 
 ## Experience
-
-# President/ Owner
-
-*[Molinas Construction Company](https://www.molinas.co) - Portland, Oregon, March 2015 to Present*
-
-Prior to exiting active-duty I founded a federal contracting company to support my family, and within two short years secured our contractors license. Since launching we have performed work as either the General Contractor (GC) or Subcontractor for the Army Corps of Engineers and Department of Veterans Affairs. Recently, we expanded to provide mission-critical supplies to federal customers, including the Department of Veterans Affairs, Air Force and the Navy.
-
-I'm currently focused on building out systems & infrastructure, paying down debt, learning the GC ropes, improving financial and bonding capabilities, securing heavy equipment in order to self-perform, and growing the company.  
-
-Follow our work at [molinas.co](https://www.molinas.co).
 
 # Founder & CEO, Board Director (Ex-Oficio)
 
@@ -70,7 +60,7 @@ Unfortunately, we shut NestNote down after not getting the traction we expected,
 
 After returning from an 18-month active-duty mission at Aberdeen Proving Ground and a very short stint at the Oregon legislature I relaunched our bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. During this period, I served on the Oregon Staffing Association Board of Directors as Legislative Director.
 
-After Dover AFB, we restarted this staffing business in the federal contracting space and in 2013 won a small VA landscaping contract. In 2013 (really 2014), I began seeing a different crowd visiting [bilingualhire.co](http://bilingualhire.co) and so I spun that off into a web application and everything we did in staffing/ recruiting (and, training) is now performed at Edith's new company at [ThinkMujer](https://www.thinkmujer.com/about/).
+After Dover AFB, I evolved [BilingualHire into an bilingual job posting service](https://www.bilingualhire.co). Everything we did in staffing/ recruiting (and, training) is now performed at Edith's new company at [ThinkMujer](https://www.thinkmujer.com/about/).
 
 # Committee Administrator
 
