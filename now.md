@@ -5,12 +5,14 @@ layout: page
 permalink: /now/
 ---
 
-I live in Forest Grove, Oregon. Our daughters, Maya, Paloma & Citlali, ages 9, 7, and 7, respectively.
+I'm David Molina and live in Forest Grove, Oregon, a small town west of Portland. Our daughters, Maya, Paloma & Citlali, are ages 10, 8, and 8, respectively.
 
-Currently, I'm focused on building and scaling [Operation Code](https://operationcode.org/). I'm also running for State Representative House District 29 to bring new leadership and a fresh perspective to the Salem Capitol. If you'd like to follow the campaign, [visit our campaign page](https://www.molinafororegon.com/).
+Currently, I'm focused on building and scaling the family business [Molinas Construction](https://www.molinas.co), serving on the board of [Operation Code](https://operationcode.org/), and previously ran for [House District 29 state representative](https://www.molinafororegon.com/).
 
-When I'm not making things happen, on or off Slack, I'm hanging w/ my girls.
+Work and family aside, you can usually find me learning:
+- react
+- vim
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was April 8, 2018.
+This update was November 19, 2018.

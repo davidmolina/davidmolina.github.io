@@ -7,25 +7,25 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur, [former Army Captain](https://twitter.com/davidcmolina/status/293833974575415298), and self-taught developer. You can usually find me tea and MacBook Air in-hand, building [Operation Code](https://operationcode.org), and when not making things happen, I'm hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312).
+I am an entrepreneur, former Army Captain, and self-taught developer. You can usually find me Ginger tea, MacBook Air in-hand, and building the family construction business or [Operation Code](https://operationcode.org). When not making things happen, I'm hanging with my [daughters](https://twitter.com/davidcmolina/status/478276357663629312).
 
 ## Experience
 
-# Founder & CEO, Board Director (Ex-Oficio)
+# Founder & Executive Director
 
-*[Operation Code](http://operationcode.org) - Portland, Oregon, Aug 2014 to Present*
+*[Operation Code](http://operationcode.org) - Portland, Oregon, Aug 2014 to April 2018*
 
 After a decade in uniform as an enlisted soldier & officer, I was astonished I couldn't use my GI Bill education benefits to pay for tuition, room and board to learn to code at the Flatiron School. So during my exit off active-duty I began attending Ruby on Rails meetups and self-learning to write the first line of code of [operationcode.org](https://www.operationcode.org) to petition Congress to expand the GI Bill to include, code schools. After a few short years, over a dozen code schools accept the New GI Bill, and this little known website has grown to become the largest online community of active military, guard & reserve troops, veterans and military spouses learning to code to change the world with software.
 
 As a veterans-founded and led nonprofit focused on tech, Operation Code fulfills a need of current era veterans through our software mentorship program where volunteer engineers have mentored members in the 10s of thousands of hours, directed over 100 scholarships to conferences and education training, placed members at tech companies nationally, secured federal legislation, and hosted hundreds of meetups globally across 19-time zones.
 
-What's more amazing is the entire board of directors and team operates in a remote, decentralized operating environment using Slack as our central nerve center. I spend most of my time communicating the mission & vision, recruiting & retaining the best & brightest, and ensuring there's enough money in the bank.
+What's more amazing is the entire board of directors where I serve as chair, and team operates in a remote, decentralized operating environment using Slack as our central nerve center. I spend most of my time communicating the mission & vision, recruiting & retaining the best & brightest, and ensuring there's enough money in the bank.
 
 Follow our work on [twitter.com/operation_code](https://twitter.com/operation_code) or [fb.com/operationcode.org](https://www.facebook.com/operationcode.org).
 
 ## Co-Founder & CTO
 
-*[BilingualHire](https://www.bilingualhire.co) - Portland, Oregon, Apr 2014 to Present*
+*[BilingualHire](https://www.bilingualhire.co) - Portland, Oregon, Apr 2014 to Sep 2018*
 
 Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some Thinkful.com coursework and flushed out our MVP. The bilingual job posting service allows anyone to post a bilingual job opportunity gaining traction, users and important customer feedback.
 
