@@ -20,7 +20,7 @@ Dorchester is unlike any political conference. It's a single strand conference w
 
 This morning's opening keynote and the one I was most excited about hearing from former candidate for Douglas County Commissioner and Army veteran, [Alek Skarlatos](https://www.instagram.com/alekskarlatos/). Skarlatos is most famous for helping stop a terrorist attack on a Paris-bound train. This [Army Times article goes into more depth](https://www.armytimes.com/news/your-army/2018/05/16/paris-train-hero-alek-skarlatos-runs-for-county-commissioner-in-oregon/).
 
-If you're on Facebook, [here's some conversations re Dorchester Conference](https://www.facebook.com/search/str/dorchester+conference+2019/keywords_search?epa=SEARCH_BOX). Give them a [like](https://www.facebook.com/DorchesterConference/). If you're here at the Resort, say hello. If not, looking forward to seeing you at next year's.  
+If you're on Facebook, [here's some conversations re Dorchester Conference](https://www.facebook.com/search/str/dorchester+conference+2019/keywords_search?epa=SEARCH_BOX). Give them a [like](https://www.facebook.com/DorchesterConference/). If you're here at the Resort, say hello. If not, looking forward to seeing you at next year's. And, of course I'll be posting photos on my [Instagram stories](https://www.instagram.com/davidcmolina/) throughout the weekend.
 
 ---
 
