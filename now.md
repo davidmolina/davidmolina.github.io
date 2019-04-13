@@ -15,4 +15,4 @@ Work and family aside, you can usually find me learning:
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was November 19, 2018.
+This update was last made November 19, 2018.
