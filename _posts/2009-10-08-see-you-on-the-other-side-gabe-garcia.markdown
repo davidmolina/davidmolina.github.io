@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gabriel Garcia (3/21/1979-10/1/2009)"
+title:  "Gabriel Garcia Obituary"
 date:   2009-10-08 17:12:43 -0800
 categories: jekyll update
 ---
