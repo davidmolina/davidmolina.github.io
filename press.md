@@ -7,17 +7,24 @@ permalink: /press/
 
 *Below are some highlights and mentions in the press:*
 
-[Operation Code Interviews with Vets in Tech: David Molina](http://operationcode.libsyn.com/david-molina-interview-0) *Jan 15, 2019* 
+[Latino Founder Hour: David Molina Geeking Out with Operation Code](https://www.youtube.com/watch?v=dQoQlziTE8M) — *Mar 13, 2019*
+> David Molina (ret. Captain U.S. Army) is Founder of Operation Code and self-taught writing the first line of code to petition Congress to expand the New GI Bill to include coding schools, a benefit he couldn’t use after exiting after 12 years in uniform. An entrepreneur, David has built numerous startups, has testified before members of Congress to expand technical education for veterans and spouses, and as a former captain in the Army was recipient of the Lt. Rowan Award, Meritorious Service Medal and Army Commendation Medal.
+
+[Operation Code Interviews with Vets in Tech: David Molina](http://operationcode.libsyn.com/david-molina-interview-0) — *Jan 15, 2019*
 > Ep. 002 - David Molina is the founder of Operation Code. In this interview, he describes his Army career, how he found his way into the tech industry with no prior training, and how he started Operation Code to help veterans like him learn software and code the future.
 
-[Hacking Entrepreneurship — An Interview with David Molina of Operation Code](https://medium.com/the-hum/hacking-entrepreneurship-an-interview-with-david-molina-of-operation-code-12a7e199e4e0) *Jan 17, 2018*
+[Hacking Entrepreneurship — An Interview with David Molina of Operation Code](https://medium.com/the-hum/hacking-entrepreneurship-an-interview-with-david-molina-of-operation-code-12a7e199e4e0) — *Jan 17, 2018*
 > When you hear the word entrepreneurship, it is natural to think of venture capitalists, unicorn companies, and startup founders driven to make a profit above all else. With that in mind, you might call Operation Code an unconventional tech startup and David Molina an unconventional entrepreneur. But he and his company’s impact is reaching as far as any of the tech companies turning out billions. And their purpose is far greater as well.
 
+[Oregon Veterans News Magazine: Code Warriors](https://operationcode.s3-us-west-2.amazonaws.com/veterans_news_magazine_nov2017.pdf) [PDF Download] — *Nov 17, 2017*
+> “Coding is the new literacy of the 21st century,” Molina says. “The blue collar jobs used to be laying pipe and wire and building the infrastructure of the country; now, it’s connecting the wires and
+plumbing of the internet.”
+
 [Operation Code: Connecting Veterans with Code Skills
-](https://blog.teamtreehouse.com/operation-code-connecting-veterans-with-code) *July 3, 2017*
+](https://blog.teamtreehouse.com/operation-code-connecting-veterans-with-code) — *July 3, 2017*
 > Operation Code started when its founder, ex-Army Captain David Molina, realized he couldn’t apply his New GI Bill to go to a code school. Though military veterans can use their GI bills for college and vocational schools, it’s very difficult to apply this funding to code schools. Molina was troubled to find that technical education was so difficult for veterans to access, and that they weren’t pursuing technical skills due to a combination of limited exposure, lack of funds, and misconceptions about what credentials are needed. So he started working on a way to change that.
 
-[Sabio Stories](https://soundcloud.com/wesabio/davemolina) *June 16, 2017*
+[Sabio Stories](https://soundcloud.com/wesabio/davemolina) — *June 16, 2017*
 > Operation Code Founder and Sabio friend and partner Dave Molina talks to us about transitioning into coding from Army life, the work he's done to create more opportunities for veterans to code, and why he loves working with Sabio.
 
 [The Denver Post](http://www.denverpost.com/2017/06/07/wework-veterans-in-residence-shared-office-space/) — *June 7, 2017*
@@ -32,7 +39,7 @@ permalink: /press/
 [Opensource.com: How Operation Code helps veterans learn programming skills](https://opensource.com/article/17/4/operation-code-mentors-veterans) - *April 24, 2017*
 > After leaving the military, Army Captain David Molina knew he wanted to go into software development. As Molina did research on the field, he found himself overwhelmed by the vast amount of information and choices. For example: What coding language is the right one to learn?
 
-[Fast Company: Why More Tech Companies Are Hiring People Without Degrees](https://www.fastcompany.com/3069259/why-more-tech-companies-are-hiring-people-without-degrees)- *April 3, 2017*
+[Fast Company: Why More Tech Companies Are Hiring People Without Degrees](https://www.fastcompany.com/3069259/why-more-tech-companies-are-hiring-people-without-degrees) - *April 3, 2017*
 > Silicon Valley is starting to realize that the huge talent pool of nontraditional candidates may be the answer to its pipeline problem.
 
 [The Seattle Times: Seattle coding-school tuition to be covered by GI Bill](http://www.seattletimes.com/news/seattles-code-fellows-wins-approval-under-gi-bill/) - *August 29, 2016*
