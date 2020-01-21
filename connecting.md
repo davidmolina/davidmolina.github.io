@@ -14,5 +14,8 @@ Due to pressing startup demands, I'm not as active at this time on:
 - [GitHub - @davidmolina](https://github.com/davidmolina/)
 - [Twitter - @davidcmolina](https://twitter.com/davidcmolina)
 - [Medium - @davidcmolina](https://medium.com/@davidcmolina)
+- [Foursquare - @davidcmolina](https://foursquare.com/davidcmolina)
+- [Flickr - @davidcmolina](https://www.flickr.com/photos/davidcmolina/)
+- [Tumblr - @davidcmolina](https://davidcmolina.tumblr.com/)
 
 # No, I do not use LinkedIn.

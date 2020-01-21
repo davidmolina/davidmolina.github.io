@@ -5,7 +5,17 @@ layout: page
 permalink: /press/
 ---
 
-*I regularly speak with the press about military veterans transition, open source, learning to code, and removing undue bureaucratic processes in government. Below are some highlights, including Operation Code in the press:*
+*Below are some highlights and mentions in the press:*
+
+[Operation Code Interviews with Vets in Tech: David Molina](http://operationcode.libsyn.com/david-molina-interview-0) *Jan 15, 2019* 
+> Ep. 002 - David Molina is the founder of Operation Code. In this interview, he describes his Army career, how he found his way into the tech industry with no prior training, and how he started Operation Code to help veterans like him learn software and code the future.
+
+[Hacking Entrepreneurship — An Interview with David Molina of Operation Code](https://medium.com/the-hum/hacking-entrepreneurship-an-interview-with-david-molina-of-operation-code-12a7e199e4e0) *Jan 17, 2018*
+> When you hear the word entrepreneurship, it is natural to think of venture capitalists, unicorn companies, and startup founders driven to make a profit above all else. With that in mind, you might call Operation Code an unconventional tech startup and David Molina an unconventional entrepreneur. But he and his company’s impact is reaching as far as any of the tech companies turning out billions. And their purpose is far greater as well.
+
+[Operation Code: Connecting Veterans with Code Skills
+](https://blog.teamtreehouse.com/operation-code-connecting-veterans-with-code) *July 3, 2017*
+> Operation Code started when its founder, ex-Army Captain David Molina, realized he couldn’t apply his New GI Bill to go to a code school. Though military veterans can use their GI bills for college and vocational schools, it’s very difficult to apply this funding to code schools. Molina was troubled to find that technical education was so difficult for veterans to access, and that they weren’t pursuing technical skills due to a combination of limited exposure, lack of funds, and misconceptions about what credentials are needed. So he started working on a way to change that.
 
 [Sabio Stories](https://soundcloud.com/wesabio/davemolina) *June 16, 2017*
 > Operation Code Founder and Sabio friend and partner Dave Molina talks to us about transitioning into coding from Army life, the work he's done to create more opportunities for veterans to code, and why he loves working with Sabio.
