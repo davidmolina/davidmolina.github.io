@@ -6,11 +6,12 @@ permalink: /connecting/
 
 The following, in chronological order, is the best way to find out what I'm up to:
 
-- [Instagram - @davidcmolina](https://www.instagram.com/davidcmolina/)
 - [Snapchat - @davidcmolina](https://snapchat.com/add/davidcmolina)
-
-Due to pressing startup demands, I'm not as active at this time on:
+- [Instagram - @davidcmolina](https://www.instagram.com/davidcmolina/)
 - [Facebook - /david.molina1](https://www.facebook.com/david.molina1)
+
+Due to pressing construction startup demands, I'm not as active at this time on:
+
 - [GitHub - @davidmolina](https://github.com/davidmolina/)
 - [Twitter - @davidcmolina](https://twitter.com/davidcmolina)
 - [Medium - @davidcmolina](https://medium.com/@davidcmolina)

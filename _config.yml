@@ -1,13 +1,13 @@
 name: David Molina
 title: David Molina.
-description: "An accomplished military officer and entrepreneur, David Molina owns Portland-based, Molinas Construction Co., a mission-driven civil contractor. Previously, David founded Operation Code, a nonprofit startup after he couldn't use his New GI Bill to attend code school. He resides in Portland, Oregon."
+description: "An accomplished military officer and serial entrepreneur, David Molina owns Portland-based, Molinas Construction Company, a mission-driven small general contractor. Previously, David founded Operation Code, a veterans nonprofit after he couldn't use his New GI Bill to attend the Flatiron School. He resides in Portland, Oregon."
 author: David Molina
 repository: davidmolina/davidmolina.github.io
 email: david.c.molina@gmail.com
 
 # RDF structured data
 job_title: Serial Entrepreneur
-employer: Molinas Construction Co.
+employer: Molinas Construction Company.
 url: "http://davidmolina.github.io/"
 location:
   city: Portland
@@ -18,7 +18,6 @@ location:
 social:
   name: David Molina
   links:
-    - https://twitter.com/davidcmolina
     - https://facebook.com/david.molina1
     - https://instagram.com/davidcmolina
     - https://github.com/davidmolina
