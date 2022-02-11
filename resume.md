@@ -12,140 +12,129 @@ I am an entrepreneur who served over a decade in uniform, both enlisted and offi
 ## Experience
 
 # President/ Owner
+*[Molinas Construction Company](https://www.molinas.co) - Portland, Oregon, Mar 2015 to present*
 
-*[Molinas Construction Co](https://www.molinas.co) - Portland, Oregon, Mar 2015 to present*
-
-I own and run a small civil construction company supporting U.S. federal agencies on their construction needs. In this role, I oversee all aspects of business from business development, human resources, field operations, equipment and asset management, strategic planning and growth initiatives. When I'm not moving dirt, estimating jobs, or recruiting into the trades, I'm head down building out our processes and systems to go further, faster.
-
-Need dirt moved, or a project built? [Get in touch](https://www.molinas.co/about/).
+I founded a federal and commercial contracting company supporting U.S. federal agencies and businesses out of my garage. Today, we've scaled to a small but dedicated management team, and specialized trade partners tackling some of our clients greatest building challenges helping diversify the trades with more veterans, women, Latina/os, immigrants and young people. When I'm not enroute to a site visit, participating in pre-construction or bid meetings, on the phone or visiting teams in the field, I'm head down building out our processes and systems to go further, faster. Learn more about [Molinas here](https://www.molinas.co).
 
 # Founder & Executive Director
-
 *[Operation Code](http://operationcode.org) - Portland, Oregon, Aug 2014 to April 2018*
 
-After a decade in uniform as an enlisted soldier & officer, I was disappointed I couldn't use my GI Bill to pay for tuition, room and board to learn to code at the [Flatiron School](https://www.instagram.com/flatironschool/). At the time zero code schools across the country accepted the GI Bill due to the U.S. Department of Veterans Affairs bureaucratic red tape. Undeterred I began attending [Ruby on Rails](https://rubyonrails.org/) meetups in Baltimore while still on active-duty, RailsConf, Calagator, and several Ruby meetups once back in Portland. After learning enough to be dangerous, I wrote and deployed the first line of code of [operationcode.org](https://www.operationcode.org) to petition Congress to expand the GI Bill to include code schools. This little website took off like a rocket as I discovered tons of veterans who were in the same boat, as well as code schools who needed help navigating the regulatory hurdles. Today, over 30 code schools across 20 states now accept the GI Bill, thousands of service members receive software mentorship in Slack, secured $75 million funding over five-years to help veterans learn software development through the [VET TEC Act](https://www.govtrack.us/congress/bills/115/hr1989), and our chapter leaders have hosted hundreds of meetups globally across 19-time zones creating talent pipelines impacting thousands of veterans and family members get placed into companies.
+After a decade in uniform as an enlisted soldier & officer, I was disappointed I couldn't use my GI Bill to pay for tuition, room and board to learn to code at the [Flatiron School](https://www.instagram.com/flatironschool/). At the time zero code schools across the country accepted the GI Bill due to the U.S. Department of Veterans Affairs bureaucratic red tape. Undeterred I began attending [Ruby on Rails](https://rubyonrails.org/) meetups in Baltimore while still on active-duty, RailsConf, Calagator, and several Ruby meetups once back in Portland. After learning enough, I wrote and deployed the first line of code of [operationcode.org](https://www.operationcode.org) to petition Congress to expand the GI Bill to include code schools. This little website took off like a rocket as I discovered thousands of veterans who were in the same boat, as well as code schools who needed help navigating the regulatory hurdles. After years of full time volunteering, over 30 code schools across 20 states accepted the GI Bill, service members receiving software mentorship in our Slack channel, secured $75 million funding over five-years to help veterans learn software development through the [VET TEC Act](https://www.govtrack.us/congress/bills/115/hr1989), and chapter leaders hosting hundreds of meetups globally across 19-time zones creating talent pipelines impacting communities around the globe.
 
-The entire team operates in a remote, decentralized operating environment using Slack as our central nerve center. During my tenure, I spent the majority of my time on our Slack channel and offline communicating the mission & vision, recruiting & retaining the best & brightest software engineers at tech conferences, lobbying Congress, ensuring there was enough money in the bank, and speaking at forums and events on the need to invest in our nation's finest to fill the nation's technical talent shortage.
+The entire team operates in a remote, decentralized operating environment using Slack as our central nerve center. During my tenure, when not on Slack I spent the majority of my time coordinating national efforts with the board of directors, tweeting, recruiting & retaining the best & brightest software engineers at tech conferences to become mentors, lobbying Congress, ensuring there was enough money in the bank, judging hackathons, and speaking at forums and events on the need to invest in our nation's finest to fill the nation's technical talent shortage.
 
-More on the [Podcast](https://operationcode.org/podcast), [GitHub](https://github.com/operationcode), and/or [donate to build ongoing capacity](https://operationcode.org/).
+More on the [Podcast](https://operationcode.org/podcast), [GitHub](https://github.com/operationcode), and/or [donate to build ongoing capacity](https://operationcode.org/donate).
 
 ## Co-Founder & CTO
 
 *[BilingualHire](https://www.bilingualhire.co) - Portland, Oregon, Apr 2014 to Sep 2018*
 
-Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some [Thinkful](https://www.thinkful.com/) front end course work and flushed out our minimal viable product. The bilingual job posting service allows anyone to post a bilingual job opportunity.
+Tired of waiting for a co-founder to build out the product, I enrolled in [One Month Rails on Skillshare](https://www.skillshare.com/classes/technology/Teach-Yourself-to-Code-One-Month-Rails/1289605848/projects/983) and learned the basics of Ruby on Rails. In 2014, I took another stab after some [Thinkful](https://www.thinkful.com/) front end course work and flushed out our minimal viable product (MVP), a bilingual job posting service allowing anyone to post a bilingual job opportunity.
 
-In early 2016, rubyist and friend, [Chris Hough](https://github.com/chrishough) joined as our first Ruby on Rails engineer to integrate this feedback and we re-launched the web application on May 30, 2016.
+In early 2016, rubyist and friend, [Chris Hough](https://github.com/chrishough) joined as our first Ruby on Rails engineer to integrate this feedback and re-launch the web application on May 30, 2016. Stopped working on it a few months after the founding team was unable to secure seed funding to continue to build out the product and get market traction, and focused my attention on another startup that gained quick traction.  
+
+BilingualHire is now hosted under ThinkMujer, an Latina-owned education consultancy.
 
 # Plans, Training & Operations Officer (S-2/3 OIC), Public Affairs & Protocol Officer
-
 *[Joint Personal Effects Depot](http://www.army.mil/article/104747/) - Dover AFB, Delaware,
 Feb 2011 to Feb 2013*
 
-Mobilized as a 1st Lieutenant and promoted to Captain upon arrival in a unique war-time, joint assignment I served in a key staff role to support the transition of the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the action officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and Pentagon officials.
+Mobilized as a 1st Lieutenant and promoted to Captain upon arrival in a unique war-time, joint assignment comprised of active, reserve, guard, DoD civilians, GS-employees and every branch of the services represented. I served in a key executive staff role to support the transition of the Joint Personal Effects Depot [transition](http://www.dover.af.mil/news/story.asp?id=123252347) from Aberdeen Proving Ground, Maryland to [Dover Air Force Base, Delaware](https://www.flickr.com/photos/davidcmolina/albums/72157626376244957). As the S-2/3 OIC, I was the action officer on the [Ribbon Cutting Ceremony](https://www.flickr.com/photos/davidcmolina/albums/72157626431083423) that hosted hundreds of VIP, senior military and Pentagon officials and point on public affairs and protocol.
 
 During 24 months on active-duty in a battalion staff role, I authored Standard Operating Procedures for new Dover AFB processes, established public affairs/protocol procedures coordinating all unit visits in conjunction with Air Force Mortuary Affairs Operations (AFMAO)/Armed Forces Medical Examiner System (AFMES) and Wing, including flag officers and Members of Congress. In this role, I served as the Army Liaison to the Secretary of the Army and Sergeant Major of the Army during President Obama's visit to Dover in August 2011.
 
-On the public affairs front, I launched both our SharePoint for internal purposes to coordinate cross departmental efforts, and trained department personnel on HTML and page maintenance. Externally, I launched the command's external website, a top-level domain at [www.jped.mil](https://www.jped.mil) using DotNetNuke, a CMS-platform.
+On the public affairs front, I launched our intranet website--SharePoint, to better coordinate cross departmental efforts, and trained department personnel on HTML and page maintenance. Externally, I launched the command's external website, a top-level domain at [www.jped.mil](https://www.jped.mil) using DotNetNuke, a CMS-platform.
 
-I was honored and humbled to work alongside some of the most caring souls dedicated to preserving the lasting memories of [those who gave the ultimate and our wounded service members](https://www.army.mil/article/196719/joint_personal_effects_depot_honors_fallen_warriors_items).
+I was honored and humbled to work alongside two of the finest Noncommissioned Officers, Sgt. First Class Waite (S-2 NCOIC), and Sgt. First Class Craig (S-3 NCOIC), and great mentors in Commissioned Officers Lt. Col. Kyburz (Commander), and Lt. Col. Baker (Executive Officer), and some of the most caring souls dedicated to preserving the lasting memories of [those who gave the ultimate and our wounded service members](https://www.army.mil/article/196719/joint_personal_effects_depot_honors_fallen_warriors_items).
 
 # Co-Founder & Business Development
-
 *[NestNote](https://www.crunchbase.com/organization/nestnote#/entity) - New York City (remote), Jul 2012 to Oct 2012*
 
-I worked with co-founder & developer, [Vitaliy Dikker](https://twitter.com/davidcmolina/status/216910406667608065), who I met at [AngelHack](https://twitter.com/davidcmolina/status/217020769396469760) on social note taking app, [NestNote](https://twitter.com/davidcmolina/status/220897990712377344), which aimed to help people on Twitter capture reminders, to-do's, notes, and store them privately for later viewing. Organic to Twitter, NestNote converted hashtags into "digital files" and tweets into reminders and notes. Users could use NestNote to create reminders and notes by simply adding a #hashtag (filename) and the user-handle @nestnote to the tweet and NestNote did the rest. Example: `#books Read Good to Great @nestnote`
+I worked with co-founder & software engineer, [Vitaliy Dikker](https://twitter.com/davidcmolina/status/216910406667608065), who I met at [AngelHack](https://twitter.com/davidcmolina/status/217020769396469760) on social note taking app, [NestNote](https://twitter.com/davidcmolina/status/220897990712377344), which aimed to help users on Twitter capture reminders, to-do's, notes, and store them privately for later viewing. Organic to Twitter, NestNote converted hashtags into "digital files" and tweets into reminders and notes. Users could use NestNote to create reminders and notes by simply adding a #hashtag (filename) and the user-handle @nestnote to the tweet and NestNote did the rest. Example: `#books Read Good to Great @nestnote`.
 
-Unfortunately, we shut NestNote down after not getting the traction we expected, but I got hooked on building a tech startup and began my transition to learn to code and exit active-duty.
+In this role, I wrote press releases and wrote copy, pitched bloggers and influencers to try out NestNote. Unfortunately, NestNote didn't get the traction we expected, but I got hooked on building a startup and began my transition to learn to code, apply to code school, and exit active-duty.
 
 # Co-Founder & Managing Partner
-
 *BilingualHire Staffing Services - Portland, Oregon, June 2009 to Feb 2011*
 
-After returning from an 18-month active-duty mission at Aberdeen Proving Ground and a very short stint at the Oregon legislature I relaunched our bilingual recruiting and consulting company into a bilingual staffing business and landed a few clients placing bilingual talent for temporary roles. During this period, I served on the Oregon Staffing Association Board of Directors as Legislative Director, maintained an e-newsletter, and interviewed dozens for our podcast using iPhone voice memos and hosting them in the cloud. We semi-closed the company during our second mobilization to Dover AFB.
+After returning from an 18-month active-duty mission at Aberdeen Proving Ground and a very short stint at the Oregon legislature I relaunched our bilingual recruiting and consulting company into a bilingual (Spanish/ English) staffing business and landed a few clients placing bilingual talent for temporary admin roles. During this period, I served on the Oregon Staffing Association Board of Directors as Legislative Director, maintained an e-newsletter, and interviewed dozens for our BilingualHire podcast using iPhone voice memos and hosting them on Amazon (previously Posterous). We put the company on hiatus during our mobilization to Dover AFB, but learned a ton about flexible workforce development.
 
 # Committee Administrator
-
 *[House Committee on Veterans & Emergency Services](https://olis.leg.state.or.us/liz/2009R1/Committees/HVES/Overview) - Salem, Oregon, Jan 2009 to June 2009*
 
-Fresh off active-duty, I spent 6 months staffing the House Committee on Veterans & Emergency in the Oregon legislature. During my tenure, I managed Representative Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. I learned how legislation becomes law and treasure the great mentorship by the Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and retired Lt. Col Dick Tobiason of Bend, Oregon, and the many veterans organizations across the state doing amazing work. During this period I met a great mentor in Navy veteran Tony Ornelas who served on the Oregon Department of Veterans Affairs Advisory Council.
+Fresh off active-duty, I spent 6 months staffing the House Committee on Veterans & Emergency in the Oregon legislature. During my tenure, I managed Representative Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. I learned how legislation becomes law and treasure the great mentorship by the Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and retired Lt. Col Dick Tobiason of Bend, Oregon, and the many veterans organizations across the state doing amazing work. During this period I met a great mentor in Navy veteran Tony Ornelas who served on the Oregon Department of Veterans Affairs Advisory Council, and Tom Mann in the agency's public affairs.
 
 # Summary Court Martial Officer
 *[Joint Personal Effects Depot](http://www.c-span.org/video/?195351-1/joint-personal-effects-depot) - Aberdeen Proving Ground, Maryland, Mar 2007 to July 2008*
 
-Mobilized and served 18 months active-duty in support of a [unique joint organization](http://www.c-span.org/video/?195351-1/joint-personal-effects-depot) responsible for the collection, inventory and return of the personal effects of Fallen Services Members and Wounded Service Members. Upon arrival from Fort Riley, Kansas we were assigned to stand up the night shift (4pm - midnight) and responsible for a 8-person team comprised of military and DoD contractors. During the latter half of my tour, I transferred over to staff and was tasked to co-author the Department of Defense Center for Army Lessons Learned Joint Personal Effects Depot (JPED) Handbook. After this extensive writing assignment, I continued to author dozens of operational improvement memos, authored and revised Standard Operating Procedures, and was assigned assistant billing official with additional coursework at the Pentagon. Prior to departing I created performance measures and certifications for improved readiness. The assignment was forever humbling and life changing and would've never thought I would be called upon to join the unit again a few years later.
+Mobilized and served 18 months active-duty in support of a [unique joint organization](http://www.c-span.org/video/?195351-1/joint-personal-effects-depot) responsible for the collection, inventory and return of the personal effects of Fallen Services Members and Wounded Service Members. Upon arrival from Fort Riley, Kansas we were assigned to stand up the night shift (4pm - midnight) and responsible for a 8-person team comprised of military and DoD contractors. During the latter half of my tour, I transferred over to staff and was tasked to co-author the Department of Defense Center for Army Lessons Learned Joint Personal Effects Depot (JPED) Handbook. After this extensive writing assignment, I continued to author dozens of operational improvement memos, authored and revised Standard Operating Procedures, and was assigned assistant billing official with additional coursework at the Pentagon. Prior to departing I created performance measures and cross training certifications for improved readiness. The assignment was forever humbling and life changing and would've never thought I would be called upon by the incoming Commander to join the unit again a few years later.
 
 # Aide-de-Camp to Army Brigadier General
-
 *[104th Division](https://en.wikipedia.org/wiki/104th_Infantry_Division) - Vancouver Barracks, Washington, Jul 2005 to Dec 2006*
 
-As a fresh Army 2nd Lieutenant I was selected as an [Aide-de-Camp](http://www.quartermaster.army.mil/jccoe/Special_Programs_Directorate/Enlisted_Aide_web_documents/Senior_Leader_Aide_Handbook_2010.pdf) for Army Brigadier General Eldon Regua, Assistant Division Commander-Operations, the number two in the entire division, and helped the General fulfill his duties at a 30,000 foot view.
+As a fresh Army 2nd Lieutenant I was selected as an [Aide-de-Camp](http://www.quartermaster.army.mil/jccoe/Special_Programs_Directorate/Enlisted_Aide_web_documents/Senior_Leader_Aide_Handbook_2010.pdf) for Army Brigadier General Eldon Regua, Assistant Division Commander-Operations, the number two (2) in the entire division, and helped the General fulfill his duties at a 36,000 foot view.
 
 In this role, I traveled extensively with General Regua coordinating all transportation and lodging, coordinate protocol, schedule meetings and visits, helped draft and provide editorial support on speeches, and worked closely with the Secretary of the General Staff, Maj. Ignacio Perez. Sometimes I would Aide-de-Camp for the Commanding General, Maj. Gen. TK Moffett with travels throughout the western United States and downrange where unit Drill Sergeants were mobilized including Ft. Knox, Kentucky. It meant not just protecting his time, but make his time on the ground count by helping get soldiers promoted, soldier issues resolved, and one-one-time with senior staff.
 
 # Co-Founder & Managing Partner
-
 *RED Consulting Group, LLP - Beaverton, Oregon, Nov 2004 to Dec 2006*
 
-At the age of 25, I joined fellow Oregon State University alumns, Rosa Olivares & Edith Quiroz, to launch a bilingual consultancy and recruiting company despite being told we were too young. We started off bootstrapping out of Rosa's Beaverton apartment living room, and after a year expanded into a small office off a busy SW Murray intersection. During this time, we led over a dozen executive bilingual searches throughout Portland-metro for higher education, and the private sector helping accelerate the careers of over a dozen into well paying jobs. Additionally, we conducted Latino cultural competency trainings throughout the state helping usher in new programs & services designed to increase & retain Latino staff and student enrollment.
+At the age of 25, I joined fellow Oregon State University alumns, Rosa Olivares & Edith Quiroz, to launch a bilingual (Spanish/ English) consultancy and recruiting company despite being told we were too young. We started off bootstrapping out of Rosa's Beaverton apartment living room, and after a year expanded into a professional small office off a busy SW Murray intersection. During this time, we led over a dozen executive bilingual searches throughout Portland-metro for higher education, and the private sector helping accelerate the careers of over a dozen into well paying jobs with benefits. Additionally, we conducted Latino cultural competency trainings throughout the state helping usher in new programs & services designed to increase & retain Latino staff and student enrollment.
 
-We closed our small business in early 2007 as a result of an impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. Prior to departing we changed the name to BilingualHire, and [Edith ](http://thinkmujer.com/edith-molina/) still continues to do this work under the [ThinkMujer](http://thinkmujer.com/about) name.
+We closed the business in early 2007 as a result of an impending military deployment. In early 2007, Oregon State University wrote an article, *"[Edith Molina in her own words](http://oregonstate.edu/terra/2007/04/edith-molina-in-her-own-words/)"* that touched on our consulting work. Prior to departing we changed the name to BilingualHire, and [Edith ](http://thinkmujer.com/edith-molina/) still continues to do this work under the [ThinkMujer](http://thinkmujer.com/about) name.
 
 # Director of Fund Development & Special Projects
-
 *SMG Foundation - Portland, Oregon, Mar 2004 to Nov 2004*
 
-Served as the first Director of Fund Development & Special Projects for the Susannah Maria Gurule (SMG) Foundation, a Latina/o healthy advocacy community-based organization dedicated towards reducing health disparities by educating families and children, empowering young Latina women and breast-cancer preventative awareness.
+Served as the first Director of Fund Development & Special Projects for the Susannah Maria Gurule (SMG) Foundation, a Latino serving community-based organization dedicated towards reducing health disparities by educating families and children, empowering young Latina women and breast-cancer preventative awareness.
 
-During my short tenure, I coordinated the Salud Familiar Latina/o Family Health Fair & Conference at the University of Portland, the Latinos & Diabetes Seminar for Primary Care Providers at the World Forestry Center, and won a $10K grant from the Lowe's Charitable & Educational Foundation for organizational facility improvements. I was also a member of the Willamette Valley Development Officers, a nonprofit dedicated to training area development officers. I worked under the guidance of Executive Director, Marie Dahlstrom, and founder/board chair, Clara Padilla-Andrews, a former New Mexico Secretary of State.
+During my short tenure, I coordinated the three (3) day Salud Familiar Latina/o Family Health Fair & Conference at the University of Portland, the one (1) day Latinos & Diabetes Seminar for Primary Care Providers at the World Forestry Center, and won a $10K grant from the Lowe's Charitable & Educational Foundation for organizational facility improvements. I was also a member of the Willamette Valley Development Officers, a nonprofit dedicated to training area development officers. I worked under the guidance and mentorship of Executive Director, Marie Dahlstrom, and founder/board chair, Clara Padilla-Andrews, a former New Mexico Secretary of State.
+
+Departed to help run RED Consulting Group.
 
 # Guest Writer
-
 *[El Hispanic News y Más](http://www.elhispanicnews.com/) - Portland, Oregon, Oct 2003 to Mar 2004*
 
-After a 6-month international internship in Costa Rica I returned to the states determined to write and own a media company. I reached out to this historic Hispanic publication, and owner Clara Padilla-Andrews, and editor-in-chief, Julie Cortez gave me an opportunity to learn the trade. I wrote just a few articles in-between finishing up my political science degree, including:
+After a 6-month international internship in Costa Rica I returned to the states determined to write and own a media company. I reached out to this historic Hispanic publication, and owner Clara Padilla-Andrews, and editor-in-chief, Julie Cortez gave me an opportunity to learn the trade. I wrote just a few articles in-between finishing up my B.A. in political science, including:
 
 - Los Angeles, California: Dec 17, 2003, *"Series of Spanish Rock Concerts Raises Scholarships for Hispanics."*
 
 - Woodburn, Oregon: Oct 29, 2003, *"Latino Educational and Recreational Network Receives High Award."*
 
 # Journalism Intern
-
 *[Institute for Central American Studies](http://icads.org/) - San Jose, Costa Rica, July 2003 to Oct 2003*
 
 Accepted to an international internship (IE3) in San Jose, Costa Rica, I researched, drafted and published articles for the Institute for Central American Studies (ICAS) monthly journal, Mesoamerica, that focused on the realities of Central America and understanding of the region.
 
-I cut my teeth here writing and credit the Executive Director, Linda Holland, for her persistence and helping me improve my writing. In 2014, ICAS was renamed to the [Institute for Central American Development Studies](http://icads.org/). During my time in-country, I joined the [Club de Montañismo at La Universidad de Costa Rica](http://www.clubmont.ucr.ac.cr/) and trekked a ton on weekends to places that were not on tourist maps. I also improved my Spanish during this time, and along with other ICAS interns got to explore the city and its people, and the countryside.
+I cut my teeth here writing/ editing copy and credit the Executive Director, Linda Holland, for her persistence and helping me improve my writing. In 2014, ICAS was renamed to the [Institute for Central American Development Studies](http://icads.org/). During my time in-country, I joined the [Club de Montañismo at La Universidad de Costa Rica](http://www.clubmont.ucr.ac.cr/) and trekked a ton on weekends to places that were not on tourist maps. I also improved my Spanish during this time, and along with other ICAS interns got to explore the city and its people, and the countryside.
 
 # Cadet
-
 *[104th Division](https://en.wikipedia.org/wiki/104th_Infantry_Division_(United_States)) - Salem, Oregon, July 2002 to June 2005*
 
-I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, Lt. Col. Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, Capt. John Mills. I thoroughly enjoyed my time here, and did a lot of rucking through City of Salem w/ enlisted mentor, Staff Sgt. George Everts and a few to Dog Mountain with the drill sergeants.
+I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, Lt. Col. Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, Capt. John Mills. I thoroughly enjoyed my time here, and did a lot of marching w/ a small rucksack through City of Salem hills w/ enlisted mentor and S-1 AGR Staff Sgt. George Everts.
+
+Favorite experience: hiking Dog Mountain with the drill sergeants one drill weekend.
 
 # Soldier
 
 *364th Civil Affairs Brigade (Airborne)- Portland, Oregon, Feb 2001 to July 2002*
+After [graduating Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Ft. Sill, Oklahoma and Advanced Individual Training (AIT) at Ft. Leonard Wood, Missouri, I started my enlisted career as a Private First Class (PFC) in the Special Functions Team here for drill-weekends, and mentored by Lt. Col Jon Lopey and Maj. Javier Valdez.
 
-After [graduating bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Fort Sill, Oklahoma and AIT at Fort Leonard Wood, Missouri, I started my enlisted career as a Private First Class in the Special Functions Team here for drill-weekends, and mentored by Lt. Col Jon Lopey and Maj. Javier Valdez.
+In this role, helped conduct HUMVEE drivers tests, support PT tests, and drive personnel up to Ft. Lewis for missions abroad.
 
 ## Education
-
-# Stanford Graduate School of Business
-*Executive Education - Stanford, California, 2021*
-I was in the 7th (seventh) cohort of the [Stanford Latino Entrepreneurship Initiative Education](https://lban.us/slei-ed-scaling-program/), Scaling Program.
+# Stanford University Graduate School of Business
+*Executive Education - Remote, 2021*
+Along with 75+ U.S. Latino entrepreneurs, CEOs, owners and managing partners participated remotely in the 7th (seventh) cohort of the [Stanford Latino Entrepreneurship Initiative Education](https://lban.us/slei-ed-scaling-program/), Scaling Program, a collaboration between 501c(3) nonprofit Latino Business Action Network (LBAN) and Stanford University Graduate School of Business focused on growing the American economy and empower Latino entrepreneurs through research, education, and empowerment.
 
 # Thinkful
-
 *[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
-
-I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). Didn't finish the course, but after learning enough began freelancing web development that summer.
+Bunkered down between Southeast Portland Grind coffee house, and NedSpace, Portland's original co-working I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). Leveraged the skills learned at Skillshare, Ruby meetups, RailsConf, Ruby on Ales, Calagator, and Thinkful to launch [Operation Code](http://operationcode.org), and when it took off paused coursework.  
 
 # U.S. Army School of Infantry
-
 *[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
 
-I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refining our OPORD writing skills. Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
+Along w/ freshly minted Lieutenant's from across the United States, and some international (Egypt, Senegal, Lebanon, et) I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations from across the country and Middle East. When not in the field, we spent time in garrison refining our OPORD writing skills. Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
 
 # Oregon State University
 *BA, Political Science - Corvallis, Oregon, 2001 to 2004*
