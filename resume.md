@@ -7,7 +7,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a civil construction company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools). When not making things happen, I'm hanging with my [daughters](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
+I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools). When not making things happen, I'm hanging with my [daughters](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
 
 ## Experience
 
@@ -130,6 +130,10 @@ I was recruited to join this drill sergeant reserve unit based in Salem by the b
 After [graduating bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Fort Sill, Oklahoma and AIT at Fort Leonard Wood, Missouri, I started my enlisted career as a Private First Class in the Special Functions Team here for drill-weekends, and mentored by Lt. Col Jon Lopey and Maj. Javier Valdez.
 
 ## Education
+
+# Stanford Graduate School of Business
+*Executive Education - Stanford, California, 2021*
+I was in the 7th (seventh) cohort of the [Stanford Latino Entrepreneurship Initiative Education](https://lban.us/slei-ed-scaling-program/), Scaling Program.
 
 # Thinkful
 
