@@ -7,7 +7,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools). When not making things happen, I'm hanging with my [daughters](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
+I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools). I earned an B.A. in political science and Officer Commission from Army ROTC from Oregon State University, and original hometown is a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm hanging with my [daughters](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
 
 ## Experience
 
