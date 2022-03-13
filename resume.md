@@ -9,7 +9,7 @@ permalink: /resume/
 
 I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
 
-I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm documenting my life's journey over on [instagram](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
+I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm documenting my life's journey over on [instagram](https://www.instagram.com/davidcmolina) and [Snapchat - @davidcmolina](https://snapchat.com/add/davidcmolina).
 
 ## Experience
 
@@ -102,7 +102,7 @@ Served as the first Director of Fund Development & Special Projects for the Susa
 
 During my short tenure, I coordinated the three (3) day Salud Familiar Latina/o Family Health Fair & Conference at the University of Portland, the one (1) day Latinos & Diabetes Seminar for Primary Care Providers at the World Forestry Center, and won a $10K grant from the Lowe's Charitable & Educational Foundation for organizational facility improvements. I was also a member of the Willamette Valley Development Officers, a nonprofit dedicated to training area development officers. I worked under the guidance and mentorship of Executive Director, Marie Dahlstrom, and founder/board chair, Clara Padilla-Andrews, a former New Mexico Secretary of State.
 
-I was really bummed to leave this cool position to become co-founder at RED Consulting Group and lead bilingual executive searches.
+I was really bummed to leave this position to become co-founder at RED Consulting Group and lead bilingual executive searches, but it certainly prepared me for anything and I credit the incredible mentorship and watching two of the most humble, forthright and fierce Latina leaders anywhere in Portland at the time.
 
 # Guest Writer
 *[El Hispanic News y Más](http://www.elhispanicnews.com/) - Portland, Oregon, Oct 2003 to Mar 2004*
@@ -112,6 +112,8 @@ After a 6-month international internship in Costa Rica I returned to the states 
 - Los Angeles, California: Dec 17, 2003, *"Series of Spanish Rock Concerts Raises Scholarships for Hispanics."*
 
 - Woodburn, Oregon: Oct 29, 2003, *"Latino Educational and Recreational Network Receives High Award."*
+
+Highlight: representing El Hispanic News y Mas in Los Angeles, California at a concert where Maldita Vecindad, Molotov, and Gran Silencio played live.
 
 # Journalism Intern
 *[Institute for Central American Studies](http://icads.org/) - San Jose, Costa Rica, July 2003 to Oct 2003*
@@ -125,14 +127,14 @@ Tips for college students? Get on an international internship and learn more abo
 # Cadet
 *[104th Division](https://en.wikipedia.org/wiki/104th_Infantry_Division_(United_States)) - Salem, Oregon, July 2002 to June 2005*
 
-I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, Lt. Col. Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, Capt. John Mills. I thoroughly enjoyed my time here, and did a lot of marching w/ a small rucksack through City of Salem hills w/ enlisted mentor and S-1 AGR Staff Sgt. George Everts.
+I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, Lt. Col. Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, Capt. John Mills. I grew tremendously here and thoroughly enjoyed my time here, and did a lot of marching w/ a small rucksack through City of Salem hills w/ enlisted mentor and S-1 AGR Staff Sgt. George Everts.
 
 Favorite experience: hiking Dog Mountain with the drill sergeants.
 
 # Soldier
 
 *364th Civil Affairs Brigade (Airborne)- Portland, Oregon, Feb 2001 to July 2002*
-After [graduating Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Ft. Sill, Oklahoma and Advanced Individual Training (AIT) at Ft. Leonard Wood, Missouri, I started my enlisted career as a Private First Class (PFC) in the Special Functions Team here for drill-weekends, and mentored by Lt. Col Jon Lopey and Maj. Javier Valdez.
+After [graduating Army bootcamp](https://www.instagram.com/p/1AYwlQxUqX/?taken-by=davidcmolina) at Ft. Sill, Oklahoma and Advanced Individual Training (AIT) at Ft. Leonard Wood, Missouri, I started my enlisted career as a Private First Class (PFC) in the Special Functions Team here for drill-weekends, and mentored by Lt. Col Jon Lopey and Maj. Javier Valdez. These two officers set the tone and tempo and I'm incredibly grateful for their mentorship during my transition from PFC to cadet.
 
 In this role, helped conduct HUMVEE drivers tests, support PT tests, and drive personnel up to Ft. Lewis for missions abroad.
 
@@ -143,11 +145,13 @@ Along with 75+ U.S. Latino entrepreneurs, CEOs, owners and managing partners par
 
 Entrepreneur doing over $1m in revenue and questions about the program? Get in touch.
 
+Highlight: if U.S. Latinos were a country, we'd be the 7th largest on earth based on GDP.
+
 # Thinkful
 *[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
-Bunkered down between Southeast Portland Grind coffee house and NedSpace, Portland's original co-working I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880).
+Between Southeast Portland Grind coffee and NedSpace, Portland's original co-working I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880).
 
-Leveraged the skills learned at Skillshare, Ruby meetups, RailsConf, Ruby on Ales, Calagator, and Thinkful to launch [Operation Code](http://operationcode.org), and when it took off paused coursework.
+Leveraged the skills learned at Skillshare, Ruby meetups, RailsConf, Ruby on Ales, Calagator, and Thinkful to launch [operationcode.org](http://operationcode.org), and when it took off paused coursework.
 
 At some point I plan to return to code school using my New GI Bill. Know a good one?
 
@@ -158,7 +162,7 @@ Along w/ freshly minted Lieutenant's from across the United States and abroad (E
 
 Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
 
-Favorite time: grappling and practicing hand to hand combat, meeting lieutenant's from around the Middle East and learn about different cultures, and attending catholic service and breaking bread with military officers from across Latin America.
+Favorite time: grappling and practicing hand to hand combat, meeting lieutenant's from around the world, attending Mass at the base Catholic Church, and breaking bread with military officers from across Latin America on weekends.
 
 # Oregon State University
 *B.A., Political Science - Corvallis, Oregon, 2001 to 2004*
@@ -201,7 +205,7 @@ I enjoy working on hard problems, building teams, advising startups, and automat
 
 Founded in 1944, the Oregon Museum of Science and Industry (OMSI) is one of the nation’s leading science museums and a trusted educational resource for communities throughout Oregon and the region. Through museum exhibitions, public programs at the museum and across the region, outdoor programs, traveling exhibitions, digital learning, and learning research and design, OMSI nourishes a lifelong love of science, curiosity and learning for diverse audiences. OMSI's mission is to inspire curiosity through engaging science learning experiences, foster experimentation and the exchange of ideas, and stimulate informed action.
 
-I serve on the Property Development Committee. More about the committee's work [here](https://www.bizjournals.com/portland/news/2021/12/08/omsi-district-portland-preston-greene.html).
+I serve on the Property Development Committee. More about the committee's work, here [OMSI District: Plans call for 3 million square feet of buildings in Portland east of the Willamette](https://www.bizjournals.com/portland/news/2021/12/08/omsi-district-portland-preston-greene.html).
 
 # Board of Directors
 *[OSU Alumni Association Board of Directors](https://www.fororegonstate.org/about/volunteer-board-leadership/osu-alumni-association-board-of-directors) - Corvallis, Oregon, Sep 2021 to present*
@@ -215,7 +219,9 @@ In addition to upholding the OSU Alumni Association’s mission and goals, the b
 
 LatinoBuilt (LB) is a trade association for Latino Contractors in Oregon founded in 2019. A 501c(6) nonprofit whose primary purpose is to support and empower Latino-owned businesses in construction. LB works with partners within the community to address the current inequities and connects contractors to public works project opportunities.
 
-As a member of the executive board, I also serve concurrently on the LatinoBuilt Foundation where we're focused on the fundraising arm of the organization.
+As a member of the executive board, I also serve concurrently on the LatinoBuilt Foundation where we're focused on the fundraising arm.
+
+Follow LatinoBuilt on [Instagram](https://www.instagram.com/latinobuilt/) and join the conversation in building generational wealth in the Latina/o community.
 
 # Co-Organizer
 
@@ -229,13 +235,17 @@ Took a hiatus to build and scale [operationcode.org](http://operationcode.org).
 
 *Dover Coders - Dover, Delaware, May 2012 to Feb 2013*
 
-Created and co-organized a Dover Coders meetup group with another JPED co-worker, Lawrence Wehle, while I was deployed to Dover AFB. We had over a dozen meetups, and it was rewarding meeting local experienced programmers.
+Created and co-organized a Dover Coders meetup group with another JPED co-worker, Lawrence Wehle, a contracted software engineer while I was deployed to Dover AFB. We had over a dozen meetups, and it was rewarding meeting local experienced programmers and learning from Lawrence himself. Quiet but profoundly smart and the IT backbone at JPED.
+
+Stepped down from Dover Coders when I exited Dover AFB back to Portland, Oregon.
 
 # Advisor
 
-*[Oregon Community Foundation, Latino Partnership Program](http://www.oregoncf.org/ocf-initiatives/civic-engagement/latino-partnership) - Sep 2013 to Sep 2017*
+*[Oregon Community Foundation, Latino Partnership Program](https://oregoncf.org/) - Sep 2013 to Sep 2017*
 
-Addressing Latino leadership throughout Oregon through a philanthropic lens.
+Appointed by CEO Max Williams to advisory board focused on addressing Latino leadership throughout Oregon through a philanthropic lens. Reviewed nonprofit grant submissions, provide input on investments, and worked alongside Latino Partnership Program, Program Officer, on ways to areas of improvement.
+
+Took a hiatus to build and scale [operationcode.org](http://operationcode.org).
 
 # Advisor
 
@@ -243,11 +253,15 @@ Addressing Latino leadership throughout Oregon through a philanthropic lens.
 
 Appointed by President Dr. Edward Ray to 22-person Board of Visitors to provide advice and recommendations for diversity recruitment and the retention of faculty, staff, and students.
 
+Resigned to focus on family and helping raise three little girls, two of which were newborn twins.
+
 # Commissioner/Vice Chair
 
 *[Oregon Commission on Hispanic Affairs](http://www.oregon.gov/Hispanic/Pages/index.aspx) - Apr 2006 to Oct 2010*
 
 Governor-appointed to the commission, and in-between an active-duty mobilization, organized and co-hosted a community town hall on [civil rights with Attorney General John Kroger](https://www.flickr.com/photos/davidcmolina/albums/72157623488275662), organized and co-hosted a community town hall on [labor & employment rights with Labor Commissioner Brad Avakian](https://www.flickr.com/photos/davidcmolina/albums/72157623504913568), organized and hosted a [community town hall on healthcare](https://www.flickr.com/photos/davidcmolina/albums/72157623488286284) with distinguished public health advocates and agencies, testified before Senate Health Care Committee on Latino health disparities, [blogged](http://latinopoliticsblog.com/category/community-organizing-and-activism/david-molina/) and conducted numerous interviews on Spanish-language media, including: Univision, AlegreTV, LaGranD, LaPantera, and Tonalli Radio. In my final year, helped recruit Oregon Latino students to attend the [2010 U.S. Hispanic Leadership Institute (USHLI)](https://www.flickr.com/photos/davidcmolina/albums/72157623364078943) in Chicago.
+
+Resigned to focus on family and helping raise three little girls, two of which were newborn twins.
 
 # Founder/Board President
 
@@ -257,6 +271,8 @@ Apr 2006 to Oct 2010*
 Founded the OSU Chicana/o Alumni Association of Oregon State University (ChAOSU), formed first board of directors, raised funds and awarded annual book scholarships, [organized and host annual campus reunions](https://www.flickr.com/photos/osuclaa/), launch an endowment scholarship fund for future generations, keynote at Si Se Pudo graduation, launch official OSU alumni page, and Facebook page.
 
 Favorite time: attending OSU Chicano/Latino graduation ceremonies to meet new alumni and learn about their next move.
+
+Resigned to focus on family and helping raise three little girls, two of which were newborn twins.
 
 ## Recommendations
 
