@@ -7,7 +7,9 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools). I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm hanging with my [daughters](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
+I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
+
+I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm documenting my life's journey over on [instagram](https://www.instagram.com/p/BwiS-u0AAYe/?utm_source=ig_web_button_share_sheet).
 
 ## Experience
 
@@ -16,7 +18,7 @@ I am an entrepreneur who served over a decade in uniform, both enlisted and offi
 
 I founded a federal and commercial contracting company supporting U.S. federal agencies and businesses out of my garage. Today, we've scaled to a small but dedicated management team, and specialized trade partners tackling some of our clients greatest building challenges helping diversify the trades with more veterans, women, Latina/os, immigrants and young people. When I'm not enroute to a site visit, participating in pre-construction or bid meetings, estimating using Bluebeam, on the phone or visiting subcontractors in the field, I'm head down building out our processes and systems to go further, faster.
 
-Learn more about [Molinas here](https://www.molinas.co).
+Learn more about Molinas Construction Company [here](https://www.molinas.co).
 
 # Founder & Executive Director
 *[Operation Code](http://operationcode.org) - Portland, Oregon, Aug 2014 to April 2018*
@@ -49,7 +51,7 @@ On the public affairs front, I launched our intranet website--SharePoint, to bet
 
 I was honored and humbled to work alongside two of the finest Noncommissioned Officers, Sgt. First Class Dana Waite (S-2 NCOIC), and Sgt. First Class Chester Craig (S-3 NCOIC), and great mentors in Commissioned Officers Lt. Col. Kelly Kyburz (Commander), and Lt. Col. Harvey Baker (Executive Officer), and some of the most caring souls dedicated to preserving the lasting memories of [those who gave the ultimate and our wounded service members](https://www.army.mil/article/196719/joint_personal_effects_depot_honors_fallen_warriors_items).
 
-Interested in supporting the Families of the Fallen mission? USO Delaware has you covered](https://delaware.uso.org/).
+Interested in supporting the Families of the Fallen mission? [USO Delaware has you covered](https://delaware.uso.org/).
 
 # Co-Founder & Business Development
 *[NestNote](https://www.crunchbase.com/organization/nestnote#/entity) - New York City (remote), Jul 2012 to Oct 2012*
@@ -61,12 +63,16 @@ In this role, I wrote press releases and wrote copy, pitched bloggers and influe
 # Co-Founder & Managing Partner
 *BilingualHire Staffing Services - Portland, Oregon, June 2009 to Feb 2011*
 
-After returning from an 18-month active-duty mission at Aberdeen Proving Ground and a very short stint at the Oregon legislature I relaunched our bilingual recruiting and consulting company into a bilingual (Spanish/ English) staffing business and landed a few clients placing bilingual talent for temporary admin roles. During this period, I served on the Oregon Staffing Association Board of Directors as Legislative Director, maintained an e-newsletter, and interviewed dozens for our BilingualHire podcast using iPhone voice memos and hosting them on Amazon (previously Posterous). We put the company on hiatus during our mobilization to Dover AFB, but learned a ton about flexible workforce development.
+After returning from an 18-month active-duty mission at Aberdeen Proving Ground and a very short stint at the Oregon legislature I relaunched our bilingual recruiting and consulting company into a bilingual (Spanish/ English) staffing business and landed a few clients placing bilingual talent for temporary admin roles. During this period, I served on the Oregon Staffing Association Board of Directors as Legislative Director, maintained an e-newsletter, and interviewed dozens for our BilingualHire podcast using iPhone voice memos and hosting them on Posterous (since acquired by Twitter). We put the company on hiatus during our mobilization to Dover AFB, but learned a ton about flexible workforce development.
 
 # Committee Administrator
 *[House Committee on Veterans & Emergency Services](https://olis.leg.state.or.us/liz/2009R1/Committees/HVES/Overview) - Salem, Oregon, Jan 2009 to June 2009*
 
-Fresh off active-duty, I spent 6 months staffing the House Committee on Veterans & Emergency in the Oregon legislature. During my tenure, I managed Representative Jean Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. I learned how legislation becomes law and treasure the great mentorship by the Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and retired Lt. Col Dick Tobiason of Bend, Oregon, and the many veterans organizations across the state doing amazing work. During this period I met a great mentor in Navy veteran Tony Ornelas who served on the Oregon Department of Veterans Affairs Advisory Council, and Tom Mann in the agency's public affairs. To the directors of the committee, Rick & Patty, thank you both for taking a chance on a young Army lieutenant w/ this very cool job at the state's capitol.
+Fresh off active-duty, I spent 6 months staffing the House Committee on Veterans & Emergency in the Oregon legislature. During my tenure, I managed Representative Jean Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. I learned how legislation becomes law and treasure the great mentorship by the Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and retired Lt. Col Dick Tobiason of Bend, Oregon, and the many veterans organizations across the state doing amazing work. During this period I met a great mentor in Navy veteran Tony Ornelas who served on the Oregon Department of Veterans Affairs Advisory Council, and Tom Mann in the agency's public affairs.
+
+Committee managers, Rick & Patty, took a chance on a young Army lieutenant w/ this very cool job at the state's capitol and through the process helped him become a better writer and understand how things work at the state capitol.
+
+Highlight: meeting other fellow veterans serving as legislators and continuing their service to country. Would inspire me years later.
 
 # Summary Court Martial Officer
 *[Joint Personal Effects Depot](http://www.c-span.org/video/?195351-1/joint-personal-effects-depot) - Aberdeen Proving Ground, Maryland, Mar 2007 to July 2008*
@@ -79,6 +85,8 @@ Mobilized and served 18 months active-duty in support of a [unique joint organiz
 As a fresh Army 2nd Lieutenant I was selected as an [Aide-de-Camp](http://www.quartermaster.army.mil/jccoe/Special_Programs_Directorate/Enlisted_Aide_web_documents/Senior_Leader_Aide_Handbook_2010.pdf) for Army Brigadier General Eldon Regua, Assistant Division Commander-Operations, the number two (2) in the entire division, and helped the General fulfill his duties at a 36,000 foot view.
 
 In this role, I traveled extensively with General Regua coordinating all transportation and lodging, coordinate protocol, schedule meetings and visits, helped draft and provide editorial support on speeches, and worked closely with the Secretary of the General Staff, Maj. Ignacio Perez. Sometimes I would Aide-de-Camp for the Commanding General, Maj. Gen. TK Moffett with travels throughout the western United States and downrange where unit Drill Sergeants were mobilized including Ft. Knox, Kentucky. It meant not just protecting his time, but make his time on the ground count by helping get soldiers promoted, soldier issues resolved, and one-one-time with senior staff.
+
+Left assignment due to pending mobilization.
 
 # Co-Founder & Managing Partner
 *RED Consulting Group, LLP - Beaverton, Oregon, Nov 2004 to Dec 2006*
@@ -94,7 +102,7 @@ Served as the first Director of Fund Development & Special Projects for the Susa
 
 During my short tenure, I coordinated the three (3) day Salud Familiar Latina/o Family Health Fair & Conference at the University of Portland, the one (1) day Latinos & Diabetes Seminar for Primary Care Providers at the World Forestry Center, and won a $10K grant from the Lowe's Charitable & Educational Foundation for organizational facility improvements. I was also a member of the Willamette Valley Development Officers, a nonprofit dedicated to training area development officers. I worked under the guidance and mentorship of Executive Director, Marie Dahlstrom, and founder/board chair, Clara Padilla-Andrews, a former New Mexico Secretary of State.
 
-Left position to become co-founder at RED Consulting Group and lead bilingual executive searches.
+I was really bummed to leave this cool position to become co-founder at RED Consulting Group and lead bilingual executive searches.
 
 # Guest Writer
 *[El Hispanic News y Más](http://www.elhispanicnews.com/) - Portland, Oregon, Oct 2003 to Mar 2004*
@@ -119,7 +127,7 @@ Tips for college students? Get on an international internship and learn more abo
 
 I was recruited to join this drill sergeant reserve unit based in Salem by the battalion commander, Lt. Col. Dan York. I ended up coming on board and became the Company Executive Officer under the guidance of the company commander, Capt. John Mills. I thoroughly enjoyed my time here, and did a lot of marching w/ a small rucksack through City of Salem hills w/ enlisted mentor and S-1 AGR Staff Sgt. George Everts.
 
-Favorite experience: hiking Dog Mountain with the drill sergeants one drill weekend.
+Favorite experience: hiking Dog Mountain with the drill sergeants.
 
 # Soldier
 
@@ -133,14 +141,24 @@ In this role, helped conduct HUMVEE drivers tests, support PT tests, and drive p
 *Executive Education - Remote, 2021*
 Along with 75+ U.S. Latino entrepreneurs, CEOs, owners and managing partners participated remotely in Cohort 11 of the [Stanford Latino Entrepreneurship Initiative Education](https://lban.us/slei-ed-scaling-program/), Scaling Program, a collaboration between 501c(3) nonprofit Latino Business Action Network (LBAN) and Stanford University Graduate School of Business focused on growing the American economy and empower Latino entrepreneurs through research, education, and empowerment.
 
+Entrepreneur doing over $1m in revenue and questions about the program? Get in touch.
+
 # Thinkful
 *[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
-Bunkered down between Southeast Portland Grind coffee house, and NedSpace, Portland's original co-working I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880). Leveraged the skills learned at Skillshare, Ruby meetups, RailsConf, Ruby on Ales, Calagator, and Thinkful to launch [Operation Code](http://operationcode.org), and when it took off paused coursework. At some point, plan is to return to code school.  
+Bunkered down between Southeast Portland Grind coffee house and NedSpace, Portland's original co-working I spent the first few months of 2014 learning HTML, CSS, JavaScript and APIs. My projects included, making a clone of [Google's landing page](https://github.com/davidmolina/Google-Clone), [Street Fighter the game](https://github.com/davidmolina/jquery-streetfighter), [shopping list](https://github.com/davidmolina/shoppingList), and my [resume from scratch](https://twitter.com/davidcmolina/status/446008556693626880).
+
+Leveraged the skills learned at Skillshare, Ruby meetups, RailsConf, Ruby on Ales, Calagator, and Thinkful to launch [Operation Code](http://operationcode.org), and when it took off paused coursework.
+
+At some point I plan to return to code school using my New GI Bill. Know a good one?
 
 # U.S. Army School of Infantry
 *[Infantry Officer Basic Course](http://www.benning.army.mil/infantry/199th/ibolc/) - Fort Benning, Georgia, 2005*
 
-Along w/ freshly minted Lieutenant's from across the United States, and some international (Egypt, Senegal, Lebanon, etc) I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations. When not in the field, we spent time in garrison refining our OPORD writing skills. Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
+Along w/ freshly minted Lieutenant's from across the United States and abroad (Egypt, Senegal, Lebanon, etc) I spent summer 2005 living half the time in the Georgia woods planning, rehearsing and executing military training operations and the other half in garrison refining our OPORD writing skills.
+
+Every morning we'd run 5ks to, *"When my granny was 91"* and *"C-130 Rolling Down the Strip."*
+
+Favorite time: grappling and practicing hand to hand combat, meeting lieutenant's from around the Middle East and learn about different cultures, and attending catholic service and breaking bread with military officers from across Latin America.
 
 # Oregon State University
 *B.A., Political Science - Corvallis, Oregon, 2001 to 2004*
@@ -149,13 +167,19 @@ Activities and Societies: ASOSU (Student Government), Army ROTC, Sigma Nu Frater
 
 During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2000-2001 academic year and after basic headed off to Corvallis to start spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After the attack of 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began one of the most rewarding journey's to be a Commissioned Officer.
 
+Becoming the first in the family, the son of Mexican immigrants to graduate from an American university was a very proud moment. Equally momentous was having alongside immediate family, my great grandfather, Eusebio Lopez, from Nayarit, and little brother, Victor Molina, who had just returned from deployment in Iraq in attendance.
+
+Favorite time: bid to bring the National MEChA Conference for the first time to the pacific northwest.
+
 # Skagit Valley College
 
 *AA - Mount Vernon, WA, 1997 to 2000*
 
 Activities and Societies: MEChA
 
-I started at Skagit Valley College via the Running Start program where I took college coursework counting towards both high school and college credits. I founded the MEChA chapter here, and created the Gente del Sol festival and co-organized it for two-years to raise funds for Chicana/o student scholarships. I put myself through community college working at the local Red Robin in the kitchen.
+I started at Skagit Valley College via the Running Start program where I took college coursework counting towards both high school and college credits. I founded the MEChA chapter here, and brainchild the Gente del Sol festival and co-organized it for two-years to raise funds for Chicana/o student scholarships. We (Diana Lopez, Smiley Lopez, myself) brainstormed the concept during a road trip to the National MEChA Conference. Highlight: article in Lowrider Magazine. During SVC, I put myself through community college working at the local Red Robin in the kitchen and credit greatly Jovita Angelica Guillen for inspiring this former migrant farmworker to head over the Skagit Valley horizon and see what else is out there.
+
+Favorite time: holding the college accountable to preserve and protect the college radio station from outside encroachment.
 
 # Mount Vernon High School
 
@@ -163,12 +187,12 @@ Activities and Societies: Migrant Student Leadership Program (SLP), MEChA, Natio
 
 *Diploma - Mount Vernon, WA, 1994 to 1997*
 
-I started off strong, but dropped out my sophomore year. Fed up with memorizations and pointless history lessons I started working at Olympic Fish Company (LaConner) gutting and weighing fish, and forklifting through the season into the spring before returning and finishing a year late. During the summers I worked for J&H Construction & Sakuma Brothers Farms. I credit Ms. Dianne Best, Dr. Ken Fox, Mrs. Maria Perez, and Mr. Daniel Reyes for squaring me away.
+I started off strong, but dropped out my sophomore year. Fed up with memorizations and pointless classes I started working at Olympic Fish Company (LaConner) gutting and weighing fish, and forklifting through the season into the spring before returning and finishing a year late. During the summers I worked for J&H Construction & Sakuma Brothers Farms. I credit Ms. Dianne Best, Dr. Ken Fox, Mrs. Maria Perez, and Mr. Daniel Reyes for squaring me away and pointing me in the right direction, in the direction of leadership.
 
 Favorite class: Mr. Sedgwick's HTML/ web design course.
 
 ## Skills
-I enjoy using Jekyll, and learning new web technologies (Ruby on Rails, Ember, Gatsby, etc). Currently, I enjoy teaching others how to deploy onto the web and store all my code in [GitHub](https://github.com/davidmolina?tab=activity). Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
+I enjoy working on hard problems, building teams, advising startups, and automating data to do more faster. I wrote this in markdown using Atom, blog using Jekyll, deployed using Netlify, and use AWS to host images. Previously, I was learning Ruby on Rails, Ember, Gatsby, but work/ volunteering has consumed my schedule. Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
 
 ## Volunteer Experiences and Causes
 
@@ -180,17 +204,26 @@ Founded in 1944, the Oregon Museum of Science and Industry (OMSI) is one of the 
 I serve on the Property Development Committee. More about the committee's work [here](https://www.bizjournals.com/portland/news/2021/12/08/omsi-district-portland-preston-greene.html).
 
 # Board of Directors
-*[Oregon State University (OSU) Alumni Association Board of Directors](https://www.fororegonstate.org/about/volunteer-board-leadership/osu-alumni-association-board-of-directors) - Corvallis, Oregon, Sep 2021 to present*
+*[OSU Alumni Association Board of Directors](https://www.fororegonstate.org/about/volunteer-board-leadership/osu-alumni-association-board-of-directors) - Corvallis, Oregon, Sep 2021 to present*
 
 The OSU Alumni Association is a non-profit 501c3 organization that is led by a board of directors. This volunteer board upholds the alumni association’s mission to inspire a lifelong connection for alumni, students and friends through learning, advocacy and community. Their goals are to deepen, broaden and improve the engagement with students and recent alumni as well as communicate the impact of alumni and of OSU on the world.
 
 In addition to upholding the OSU Alumni Association’s mission and goals, the board of directors are passionate about providing opportunities for alumni, students and OSU supports to get involved. From annual service projects to regular volunteer efforts, the board of directors and alumni association organize events and positions to ensure OSU continues to make a positive impact on students and alum as well as the world.
+
+# Board of Directors
+*[LatinoBuilt](https://latinobuilt.org/) - Beaverton, Oregon, June 2020 to present*
+
+LatinoBuilt (LB) is a trade association for Latino Contractors in Oregon founded in 2019. A 501c(6) nonprofit whose primary purpose is to support and empower Latino-owned businesses in construction. LB works with partners within the community to address the current inequities and connects contractors to public works project opportunities.
+
+As a member of the executive board, I also serve concurrently on the LatinoBuilt Foundation where we're focused on the fundraising arm of the organization.
 
 # Co-Organizer
 
 *[Ruby on Rails PDX](http://www.meetup.com/ruby-on-rails-pdx/) - Portland, Oregon, Feb 2016 to May 2016*
 
 Co-organizer with two other rubyist, Chris Hough and Layne McNish, bringing together developers and expose new folks to the rails application framework together in a comfortable, relaxed setting.
+
+Took a hiatus to build and scale [operationcode.org](http://operationcode.org).
 
 # Co-Organizer
 
@@ -222,6 +255,8 @@ Governor-appointed to the commission, and in-between an active-duty mobilization
 Apr 2006 to Oct 2010*
 
 Founded the OSU Chicana/o Alumni Association of Oregon State University (ChAOSU), formed first board of directors, raised funds and awarded annual book scholarships, [organized and host annual campus reunions](https://www.flickr.com/photos/osuclaa/), launch an endowment scholarship fund for future generations, keynote at Si Se Pudo graduation, launch official OSU alumni page, and Facebook page.
+
+Favorite time: attending OSU Chicano/Latino graduation ceremonies to meet new alumni and learn about their next move.
 
 ## Recommendations
 
