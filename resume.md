@@ -9,7 +9,7 @@ permalink: /resume/
 
 I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
 
-I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm documenting my life's journey over on [instagram](https://www.instagram.com/davidcmolina) and [Snapchat - @davidcmolina](https://snapchat.com/add/davidcmolina).
+I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University, and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm documenting my life's journey over on [instagram](https://www.instagram.com/davidcmolina) and [Snapchat](https://snapchat.com/add/davidcmolina).
 
 ## Experience
 
@@ -23,11 +23,13 @@ Learn more about Molinas Construction Company [here](https://www.molinas.co).
 # Founder & Executive Director
 *[Operation Code](http://operationcode.org) - Portland, Oregon, Aug 2014 to April 2018*
 
-After a decade in uniform as an enlisted soldier & officer, I was disappointed I couldn't use my GI Bill to pay for tuition, room and board to learn to code at the [Flatiron School](https://www.instagram.com/flatironschool/). At the time zero code schools across the country accepted the GI Bill due to the U.S. Department of Veterans Affairs bureaucratic red tape. Undeterred I began attending [Ruby on Rails](https://rubyonrails.org/) meetups in Baltimore while still on active-duty, RailsConf, Calagator, and several Ruby meetups once back in Portland. After learning enough, I wrote and deployed the first line of code of [operationcode.org](https://www.operationcode.org) to petition Congress to expand the GI Bill to include code schools. This little website took off like a rocket as I discovered thousands of veterans who were in the same boat, as well as code schools who needed help navigating the regulatory hurdles. After years of full time volunteering, over 30 code schools across 20 states accepted the GI Bill, service members receiving software mentorship in our Slack channel, secured $75 million funding over five-years to help veterans learn software development through the [VET TEC Act](https://www.govtrack.us/congress/bills/115/hr1989), and chapter leaders hosting hundreds of meetups globally across 19-time zones creating talent pipelines impacting communities around the globe.
+After a decade in uniform as an enlisted soldier & officer, I was disappointed I couldn't use my New GI Bill to pay for tuition, room and board to learn to code at the [Flatiron School](https://www.instagram.com/flatironschool/). At the time zero code schools across the country accepted the GI Bill due to the U.S. Department of Veterans Affairs bureaucratic red tape. Undeterred I began attending [Ruby on Rails](https://rubyonrails.org/) meetups in Baltimore while still on active-duty, RailsConf, Calagator, and several Ruby meetups once back in Portland. After learning enough, I wrote and deployed the first line of code of [operationcode.org](https://www.operationcode.org) to petition Congress to expand the GI Bill to include code schools. This little website took off like a rocket as I discovered thousands of veterans who were in the same boat, as well as code schools who needed help navigating the regulatory hurdles.
 
 The entire team operates in a remote, decentralized operating environment using Slack as our central nerve center. During my tenure, when not on Slack I spent the majority of my time coordinating national efforts with the board of directors, tweeting, recruiting & retaining the best & brightest software engineers at tech conferences to become mentors, lobbying Congress, ensuring there was enough money in the bank, judging hackathons, and speaking at forums and events on the need to invest in our nation's finest to fill the nation's technical talent shortage.
 
-More on the [Podcast](https://operationcode.org/podcast), [GitHub](https://github.com/operationcode), and/or [donate to build ongoing staff capacity](https://operationcode.org/donate).
+After over 30 code schools across 20 states accepting the GI Bill, service members receiving software mentorship in our Slack channel, secured $75 million funding over five-years to help veterans learn software development through the [VET TEC Act](https://www.govtrack.us/congress/bills/115/hr1989), and chapter leaders hosting hundreds of meetups globally across 19-time zones creating talent pipelines impacting communities around the globe I stepped down to allow new leadership to take the organization to the next level.
+
+Learn more about Operation Code at the [Podcast](https://operationcode.org/podcast), [GitHub](https://github.com/operationcode), and/or [donate to build ongoing staff capacity](https://operationcode.org/donate).
 
 ## Co-Founder & CTO
 
@@ -70,7 +72,7 @@ After returning from an 18-month active-duty mission at Aberdeen Proving Ground 
 
 Fresh off active-duty, I spent 6 months staffing the House Committee on Veterans & Emergency in the Oregon legislature. During my tenure, I managed Representative Jean Cowan and Committee Members veterans & emergency services legislative priorities with precision and drive. I learned how legislation becomes law and treasure the great mentorship by the Chair, Rep. Jean Cowan and her Chief of Staff, Patrick Sieng, as well as my Committee Services mentor, Patrick Brennan. My favorite memory was working on the [WWII Memorial Highway legislation](http://bendheroes.org/highway/) with Medal of Honor Bob Maxwell and retired Lt. Col Dick Tobiason of Bend, Oregon, and the many veterans organizations across the state doing amazing work. During this period I met a great mentor in Navy veteran Tony Ornelas who served on the Oregon Department of Veterans Affairs Advisory Council, and Tom Mann in the agency's public affairs.
 
-Committee managers, Rick & Patty, took a chance on a young Army lieutenant w/ this very cool job at the state's capitol and through the process helped him become a better writer and understand how things work at the state capitol.
+Committee managers, Rick & Patty, took a chance on a young Army lieutenant w/ this very cool job at the state's capitol and through the process helped him become a better writer and understand how ideas become law.
 
 Highlight: meeting other fellow veterans serving as legislators and continuing their service to country. Would inspire me years later.
 
@@ -143,9 +145,7 @@ In this role, helped conduct HUMVEE drivers tests, support PT tests, and drive p
 *Executive Education - Remote, 2021*
 Along with 75+ U.S. Latino entrepreneurs, CEOs, owners and managing partners participated remotely in Cohort 11 of the [Stanford Latino Entrepreneurship Initiative Education](https://lban.us/slei-ed-scaling-program/), Scaling Program, a collaboration between 501c(3) nonprofit Latino Business Action Network (LBAN) and Stanford University Graduate School of Business focused on growing the American economy and empower Latino entrepreneurs through research, education, and empowerment.
 
-Entrepreneur doing over $1m in revenue and questions about the program? Get in touch.
-
-Highlight: if U.S. Latinos were a country, we'd be the 7th largest on earth based on GDP.
+Highlight: if U.S. Latinos were a country, based on gross domestic product (GDP) we'd be the 7th largest country on earth.
 
 # Thinkful
 *[Front End Web Development](https://www.thinkful.com/courses/learn-web-development-online/), 2014*
@@ -171,7 +171,7 @@ Activities and Societies: ASOSU (Student Government), Army ROTC, Sigma Nu Frater
 
 During [Army bootcamp](https://twitter.com/davidcmolina/status/479841428747476992) I applied and was accepted for the 2000-2001 academic year and after basic headed off to Corvallis to start spring 2001. I fell in love with, "*the study of who gets what, when and how*," and after a semester chose political science as my major. After the attack of 9/11, I contracted as an MS III cadet replacing my Private First Class (PFC) rank with Cadet rank and began one of the most rewarding journey's to be a Commissioned Officer.
 
-Becoming the first in the family, the son of Mexican immigrants to graduate from an American university was a very proud moment. Equally momentous was having alongside immediate family, my great grandfather, Eusebio Lopez, from Nayarit, and little brother, Victor Molina, who had just returned from deployment in Iraq in attendance.
+Becoming the first in the family--the son of Mexican immigrants--to graduate from an American university was a very proud moment. Equally momentous was having alongside immediate family, my great grandfather, Eusebio Lopez, from Nayarit, Mexico and little brother, Victor, who had just returned from deployment in Iraq in attendance.
 
 Favorite time: bid to bring the National MEChA Conference for the first time to the pacific northwest.
 
@@ -181,7 +181,7 @@ Favorite time: bid to bring the National MEChA Conference for the first time to 
 
 Activities and Societies: MEChA
 
-I started at Skagit Valley College via the Running Start program where I took college coursework counting towards both high school and college credits. I founded the MEChA chapter here, and brainchild the Gente del Sol festival and co-organized it for two-years to raise funds for Chicana/o student scholarships. We (Diana Lopez, Smiley Lopez, myself) brainstormed the concept during a road trip to the National MEChA Conference. Highlight: article in Lowrider Magazine. During SVC, I put myself through community college working at the local Red Robin in the kitchen and credit greatly Jovita Angelica Guillen for inspiring this former migrant farmworker to head over the Skagit Valley horizon and see what else is out there.
+I started at Skagit Valley College via the Running Start program where I took college coursework counting towards both high school and college credits. I founded the MEChA chapter here, and brainchild the Gente del Sol festival and co-organized it for two-years to raise funds for Chicana/o student scholarships. Diana Lopez, Smiley Lopez, and myself brainstormed the concept during a road trip to the National MEChA Conference hosted at UCLA. The one-day festival brought together over 3,000 people, awarded 75 trophies and raised over $10,000 for Latino student scholarships. The event made it into Lowrider Magazine. At SVC, I put myself through working at the Burlington Red Robin flipping burgers and credit greatly Jovita Angelica Guillen for inspiring this former migrant farmworker to head beyond the Skagit Valley horizon and see what else is out there.
 
 Favorite time: holding the college accountable to preserve and protect the college radio station from outside encroachment.
 
@@ -196,7 +196,7 @@ I started off strong, but dropped out my sophomore year. Fed up with memorizatio
 Favorite class: Mr. Sedgwick's HTML/ web design course.
 
 ## Skills
-I enjoy working on hard problems, building teams, advising startups, and automating data to do more faster. I wrote this in markdown using Atom, blog using Jekyll, deployed using Netlify, and use AWS to host images. Previously, I was learning Ruby on Rails, Ember, Gatsby, but work/ volunteering has consumed my schedule. Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
+I enjoy working on hard problems, building teams, advising startups, and automating data to do more faster. I wrote this in markdown using Atom, blog using Jekyll, push code up using iTerm2, hosted at Netlify, and leverage AWS to host images/ files. Previously, I was learning Ruby on Rails, Ember, Gatsby, but work/ volunteering has consumed my schedule. Prior to falling in love with building from scratch I used WordPress, SharePoint, and DotNetNuke.
 
 ## Volunteer Experiences and Causes
 
@@ -213,6 +213,8 @@ I serve on the Property Development Committee. More about the committee's work, 
 The OSU Alumni Association is a non-profit 501c3 organization that is led by a board of directors. This volunteer board upholds the alumni association’s mission to inspire a lifelong connection for alumni, students and friends through learning, advocacy and community. Their goals are to deepen, broaden and improve the engagement with students and recent alumni as well as communicate the impact of alumni and of OSU on the world.
 
 In addition to upholding the OSU Alumni Association’s mission and goals, the board of directors are passionate about providing opportunities for alumni, students and OSU supports to get involved. From annual service projects to regular volunteer efforts, the board of directors and alumni association organize events and positions to ensure OSU continues to make a positive impact on students and alum as well as the world.
+
+Interested in getting connected? Tag or send me a message on [OSU Connections](https://osuconnections.org/).
 
 # Board of Directors
 *[LatinoBuilt](https://latinobuilt.org/) - Beaverton, Oregon, June 2020 to present*
@@ -237,7 +239,7 @@ Took a hiatus to build and scale [operationcode.org](http://operationcode.org).
 
 Created and co-organized a Dover Coders meetup group with another JPED co-worker, Lawrence Wehle, a contracted software engineer while I was deployed to Dover AFB. We had over a dozen meetups, and it was rewarding meeting local experienced programmers and learning from Lawrence himself. Quiet but profoundly smart and the IT backbone at JPED.
 
-Stepped down from Dover Coders when I exited Dover AFB back to Portland, Oregon.
+Stepped down when I exited Dover AFB back to Portland, Oregon.
 
 # Advisor
 
@@ -259,7 +261,9 @@ Resigned to focus on family and helping raise three little girls, two of which w
 
 *[Oregon Commission on Hispanic Affairs](http://www.oregon.gov/Hispanic/Pages/index.aspx) - Apr 2006 to Oct 2010*
 
-Governor-appointed to the commission, and in-between an active-duty mobilization, organized and co-hosted a community town hall on [civil rights with Attorney General John Kroger](https://www.flickr.com/photos/davidcmolina/albums/72157623488275662), organized and co-hosted a community town hall on [labor & employment rights with Labor Commissioner Brad Avakian](https://www.flickr.com/photos/davidcmolina/albums/72157623504913568), organized and hosted a [community town hall on healthcare](https://www.flickr.com/photos/davidcmolina/albums/72157623488286284) with distinguished public health advocates and agencies, testified before Senate Health Care Committee on Latino health disparities, [blogged](http://latinopoliticsblog.com/category/community-organizing-and-activism/david-molina/) and conducted numerous interviews on Spanish-language media, including: Univision, AlegreTV, LaGranD, LaPantera, and Tonalli Radio. In my final year, helped recruit Oregon Latino students to attend the [2010 U.S. Hispanic Leadership Institute (USHLI)](https://www.flickr.com/photos/davidcmolina/albums/72157623364078943) in Chicago.
+Governor-appointed to the commission, and in-between an active-duty mobilization, organized and co-hosted a community town hall on [civil rights with Attorney General John Kroger](https://www.flickr.com/photos/davidcmolina/albums/72157623488275662), organized and co-hosted a community town hall on [labor & employment rights with Labor Commissioner Brad Avakian](https://www.flickr.com/photos/davidcmolina/albums/72157623504913568), organized and hosted a [community town hall on healthcare](https://www.flickr.com/photos/davidcmolina/albums/72157623488286284) with distinguished public health advocates and agencies, testified before Senate Health Care Committee on Latino health disparities, [blogged](http://latinopoliticsblog.com/category/community-organizing-and-activism/david-molina/) and conducted numerous interviews on Spanish-language media, including: Univision, AlegreTV, LaGranD, LaPantera, and Tonalli Radio.
+
+Highlight: in my final year as commissioner, helped recruit over a dozen Oregon Latino students to attend the [2010 U.S. Hispanic Leadership Institute (USHLI)](https://davidmolina.github.io/2010/01/28/13-oregonian-chicano-latino-students-to-represent-at-ushli/) in Chicago.
 
 Resigned to focus on family and helping raise three little girls, two of which were newborn twins.
 
