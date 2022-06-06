@@ -217,7 +217,7 @@ In addition to upholding the OSU Alumni Association’s mission and goals, the b
 Interested in getting connected? Tag or send me a message on [OSU Connections](https://osuconnections.org/).
 
 # Board of Directors
-*[LatinoBuilt](https://latinobuilt.org/) - Beaverton, Oregon, June 2020 to present*
+*[LatinoBuilt](https://latinobuilt.org/) - Beaverton, Oregon, June 2020 to June 2022*
 
 LatinoBuilt (LB) is a trade association for Latino Contractors in Oregon founded in 2019. A 501c(6) nonprofit whose primary purpose is to support and empower Latino-owned businesses in construction. LB works with partners within the community to address the current inequities and connects contractors to public works project opportunities.
 
