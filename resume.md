@@ -221,7 +221,7 @@ Interested in getting connected? Tag or send me a message on [OSU Connections](h
 
 LatinoBuilt (LB) is a trade association for Latino Contractors in Oregon founded in 2019. A 501c(6) nonprofit whose primary purpose is to support and empower Latino-owned businesses in construction. LB works with partners within the community to address the current inequities and connects contractors to public works project opportunities.
 
-As a member of the executive board, I also serve concurrently on the LatinoBuilt Foundation where we're focused on the fundraising arm.
+Served on the executive board as Vice President and LatinoBuilt Foundation where we focused on the fundraising arm. 
 
 Follow LatinoBuilt on [Instagram](https://www.instagram.com/latinobuilt/) and join the conversation in building generational wealth in the Latina/o community.
 
