@@ -9,7 +9,7 @@ permalink: /resume/
 
 I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
 
-I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University, and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. When not making things happen, I'm documenting my life's journey over on [instagram](https://www.instagram.com/davidcmolina) and [Snapchat](https://snapchat.com/add/davidcmolina).
+I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University, and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. At any time, you can follow my life's journey over on [instagram](https://www.instagram.com/davidcmolina) or [Snapchat](https://snapchat.com/add/davidcmolina).
 
 ## Experience
 
@@ -221,7 +221,7 @@ Interested in getting connected? Tag or send me a message on [OSU Connections](h
 
 LatinoBuilt (LB) is a trade association for Latino Contractors in Oregon founded in 2019. A 501c(6) nonprofit whose primary purpose is to support and empower Latino-owned businesses in construction. LB works with partners within the community to address the current inequities and connects contractors to public works project opportunities.
 
-Served on the executive board as Vice President and LatinoBuilt Foundation where we focused on the fundraising arm. 
+Served on the executive board as Vice President and LatinoBuilt Foundation where we focused on the fundraising arm.
 
 Follow LatinoBuilt on [Instagram](https://www.instagram.com/latinobuilt/) and join the conversation in building generational wealth in the Latina/o community.
 
