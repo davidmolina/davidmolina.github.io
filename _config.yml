@@ -44,14 +44,17 @@ github_username:  davidmolina
 facebook_username: david.molina1
 instagram_username: davidcmolina
 
-# Permalink structure, see http://jekyllrb.com/docs/permalinks/
-permalink: /:year/:month/:day/:title/
-
-# Enable redirects
-gems:
-  - jekyll-redirect-from
-
 # Build settings
 markdown: kramdown
 encoding: UTF-8
 branch: master
+
+# Permalink structure, see http://jekyllrb.com/docs/permalinks/
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap
