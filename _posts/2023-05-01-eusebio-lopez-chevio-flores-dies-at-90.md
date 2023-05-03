@@ -18,8 +18,13 @@ Eusebio "Don Chevio" Lopez, age 90 of Compostela, Nayarit
 passed away peacefully at his home on Monday, May 1st, 2023
 surrounded by family. He was born September 11th, 1932 to Aurelio
 Flores and Catalina Lopez in Embocadero, Nayarit. He was preceded in
-death by his loving wife of 31 years, Inez Fonseca. He was also
-preceded in death by his siblings, Roberto, Lupe, Petritra, and
+death by his loving wife of 31 years, Inez Fonseca.
+
+<a href="#">
+    <img src="https://davidmolina.s3.us-west-2.amazonaws.com/inez_fonseca_eusebio_chevio_lopez.jpeg" alt="Don Chevio with Inez Fonseca">
+</a>
+
+He was also preceded in death by his siblings, Roberto, Lupe, Petritra, and
 Cenayda, daughter Lupita, niece Eloisa. He grew up working as a
 farmhand and later in life as bartender and small business owner.
 Eusebio loved gardening, fishing, traveling, and making the annual
@@ -43,10 +48,6 @@ organic pigs for sale in the local farmers market.
 For over 30 years he was a bartender for Cantina Dos Equis/ Chevios Bar. He married the love of his life, Inez Fonseca, in ~1962 and raised five children:
 Guadalupe, Catalina, Rosa Carmina, Eusebio, Maria del Rosario, and
 Francisco Javier.
-
-<a href="#">
-    <img src="https://davidmolina.s3.us-west-2.amazonaws.com/inez_fonseca_eusebio_chevio_lopez.jpeg" alt="Don Chevio with Inez Fonseca">
-</a>
 
 <a href="#">
     <img src="https://davidmolina.s3.us-west-2.amazonaws.com/don_chevio_portrait_young_children.jpeg" alt="Don Chevio with his young family">

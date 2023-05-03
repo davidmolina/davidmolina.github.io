@@ -49,6 +49,13 @@ markdown: kramdown
 encoding: UTF-8
 branch: master
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
 # Permalink structure, see http://jekyllrb.com/docs/permalinks/
 permalink: /:year/:month/:day/:title/
 
