@@ -46,7 +46,6 @@ instagram_username: davidcmolina
 
 # Build settings
 markdown: kramdown
-encoding: UTF-8
 branch: master
 
 defaults:
