@@ -7,7 +7,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on building a federal and commercial contracting company from the ground up. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
+I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on scaling a federal contracting company. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
 
 I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University, and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. At any time, you can follow my life's journey over on [instagram](https://www.instagram.com/davidcmolina) or [Snapchat](https://snapchat.com/add/davidcmolina).
 
@@ -16,7 +16,7 @@ I earned an B.A. in Political Science and Officer Commission in Infantry from Ar
 # President/ Owner
 *[Molinas Construction Company](https://www.molinas.co) - Portland, Oregon, Mar 2015 to present*
 
-I founded a federal and commercial contracting company supporting U.S. federal agencies and businesses out of my garage. Today, we've scaled to a small but dedicated management team, and specialized trade partners tackling some of our clients greatest building challenges helping diversify the trades with more veterans, women, Latina/os, immigrants and young people. When I'm not enroute to a site visit, participating in pre-construction or bid meetings, estimating using Bluebeam, on the phone or visiting subcontractors in the field, I'm head down building out our processes and systems to go further, faster.
+I founded a federal contracting company supporting U.S. federal agencies out of my garage. Today, we've scaled to a small but dedicated remote/ decentralized team, and specialized supply partners tackling some of our clients greatest infrastructure challenges helping diversify the trades with more veterans, women, Latina/os, immigrants and young people. When I'm not enroute to a site visit, participating in pre-construction or bid meetings, estimating using Bluebeam, on the phone or visiting subcontractors in the field, I'm head down building out our processes and systems to go further, faster.
 
 Learn more about Molinas Construction Company [here](https://www.molinas.co).
 

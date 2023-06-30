@@ -7,7 +7,7 @@ permalink: /now/
 
 Hey, I'm David Molina, entrepreneur, former Army Captain, and father of Maya, Paloma and Citlali, ages 14, 12 and 12.
 
-Currently, I'm focused on scaling  [Molinas](https://www.molinas.co), a federal contracting company, helping a friend with his government compliance firm, consulting startups, and paying it forward on the [Oregon State University (OSU) Alumni Association](https://fororegonstate.org/).
+Currently, I'm focused on scaling  [Molinas](https://www.molinas.co), a federal contracting company, helping a friend with his government compliance firm, and paying it forward on the [Oregon State University (OSU) Alumni Association](https://fororegonstate.org/).
 
 Previously, I served on the board of directors at the [Oregon Museum of Science and Industry](https://omsi.edu/), [LatinoBuilt](https://latinobuilt.org/), and a few years ago founded and led [Operation Code](https://www.operationcode.org), an open source project turned veterans 501c(3) nonprofit focused on expanding the New GI Bill to include code schools. In the 2018 Oregon election cycle I ran for the state legislature to represent [Forest Grove, Cornelius and West Hillsboro](https://www.molinafororegon.com/), but came up short in the general election against an entrenched incumbent. Between 2000 to 2013 I served in uniform, enlisted and officer, exiting Dover Air Force Base as an Army Captain. I started my career as a farmworker, the son of Mexican immigrants.
 
