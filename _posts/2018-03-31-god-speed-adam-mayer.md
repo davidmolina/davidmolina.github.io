@@ -14,7 +14,7 @@ header-img: "img/adam-mayer.png"
 
 <span class="caption text-muted" align="center">Adam & Christiana Mayer</span>
 
-This morning Oregon lost an American patriot— unexpectedly. We had just broke bread this past Wednesday at my Campaign Kick-Off. A fellow Republican PCP, Adam mostly spent the entire eve bottle feeding baby Edith. He leaves behind his amazing wife, Christiana, whom were married in in New York on September 24, 1994. That eve, at the former Cornelius Mayor’s home Adam introduced me to another PCP who would knock on doors. He had a big smile. It was coming along.
+This morning Oregon lost an American patriot— unexpectedly. We had just broke bread this past Wednesday at my Campaign Kick-Off. A fellow Republican PCP, Adam mostly spent the entire eve bottle feeding baby Edith. He leaves behind his amazing wife, Christiana, whom were married in New York on September 24, 1994. That eve, at the former Cornelius Mayor’s home Adam introduced me to another PCP who would knock on doors. He had a big smile. The campaign was coming along.
 
 A native of Queens New York, Adam had called Oregon his home for the latter half of 20 years. Adam worked to make it better. He was one of the first neighbors to say, “David, I'm Adam Mayer the County Secretary for the Washington County Republican Party and one of the PCP leaders in District 29.” At my first fall meeting for the county, Adam volunteered to give me a lift. He wore his fedora and introduced me to everyone I needed to know that day. When our campaign logo went live, he was the first on Facebook to use it as his profile picture— a true friend and supporter.
 
@@ -26,11 +26,13 @@ During this last Thanksgiving he and his better half, Christiana, had me over. H
 
 I was set to come over soon to cut down some branches with my STIHL carbide and help around the yard (his better half wouldn’t allow him to use one). He was looking forward to knocking on doors when the weather turned better.
 
-I’m still in shock that a key member of my campaign, a friend, and neighbor is no longer with us. I pray that he’s in a better place and that God will console Christiana’s devastating loss. He always called her dear, as in, “yes, dear.” I pray that Edith will grow up to know how much Adam loved and cherished her even in these short, but quick 3 months. Edith is going to be four months old on April 7th. 
+I’m still in shock that a key member of my campaign, a friend, and neighbor is no longer with us. I pray that he’s in a better place and that God will console Christiana’s devastating loss. He always called her dear, as in, “yes, dear.” I pray that Edith will grow up to know how much Adam loved and cherished her even in these short, but quick 3 months. Edith is going to be four months old on April 7th.
 
 I am thankful for the time we had him. I am thankful for all his guidance and wisdom as we ramped up, the intros he made, and his warmest hospitality. I am thankful for all he did to make Oregon, Washington County, Forest Grove, and community a better place through his generous time and willingness to rope people in to do more. To do their part as involved citizens.
 
 God Speed Adam and this one is for you buddy.
+
+*David Molina, former Army Captain and entrepreneur is a Republican running to represent Oregon House District 29 in Forest Grove, Cornelius and West Hillsboro. A second generation Mexican-American, David is running on safety, freedom, education and economic opportunity for all Oregonians. David will dearly miss his campaign manager Adam Mayer for all he did on the campaign trail and warm hospitality.*
 
 ---
 
