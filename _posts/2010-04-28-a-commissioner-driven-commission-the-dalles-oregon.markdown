@@ -10,10 +10,12 @@ The Oregon Commission on Hispanic Affairs has been on the offense meeting with b
 
 For the first time in many moons, this commission is proposing a key legislative proposal in the 2011 legislative session that improves the public safety of all drivers on the road, and increases business. If elected officials don't know we exist as a resource, that's a shame. If Latino residents in Oregon don't know we exist, that's a tragedy. We are part liaisons, part communicators, part negotiators, part quarterback, part policy and advocacy, and part diplomats.
 
-Our offices are anywhere in Oregon and our commissioners have extensive networks throughout the state and country. At the 39,000 feet level we handle strategy, but along with our community partners we're very skilled at the ground-level to shape those environments. This commission's members are spread from Portland to Medford, and like all great organizations, it's only as good as the commissioner's aboard. Fortunately, commissioners are appointed to replace others coming off all the time. This commissioner-driven commission is how we get things done. And, they start by meeting folks in their backyard and understanding the situation on the ground. Community by community we resolve issues. Now back to family and non-commission related work (at least momentarily).
+Our offices are anywhere in Oregon and our commissioners have extensive networks throughout the state and country. At the 39,000 feet level we handle strategy, but along with our community partners we're very skilled at the ground-level to shape those environments. This commission's members are spread from Portland to Medford, and like all great organizations, it's only as good as the commissioner's aboard. Fortunately, commissioners are appointed to replace others coming off all the time. This commissioner-driven commission is how we get things done. And, they start by meeting folks in their backyard and understanding the situation on the ground. Community by community we resolve issues. Now back to family and non-commission related work at least momentarily.
 
-Cheers again, from The Dalles, Oregon! Oh, and if you're going to the Cherry Festival, we'll see you there! -Commissioner Molina
+Cheers again, from The Dalles, Oregon! Oh, and if you're going to the Cherry Festival, we'll see you there!
+
 ---
+
 *Commissioner David Molina is an entrepreneur, blogger and Army Officer who was appointed by Governor Ted Kulongoski and has served on the Commission since April 2006 and as Vice Chair from July 1, 2008 to July 16, 2009.*
 
 [Originally posted on Posterous](http://molina.posterous.com/)
