@@ -24,4 +24,4 @@ Network. Your network is your net worth. After a few post-award conferences unde
 
 Few places I mentioned: [PTAC](https://www.aptac-us.org/contracting-assistance/), [Govology](https://govology.com/), and [sam.gov](https://sam.gov/content/home).
 
-*David Molina is owner of Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of mission critical requirements.*
+*An entrepreneur, strategist, and former Army Captain, David Molina owns Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of mission critical requirements.*

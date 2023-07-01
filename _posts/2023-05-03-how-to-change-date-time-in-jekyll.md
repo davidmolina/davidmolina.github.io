@@ -34,3 +34,5 @@ date: 2023-05-03 11:12:43 -0800
 ```
 
 The UTC time for the first one puts the blog post to the next day. Special thanks to Moncef for pairing w/ me and and highlighting this key takeaway.
+
+*An entrepreneur, strategist, and former Army Captain, David Molina owns Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of mission critical requirements.*

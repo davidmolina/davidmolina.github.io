@@ -12,7 +12,7 @@ For the first time in many moons, this commission is proposing a key legislative
 
 Our offices are anywhere in Oregon and our commissioners have extensive networks throughout the state and country. At the 39,000 feet level we handle strategy, but along with our community partners we're very skilled at the ground-level to shape those environments. This commission's members are spread from Portland to Medford, and like all great organizations, it's only as good as the commissioner's aboard. Fortunately, commissioners are appointed to replace others coming off all the time. This commissioner-driven commission is how we get things done. And, they start by meeting folks in their backyard and understanding the situation on the ground. Community by community we resolve issues. Now back to family and non-commission related work at least momentarily.
 
-Cheers again, from The Dalles, Oregon! Oh, and if you're going to the Cherry Festival, we'll see you there!
+Cheers again, from The Dalles, Oregon. Oh, and if you're going to the Cherry Festival, we'll see you there.
 
 ---
 

@@ -22,4 +22,4 @@ The lesson:
 
 Special thanks to [Allen Wyma](https://softwareengineeringdaily.com/2021/05/29/flutter-native-web-and-mobile-app-development-with-allen-wyma/) for pairing w/ me and highlighting this human error.
 
-*An entrepreneur, strategist, former political candidate and Army Captain, David Molina owns Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of mission critical requirements.*
+*An entrepreneur, strategist, and former Army Captain, David Molina owns Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of mission critical requirements.*

@@ -26,6 +26,8 @@ These two videos were our official campaign videos released that very week:
 
 Follow the Twitter conversation at [#operationcode](https://twitter.com/search?q=%23operationcode&src=typd).
 
+*An entrepreneur, father of 3, and former Army Captain, David Molina is founder and former executive director of Operation Code, a national 501(c)(3) veterans-led nonprofit focused on supporting the transition of active military, veterans and dependents to software careers.*
+
 ---
 
 Related articles:
