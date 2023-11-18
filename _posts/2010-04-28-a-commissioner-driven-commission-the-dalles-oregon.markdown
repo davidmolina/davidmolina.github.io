@@ -16,6 +16,6 @@ Cheers again, from The Dalles, Oregon. Oh, and if you're going to the Cherry Fes
 
 ---
 
-*Commissioner David Molina is an entrepreneur, blogger and Army Officer who was appointed by Governor Ted Kulongoski and has served on the Commission since April 2006 and as Vice Chair from July 1, 2008 to July 16, 2009.*
+*Commissioner David Molina, a small business owner and entrepreneur, was appointed by Governor Ted Kulongoski and has served on the Commission since April 2006 and as Vice Chair from July 1, 2008 to July 16, 2009. Molina earned a B.A. in Political Science and Officer Commission in Infantry from Oregon State University.*
 
 [Originally posted on Posterous](http://molina.posterous.com/)
