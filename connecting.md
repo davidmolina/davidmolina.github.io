@@ -9,11 +9,11 @@ The best way to follow what I'm up to:
 - [Snapchat - @davidcmolina](https://snapchat.com/add/davidcmolina)
 
 My time is limited on these networks:
+- [LinkedIn - @davidcmolina](https://www.linkedin.com/in/davidcmolina/)
 - [Facebook - /david.molina1](https://www.facebook.com/david.molina1)
 - [GitHub - @davidmolina](https://github.com/davidmolina/)
 
-Due to pressing demands, I'm not currently active on:
-- [LinkedIn - @davidcmolina](https://www.linkedin.com/in/davidcmolina/)
+Due to pressing demands, I'm not currently as active on:
 - [Twitter - @davidcmolina](https://twitter.com/davidcmolina)
 - [Medium - @davidcmolina](https://medium.com/@davidcmolina)
 - [Foursquare - @davidcmolina](https://foursquare.com/davidcmolina)
