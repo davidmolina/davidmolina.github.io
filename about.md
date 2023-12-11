@@ -6,7 +6,7 @@ permalink: /about/
 
 # David Molina.
 
-An entrepreneur, strategist, former political candidate and Army Captain, David Molina owns Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of there mission critical requirements. In support of U.S. food security, David serves as Government Affairs Counselor for Fuerza, a government compliance firm specializing in H-2A labor continuity in support of American family farms and economic development for foreign workers. David currently serves on the board of directors of the Oregon State University Alumni Association, and previously served on the board of Oregon Museum of Science and Industry and LatinoBuilt.  
+An entrepreneur, strategist, and Army Captain, David Molina owns Molinas, a government contracting firm specializing in equipment and material procurement for U.S. federal agencies in support of there mission critical requirements. In support of U.S. food security, David serves as Government Affairs Counselor for Fuerza, a government compliance firm specializing in H-2A labor continuity in support of American family farms and economic development for foreign workers. David currently serves on the board of directors of the Oregon State University Alumni Association, and previously served on the board of Oregon Museum of Science and Industry and LatinoBuilt.  
 
 ![David Molina Speaking at CodeConf](https://davidmolina.s3-us-west-2.amazonaws.com/codeconf_closeup_davidmolina.jpg
 ){:class="img-responsive"}
