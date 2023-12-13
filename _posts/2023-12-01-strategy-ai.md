@@ -2,7 +2,7 @@
 layout: post
 title:  "Strategy AI"
 subtitle: "How several INSEAD MBAs produced a similar strategy as a machine."
-date: 2023-12-02 11:12:43 -0800
+date: 2023-12-01 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
