@@ -17,8 +17,8 @@ A few items to note and thought process:
 
 As an employee, you get paid to be somewhere. Self employed have to account for the time they spend on the ground and place a value on their time, especially founders. Atomic Habit author James Clear wrote an extensive [blog post](https://jamesclear.com/value-of-time) about the value of time.
 
-If *t* is representative of time, then the *value of time* especially those self employed, business owners and investors increases. Meaning that within minutes of arriving on location someone that isn't an employee must quickly put a price on the value of their time, take into account time decay (time errodes and can't be purchased back) and determine if 7 minutes is the line in the sand.
+If *t* is representative of time, then the *value of time* especially those self employed, business owners and investors increases. Meaning that within minutes of arriving on location someone that isn't an employee must quickly put a price on the value of their time, take into account time decay (time erodes and can't be purchased back) and determine if 7 minutes is the line in the sand.
 
-Knowing when to pause and direct your time elsewhere is an important skillset to hone in on.
+Knowing when to pause and direct your time elsewhere is an important skill set to hone in on.
 
 *David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*
