@@ -19,6 +19,7 @@ On active duty at Dover AFB the commander’s briefing centered on a briefing qu
 Reporting Quadrant:
 ```javascript
 - __________|__________
+            |
 - Top left: Working on now
 - Top right: Working on next few
 - Bottom left: Next few months
