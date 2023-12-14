@@ -23,7 +23,7 @@ In Frankl's Foreward a few parts stood out:
 
 > You cannot control what happens to you in your life, but you can always control what you will feel and do about what happens to you.
 
-I do find meaning in taking in the sun every morning, the birds chirping, the feel of grass on my feet, and that we can do what we want to do and is needed in the world. 
+I do find meaning in taking in the sun every morning, the birds chirping, the feel of grass on my feet, and that we can do what we want to do and is needed in the world.
 
 #coffee #openlibrary #authors
 
