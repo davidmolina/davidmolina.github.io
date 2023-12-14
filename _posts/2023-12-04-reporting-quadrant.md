@@ -16,9 +16,14 @@ Often we see roles/ responsibilities early on before applying but what tools are
 
 On active duty at Dover AFB the commander’s briefing centered on a briefing quadrant. Looked like this
 
-Working on now       Working on next few
-—————————--------|——————--------—————-
-Next few months      What’s keeping me up
+Reporting Quadrant:
+```javascript
+- __________|__________
+- Top left: Working on now
+- Top right: Working on next few
+- Bottom left: Next few months
+- Bottom right: What’s keeping me up
+```
 
 The briefing tool is designed to be interactive, including:
 - Few bullet items per quadrant
