@@ -25,6 +25,6 @@ Thus it came at total surprise, maybe not, reading that several INSEAD MBAs were
 
 So very close. Developed in about the same amount of time. This year we heard a lot about AI, and what this tells us is 2024 will be the year more companies will be hiring Heads of AI in order to integrate open source and regenerative AI into their flow.
 
-Starting with who? The [federal government of course](https://federalnewsnetwork.com/artificial-intelligence/2023/11/omb-tells-agencies-to-name-chief-ai-officer-to-accelerate-tech-adoption-across-government/).
+One of the first in the queue? The [federal government of course](https://federalnewsnetwork.com/artificial-intelligence/2023/11/omb-tells-agencies-to-name-chief-ai-officer-to-accelerate-tech-adoption-across-government/).
 
 *David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*
