@@ -11,12 +11,12 @@ This afternoon I observed a conversation between an owner and an employee. The c
 
 At a high level these are covered in a job description. A job description covers these in detail, but what about organizationally and day-to-day?
 
-Roles/ responsibilities
+### Roles/ Responsibilities
 Often we see roles/ responsibilities early on before applying but what tools are avail once the employee (or subordinates) are in place and how do you keep the updates clear, concise, measurable and informative?
 
 On active duty at Dover AFB the commander’s briefing centered on a briefing quadrant. Looked like this
 
-Reporting Quadrant:
+### Reporting Quadrant:
 ```javascript
 - __________|__________
             |
