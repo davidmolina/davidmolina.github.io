@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speaking At Tech Jobs Tour Seattle."
+title:  "Speaking At Tech Jobs Tour Seattle"
 date:   2017-05-23 01:01:01 -0500
 categories: jekyll update
 ---

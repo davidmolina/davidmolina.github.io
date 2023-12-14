@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "United States Two Stark Choices and Food Security"
-subtitle: "The United States faces two stark choices: U.S. Food Security or import from abroad often with zero or little environmental oversight."
+subtitle: "The United States Faces Two Stark Choices: U.S. Food Security or Import From Abroad Often With Zero or Little Environmental Oversight"
 date: 2023-03-07 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update

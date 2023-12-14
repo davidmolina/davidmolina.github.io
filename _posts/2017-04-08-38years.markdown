@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "David Molina at 38."
+title:  "David Molina at 38"
 date:   2017-04-08 04:02:43 -0800
 categories: jekyll update
 ---

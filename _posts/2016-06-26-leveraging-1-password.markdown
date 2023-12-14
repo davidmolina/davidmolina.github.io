@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leveraging 1Password."
+title:  "Leveraging 1Password"
 date:   2016-06-26 11:02:43 -0800
 categories: jekyll update
 ---

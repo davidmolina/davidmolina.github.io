@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Full descriptive biographies."
+title:  "Full Descriptive Biographies"
 date:   2016-04-07 14:12:43 -0800
 categories: jekyll update
 ---

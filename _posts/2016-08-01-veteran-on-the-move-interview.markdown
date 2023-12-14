@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interview with Joe Crane at Veteran on the Move Podcast."
+title:  "Interview with Joe Crane at Veteran on the Move Podcast"
 date:   2016-08-01 10:02:43 -0800
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Overcoming care."
+title:  "Overcoming Care"
 date:   2016-04-12 14:12:43 -0800
 categories: jekyll update
 ---

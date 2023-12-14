@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy New Year Everyone."
+title:  "Happy New Year Everyone"
 date:   2017-01-01 04:02:43 -0800
 categories: jekyll update
 ---

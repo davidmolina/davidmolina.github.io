@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dorchester Conference, Welches, Oregon."
+title:  "Dorchester Conference, Welches, Oregon"
 subtitle: "Heading to Welches this weekend for the oldest annual political conference in the United States"
 date:   2019-04-12 08:12:43 -0800
 author: "David Molina"

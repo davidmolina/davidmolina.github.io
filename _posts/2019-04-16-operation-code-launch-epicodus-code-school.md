@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Operation Code Launch Four Years Ago Today."
+title:  "Operation Code Launch Four Years Ago Today"
 subtitle: "Today, April 16, 2019 marks four years since the Operation Code launch party at Portland-based Epicodus code school"
 date:   2019-04-16 08:12:43 -0800
 author: "David Molina"

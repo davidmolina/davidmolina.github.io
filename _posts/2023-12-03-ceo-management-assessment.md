@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CEO management assessment"
+title:  "CEO Management Assessment"
 subtitle: "An assessment to help you as the CEO become better."
 date: 2023-12-03 11:12:43 -0800
 author: "David Molina"

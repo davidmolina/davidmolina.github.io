@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy Christmas Eve."
+title:  "Happy Christmas Eve"
 date:   2016-12-24 04:02:43 -0800
 categories: jekyll update
 ---

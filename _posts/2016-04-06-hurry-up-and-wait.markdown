@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hurry up and wait."
+title:  "Hurry Up and Wait"
 date:   2016-04-06 12:12:43 -0800
 categories: jekyll update
 ---

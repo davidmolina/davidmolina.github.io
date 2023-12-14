@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekend at Lincoln City."
+title:  "Weekend at Lincoln City"
 date:   2016-07-31 10:02:43 -0800
 categories: jekyll update
 ---

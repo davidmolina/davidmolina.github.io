@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Never judge a restaurant by its cover."
+title:  "Never Judge a Restaurant by its Cover"
 date:   2011-02-20 08:12:43 -0800
 categories: jekyll update
 ---

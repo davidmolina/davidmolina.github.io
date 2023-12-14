@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hacking Entrepreneurship — An Interview with David Molina of Operation Code."
+title:  "Hacking Entrepreneurship — An Interview with David Molina of Operation Code"
 subtitle: "David Molina is the Founder & CEO of Operation Code, a 501(c)(3) nonprofit organization that helps the military community learn software development, enter the tech industry, and code the future. David grew up in Mount Vernon, WA and spent over a decade in uniform before learning to code through hackathons, tech meetups, and open source conferences. He took this experience and wrote the first iteration of Operation Code in Ruby on Rails to petition Congress to expand the new GI Bill to include code schools. He lives with his wife and three daughters in Forest Grove, OR and sometimes travels to D.C. to speak on veterans and tech."
 date:   2018-01-17 08:12:43 -0800
 author: "David Molina"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Happens When Military Veterans Learn to Code. CodeConf LA 2016."
+title:  "What Happens When Military Veterans Learn to Code. CodeConf LA 2016"
 date:   2016-06-29 11:02:43 -0800
 categories: jekyll update
 ---

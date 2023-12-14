@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Calm Before the ThinkMujer Summit Storm."
+title:  "The Calm Before the ThinkMujer Summit Storm"
 date:   2016-06-02 14:12:43 -0800
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Going Backwards in New York City. Airbnb."
+title:  "Going Backwards in New York City. Airbnb"
 date:   2016-06-18 14:02:43 -0800
 categories: jekyll update
 ---

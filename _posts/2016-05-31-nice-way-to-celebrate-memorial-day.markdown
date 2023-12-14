@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Nice Way To Celebrate Memorial Day."
+title:  "A Nice Way To Celebrate Memorial Day"
 date:   2016-05-31 14:12:43 -0800
 categories: jekyll update
 ---

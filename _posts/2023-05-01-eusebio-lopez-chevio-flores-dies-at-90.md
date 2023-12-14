@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Eusebio Don Chevio Lopez, el abuelo, age 90 of Compostela,
-Nayarit departs to the other side."
+title:  "Eusebio Don Chevio Lopez, el Abuelo, Age 90 of Compostela,
+Nayarit Departs to the Other Side"
 subtitle: "He was born September 11th, 1932 to Aurelio Flores and
 Catalina Lopez in Embocadero, Nayarit."
 date: 2023-05-01 11:12:43 -0800

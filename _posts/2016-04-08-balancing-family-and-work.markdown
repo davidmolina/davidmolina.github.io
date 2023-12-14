@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Balancing family and work."
+title:  "Balancing Family and Work"
 date:   2016-04-08 14:12:43 -0800
 categories: jekyll update
 ---

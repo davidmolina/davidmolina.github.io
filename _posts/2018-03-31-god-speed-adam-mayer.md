@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "God Speed Adam Mayer."
+title:  "God Speed Adam Mayer"
 subtitle: "This morning Oregon lost an American patriot— unexpectedly. Rest in peace brother."
 date:   2018-03-31 08:12:43 -0800
 author: "David Molina"

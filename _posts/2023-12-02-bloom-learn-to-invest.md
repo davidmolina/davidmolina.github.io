@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bloom, learn to invest app"
+title:  "Bloom, Learn to Invest App"
 subtitle: "What app does on of my twins, 13 year old, . Citlali use?"
 date: 2023-12-02 11:12:43 -0800
 author: "David Molina"

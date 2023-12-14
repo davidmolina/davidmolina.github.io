@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Helping one Kayla Asay at at time."
+title:  "Helping One Kayla Asay at a Time"
 date:   2017-07-21 08:12:43 -0800
 categories: jekyll update
 ---

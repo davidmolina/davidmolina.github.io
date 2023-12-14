@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Latino Founder Hour: David Molina Geeking Out with Operation Code."
+title:  "Latino Founder Hour: David Molina Geeking Out with Operation Code"
 subtitle: "David Molina (ret. Captain U.S. Army) is Founder of Operation Code and self-taught writing the first line of code to petition Congress to expand the New GI Bill to include coding schools, a benefit he couldn’t use after exiting after 12 years in uniform. An entrepreneur, David has built numerous startups, has testified before members of Congress to expand technical education for veterans and spouses, and as a former captain in the Army was recipient of the Lt. Rowan Award, Meritorious Service Medal and Army Commendation Medal."
 date:   2019-03-13 08:12:43 -0800
 author: "David Molina"

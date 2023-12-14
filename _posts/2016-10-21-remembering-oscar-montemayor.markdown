@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remembering Oscar Montemayor."
+title:  "Remembering Oscar Montemayor"
 date:   2016-10-21 04:02:43 -0800
 categories: jekyll update
 ---

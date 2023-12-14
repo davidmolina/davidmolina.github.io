@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launching a nonprofit, the Operation Code way."
+title:  "Launching a Nonprofit, the Operation Code Way"
 date:   2017-07-22 08:12:43 -0800
 categories: jekyll update
 ---

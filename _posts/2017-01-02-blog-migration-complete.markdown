@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blog Migration Complete."
+title:  "Blog Migration Complete"
 date:   2017-01-02 04:02:43 -0800
 categories: jekyll update
 ---
@@ -15,7 +15,7 @@ There was no easy way of pulling it in, so I went through the arduous ritual of 
 
 I absolutely love the ability to write in markdown using [Atom](https://atom.io/), utilizing the [command line](https://www.iterm2.com/), leveraging [Jekyll](https://jekyllrb.com/), and committing my work to [GitHub](https://github.com/davidmolina). Every time I commit some code, I learn something new.
 
-The migration is now complete. Feels good to be under one roof. 
+The migration is now complete. Feels good to be under one roof.
 
 I appreciate Earl's advice on that train and turning me onto the Internet Archive.
 

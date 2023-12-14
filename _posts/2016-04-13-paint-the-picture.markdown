@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paint the picture."
+title:  "Paint the Picture"
 date:   2016-04-13 14:12:43 -0800
 categories: jekyll update
 ---

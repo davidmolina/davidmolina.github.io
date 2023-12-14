@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Counting My Lucky Stars."
+title:  "Counting My Lucky Stars"
 date:   2017-06-13 08:12:43 -0800
 categories: jekyll update
 ---

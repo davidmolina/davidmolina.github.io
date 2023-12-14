@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mole and Interview Cake With Kyle Holmberg."
+title:  "Mole and Interview Cake With Kyle Holmberg"
 date:   2017-05-23 00:00:03 -0100
 categories: jekyll update
 ---

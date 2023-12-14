@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The day my network expanded by a Twitter DM."
+title:  "The Day my Network Expanded by a Twitter DM"
 date:   2016-01-14 17:12:43 -0800
 categories: jekyll update
 ---

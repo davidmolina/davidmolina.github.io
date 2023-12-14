@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Operation Code Interviews with Vets in Tech - David Molina, former U.S. Army Captain."
+title:  "Operation Code Interviews with Vets in Tech - David Molina, former U.S. Army Captain"
 subtitle: "Ep. 002 - David Molina is the founder of Operation Code. In this interview, he describes his Army career, how he found his way into the tech industry with no prior training, and how he started Operation Code to help veterans like him learn software and code the future."
 date:   2019-01-15 08:12:43 -0800
 author: "David Molina"

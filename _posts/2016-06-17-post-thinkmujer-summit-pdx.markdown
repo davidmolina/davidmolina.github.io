@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post-ThinkMujer Summit Portland."
+title:  "Post-ThinkMujer Summit Portland"
 date:   2016-06-17 14:02:43 -0800
 categories: jekyll update
 ---

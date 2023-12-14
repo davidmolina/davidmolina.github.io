@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Molina Recommends Rework & Be Like Rowan."
+title:  "Why Molina Recommends Rework & Be Like Rowan"
 date:   2011-02-24 08:12:43 -0800
 categories: jekyll update
 ---

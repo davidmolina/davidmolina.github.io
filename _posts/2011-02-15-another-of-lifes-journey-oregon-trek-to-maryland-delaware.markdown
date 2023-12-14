@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Another of Life's Journey. Oregon Trek to Maryland/Delaware."
+title:  "Another of Life's Journey. Oregon Trek to Maryland/Delaware"
 date:   2011-02-15 08:12:43 -0800
 categories: jekyll update
 ---

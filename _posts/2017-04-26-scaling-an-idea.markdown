@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scaling an idea."
+title:  "Scaling an Idea"
 date:   2017-04-26 04:02:43 -0800
 categories: jekyll update
 ---

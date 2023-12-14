@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SSH Keys. Trello and Meetups."
+title:  "SSH Keys, Trello and Meetups"
 date:   2016-03-18 17:12:43 -0800
 categories: jekyll update
 ---

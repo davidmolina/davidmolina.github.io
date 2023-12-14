@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tech Inclusion Seattle."
+title:  "Tech Inclusion Seattle"
 date:   2017-06-14 08:12:43 -0800
 categories: jekyll update
 ---

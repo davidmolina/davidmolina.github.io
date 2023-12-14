@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to change date time in Jekyll."
+title:  "How to Change Date Time in Jekyll"
 subtitle: "Changing date time back in Jekyll."
 date: 2023-05-03 11:12:43 -0800
 author: "David Molina"
