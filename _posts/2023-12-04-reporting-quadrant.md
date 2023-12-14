@@ -23,7 +23,7 @@ Reporting Quadrant:
 - Top left: Working on now
 - Top right: Working on next few
 - Bottom left: Next few months
-- Bottom right: What’s keeping me up
+- Bottom right: What is keeping me up at night
 ```
 
 The briefing tool is designed to be interactive, including:
@@ -32,7 +32,7 @@ The briefing tool is designed to be interactive, including:
 - What’s on the burner now and where is our attention going
 - Provides team members opportunity to engage, discover and troubleshoot
 - Everyone in the briefing learns quickly
-- The senior or owner adds value on the last quadrant by unbottlenecking issues which builds further momentum
+- The senior or owner adds value on the last quadrant by un-bottlenecking issues which builds further momentum
 
 The key is to make updates informative, organized and provide an opportunity to discover bottlenecks. Owners have the most influence here. This is where they should live the most and pays the most dividends.
 
