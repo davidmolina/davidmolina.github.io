@@ -35,8 +35,6 @@ navigation:
     url: /events
   - title: Resume
     url: /resume
-  - title: Consulting
-    url: /consulting
 
 # Misc
 twitter_username: davidcmolina
