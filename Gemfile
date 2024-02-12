@@ -12,7 +12,6 @@ ruby "3.2.2"
 # Happy Jekylling!
 
 # gem 'jekyll', '3.8.5'
-gem 'github-pages'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem 'minima', '~> 2.0'
@@ -20,6 +19,7 @@ gem 'jekyll-redirect-from'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem 'github-pages', '=228'
   gem 'jekyll-feed'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
