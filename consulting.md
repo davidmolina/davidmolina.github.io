@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Subscribe
-permalink: /subscribe/
+title: Consulting
+permalink: /consulting
+redirect_to:
+  - https://molinas.consulting/
 ---
 
 You can subscribe to [David Molina](https://davidmolina.github.io/) by email and have the latest and greatest delivered to your inbox within the hour of going live.

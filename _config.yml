@@ -7,7 +7,7 @@ email: david.c.molina@gmail.com
 
 # RDF structured data
 job_title: Entrepreneur
-employer: Molinas Construction Company.
+employer: Strategist.
 url: "https://davidmolina.github.io/"
 location:
   city: Portland
@@ -25,18 +25,18 @@ social:
 navigation:
   - title: About
     url: /about
-  - title: Connecting
-    url: /connecting
-  - title: Events
-    url: /events
   - title: Now
     url: /now
   - title: Press
     url: /press
+  - title: Connecting
+    url: /connecting
+  - title: Events
+    url: /events
   - title: Resume
     url: /resume
-  - title: Contact
-    url: /contact
+  - title: Consulting
+    url: /consulting
 
 # Misc
 twitter_username: davidcmolina
