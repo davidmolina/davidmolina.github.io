@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-excerpt: 'The resume of David Molina.'
 permalink: /resume/
 ---
 

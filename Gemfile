@@ -19,12 +19,13 @@ gem 'jekyll-redirect-from'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'github-pages', '=228'
+  gem 'github-pages', '=229'
   gem 'jekyll-feed'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem 'webrick'
+  gem 'faraday-retry'
   gem 'jekyll-sass-converter'
 end
 
