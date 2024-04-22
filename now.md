@@ -10,7 +10,7 @@ After a combined 20+ years of service to country in uniform, various startups an
 
 As a business broker, I advise and help business owners with $1M+ revenue with selling their business so they can retire before the age of 82 and move onto the next chapter in their lives. I pay it forward on the [Oregon State University Alumni Association](https://fororegonstate.org/) and mentoring the next generation of students and sharing what I know with small business owners.
 
-Previously, I served on the boards of [OMSI](https://omsi.edu/), [LatinoBuilt](https://latinobuilt.org/), and [Governor's Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx).
+Previously, I served on the boards of the [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), [LatinoBuilt](https://latinobuilt.org/), and [Governor's Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx).
 
 In 2014 I founded and led [Operation Code](https://www.operationcode.org) to lobby Congress to expand the New GI Bill to include code schools and help transition veterans/ military family to careers in software and build the veterans technical talent pipeline.
 
