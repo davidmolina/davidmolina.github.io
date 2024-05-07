@@ -14,7 +14,7 @@ Previously, I served on the boards of the [Oregon State University Alumni Associ
 
 In the 2018 election cycle I ran for the Oregon State Legislature to represent Forest Grove, Cornelius and West Hillsboro, but came up short in the general election against an entrenched incumbent.
 
-In 2014 I founded and led [Operation Code](https://www.operationcode.org) to lobby Congress to expand the New GI Bill to include code schools and help transition veterans/ military family to careers in software development and build the nation's technical talent pipeline shortage w/ veterans and military spouses.
+After military service I founded and led [Operation Code](https://www.operationcode.org) to lobby Congress to expand the New GI Bill to include code schools and help transition veterans/ military family to careers in software development and build the nation's technical talent pipeline shortage w/ veterans and military spouses.
 
 I served in uniform, enlisted and officer, as a Private First Class, Aide-de-Camp to a General Officer, Summary Court Martial Officer, Protocol Officer, Public Affairs Officers and S-2/3 Officer in Charge (OIC) exiting Dover AFB in 2013 after a decade in uniform.
 
