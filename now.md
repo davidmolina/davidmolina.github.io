@@ -4,19 +4,19 @@ layout: page
 permalink: /now/
 ---
 
-Hey, I'm David Molina, entrepreneur, strategist, former Army Captain, and father of Maya, Paloma and Citlali, ages 15, 13 and 13.
+Hey, I'm David Molina, entrepreneur, [strategist](https://molinas.consulting/), former Army Captain, and father of Maya, Paloma and Citlali, ages 15, 13 and 13.
 
 After a combined 20+ years of service to country in uniform, various startups and companies ranging in size and customers I'm on mission to channel these experiences and lessons learned to best help business owners exit and retire.
 
-As a business broker, I advise and help business owners with $1M+ revenue with selling their business so they can retire before the age of 82 and move onto the next chapter in their lives. I pay it forward on the [Oregon State University Alumni Association](https://fororegonstate.org/) and mentoring the next generation of students and sharing what I know with small business owners.
+As a business broker, I advise and help business owners with $1M+ revenue with selling their business so they can retire before the age of 82 and move onto the next chapter in their lives.
 
-Previously, I served on the boards of the [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), [LatinoBuilt](https://latinobuilt.org/), and [Governor's Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx).
-
-In 2014 I founded and led [Operation Code](https://www.operationcode.org) to lobby Congress to expand the New GI Bill to include code schools and help transition veterans/ military family to careers in software and build the veterans technical talent pipeline.
-
-I served in uniform, enlisted and officer, as a Private First Class, Aide-de-Camp, Summary Court Martial Officer, Protocol Officer, Public Affairs Officers and S-2/3 Officer in Charge (OIC) exiting Dover AFB in 2013 after a decade in uniform.
+Previously, I served on the boards of the [Oregon State University Alumni Association](https://fororegonstate.org/), [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), [LatinoBuilt](https://latinobuilt.org/), and [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx).
 
 In the 2018 election cycle I ran for the Oregon State Legislature to represent Forest Grove, Cornelius and West Hillsboro, but came up short in the general election against an entrenched incumbent.
+
+In 2014 I founded and led [Operation Code](https://www.operationcode.org) to lobby Congress to expand the New GI Bill to include code schools and help transition veterans/ military family to careers in software development and build the nation's technical talent pipeline shortage w/ veterans and military spouses.
+
+I served in uniform, enlisted and officer, as a Private First Class, Aide-de-Camp to a General Officer, Summary Court Martial Officer, Protocol Officer, Public Affairs Officers and S-2/3 Officer in Charge (OIC) exiting Dover AFB in 2013 after a decade in uniform.
 
 I started my career as a farmworker in the Skagit Valley picking berries, harvesting oysters and driving forklift/ trucks for fruit warehouses.
 
@@ -32,4 +32,4 @@ In the last year I've been enrolled in a masterclass focused on lifestyle medici
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was last made December 13, 2023.
+This update was last made May 5, 2024.

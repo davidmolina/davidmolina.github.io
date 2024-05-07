@@ -6,7 +6,7 @@ permalink: /about/
 
 # David Molina.
 
-An entrepreneur, strategist, business broker and former Army Captain, David Molina spends his time helping business owners exit and retire before the age of 82. David currently serves on the alumni association board of his alma mater Oregon State University. Previously, David volunteered on the boards of the [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), [LatinoBuilt](https://latinobuilt.org/), and national veterans nonprofit [Operation Code](https://operationcode.org/). In his early 20s, David served his community with a governor-appointment to the [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx).
+An entrepreneur, [strategist](https://molinas.consulting/), business broker and former Army Captain, David Molina spends his time helping business owners exit and retire before the age of 82. Previously, David volunteered on the boards of the [Oregon State University Alumni Association](https://fororegonstate.org/), [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), [LatinoBuilt](https://latinobuilt.org/), and national veterans nonprofit [Operation Code](https://operationcode.org/). In his early 20s, David served his community with a governor-appointment to the [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx).
 
 ![David Molina Speaking at CodeConf](https://davidmolina.s3-us-west-2.amazonaws.com/codeconf_closeup_davidmolina.jpg
 ){:class="img-responsive"}

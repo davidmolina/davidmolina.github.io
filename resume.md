@@ -199,21 +199,21 @@ I enjoy working on hard problems, building teams, advising startups, and automat
 
 ## Volunteer Experiences and Causes
 
-# Board of Trustees
-*[Oregon Museum of Science and Industry (OMSI) Board of Trustees](https://omsi.edu/history-and-mission) - Portland, Oregon, Jan 2022 to present*
-
-Founded in 1944, the Oregon Museum of Science and Industry (OMSI) is one of the nation’s leading science museums and a trusted educational resource for communities throughout Oregon and the region. Through museum exhibitions, public programs at the museum and across the region, outdoor programs, traveling exhibitions, digital learning, and learning research and design, OMSI nourishes a lifelong love of science, curiosity and learning for diverse audiences. OMSI's mission is to inspire curiosity through engaging science learning experiences, foster experimentation and the exchange of ideas, and stimulate informed action.
-
-I serve on the Property Development Committee. More about the committee's work, here [OMSI District: Plans call for 3 million square feet of buildings in Portland east of the Willamette](https://www.bizjournals.com/portland/news/2021/12/08/omsi-district-portland-preston-greene.html).
-
 # Board of Directors
-*[OSU Alumni Association Board of Directors](https://www.fororegonstate.org/about/volunteer-board-leadership/osu-alumni-association-board-of-directors) - Corvallis, Oregon, Sep 2021 to present*
+*[OSU Alumni Association Board of Directors](https://www.fororegonstate.org/about/volunteer-board-leadership/osu-alumni-association-board-of-directors) - Corvallis, Oregon, Sep 2021 to May 2024*
 
 The OSU Alumni Association is a non-profit 501c3 organization that is led by a board of directors. This volunteer board upholds the alumni association’s mission to inspire a lifelong connection for alumni, students and friends through learning, advocacy and community. Their goals are to deepen, broaden and improve the engagement with students and recent alumni as well as communicate the impact of alumni and of OSU on the world.
 
 In addition to upholding the OSU Alumni Association’s mission and goals, the board of directors are passionate about providing opportunities for alumni, students and OSU supports to get involved. From annual service projects to regular volunteer efforts, the board of directors and alumni association organize events and positions to ensure OSU continues to make a positive impact on students and alum as well as the world.
 
 Interested in getting connected? Tag or send me a message on [OSU Connections](https://osuconnections.org/).
+
+# Board of Trustees
+*[Oregon Museum of Science and Industry (OMSI) Board of Trustees](https://omsi.edu/history-and-mission) - Portland, Oregon, Jan 2022 to Nov 2022*
+
+Founded in 1944, the Oregon Museum of Science and Industry (OMSI) is one of the nation’s leading science museums and a trusted educational resource for communities throughout Oregon and the region. Through museum exhibitions, public programs at the museum and across the region, outdoor programs, traveling exhibitions, digital learning, and learning research and design, OMSI nourishes a lifelong love of science, curiosity and learning for diverse audiences. OMSI's mission is to inspire curiosity through engaging science learning experiences, foster experimentation and the exchange of ideas, and stimulate informed action.
+
+I serve on the Property Development Committee. More about the committee's work, here [OMSI District: Plans call for 3 million square feet of buildings in Portland east of the Willamette](https://www.bizjournals.com/portland/news/2021/12/08/omsi-district-portland-preston-greene.html).
 
 # Board of Directors
 *[LatinoBuilt](https://latinobuilt.org/) - Beaverton, Oregon, June 2020 to June 2022*
