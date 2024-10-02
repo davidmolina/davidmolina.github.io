@@ -4,7 +4,7 @@ layout: page
 permalink: /now/
 ---
 
-Hey, I'm David Molina, entrepreneur, [strategist](https://molinas.consulting/), former Army Captain, and father of Maya, Paloma and Citlali, ages 16, 13 and 13.
+Hey, I'm David Molina, entrepreneur, [strategist](https://molinas.consulting/), former Army Captain, and father of Maya, Paloma and Citlali, ages 16, 14 and 14.
 
 After a combined 20+ years of service to country in uniform, various startups and companies ranging in size and customers I'm on mission to channel these experiences and lessons learned to best help business owners exit and retire.
 
@@ -32,4 +32,4 @@ In the last 18 months I've been enrolled in a masterclass focused on lifestyle m
 
 This `/now` page was inspired by [Derek Sivers](https://sivers.org/) and his /[now project](https://sivers.org/nowff).
 
-This update was last made August 13, 2024.
+This update was last made October 2, 2024.
