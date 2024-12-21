@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Summary
 
-I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on using my 20+ years military, entrepreneurship and board experiences to navigate business owners sell and retire. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
+I am an entrepreneur who served over a decade in uniform, both enlisted and officer, currently focused on using my 20+ years military, entrepreneurship and board experiences to help business owners sell and retire w/ advisory services, valuations and exit planning. Previously, I ran for the state legislature (and lost), and prior to this self-taught myself Ruby on Rails and built [operationcode.org](https://operationcode.org/) to petition Congress to expand the New GI Bill to include [code schools](https://operationcode.org/code_schools).
 
 I earned an B.A. in Political Science and Officer Commission in Infantry from Army ROTC at Oregon State University, and originally from a small farming town just 60 miles north of Seattle called Mount Vernon. At any time, you can follow my life's journey over on [social media](https://davidmolina.github.io/connecting/).
 
