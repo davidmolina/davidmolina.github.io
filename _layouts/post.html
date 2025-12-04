@@ -27,5 +27,19 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+    <nav class="post-nav">
+    {% if page.previous %}
+      <a class="post-nav-older" href="{{ page.previous.url | relative_url }}">
+        &larr; Older: {{ page.previous.title }}
+      </a>
+    {% endif %}
+
+    {% if page.next %}
+      <a class="post-nav-newer" href="{{ page.next.url | relative_url }}">
+        Newer: {{ page.next.title }} &rarr;
+      </a>
+    {% endif %}
+  </nav>
 
 </article>
