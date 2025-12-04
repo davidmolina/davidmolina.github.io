@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Intentional Travels"
-description: "Bridging the gap between Slack, Zoom and virtual meetups to in person conversations..."
+description: >
+    Bridging the gap between Slack, Zoom and virtual meetups to in person conversations...
 image: "https://davidmolina.s3.us-west-2.amazonaws.com/palm-tree.jpeg"
 date: 2025-11-29 11:12:43 -0800
 author: "David Molina"

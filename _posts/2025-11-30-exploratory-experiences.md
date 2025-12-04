@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Exploratory Experiences"
-description: "Take the bus, experience new scenery, and check your blindspots..."
+description: >
+    Take the bus, experience new scenery, and check your blindspots...
 image: "https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_unionstation.jpeg"
 date: 2025-11-30 11:12:43 -0800
 author: "David Molina"

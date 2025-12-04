@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Leveraging Nature"
-description: "Over the past three years I've transitioned from prescriptive medicine to lifestyle medicine, one in which health is the foundation of living. This has resulted in losing over 77lbs..."
+description: > 
+    Over the past three years I've transitioned from prescriptive medicine to lifestyle medicine, one in which health is the foundation of living. This has resulted in losing over 77lbs...
 image: "https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_coffee.jpeg"
 date: 2025-11-27 11:12:43 -0800
 author: "David Molina"
