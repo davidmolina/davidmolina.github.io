@@ -1,6 +1,9 @@
 ---
-title: Resume
 layout: page
+title: Resume
+description: >
+    David Molina served in uniform, enlisted and officer, rising to the rank of Army Captain, founded Operation Code....
+author: "David Molina"
 permalink: /resume/
 ---
 

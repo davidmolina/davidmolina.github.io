@@ -1,6 +1,9 @@
 ---
-title: What I'm Doing Now
 layout: page
+title: What I'm Doing Now
+description: >
+    David Molina served in uniform, enlisted and officer, rising to the rank of Army Captain, founded Operation Code....
+author: "David Molina"
 permalink: /now/
 ---
 
