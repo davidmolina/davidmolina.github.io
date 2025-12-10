@@ -2,7 +2,7 @@
 layout: page
 title: Connecting
 description: >
-    The best way to connect with David Molina on various social media platforms and find out what he's up to.
+    The best way to connect with David Molina on the internet.
 author: "David Molina"
 permalink: /connecting/
 ---

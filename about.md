@@ -2,7 +2,7 @@
 layout: page
 title: About David Molina
 description: >
-    David Molina is an entrepreneur, former Army Captain, and systems-driven founder known for building ventures that blend technology, operations, and human performance.
+    An entrepreneur, strategist, business broker and former Army Captain, David Molina spends his time helping business owners exit and retire before the age of 82.
 author: "David Molina"
 permalink: /about/
 ---

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Events
+description: >
+    David Molina has appeared at the House Veterans Affairs Subcommittee on Economic Opportunity, GitHub Universe, Bunker Labs, and CodeConf LA.
 author: "David Molina"
 permalink: /events/
 ---

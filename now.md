@@ -2,7 +2,7 @@
 layout: page
 title: What I'm Doing Now
 description: >
-    David Molina is an entrepreneur, former Army Captain, and systems-driven founder known for building ventures that blend technology, operations, and human performance.
+    An accomplished military officer and entrepreneur, David Molina is a mission driven founder that has spent a lifetime creating and scaling companies and organizations and removing government red tape. When not advising, building, or writing, he's a dad.
 author: "David Molina"
 permalink: /now/
 ---
