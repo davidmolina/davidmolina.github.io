@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+author: "David Molina"
 permalink: /events/
 ---
 
