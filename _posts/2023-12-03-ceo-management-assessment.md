@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "CEO Management Assessment"
-subtitle: "An assessment to help you as the CEO become better."
+description: >
+    During the Stanford GSB LBAN Program Latino entrepreneurs benefit from several, incuding learning, network, mentor, and assessment with key data points to help you become better.
 date: 2023-12-03 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - stanford
+    - lban
+    - management-assessment
 ---
 
 During the Stanford GSB [LBAN Program](https://www.lban.us/) Latino entrepreneurs benefit from several, incuding:

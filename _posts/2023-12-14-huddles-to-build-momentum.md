@@ -2,14 +2,14 @@
 layout: post
 title:  "Huddles To Build Momentum"
 description: > 
-    Daily huddles, weekly management monthly accountability workshops, quarterly reviews, and annual strategic planning is the how.
+    Why daily huddles, weekly management, and quarterly/annual reviews create momentum and make it easier to exit or grow your business.
 image: "https://davidmolina.s3.us-west-2.amazonaws.com/molinas_estimating.jpeg"
 date: 2023-12-14 11:12:43 -0800
 author: "David Molina"
 categories: 
-    - annual-strategy
-    - business-development
-    - business-planning
+    - business
+    - leadership
+    - systems
 ---
 
 For benefits employees we all know what we’re going to collect on the day after our 20 years. I joined the Army reserve after putting myself through community college and after 20 years I wouldn’t have seen a dime until well into my 60s. For some they do that, for others not so much.
