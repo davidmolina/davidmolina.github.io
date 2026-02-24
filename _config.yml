@@ -1,6 +1,6 @@
 name: David Molina
-title: David Molina.
-description: "David Molina writes on institutional strategy and hemispheric governance, with a focus on North American resilience."
+title: David Molina
+description: "David Molina writes on institutional strategy, hemispheric governance, agricultural resilience, and technology policy in North America."
 author: David Molina
 repository: davidmolina/davidmolina.github.io
 email: david.c.molina@gmail.com
@@ -8,7 +8,8 @@ email: david.c.molina@gmail.com
 # RDF structured data
 job_title: Advisor
 employer: Strategist.
-url: "https://davidmolina.github.io/"
+url: "https://davidmolina.github.io"
+baseurl: ""   # important for user/organization pages
 location:
   city: Portland
   state: Oregon
