@@ -164,7 +164,7 @@ Recruited into a drill sergeant reserve unit while completing undergraduate stud
 This period marked the transition from enlisted service to commissioned leadership.
 
 **Enlisted Soldier**, 364th Civil Affairs Brigade (Airborne), U.S. Army Reserve
-| 2001 - 2002_
+| 2001 - 2002
 
 Began military service as a Private First Class following Basic Training and Advanced Individual Training. Supported unit readiness activities, transportation operations, and training coordination within a Civil Affairs environment.
 
