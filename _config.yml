@@ -6,10 +6,11 @@ repository: davidmolina/davidmolina.github.io
 email: david.c.molina@gmail.com
 
 # RDF structured data
-job_title: Advisor
-employer: Strategist.
+job_title: Institutional Strategist
+employer: Independent
 url: "https://davidmolina.github.io"
-baseurl: ""   # important for user/organization pages
+baseurl: ""
+
 location:
   city: Portland
   state: Oregon
@@ -18,30 +19,9 @@ location:
 # Social metadata
 social:
   name: David Molina
-  links:
-    - https://facebook.com/david.molina1
-    - https://instagram.com/davidcmolina
-    - https://github.com/davidmolina
+  links: https://github.com/davidmolina
 
-navigation:
-  - title: About
-    url: /about
-  - title: Now
-    url: /now
-  - title: Press
-    url: /press
-  - title: Connecting
-    url: /connecting
-  - title: Events
-    url: /events
-  - title: Resume
-    url: /resume
-
-# Misc
-twitter_username: davidcmolina
-github_username:  davidmolina
-facebook_username: david.molina1
-instagram_username: davidcmolina
+github_username: davidmolina
 
 # Build settings
 markdown: kramdown
@@ -63,3 +43,17 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
+
+navigation:
+  - title: About
+    url: /about
+  - title: Now
+    url: /now
+  - title: Press
+    url: /press
+  - title: Connecting
+    url: /connecting
+  - title: Events
+    url: /events
+  - title: Resume
+    url: /resume

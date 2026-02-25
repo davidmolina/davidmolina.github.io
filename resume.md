@@ -41,6 +41,13 @@ Engaged with investors and owner-operators on commercial asset valuation, exit p
 
 Provided advisory support on pricing strategy, capital positioning, and market exposure, strengthening fluency in commercial underwriting considerations, investor engagement, and portfolio transition planning.
 
+**Government Affairs Counselor**, [Fuerza Labor](https://www.fuerzalabor.com/) 
+| 2022 – Present
+
+Provide strategic analysis on federal immigration policy, consular operations, and regulatory developments affecting agricultural labor mobility and U.S. food system stability. Developed a structured monitoring and impact-assessment framework translating congressional action and executive branch policy shifts into coordinated implementation guidance for regulated stakeholders operating across U.S.–Mexico corridors. Engaged legal, operational, and cross-border partners to anticipate regulatory friction, mitigate workforce disruption, and preserve seasonal production continuity within an interdependent North American food economy.
+
+Work centers on the intersection of institutional capacity, bilateral coordination, and long-term economic resilience.
+
 **Founder & Project Executive**, [Molinas Construction Company](https://www.molinas.co/) | 2015 - 2022
 
 I founded Molinas Construction Company out of my garage with a focus on federal contracting and infrastructure support. Over time, we scaled into a dedicated, decentralized team serving U.S. federal agencies and commercial clients.
