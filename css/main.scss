@@ -3,48 +3,50 @@
 ---
 @charset "utf-8";
 
-// Our variables
+/* ---------------------------------
+   Variables
+---------------------------------- */
+
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size: 16px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$small-font-size: $base-font-size * 0.875;
+$spacing-unit: 30px;
 
-$text-color:       #2d3436;
+$text-color: #2d3436;
 $background-color: #ffffff;
-$brand-color:      #0984e3;
+$brand-color: #0984e3;
 
-$grey-color:       #2c3e50;
+$grey-color: #2c3e50;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-dark: darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
+$content-width: 800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm: 600px;
+$on-laptop: 800px;
 
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+/* ---------------------------------
+   Mixin
+---------------------------------- */
+
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+/* ---------------------------------
+   Imports
+---------------------------------- */
+
+@import "base", "layout", "syntax-highlighting";
+
+/* ---------------------------------
+   Post header image
+---------------------------------- */
 
 .post-header-image {
   width: 100%;
@@ -55,16 +57,15 @@ $on-laptop:        800px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-// Make it look good (add CSS), subtle separator line, two links aligned left/right, no ugly wrapping chaos
-
-// -----------------------------
-// Post Navigation (Newer / Older)
-// -----------------------------
+/* ---------------------------------
+   Post navigation (Newer / Older)
+   Requires post.html to wrap links in .post-nav-inner
+---------------------------------- */
 
 .post-nav {
-  margin-top: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid #e5e5e5;
+  margin-top: 2.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid lighten($grey-color, 55%);
 }
 
 .post-nav-inner {
@@ -99,11 +100,9 @@ $on-laptop:        800px;
 @include media-query($on-palm) {
   .post-nav-inner {
     flex-direction: column;
-    gap: 1.25rem;
+    gap: 1rem;
   }
 
-  // Mobile Graceful Collapse
-  
   .post-nav-left,
   .post-nav-right {
     text-align: left;
@@ -111,23 +110,24 @@ $on-laptop:        800px;
   }
 }
 
-// -----------------------------
-// Archive styling
-// -----------------------------
+/* ---------------------------------
+   Archive
+---------------------------------- */
+
 .archive-list {
   list-style: none;
   padding-left: 0;
-  margin-left: 0;
+  margin: 0;
 }
 
 .archive-item {
-  margin-bottom: 2.25rem;
-  padding-bottom: 1.75rem;
-  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid lighten($grey-color, 62%);
 }
 
 .archive-title {
-  margin-bottom: 0.25rem;
+  margin: 0 0 0.25rem 0;
 }
 
 .archive-meta {
@@ -143,27 +143,83 @@ $on-laptop:        800px;
   max-width: 70ch;
 }
 
-// -----------------------------
-// Footer (Minimal Institutional)
-// -----------------------------
+/* ---------------------------------
+   Footer (Minimal / Institutional)
+   Theme overrides often add big padding to .site-footer and .wrapper
+---------------------------------- */
 
 .site-footer {
-  border-top: 1px solid #e5e5e5;
-  padding: 1.25rem 0;
-  margin-top: 3rem;
+  border-top: 1px solid lighten($grey-color, 55%);
+  padding: 0.65rem 0 !important;
+  margin-top: 2rem !important;
+}
+
+.site-footer .wrapper {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .footer-inner {
   text-align: center;
+  line-height: 1.4;
 }
 
-.footer-name {
-  margin: 0 0 0.25rem 0;
-  font-weight: 500;
-}
-
-.footer-description {
-  margin: 0;
+.footer-inner p {
+  margin: 0.15rem 0;
   font-size: 0.9rem;
   color: $grey-color-light;
+}
+
+/* ---------------------------------
+   Footer hard reset (compact)
+---------------------------------- */
+
+// .site-footer {
+//   border-top: 1px solid lighten($grey-color, 55%) !important;
+//   padding: 8px 0 !important;
+//   margin: 24px 0 0 0 !important;
+// }
+
+// .site-footer * {
+//   margin: 0 !important;
+//   padding: 0 !important;
+// }
+
+// .site-footer .wrapper {
+//   padding: 0 16px !important; // small left/right, avoids edge-to-edge on mobile
+//   margin: 0 auto !important;
+// }
+
+// .footer-inner {
+//   text-align: center;
+// }
+
+// .site-footer p {
+//   font-size: 0.9rem;
+//   line-height: 1.25;
+//   color: $grey-color-light;
+// }
+
+/* Optional: tighten the space above footer */
+.page-content {
+  margin-bottom: 0.50rem !important;
+}
+
+/* Home/archive list: don't leave extra trailing gap after last post */
+.post-list > li:last-child,
+.archive-list > li:last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Mobile compaction near footer */
+@include media-query($on-palm) {
+  .site-footer {
+    margin-top: 0.75rem !important;
+    padding: 0.5rem 0 !important;
+  }
+
+  .page-content {
+    padding-bottom: 0.5rem !important;
+  }
 }
