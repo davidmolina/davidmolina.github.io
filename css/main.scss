@@ -55,3 +55,27 @@ $on-laptop:        800px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
+// Make it look good (add CSS), subtle separator line, two links aligned left/right, no ugly wrapping chaos
+
+.post-nav {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e5e5e5;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.post-nav a {
+  text-decoration: none;
+  max-width: 48%;
+}
+
+.post-nav-newer {
+  text-align: left;
+}
+
+.post-nav-older {
+  text-align: right;
+  margin-left: auto;
+}
