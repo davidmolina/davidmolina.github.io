@@ -5,9 +5,9 @@ date:   2017-06-13 08:12:43 -0800
 categories: jekyll update
 ---
 
-<a  href="https://www.instagram.com/p/BVSlkPmHxyu/?taken-by=davidcmolina"><img src="https://s3-us-west-2.amazonaws.com/davidmolina/fernhill_mayamolina.JPG"></a>
-
 Today, I had the privilege to accompany my oldest daughter on her last field trip of her 3rd grade to Fernhill Wetlands. Earlier this year I also accompanied my twins, Paloma & Citlali, on their 1st grade field trip to the Oregon Museum of Science and Industry.
+
+<a  href="https://www.instagram.com/p/BVSlkPmHxyu/?taken-by=davidcmolina"><img src="https://s3-us-west-2.amazonaws.com/davidmolina/fernhill_mayamolina.JPG"></a>
 
 At Fernhill, I was the only father in our class that attended. Everyone else was a mom. I can't begin to say how much of a privilege that felt. But also a huge responsibility.
 

@@ -31,19 +31,27 @@ layout: default
     {{ content }}
   </div>
 
-  <nav class="post-nav" aria-label="Post navigation">
-    {% if page.previous %}
-      <a class="post-nav-newer" href="{{ page.previous.url | relative_url }}">
-        &larr; Newer: {{ page.previous.title }}
-      </a>
-    {% endif %}
+<nav class="post-nav" aria-label="Post navigation">
+  <div class="post-nav-inner">
 
-    {% if page.next %}
-      <a class="post-nav-older" href="{{ page.next.url | relative_url }}">
-        Older: {{ page.next.title }} &rarr;
-      </a>
-    {% endif %}
-  </nav>
+    <div class="post-nav-left">
+      {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}">
+          &larr; Newer: {{ page.previous.title }}
+        </a>
+      {% endif %}
+    </div>
+
+    <div class="post-nav-right">
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}">
+          Older: {{ page.next.title }} &rarr;
+        </a>
+      {% endif %}
+    </div>
+
+  </div>
+</nav>
 
   <p class="post-links" style="margin-top:1rem;">
     <a href="{{ "/" | relative_url }}">← Home</a>

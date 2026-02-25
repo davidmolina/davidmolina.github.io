@@ -57,25 +57,88 @@ $on-laptop:        800px;
 
 // Make it look good (add CSS), subtle separator line, two links aligned left/right, no ugly wrapping chaos
 
+// -----------------------------
+// Post Navigation (Newer / Older)
+// -----------------------------
+
 .post-nav {
-  margin-top: 2rem;
-  padding-top: 1rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
   border-top: 1px solid #e5e5e5;
+}
+
+.post-nav-inner {
   display: flex;
   justify-content: space-between;
-  gap: 1rem;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.post-nav-left,
+.post-nav-right {
+  max-width: 48%;
+}
+
+.post-nav-left {
+  text-align: left;
+}
+
+.post-nav-right {
+  text-align: right;
 }
 
 .post-nav a {
   text-decoration: none;
-  max-width: 48%;
+  font-weight: 500;
 }
 
-.post-nav-newer {
-  text-align: left;
+.post-nav a:hover {
+  text-decoration: underline;
 }
 
-.post-nav-older {
-  text-align: right;
-  margin-left: auto;
+@include media-query($on-palm) {
+  .post-nav-inner {
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  // Mobile Graceful Collapse
+  
+  .post-nav-left,
+  .post-nav-right {
+    text-align: left;
+    max-width: 100%;
+  }
+}
+
+// -----------------------------
+// Archive styling
+// -----------------------------
+.archive-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.archive-item {
+  margin-bottom: 2.25rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.archive-title {
+  margin-bottom: 0.25rem;
+}
+
+.archive-meta {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.9rem;
+  color: $grey-color-light;
+}
+
+.archive-excerpt {
+  margin: 0;
+  color: $text-color;
+  line-height: 1.65;
+  max-width: 70ch;
 }

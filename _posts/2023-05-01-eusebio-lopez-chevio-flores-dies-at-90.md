@@ -10,15 +10,15 @@ categories: jekyll update
 header-img: "https://davidmolina.s3.us-west-2.amazonaws.com/don_chevio_lopez_headshot_large.jpeg"
 ---
 
-<a href="#">
-    <img src="https://davidmolina.s3.us-west-2.amazonaws.com/don_chevio_lopez_headshot_large.jpeg" alt="Don Chevio, long time small business owner and family patriarch, dies at 90">
-</a>
-
 Eusebio "Don Chevio" Lopez, age 90 of Compostela, Nayarit
 passed away peacefully at his home on Monday, May 1st, 2023
 surrounded by family. He was born September 11th, 1932 to Aurelio
 Flores and Catalina Lopez in Embocadero, Nayarit. He was preceded in
 death by his loving wife of 31 years, Inez Fonseca.
+
+<a href="#">
+    <img src="https://davidmolina.s3.us-west-2.amazonaws.com/don_chevio_lopez_headshot_large.jpeg" alt="Don Chevio, long time small business owner and family patriarch, dies at 90">
+</a>
 
 <a href="#">
     <img src="https://davidmolina.s3.us-west-2.amazonaws.com/inez_fonseca_eusebio_chevio_lopez.jpeg" alt="Don Chevio with Inez Fonseca">

@@ -12,11 +12,7 @@ categories:
     - espanol 
 ---
 
-> What I hear I forget, what I see I remember, and what I do I understand. —--Ancient proverb
-
-As some of you know I had to step away a few months ago, and reset. Some do it every Sunday, some annually on January 1st and others until you get tapped on the shoulder because they know better and want only the best for you.
-
-When Daniel Valdez introduced me to a few of his reads and podcasts that was helping him lose weight, build muscle, and become 1% better everyday I couldn’t understand it all at once. 
+As some of you know I had to step away a few months ago, and reset. Some do it every Sunday, some annually on January 1st and others until you get tapped on the shoulder because they know better and want only the best for you. When Daniel Valdez introduced me to a few of his reads and podcasts that was helping him lose weight, build muscle, and become 1% better everyday I couldn’t understand it all at once. 
 
 >> Inflammation has a way of distorting, fogging and blocking the connections in our brains to not run on all cylinders.
 
@@ -36,6 +32,8 @@ Here is that podcast:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Nny7RcUhxvRPveXzlmldA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 If you want to get more podcasts and insights like this, you can subscribe to the Dr. Labrada podcast on [Spotify](https://open.spotify.com/show/1jy2C2r10DlCGCvfUZGdqt?si=1f247946afd44bda). You can also follow Dr. Labrada on [Facebook](https://www.facebook.com/DiabetesDrLabradanutr), [Instagram](https://www.instagram.com/dr.labrada/), and [YouTube](https://www.youtube.com/@DrLabrada).
+
+> What I hear I forget, what I see I remember, and what I do I understand. —--Ancient proverb
 
 Here's to better health to buy us more time. 
 

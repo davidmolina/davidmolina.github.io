@@ -8,13 +8,13 @@ categories: jekyll update
 header-img: "img/adam-mayer.png"
 ---
 
+This morning Oregon lost an American patriot— unexpectedly. We had just broke bread this past Wednesday at my Campaign Kick-Off. A fellow Republican PCP, Adam mostly spent the entire eve bottle feeding baby Edith. He leaves behind his amazing wife, Christiana, whom were married in New York on September 24, 1994. That eve, at the former Cornelius Mayor’s home Adam introduced me to another PCP who would knock on doors. He had a big smile. The campaign was coming along.
+
 <a href="#">
     <img src="{{ site.baseurl }}/img/adam-mayer.png" alt="Adam & Christiana Mayer">
 </a>
 
 <span class="caption text-muted" align="center">Adam & Christiana Mayer</span>
-
-This morning Oregon lost an American patriot— unexpectedly. We had just broke bread this past Wednesday at my Campaign Kick-Off. A fellow Republican PCP, Adam mostly spent the entire eve bottle feeding baby Edith. He leaves behind his amazing wife, Christiana, whom were married in New York on September 24, 1994. That eve, at the former Cornelius Mayor’s home Adam introduced me to another PCP who would knock on doors. He had a big smile. The campaign was coming along.
 
 A native of Queens New York, Adam had called Oregon his home for the latter half of 20 years. Adam worked to make it better. He was one of the first neighbors to say, “David, I'm Adam Mayer the County Secretary for the Washington County Republican Party and one of the PCP leaders in District 29.” At my first fall meeting for the county, Adam volunteered to give me a lift. He wore his fedora and introduced me to everyone I needed to know that day. When our campaign logo went live, he was the first on Facebook to use it as his profile picture— a true friend and supporter.
 

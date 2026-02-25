@@ -5,9 +5,7 @@ date:   2017-01-01 04:02:43 -0800
 categories: jekyll update
 ---
 
-Happy New Year Everyone.
-
-Arrived late this evening from a weekend in Mount Vernon, Washington ([Skagit Valley](https://twitter.com/search?q=skagitvalley)) visiting mom, sisters, nephews and nieces. As is typical with small children we usually make several stops along the way up from Portland, usually around the JBLM and Seattle area.
+Happy New Year Everyone. We arrived late this evening from a weekend in Mount Vernon, Washington ([Skagit Valley](https://twitter.com/search?q=skagitvalley)) visiting mom, sisters, nephews and nieces. As is typical with small children we usually make several stops along the way up from Portland, usually around the JBLM and Seattle area.
 
 We left mid-day Friday and stopped for dinner at an Italian place in Seattle with [Fernando Paredes](https://twitter.com/nanoxd) and his beautiful family. It was a relaxing evening catching up over lasagna and pizza and we ended up staying one night in their lovely home (we previously stayed when Edith and I were up in Seattle for the [GeekWire Awards](https://twitter.com/davidcmolina/status/730964354821038080)) over the summer.
 

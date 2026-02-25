@@ -12,9 +12,7 @@ categories:
     - exploratory-experiences
 ---
 
-> I'm not going anywhere without my luggage. -- Richard Pryor
-
-No one is born an explorer, you become one through exploratory experiences. 
+No one is born an explorer, you become one through exploratory experiences. It's in exploratory experiences where your mind expands and rarely can you put it back where it was. You're never the same each time, and I highly recommend it for all ages. Personal timeline example: 
 
 - Child through pre-teen, my mom would pack us up in her Chevy pickup and we'd roadtrip to Mexico taking a few days to get there. This is before the North American Free Trade Agreement (NAFTA) and the further devaluation of the mighty dollar. We'd visit annually and it's where I first learned Spanish. Growing up as a migrant farm worker kid this was always a treat. 
 - At 10, a school field trip to Victoria, B.C. and where I first took a double-decker bus, enjoyed tea with croissants, and the most beautiful manicured gardens I've ever seen. 
@@ -34,6 +32,8 @@ No one is born an explorer, you become one through exploratory experiences.
 - At 31, mobilized to active-duty and sent to Dover Air Force Base in Delaware. Explored the entire eastern seaboard again when able to, including Niagara Falls, MIT and Harvard campuses and Alexandria, Virginia. Second time driving cross country there and back. By this time, I had traveled cross country at least half a dozen times and taken several Space-A flights. 
 - 30s and 40s, traveled extensively for various startups, including BilingualHire, Molinas Construction Company, [Operation Code](https://davidmolina.github.io/2018/01/17/hacking-entrepreneurship-an-interview-with-david-molina-of-operation-code/), and [Fuerza](https://davidmolina.github.io/2023/03/07/united-states-two-stark-choices-us-food-security/). This is the age where you implement and accelerate what you learned throughout the years and become a master at what you are already superior at. 
 
-It's in exploratory experiences where your mind expands and rarely can you put it back where it was. You're never the same each time, and I highly recommend it for all ages. And, again it's a waste of your precious time to compare yourself to anyone else but yourself to where you have been and how far you've come.
+> I'm not going anywhere without my luggage. -- Richard Pryor
+
+Again it's a waste of your precious time to compare yourself to anyone else but yourself to where you have been and how far you've come.
 
 *David Molina is an entrepreneur, strategist, and thinker–doer dedicated to exploring the full spectrum of human performance. Born to Mexican immigrant parents, he forged his path from farm fields to Captain in the U.S. Army, commissioner, and eventually to founding companies, nonprofits, and creative ventures. He shares more about health systems, business workflows, and intentional work on [Instagram at @davidcmolina](https://www.instagram.com/davidcmolina/).*

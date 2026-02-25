@@ -8,15 +8,15 @@ categories: jekyll update
 header-img: "https://davidmolina.s3.us-west-2.amazonaws.com/github_code_conf_speaking_davidmolina.jpg"
 ---
 
+**This article originally published on [The Hum](https://medium.com/the-hum/hacking-entrepreneurship-an-interview-with-david-molina-of-operation-code-12a7e199e4e0), and written by David Powers.**
+
+David Molina is the Founder & CEO of Operation Code, a 501(c)(3) nonprofit organization that helps the military community learn software development, enter the tech industry, and code the future. David grew up in Mount Vernon, WA and spent over a decade in uniform before learning to code through hackathons, tech meetups, and open source conferences. He took this experience and wrote the first iteration of Operation Code in Ruby on Rails to petition Congress to expand the new GI Bill to include code schools. He lives with his wife and three daughters in Forest Grove, OR and sometimes travels to D.C. to speak on veterans and tech.
+
 <a href="#">
     <img src="https://davidmolina.s3.us-west-2.amazonaws.com/github_code_conf_speaking_davidmolina.jpg" alt="Hacking Entrepreneurship — An Interview with David Molina of Operation Code">
 </a>
 
 <span class="caption text-muted" align="center">Hacking Entrepreneurship — An Interview with David Molina of Operation Code</span>
-
-**This article originally published on [The Hum](https://medium.com/the-hum/hacking-entrepreneurship-an-interview-with-david-molina-of-operation-code-12a7e199e4e0), and written by David Powers.**
-
-David Molina is the Founder & CEO of Operation Code, a 501(c)(3) nonprofit organization that helps the military community learn software development, enter the tech industry, and code the future. David grew up in Mount Vernon, WA and spent over a decade in uniform before learning to code through hackathons, tech meetups, and open source conferences. He took this experience and wrote the first iteration of Operation Code in Ruby on Rails to petition Congress to expand the new GI Bill to include code schools. He lives with his wife and three daughters in Forest Grove, OR and sometimes travels to D.C. to speak on veterans and tech.
 
 When you hear the word entrepreneurship, it is natural to think of venture capitalists, unicorn companies, and startup founders driven to make a profit above all else.
 

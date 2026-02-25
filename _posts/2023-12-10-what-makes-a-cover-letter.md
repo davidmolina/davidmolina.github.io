@@ -7,6 +7,8 @@ author: "David Molina"
 categories: jekyll update
 ---
 
+A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume. This is what I've used and its worked: 
+
 [greeting, ex. Dear Last Name,]
 
 [first paragraph] A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume. The first paragraph is the opener, the why you’re interested, what you do now, how it relates and transition to the next.

@@ -8,11 +8,11 @@ categories: jekyll update
 header-img: "img/dorchester_conference.png"
 ---
 
+This weekend I headed to the Resort at the Mountain in Welches, Oregon for [Dorchester Conference](https://www.dorchester.org/), the oldest annual political conference in the country. This is my second time attending. Last year's Dorchester was held in Salem when my good friend, [Mark Fitz](https://www.linkedin.com/in/markfitzoregon), Army veteran and small business owner invited me. Mark came through an introduction during my [first run for public office](https://www.molinafororegon.com/). We first met for breakfast in downtown Portland last year and our discussion felt like a wind tunnel of information, pollination of ideas. If you know Mark, you'll know he'll always rope you in to get you plugged in. Mark currently serves on the board of directors.
+
 <a href="#">
     <img src="{{ site.baseurl }}/img/dorchester_conference.png" alt="Dorchester Conference, Welches, Oregon">
 </a>
-
-This weekend I headed to the Resort at the Mountain in Welches, Oregon for [Dorchester Conference](https://www.dorchester.org/), the oldest annual political conference in the country. This is my second time attending. Last year's Dorchester was held in Salem when my good friend, [Mark Fitz](https://www.linkedin.com/in/markfitzoregon), Army veteran and small business owner invited me. Mark came through an introduction during my [first run for public office](https://www.molinafororegon.com/). We first met for breakfast in downtown Portland last year and our discussion felt like a wind tunnel of information, pollination of ideas. If you know Mark, you'll know he'll always rope you in to get you plugged in. Mark currently serves on the board of directors.
 
 For Dorchester starters, where else do you attend a conference that is both intimate (small) and allows you to build a relationship with key influencers, public officials, podcasters, authors, and activists from across the state and meet each other on a personal level? Folks like Jeff Reynolds, author of ["Behind the Curtain: Inside the Network of Progressive Billionaires and Their Campaign to Undermine Democracy"](https://www.amazon.com/Behind-Curtain-Progressive-Billionaires-Undermine/dp/1682617076), James Ball, chief podcaster of [The Rationale Republican](https://jamesaball.com/), and Jason Dudash, Oregon outreach coordinator of [Freedom Foundation](https://www.freedomfoundation.com/about/).
 

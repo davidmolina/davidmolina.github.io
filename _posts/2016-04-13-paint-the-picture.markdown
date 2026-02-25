@@ -5,9 +5,7 @@ date:   2016-04-13 14:12:43 -0800
 categories: jekyll update
 ---
 
-Writing is hard. I'll admit it's not easy and it's painful trying to get the words just right.
-
-Years ago, at a migrant student leadership conference I was nominated by my peers to represent them and I wrote a speech. It was the first time that I had written anything coherent. I ended up winning the nomination, long hair and all, and sat on a board with the state superintendent. It built confidence.
+Writing is hard. I'll admit it's not easy and it's painful trying to get the words just right. Years ago, at a migrant student leadership conference I was nominated by my peers to represent them and I wrote a speech. It was the first time that I had written anything coherent. I ended up winning the nomination, long hair and all, and sat on a board with the state superintendent. It built confidence.
 
 At Skagit Valley College, I would write agendas and minutes for our club, and petitions for the college president. Through time I got better at writing, but form follows function, and apparently everyone understood my minutes. It built confidence.
 

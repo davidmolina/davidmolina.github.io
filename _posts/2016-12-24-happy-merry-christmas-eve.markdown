@@ -5,9 +5,7 @@ date:   2016-12-24 04:02:43 -0800
 categories: jekyll update
 ---
 
-Happy Merry Christmas Eve from The Dalles, Oregon!
-
-Departed Portland's madhouse traffic yesterday mid-day and beat I-205 and I-84 traffic after a quick stop at the Vancouver Westfield Mall for some Christmas shopping for the girls. Interstate 84 was clear, but visible snow throughout the Columbia Gorge, especially Hood River and The Dalles. Edith and the girls were already here.
+Happy Merry Christmas Eve from The Dalles, Oregon! We departed Portland's madhouse traffic yesterday mid-day and beat I-205 and I-84 traffic after a quick stop at the Vancouver Westfield Mall for some Christmas shopping for the girls. Interstate 84 was clear, but visible snow throughout the Columbia Gorge, especially Hood River and The Dalles. Edith and the girls were already here.
 
 This morning fired up the fireplace.
 
