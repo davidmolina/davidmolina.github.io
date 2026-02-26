@@ -7,9 +7,9 @@ author: "David Molina"
 categories: jekyll update
 ---
 
-A few days ago I posted about my [grandfather's passing](https://davidmolina.github.io/2023/05/01/eusebio-lopez-chevio-flores-dies-at-90/) and shared it. Unfortunately the link,
+A few days ago I posted about my [grandfather's passing](https://www.davidcmolina.com/2023/05/01/eusebio-lopez-chevio-flores-dies-at-90/) and shared it. Unfortunately the link,
 ```javascript
- https://davidmolina.github.io/2023/05/01/eusebio-lopez-chevio-flores-dies-at-90/
+ https://www.davidcmolina.com/2023/05/01/eusebio-lopez-chevio-flores-dies-at-90/
 ```
 broke as soon as May 2nd rolled around. Why? The URL date automatically reverted to May 2nd instead of the original May 1st date that was used in the URL and shared across multiple channels.
 

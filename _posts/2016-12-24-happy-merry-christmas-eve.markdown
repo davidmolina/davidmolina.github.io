@@ -15,7 +15,7 @@ Honestly, it's my favorite part of the day. So far we've not cut any wood today 
 
 My brother-in-law, Izzy, came out and we picked up some tables, Tequila Patron and start prepping his house for tonight.
 
-So far, I've paired my iPhone bluetooth to his surround, [imported a ton of old Posterous blogs](https://github.com/davidmolina/davidmolina.github.io/commits/master), got my nephew Rivaldo setup on GitHub and downloading Cloud9 (he's 15), and taught my other nephew (his brother), Giovan, how to make a favorite Nayarit cocktail called "Cubas" that are very similar to Palomas. It's now 3:53 pm and we're kicking off the day w/ some caldo de camaron.
+So far, I've paired my iPhone bluetooth to his surround, imported a ton of old Posterous blogs, got my nephew Rivaldo setup on GitHub and downloading Cloud9 (he's 15), and taught my other nephew (his brother), Giovan, how to make a favorite Nayarit cocktail called "Cubas" that are very similar to Palomas. It's now 3:53 pm and we're kicking off the day w/ some caldo de camaron.
 
 Wishing you an amazing Christmas eve and wishing Santa gets you everything you wish for.
 

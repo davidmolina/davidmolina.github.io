@@ -14,7 +14,7 @@ categories:
 During the Stanford GSB [LBAN Program](https://www.lban.us/) Latino entrepreneurs benefit from several, incuding:
 
 - Learning. Entrepreneurs will learn from two key GSB professors, including Professor Huggy Rao and Professor Jerry Porras. The books you'll purchase serve as the foundation for the course going forward including Scaling Up Excellence and Built to Last: Successful Habits of Visionary Companies.
-- Network. Entrepreneurs will expand their networks greatly and go from offline to online real quick to continue connecting, supporting each other and doing business with each other. I've [written previously about networks](https://davidmolina.github.io/2016/01/15/the-day-my-network-expanded-by-a-twitter-dm/). Networks is your networth.
+- Network. Entrepreneurs will expand their networks greatly and go from offline to online real quick to continue connecting, supporting each other and doing business with each other. I've [written previously about networks](https://www.davidcmolina.com/2016/01/15/the-day-my-network-expanded-by-a-twitter-dm/). Networks is your networth.
 - Mentor. Entrepreneurs get to pick a discipline they are interested in getting more mentorship from. In my case I chose finances and was provided Martin Espinosa, a leader in finance, risk, and compliance with an American multinational technology company.
 - Assessment. Entrepreneurs take an assessment that gives you as the CEO key data points to help you become better. The assessment was done by [VRT Management Group](https://vrt9.com/).
 

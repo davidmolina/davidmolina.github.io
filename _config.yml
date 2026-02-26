@@ -2,7 +2,6 @@ name: David Molina
 title: David Molina
 description: "David Molina writes on institutional strategy, hemispheric governance, agricultural resilience, and technology policy in North America."
 author: David Molina
-repository: davidmolina/davidmolina.github.io
 email: david.c.molina@gmail.com
 # GitHub Pages cannot run server-side functions.
 # Set this to your external endpoint (Cloudflare Worker / Vercel Function / API Gateway, etc.)

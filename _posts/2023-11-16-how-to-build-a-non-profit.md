@@ -7,7 +7,7 @@ author: "David Molina"
 categories: jekyll update
 ---
 
-Earlier this evening I was chatting with a business student about building a non-profit. This is an update to my earlier, [Launching a Nonprofit the Operation Code Way](https://davidmolina.github.io/2017/07/22/launching-a-nonprofit-the-operationcode-way/). Let me preface by saying, start with the problem. What problem are you trying to solve?
+Earlier this evening I was chatting with a business student about building a non-profit. This is an update to my earlier, [Launching a Nonprofit the Operation Code Way](https://www.davidcmolina.com/2017/07/22/launching-a-nonprofit-the-operationcode-way/). Let me preface by saying, start with the problem. What problem are you trying to solve?
 
 First, purchase your URL web domain. Think of your domain as your online title company-- the web address-- for your organization. [Here's a referral code if you'd like](https://dnsimple.com/r/82e9aeb71f33d7). I use DNSimple and have been since when I wrote the first line of code for [Operation Code](https://operationcode.org/about). Caveat: be prepared to buy your domain soon after doing a search in the input box. A few years ago I searched for a cool .com website, got partner buy in and few days later went to buy it and it was unavailable.
 

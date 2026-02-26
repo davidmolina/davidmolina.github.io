@@ -35,7 +35,7 @@ Caveat:
 - use a large, memorable font for your name and put in the header
 - in smaller font put your home/ mailing address, phone, email in either the header (underneath name), sidebar or footer
 - [hyperlink](https://en.wikipedia.org/wiki/Hyperlink) your email, links to LinkedIn, etc. and test them to yourself by emailing the PDF to your email on your phone to ensure they work correctly
-- keep job description, resume and cover letter copy, folders organized in one place for reviewers and avoid [technical debt and duplication](https://davidmolina.github.io/2023/06/28/avoid-technical-debt-and-duplication/)
+- keep job description, resume and cover letter copy, folders organized in one place for reviewers and avoid [technical debt and duplication](https://www.davidcmolina.com/2023/06/28/avoid-technical-debt-and-duplication/)
 - the pace of layoffs in 2023 don't seem to be slowing down into 2024... always be ready
 - ask your business mentor or career coach if they'd review it before sending it off... remember, the more you write the more you'll get better
 

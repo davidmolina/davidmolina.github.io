@@ -14,7 +14,7 @@ Today, I was reminded why this is more advantageous in many scenarios. An indust
 The play by play is:
 - Determine if valuing on low bid, at or below value of x is worth the effort
 - The value of x is unknown and may cost the company in money
-- If t is value of time, we have [time decay](https://davidmolina.github.io/2023/11/30/value-of-time-and-opportunity-cost/)
+- If t is value of time, we have [time decay](https://www.davidcmolina.com/2023/11/30/value-of-time-and-opportunity-cost/)
 - Consider your burn rate (how much left in the bank before going in the red)
 - Thinking about the unknowns, how much can the company stomach going into more debt
 - Low bid is where the majority live at

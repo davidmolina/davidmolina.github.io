@@ -4,7 +4,7 @@ This is the repository for my personal site https://www.davidcmolina.com. I’m 
 
 # A quick note
 
-I'm a self-taught developer, and learn by doing. Literally. If you see something here that doesn't make sense [open an issue](https://github.com/davidmolina/davidmolina.github.io/issues).
+I'm a self-taught developer, and learn by doing. Literally. If you see something here that doesn't make sense, open an issue on GitHub.
 
 # A special thanks
 A special thanks to Chris Hough ([@chrishough](https://twitter.com/chrishough)), Fernando Paredes ([@nanoxd](https://twitter.com/nanoxd)), Nell Shamrell ([@nellshamrell](https://twitter.com/nellshamrell)), Jared Koumentis ([@shepbook](https://twitter.com/ShepBook)) for their patience, hacking w/ me and showing me the ropes, encouragement, and [hack.hands](https://www.crunchbase.com/organization/hackhands#section-overview) mentor extraordinaire, Allen Wyma for his software mentorship. Never forgetting where I come from, I'm paying it forward at [Operation Code](https://operationcode.org) helping service members, veterans and military families get coding.
