@@ -1,12 +1,24 @@
 <footer class="site-footer">
 
   <div class="wrapper">
+    <div class="footer-inner">
+      <h2 class="footer-heading">{{ site.title }}</h2>
+      <p>{{ site.description }}</p>
+      <p class="footer-links">
+        <a href="{{ "/feed.xml" | relative_url }}">RSS Feed</a>
+      </p>
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+      {% if site.subscribe_endpoint and site.subscribe_endpoint != "" %}
+        <form class="subscribe-form" id="subscribe-form" data-endpoint="{{ site.subscribe_endpoint }}">
+          <label class="subscribe-label" for="subscribe-email">Get new posts by email</label>
+          <div class="subscribe-controls">
+            <input id="subscribe-email" name="email" type="email" autocomplete="email" required placeholder="you@example.com">
+            <button type="submit">Subscribe</button>
+          </div>
+          <p class="subscribe-status" id="subscribe-status" aria-live="polite"></p>
+        </form>
+      {% endif %}
+    </div>
 
   </div>
 

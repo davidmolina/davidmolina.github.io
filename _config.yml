@@ -4,11 +4,15 @@ description: "David Molina writes on institutional strategy, hemispheric governa
 author: David Molina
 repository: davidmolina/davidmolina.github.io
 email: david.c.molina@gmail.com
+# GitHub Pages cannot run server-side functions.
+# Set this to your external endpoint (Cloudflare Worker / Vercel Function / API Gateway, etc.)
+# Example: "https://api.example.com/subscribe"
+subscribe_endpoint: ""
 
 # RDF structured data
 job_title: Institutional Strategist
 employer: Independent
-url: "https://davidmolina.github.io"
+url: "https://davidcmolina.com"
 baseurl: ""
 
 location:

@@ -19,6 +19,12 @@
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        <a class="page-link page-link-subscribe" href="{{ "/feed.xml" | relative_url }}" aria-label="Subscribe via RSS">
+          <svg class="rss-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M6.18 17.82a2.18 2.18 0 1 0 0 4.36 2.18 2.18 0 0 0 0-4.36zm-3.18-8v3.27c4.68 0 8.48 3.8 8.48 8.48h3.27c0-6.49-5.26-11.75-11.75-11.75zm0-6v3.27c8.29 0 15.02 6.73 15.02 15.02h3.27c0-10.09-8.2-18.29-18.29-18.29z"/>
+          </svg>
+          Subscribe
+        </a>
       </div>
     </nav>
 
