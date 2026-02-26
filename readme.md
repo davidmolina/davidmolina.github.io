@@ -1,6 +1,6 @@
-# https://www.davidcmolina.com
+# https://davidcmolina.com
 
-This is the repository for my personal site https://www.davidcmolina.com. I’m using Jekyll with GitHub Pages for easy building and storing. I used to blog with WordPress and  Posterous, and I've posted once on Medium, but this is where I put all my stuff.
+This is the repository for my personal site https://davidcmolina.com. I’m using Jekyll with GitHub Pages for easy building and storing. I used to blog with WordPress and  Posterous, and I've posted once on Medium, but this is where I put all my stuff.
 
 # A quick note
 
