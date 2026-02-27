@@ -21,6 +21,8 @@ This repo includes:
 Configure these in your serverless provider secret manager:
 - `SENDGRID_API_KEY` (full API key, never commit to git)
 - `SENDGRID_LIST_ID` (Marketing list ID to place subscribers into)
+- `SUBSCRIBE_ALLOWED_ORIGIN` (set to `https://davidcmolina.com`)
+- Optional for broadcast flow: `SENDGRID_FROM_EMAIL`, `SENDGRID_REPLY_TO`
 
 ### Secure setup checklist
 
@@ -30,6 +32,18 @@ Configure these in your serverless provider secret manager:
 4. Set `SENDGRID_API_KEY` and `SENDGRID_LIST_ID` as environment variables in that platform.
 5. Set `_config.yml` `subscribe_endpoint` to your deployed endpoint URL.
 6. If `subscribe_endpoint` is empty, only RSS subscribe is shown.
+
+### Cloudflare Worker secret commands
+
+If you deploy the endpoint with Cloudflare Workers:
+
+```bash
+wrangler secret put SENDGRID_API_KEY
+wrangler secret put SENDGRID_LIST_ID
+wrangler secret put SUBSCRIBE_ALLOWED_ORIGIN
+wrangler secret put SENDGRID_FROM_EMAIL
+wrangler secret put SENDGRID_REPLY_TO
+```
 
 ### Local test
 

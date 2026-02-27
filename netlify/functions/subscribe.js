@@ -1,16 +1,18 @@
-const jsonHeaders = {
-  "Content-Type": "application/json; charset=utf-8",
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Methods": "POST, OPTIONS",
-  "Access-Control-Allow-Headers": "Content-Type"
-};
+function corsHeaders() {
+  return {
+    "Content-Type": "application/json; charset=utf-8",
+    "Access-Control-Allow-Origin": process.env.SUBSCRIBE_ALLOWED_ORIGIN || "*",
+    "Access-Control-Allow-Methods": "POST, OPTIONS",
+    "Access-Control-Allow-Headers": "Content-Type"
+  };
+}
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 function response(statusCode, body) {
   return {
     statusCode,
-    headers: jsonHeaders,
+    headers: corsHeaders(),
     body: JSON.stringify(body)
   };
 }
