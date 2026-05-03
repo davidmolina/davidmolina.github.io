@@ -1,16 +1,157 @@
 ---
 layout: default
-permalink: /
+title: David Molina
 ---
 
-  <ul class="post-list">
-    {% for post in site.posts limit:5 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<style>
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    gap: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  .main {
+    max-width: 640px;
+  }
+
+  .sidebar {
+    font-size: 0.9rem;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    margin-top: 2.5rem;
+    font-size: 1.3rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+
+  a {
+    text-decoration: underline;
+    color: #000;
+  }
+
+  .links a {
+    margin-right: 12px;
+  }
+
+  .post {
+    margin-bottom: 18px;
+  }
+
+  .post-title {
+    font-weight: bold;
+  }
+
+  .post-url {
+    color: #666;
+    font-size: 0.8rem;
+  }
+
+  .post-excerpt {
+    color: #333;
+    margin-top: 4px;
+  }
+
+  .more-links {
+    margin-top: 20px;
+    display: block;
+  }
+
+  @media (max-width: 800px) {
+    .container {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="container">
+
+  <!-- MAIN COLUMN -->
+  <div class="main">
+
+    <h1>Hi, I’m David Molina.</h1>
+
+    <p>I build systems for operators.</p>
+
+    <p>
+      Most businesses don’t struggle because of effort — they struggle because they don’t have clarity.
+    </p>
+
+    <p>
+      My work focuses on helping contractors and operators understand their numbers, structure their work, and run more predictable operations.
+    </p>
+
+    <p class="links">
+      <a href="https://principlesofmeslo.com/">Read the book</a>
+      <a href="https://stan.store/principlesofmeslo">The MESLO System</a>
+    </p>
+
+    <img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_headshot.jpeg"
+     alt="David Molina visiting an old Army friend in Louisiana"
+     style="width:200px; float:left; margin: 0 20px 10px 0; border-radius:6px;" />
+
+    <h2>What I’m focused on</h2>
+    <ul>
+      <li>Helping business owners value their businesses</li>
+      <li>Writing <em>The Principles of MESLO</em> (2026)</li>
+      <li>Teaching operators how to price and run work properly avail on <a href="https://stan.store/principlesofmeslo">Stan.Store</a></li>
+      <li>Building tools that connect estimating, operations, and execution</li>
+
+    </ul>
+
+    <h2>The work</h2>
+
+    <p>
+      I started in construction and federal contracting, where the real problem wasn’t getting jobs — it was running them profitably.
+    </p>
+
+    <p>
+      That led to building the MESLO framework: a system to structure costs, pricing, and operations in a way that reflects how work actually happens.
+    </p>
+
+    <p>
+      It’s now used by contractors, home inspectors, and service businesses to bring clarity to their numbers and their day-to-day operations. The objective: a profitable business that’s predictable and valued more for a business owner's exit to retirement. Full bio and background on <a href="/about/">the about page</a>.
+    </p>
+
+  </div>
+
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+
+    <h2>Recent Posts</h2>
+
+    {% for post in site.posts limit:5 %}
+      <div class="post">
+
+        <div class="post-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+
+        <div class="post-url">
+          {{ post.url }}
+        </div>
+
+        <div class="post-excerpt">
+          {{ post.excerpt | strip_html | truncatewords:18 }}
+        </div>
+
+      </div>
     {% endfor %}
-  </ul>
+
+    <a class="more-links" href="/archive/">
+      → More Links
+    </a>
+
+  </div>
+
+</div>

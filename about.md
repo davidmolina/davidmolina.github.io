@@ -56,6 +56,6 @@ From 2011 to 2013 I served as an Army Captain at the [Joint Personal Effects Dep
 Following my first active duty assignment at Aberdeen Proving Ground, Maryland, I staffed the [Oregon House Committee on Veterans & Emergency Services](https://www.oregonlegislature.gov/committees/hvet). Earlier in my military career, I served as an Executive Assistant (Aide-de-Camp) to an Army General Officer, gaining early exposure to executive coordination, strategic planning, and institutional stewardship. Prior to commissioning, I was an enlisted soldier assigned to the 364th Civil Affairs Brigade. In my early 20s, I was appointed by Oregon Governor Ted Kulongoski to the [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx), serving as Vice Chair and organizing public forums on civil rights, healthcare disparities, and workforce access. 
 
 ### Talks
-Sometimes I get invited to speak on stage. If you want me to talk at your event, get in touch.
+Sometimes I get invited to speak on stage. If you want me to talk at your event, <a href="https://www.linkedin.com/in/davidcmolina/"> get in touch.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xN7yMoe38xc" frameborder="0" allowfullscreen></iframe>  
