@@ -1,6 +1,6 @@
 name: David Molina
 title: David Molina
-description: "David Molina writes on institutional strategy, hemispheric governance, agricultural resilience, and technology policy in North America."
+description: "David Molina is a mission-driven founder turned M&A Advisor and business broker."
 author: David Molina
 email: david.c.molina@gmail.com
 # GitHub Pages cannot run server-side functions.
@@ -9,7 +9,7 @@ email: david.c.molina@gmail.com
 subscribe_endpoint: ""
 
 # RDF structured data
-job_title: Institutional Strategist
+job_title: M&A Advisor and Business Broker
 employer: Independent
 url: "https://davidcmolina.com"
 baseurl: ""

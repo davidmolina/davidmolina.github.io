@@ -2,79 +2,60 @@
 layout: page
 title: About David Molina
 description: >
-     David Molina is an entrepreneur, former Army Captain, and institutional strategist working at the intersection of technology, governance, and public institutions.
+     David Molina is a mission-driven founder and former Army Captain turned M&A Advisor and business broker.
 author: "David Molina"
 permalink: /about/
 ---
 
-# David Molina.
+Hi, I'm David Molina. I'm a mission-driven founder and former Army Captain turned M&A Advisor and business broker. Previously, I founded a federal government contracting company, a remote/decentralized national veterans nonprofit, a bilingual job board, served in the Army (enlisted and officer), served two terms as a governor-appointed commissioner, and got my start working in the fields harvesting oysters, picking apples, cucumbers and berries across western and eastern Washington. Originally from Hood River, Oregon, I was raised in a little farm town just 60m north of Seattle in Mount Vernon, Wash. Some of my projects are below. 
 
-### About
+<img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_headshot.jpeg"
+     alt="David Molina visiting an old Army friend in Louisiana"
+     style="width:200px; float:left; margin: 0 20px 10px 0; border-radius:6px;" />
 
-David Molina is an entrepreneur, public servant, and institutional strategist whose work has consistently centered on strengthening systems that serve people.
+### davidcmolina.com
+Launched in 2009, [davidcmolina.com](https://www.davidcmolina.com) (previously, davidmolina.github.io) is my personal sandbox-- a place for my writing, research, and what I find interesting. Topics include, strategy, planning, execution, technology, and lifestyle medicine. It's where all my long reads go. 
 
-Over two decades, his career has moved across military service, legislative advisory, federal contracting, nonprofit leadership, and governance-focused advisory work. While the arenas have varied, the unifying thread has remained constant: translating mission into execution and building durable institutions capable of long-term impact.
+Previously, my thoughts and insights spread across various publishing platforms, including Blogspot, Tumblr, Posterous, and Medium. While these are good writing platforms, I preferred my own URL domain, code and customize layouts. Now all my work lives under one roof, built in Jekyll, hosted on GitHub, and available freely. If you prefer more daily, short stories of my day you can find me on various [interwebs here](/connecting.md).
 
-### Public Service & Institutional Leadership
+### molinas.consulting
+[molinas.consulting](https://www.molinas.consulting) started as an experiment pairing alongside other small business contractors. In 2022, I accidentally started providing technical assistance to Seattle-based, minority-owned contractors on submitting an RFPs, developing their estimates, and building out their back office. This hands-on and pairing approach is the very best way to learn-- because many of us learn by doing, not just death-by-powerpoint. I was assigned companies interested in doing work with King County, WSDOT, Seattle Sound Transit, and prime contractors. 
 
-David first enlisted in the United States Army in 2000 and later earned an Officer Commission in Infantry through Army ROTC at Oregon State University. He served over a decade in uniform, rising to the rank of Captain.
+<img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_jose_pairing_tabor.jpeg"
+     alt="David Molina pairing at Tabor100 with a client"/>
 
-Among his assignments was service at the [Joint Personal Effects Depot (JPED)](https://www.dover.af.mil/News/Article/229696/dover-afb-welcomes-jped/), a mission responsible for the dignified collection and return of personal effects belonging to Fallen and Wounded Service Members. During a 24-month wartime mobilization at Dover Air Force Base, he served as Plans, Training & Operations Officer and Public Affairs & Protocol Officer in a joint, multi-service wartime environment.
+During this time, I worked 1:1 with contractors as a fractional executive, and gave talks on growing a government contracting company, estimating strategies, and systemizing operations. While bringing high level advisory executive services to Small Disadvantaged Businesses (SDBs) has been rewarding, in late 2025, I made the decision to shift and productize services online. 
 
-In this capacity, he modernized Standard Operating Procedures, co-authored the Center for Army Lessons Learned JPED Handbook, implemented cross-training certifications, launched internal and external digital platforms, and coordinated senior-level visits involving general officers, Pentagon leadership, and Members of Congress. During President Barack Obama’s visit to Dover in 2011, he served as Army Liaison to the Secretary of the Army and Sergeant Major of the Army.
+<img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_tri-cities.jpeg"
+     alt="David Molina speaking in Tri-Cities" />
 
-Earlier in his career, he served as Aide-de-Camp to senior Army leadership, gaining early exposure to executive coordination, strategic planning, and institutional stewardship.
+Regardless of geography, a small business contractor can now [purchase](https://stan.store/principlesofmeslo) the master takeoff formulas, and schedule a 1:1 call to go over their markups, margins, and pricing strategy. 
 
-Following his first active duty assignment, David staffed the [Oregon House Committee on Veterans & Emergency Services](https://www.oregonlegislature.gov/committees/hvet), where he observed firsthand how legislation becomes law and how policy priorities are translated into operational realities. In his early 20s, he was appointed by the Governor to the [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx), serving as Vice Chair and organizing public forums on civil rights, healthcare disparities, and workforce access.
+In 2013, I sat down over three weeks to write a 33,000 word manuscript. [_The Principles of MESLO_](https://principlesofmeslo.com/), a book about getting to the value of x (bid price), value of t (time), and operationalizing the back office is currently scheduled for a summer 2026 release. In the interim, I've made the business plans,  operations handbooks, naming conventions, and filemapping systems avail on the [book landing page](https://principlesofmeslo.com/).
 
-These experiences shaped his understanding that strong institutions require disciplined systems, cross-sector collaboration, and accountability to the communities they serve.
+### Molinas Construction Co. 
+In 2015, I founded [Molinas Construction Company](https://www.molinas.co/), a federal contracting firm serving government agencies and commercial clients. What began in a garage evolved from large landscaping IDIQs into five divisions across general construction, earthwork, material procurement, equipment procurement, and tenant leasing. From 2018 to 2022 I ran the company full-time and prioritized recruiting and retaining veterans, Latina/os, immigrants, and young people into the trades. During this time, I volunteered and served on multiple boards including, the [Oregon State University Alumni Association](https://fororegonstate.org/), the [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), and [LatinoBuilt](https://latinobuilt.org/). After leading the company through sustained growth, I transitioned from day-to-day operations to focus on advisory work and long-term strategic initiatives.
 
-### Systems, Technology & Institutional Modernization
+### OperationCode.org
+In 2014, after learning enough Ruby on Rails to be dangerous I launched a website petition to lobby Congress and the U.S. Department of Veterans Affairs to cut the red tape preventing veterans from leveraging their Post-9/11 GI Bill education benefits to cover modern coding bootcamp tuition, room, and board. [Operation Code](https://operationcode.org/), an open-source project evolved into an nationally recognized 501(c)(3) nonprofit and built the nation’s first large-scale veteran-focused software mentorship network, worked with policymakers and educational institutions to modernize eligibility pathways for technical training. 
 
-In recent years, David has focused on designing AI-first governance and workflow architectures within regulated and capital-intensive environments. His advisory work has included modernizing operational platforms inside multi-state portfolios and developing structured documentation architectures that improve accountability, risk visibility, and institutional continuity.
+<iframe src="https://player.vimeo.com/video/124866675" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/124866675">Operation Code - On a mission to expand the GI Bill</a> from <a href="https://vimeo.com/user8043454">Teresa Mahoney</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Rather than viewing automation as a replacement for human judgment, he approaches AI as an instrument for institutional clarity — strengthening decision-making processes, standardizing knowledge systems, and improving reproducibility in complex organizations.
+<iframe src="https://player.vimeo.com/video/124794084" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/124794084">GI Bill should expand to cover code school: Victor Molina&#039;s story</a> from <a href="https://vimeo.com/user8043454">Teresa Mahoney</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-This work reflects a broader interest in how emerging technologies intersect with governance, policy, and long-term stewardship.
+Over time, more than thirty coding schools across twenty states became GI Bill eligible, and advocacy efforts contributed to securing $75 million in federal funding through the [VET TEC Act](https://www.congress.gov/bill/118th-congress/house-bill/1669/text) to expand access to technical education for veterans. The organization operated as a distributed, remote-first team spanning 19 time zones — demonstrating that disciplined coordination, credible advocacy, and coalition building can influence federal policy. In 2018, I stepped down as Executive Director to allow the organization to scale under new stewardship.
 
-### Entrepreneurship & Federal Contracting
+### BilingualHire
+In 2013, I built a job platform to connect employers with bilingual (Spanish+ English) talent. The mobile friendly web app had a signup/ login page where employers could create a job posting without pass human interference. The following year I built operationcode.org and it took off like a rocket. In 2015 I sunset bilingualhire to focus on operationcode.org. 
 
-In 2015, David founded Molinas Construction Company, a federal contracting firm serving government agencies and commercial clients. What began in a garage evolved into a decentralized organization operating within federal procurement frameworks, compliance environments, and complex infrastructure projects.
+### Military and Public Service
+From 2011 to 2013 I served as an Army Captain at the [Joint Personal Effects Depot (JPED)](https://www.dover.af.mil/News/Article/229696/dover-afb-welcomes-jped/), a mission responsible for the dignified collection and return of personal effects belonging to Fallen and Wounded Service Members. During a 24-month wartime mobilization at joint, multi-service wartime environment at Dover Air Force Base, I served as Plans, Training & Operations Officer (S-2/3 OIC) with additional responsibilities as Public Affairs & Protocol Officer. In this capacity, I modernized Standard Operating Procedures, co-authored the Center for Army Lessons Learned JPED Handbook, implemented cross-training certifications, launched internal and external digital platforms, and coordinated senior-level visits involving general officers, Pentagon leadership, and Members of Congress. During President Barack Obama’s visit to Dover in 2011, I served as Army Liaison to the Secretary of the Army and Sergeant Major of the Army. 
 
-Beyond contract execution, he built structured cost governance systems and margin controls to ensure operational discipline. The company prioritized workforce development, recruiting veterans, Latina/os, immigrants, and young people into the skilled trades and advancing their careers in traditionally underrepresented sectors.
+Following my first active duty assignment at Aberdeen Proving Ground, Maryland, I staffed the [Oregon House Committee on Veterans & Emergency Services](https://www.oregonlegislature.gov/committees/hvet). Earlier in my military career, I served as an Executive Assistant (Aide-de-Camp) to an Army General Officer, gaining early exposure to executive coordination, strategic planning, and institutional stewardship. In my early 20s, I was appointed by Oregon Governor Ted Kulongoski to the [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx), serving as Vice Chair and organizing public forums on civil rights, healthcare disparities, and workforce access. 
 
-After leading the company through sustained growth, David transitioned from day-to-day operations to focus on advisory work and long-term strategic initiatives.
+### Talks
+Sometimes I get on stage and talk about stuff. If you want me to talk at your event, get in touch.
 
-### Civic Technology & Institutional Reform
-
-In 2014, recognizing that the Post-9/11 GI Bill did not cover modern coding bootcamps, David founded [Operation Code](https://operationcode.org/) — an open-source project that evolved into a nationally recognized 501(c)(3) nonprofit.
-
-Operation Code built the nation’s first large-scale veteran-focused software mentorship network and worked with policymakers and educational institutions to modernize eligibility pathways for technical training. Over time, more than thirty coding schools across twenty states became GI Bill eligible, and advocacy efforts contributed to securing $75 million in federal funding through the [VET TEC Act](https://www.congress.gov/bill/118th-congress/house-bill/1669/text) to expand access to technical education for veterans.
-
-The organization operated as a distributed, remote-first team spanning 19 time zones — demonstrating that disciplined coordination, credible advocacy, and coalition building can influence federal policy.
-
-David stepped down after several years of leadership to allow the organization to scale under new stewardship.
-
-### Advisory Work & Governance
-
-Today, David’s work centers on the intersection of technology, governance, and institutional stewardship. He designs AI-assisted operational frameworks that enhance decision-making clarity, strengthen documentation standards, and improve the reproducibility of complex systems in regulated environments. His focus is not automation for its own sake, but the cultivation of durable institutional capacity in an era of accelerating technological change.
-
-David has supported civic and educational institutions through board service with the [Oregon State University Alumni Association](https://fororegonstate.org/), the [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), and [LatinoBuilt](https://latinobuilt.org/), and has advised philanthropic initiatives focused on expanding Latino leadership and institutional development.
-
-### Roots & Perspective
-
-David is the son of Mexican immigrants from Nayarit, Mexico. Born in Hood River, Oregon, and raised in Mount Vernon, Washington, he grew up in migrant housing and agricultural communities in the Skagit Valley.
-
-He attended public schools, briefly left high school to work in agriculture and seafood processing, and later returned to graduate — eventually becoming the first in his family to earn a university degree.
-
-At Skagit Valley College, he founded a MEChA chapter and co-organized a cultural festival that brought together thousands of community members and raised funds for scholarships. At Oregon State University, he studied political science, participated in student government, and completed an international internship in Costa Rica focused on regional governance and development. He analyzed Spanish-language primary sources and produced English-language policy-oriented articles on socio-economic and political dynamics in Central America for a global subscriber base that included academic institutions and diplomatic audiences.
-
-These formative experiences instilled a belief that opportunity, discipline, and institutional access must be expanded — not assumed.
-
-### A Long View
-
-David’s work has never been confined to a single sector. It has moved between uniform, legislation, enterprise, nonprofit, and advisory roles — each offering a vantage point on how institutions function and how they can be strengthened.
-
-He is particularly interested in the evolving intersection of technology, governance, and public institutions — especially how emerging systems such as artificial intelligence reshape policy, commerce, and international relations.
-
-Across every chapter, the objective has remained steady: build systems that endure, serve communities responsibly, and leave institutions stronger than they were found. He remains committed to contributing at the intersection of technology, governance, and public service in the years ahead.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xN7yMoe38xc" frameborder="0" allowfullscreen></iframe>  
