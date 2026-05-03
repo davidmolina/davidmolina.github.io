@@ -32,6 +32,12 @@
         display: none;
     }
 
+    .trigger {
+        display: inline-flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
     .page-link {
         color: $text-color;
         line-height: $base-line-height;

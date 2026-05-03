@@ -48,14 +48,12 @@ plugins:
 
 navigation:
   - title: About
-    url: /about
+    url: /about/
+  - title: Writing
+    url: /archive/
   - title: Now
-    url: /now
-  - title: Press
-    url: /press
-  - title: Connecting
-    url: /connecting
-  - title: Events
-    url: /events
-  - title: Resume
-    url: /resume
+    url: /now/
+  - title: Book
+    url: https://principlesofmeslo.com/
+  - title: Speaking
+    url: /speaking/
