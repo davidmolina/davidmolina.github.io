@@ -13,6 +13,7 @@ The best way to follow what I'm up to:
 - [Instagram - @davidcmolina](https://www.instagram.com/davidcmolina/), highlights.
 - [LinkedIn - @davidcmolina](https://www.linkedin.com/in/davidcmolina/), work-related. 
 - [Snapchat - @davidcmolina](https://snapchat.com/add/davidcmolina), daily snaps. 
+- [Spotify](https://open.spotify.com/user/123891019?si=c0d677ee4dca484c), personal playlists tracks and in the queue 
 
 Not currently as active on:
 - [about.me - @molina](https://about.me/molina)
