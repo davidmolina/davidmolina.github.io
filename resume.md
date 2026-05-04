@@ -9,16 +9,6 @@ permalink: /resume/
 
 ## Summary
 
-My work has consistently centered on institutions — how they operate, how they evolve, and how they serve people.
-
-I am an entrepreneur, veteran, and systems-builder who has spent the past two decades operating across military service, public policy, federal contracting, nonprofit leadership, and advisory work in regulated industries. I began my career in uniform, serving over a decade in the United States Army as both an enlisted soldier and commissioned officer. Those years instilled in me a deep respect for disciplined execution, institutional documentation, and mission-focused leadership.
-
-After transitioning from active duty, I staffed the Oregon House Committee on Veterans & Emergency Services, where I learned firsthand how legislation moves from intent to statute to implementation. That experience reinforced an insight that has shaped the rest of my career: policy and operations are inseparable. Institutions only function well when strategy, governance, and execution are aligned.
-
-Since then, I have founded companies, built systems, advised business owners, authored enterprise documentation, and led multi-stakeholder initiatives in complex environments. Today, my work focuses on helping business owners and regulated operators modernize their governance systems, quantify risk, and prepare for long-term scalability or exit. Increasingly, this includes leveraging AI-assisted workflows to improve documentation, compliance visibility, and operational clarity.
-
-I grew up in Mount Vernon, Washington — a small farming community 60 miles north of Seattle — and earned a B.A. in Political Science and an Army ROTC commission from Oregon State University. My career continues to evolve at the intersection of institutions, technology, and public service.
-
 ### Experience
 **Principal**, [Molinas Systems Consulting](https://molinas.consulting/) 
 | 2022 – Present

@@ -33,8 +33,4 @@ Structured loosely around a [simple reporting quadrant](https://davidcmolina.com
 - Publish *The Principles of MESLO*  
 - Book release launch and give talks
 
----
-
-If you'd like to say hi reach out over on the [interwebs](/connecting).
-
 This update was last made May 4, 2026.
