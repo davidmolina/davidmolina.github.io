@@ -16,13 +16,13 @@ Structured loosely around a [simple reporting quadrant](https://davidcmolina.com
 ### Working on now
 
 - Valuation of new business, get under contract
-- Creating content for [ig:@principlesofmeslo](https://www.instagram.com/principlesofmeslo/)  
+- Creating content for [@principlesofmeslo](https://www.instagram.com/principlesofmeslo/)  
 
 ---
 
 ### Working on next
 
-- Finishing final book layout (PDF) for *The Principles of MESLO*  
+- Approving final book layout (PDF) for *The Principles of MESLO*  
 - Updating [principlesofmeslo.com](https://principlesofmeslo.com/), including how and where to buy a copy
 - Reaching out to bookstores  
 
