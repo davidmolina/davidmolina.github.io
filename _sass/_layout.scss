@@ -5,9 +5,19 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    width: 100%;
+    background-color: $background-color;
+    z-index: 1000;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+body {
+    padding-top: 62px;
 }
 
 .site-title {
