@@ -2,7 +2,7 @@
 layout: page
 title: Press
 description: >
-    David Molina has been featured in the Portland Business Journal, Bend Bulletin, Seattle Times, Humans of Tech, GeekWire, and Más Wired.
+    David Molina has been featured in the Portland Business Journal, Bend Bulletin, Seattle Times, Humans of Tech, GeekWire, Univision KUNP-TV, and Más Wired.
 author: "David Molina"
 permalink: /press/
 ---

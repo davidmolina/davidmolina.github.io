@@ -2,7 +2,7 @@
 layout: page
 title: Connecting
 description: >
-    The best way to connect with David Molina on the internet.
+    Choose the best way to connect with David Molina on the internet. David Molina is mostly @davidcmolina. Say hi. 
 author: "David Molina"
 permalink: /connecting/
 ---

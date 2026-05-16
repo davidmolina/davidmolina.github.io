@@ -1,6 +1,9 @@
 ---
 layout: default
 title: All Posts
+description: >
+    A compilation of David Molina's blogs and posts since 2009. Welcome.  
+author: "David Molina"
 permalink: /archive/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: About David Molina
 description: >
-     David Molina is a mission-driven founder and former Army Captain turned M&A Advisor and business broker.
+     David Molina is a mission-driven founder and former Army Captain turned M&A Advisor and business broker. Molina works remote across the pacific northwest.
 author: "David Molina"
 permalink: /about/
 ---

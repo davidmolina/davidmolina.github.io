@@ -2,7 +2,7 @@
 layout: page
 title: Events
 description: >
-    David Molina has appeared at the House Veterans Affairs Subcommittee on Economic Opportunity, GitHub Universe, Bunker Labs, and CodeConf LA.
+    David Molina has spoken before the House Veterans Affairs Subcommittee on Economic Opportunity, GitHub Universe, Bunker Labs, and CodeConf LA on veterans and technology.
 author: "David Molina"
 permalink: /events/
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: What I'm Doing Now
 description: >
-    David Molina is currently working remote on a variety of high level priorities.
+    David Molina is currently working remote finalizing his manuscript, and conducting business valuations...
 author: "David Molina"
 permalink: /now/
 

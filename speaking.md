@@ -11,13 +11,12 @@ I speak on entrepreneurship, technical & vocational pathways, and value of x & t
 
 Past talks and appearances include the: 
 - Migrant Youth Conference
-- Estimating Essentials
+- APEX Estimating Essentials
 - Tabor100
 - GitHub Universe
 - Bunker Labs
 - CodeConf LA
 - Tech Inclusion Seattle
-- Student Leadership Program (SLP)
 - ..., and various business & community events. 
 
 For a longer archive of past talks and appearances, see [Events](/events/) and [Press](/press/).
