@@ -25,4 +25,3 @@ It's a long document that outlines your strengths, weaknesses and like a magic b
 
 The lesson here: it's good practice to reread complex documents (especially those designed to make you personally and professionally better), an old poem or old letter from time to time to reflect on not just where you were, how far you've come, but where you are today to be more decisive and keep closing the gap.
 
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

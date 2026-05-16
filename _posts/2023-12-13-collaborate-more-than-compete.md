@@ -27,5 +27,3 @@ The play by play is:
 Whereas collaboration is taking two or more competing companies or organizations to combine strengths, cover down on weaknesses, and minimize risks to produce better outcomes.
 
 Very few live in this space— it’s a bold and strategic move. It’s the one owners can influence the most and set the culture and tone for the rest.
-
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

@@ -26,5 +26,3 @@ The obvious one and often misunderstood is the annual. The annual is where busin
 It can be as much as convening the entire company near a ski resort for the weekend, or somewhere in between where everyone on the team can contribute in person and provide valuable input.
 
 Given the holiday season, business and life slowing down it’s a perfect time to update them, make any announcements, new promotions or hires, *sharpen the axe*, and prepare the entire ship to execute in that direction for the next year.
-
-*David Molina is an entrepreneur, strategist, and thinker–doer dedicated to exploring the full spectrum of human performance. Born to Mexican immigrant parents, he forged his path from farm fields to Captain in the U.S. Army, commissioner, and eventually to founding companies, nonprofits, and creative ventures. He shares more about health systems, business workflows, and intentional work on [Instagram at @davidcmolina](https://www.instagram.com/davidcmolina/).*

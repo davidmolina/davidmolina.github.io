@@ -27,5 +27,3 @@ In Frankl's Foreward a few parts stood out:
 I do find meaning in taking in the sun every morning, the birds chirping, the feel of grass on my feet, and that we can do what we want to do and is needed in the world.
 
 #coffee #openlibrary #authors
-
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

@@ -17,5 +17,3 @@ Here's my health trajectory from last year to present day which might be of use 
 - Fourth, a lymphatic drainage massage. About 10-days ago I got one. The deep tissue massage involved a piping hot pink himalayan salt stone and lasted over 1.5 hours. The results were immediate and resolved ever waking up throughout the night.
 
 Atomic Habit author James Clear talks about substacking better habits on top of bad habit. Lifestyle medicine is cumulative and the body is powerful enough to restore itself, if we allow it.
-
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

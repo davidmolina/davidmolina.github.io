@@ -39,5 +39,3 @@ Caveat:
 - keep job description, resume and cover letter copy, folders organized in one place for reviewers and avoid [technical debt and duplication](https://davidcmolina.com/2023/06/28/avoid-technical-debt-and-duplication/)
 - the pace of layoffs in 2023 don't seem to be slowing down into 2024... always be ready
 - ask your business mentor or career coach if they'd review it before sending it off... remember, the more you write the more you'll get better
-
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

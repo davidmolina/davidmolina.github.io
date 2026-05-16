@@ -31,5 +31,3 @@ In my [healing journey](https://www.instagram.com/p/DNIzp7Exonk/?img_index=1), I
 - Massage magnesium spray, a powerful mineral spray on chest, stomach and calf leg. It causes 300 chain reactions in our bodies that often don't communicate, absorb vitamins, and healing properties from food. The calf is also known as our secondary heart.
 
 When we know better, we must do better. 
-
-*David Molina is an entrepreneur, strategist, and thinker–doer dedicated to exploring the full spectrum of human performance. Born to Mexican immigrant parents, he forged his path from farm fields to Captain in the U.S. Army, commissioner, and eventually to founding companies, nonprofits, and creative ventures. He shares more about health systems, business workflows, and intentional work on [Instagram at @davidcmolina](https://www.instagram.com/davidcmolina/).*

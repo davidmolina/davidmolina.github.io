@@ -12,13 +12,18 @@ permalink: /archive/
 <ul class="archive-list">
   {% for post in site.posts %}
 
-    {% assign ex = post.excerpt %}
+    {% assign ex = post.description | default: post.content %}
 
     {%- if ex contains '</blockquote>' -%}
       {%- assign ex = ex | split: '</blockquote>' | last -%}
     {%- endif -%}
 
+    {%- if ex contains 'post-author-social' -%}
+      {%- assign ex = ex | split: '</p>' | last -%}
+    {%- endif -%}
+
     {%- assign ex = ex | strip_html | normalize_whitespace -%}
+    {%- assign ex = ex | replace_first: '@davidcmolina ', '' -%}
     {%- assign ex = ex | replace: '?', '. ' | replace: '!', '. ' -%}
 
     {%- assign parts = ex | split: '.' -%}

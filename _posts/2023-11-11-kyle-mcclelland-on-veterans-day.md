@@ -44,4 +44,3 @@ To understand a Military Veteran you must know:
 * Being a Veteran is something that had to be earned, and it can never be taken away.
 * It has no monetary value, but at the same time it is a priceless gift.
 
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

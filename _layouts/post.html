@@ -27,8 +27,19 @@ layout: default
     {% endif %}
   </header>
 
+  {% capture author_social %}
+<p class="post-author-social">
+  <img src="{{ '/img/david-molina-circle-balanced.png' | relative_url }}" alt="David Molina">
+  <a href="https://www.instagram.com/davidcmolina">@davidcmolina</a>
+</p>
+  {% endcapture %}
+
+  {% assign article_body = content
+    | replace: '<p><a href="https://www.instagram.com/davidcmolina">@davidcmolina</a></p>', author_social
+  %}
+
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    {{ article_body }}
   </div>
 
 <nav class="post-nav" aria-label="Post navigation">

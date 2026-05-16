@@ -38,5 +38,3 @@ The briefing tool is designed to be interactive, including:
 The key is to make updates informative, organized and provide an opportunity to discover bottlenecks. Entrepreneurs and business owners have the most influence here. This is where they should live the most and pays the most dividends.
 
 #briefings #updates #valueadd
-
-*David Molina is an American entrepreneur, founder, and blogger. A son of Mexican immigrants, a former farm worker and high school drop-out, he went on to be the first in his family to attend and graduate from a university and earn an Officer Commission in Infantry. Molina has been a founder, co-founder and launched a wide range of companies and organizations including a veterans nonprofit, featured in multiple news outlets including The Bend Bulletin, Portland Business Journal, Univision KUNP-TV, Humans of Tech, and The Seattle Times.*

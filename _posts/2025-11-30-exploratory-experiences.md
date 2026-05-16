@@ -36,5 +36,3 @@ No one is born an explorer, you become one through exploratory experiences. It's
 > I'm not going anywhere without my luggage. -- Richard Pryor
 
 Again it's a waste of your precious time to compare yourself to anyone else but yourself to where you have been and how far you've come.
-
-*David Molina is an entrepreneur, strategist, and thinker–doer dedicated to exploring the full spectrum of human performance. Born to Mexican immigrant parents, he forged his path from farm fields to Captain in the U.S. Army, commissioner, and eventually to founding companies, nonprofits, and creative ventures. He shares more about health systems, business workflows, and intentional work on [Instagram at @davidcmolina](https://www.instagram.com/davidcmolina/).*
