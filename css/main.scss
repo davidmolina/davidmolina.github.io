@@ -57,6 +57,25 @@ $on-laptop: 800px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
+.post-author-social {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 0 0 1.25rem;
+}
+
+.post-author-social img {
+  flex: 0 0 auto;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: block;
+}
+
+.post-author-social a {
+  line-height: 1;
+}
+
 /* ---------------------------------
    Post navigation (Newer / Older)
    Requires post.html to wrap links in .post-nav-inner

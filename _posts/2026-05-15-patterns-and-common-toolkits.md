@@ -11,7 +11,10 @@ categories:
     - sales
     - microbreaks
 ---
-[@davidcmolina](https://www.instagram.com/davidcmolina)
+<p class="post-author-social">
+  <img src="{{ '/img/david-molina-circle-balanced.png' | relative_url }}" alt="David Molina">
+  <a href="https://www.instagram.com/davidcmolina">@davidcmolina</a>
+</p>
 
 I was talking to an entrepreneur and dear friend this afternoon, and he shared how he had closed a deal over the phone while driving.  Keep in mind, this is a go-getter that spends quite a few hours behind a desk and monitor. Always planting seeds, educating clients, and nurturing existing relationships. 
 
