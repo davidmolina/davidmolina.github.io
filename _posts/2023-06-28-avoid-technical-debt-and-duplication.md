@@ -6,6 +6,7 @@ date: 2023-06-28 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 For a few weeks I've been trying to update my blog without success. On the one hand, [GitHub](https://github.com/davidmolina/) showed the most recent source code and my live blog was showing the latest and greatest blog. The issue? The local server failed to show my newest blog. And, worse my text editor was not showing it.
 

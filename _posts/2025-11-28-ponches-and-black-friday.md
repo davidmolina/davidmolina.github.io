@@ -12,6 +12,7 @@ categories:
     - economy
     - ponche
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 This week every business promotes Black Friday, or the period of time when business are trying to end the day in the black, not red, an accounting term for positive cash and profitability. If you own a small business you know exactly what this means. Business dependent, this means that you must figure out how to best position your product or service in front of customers balancing pricing strategy, timing, location and what people want. While word of mouth is important, understand your customers, patrons and clients have way more options at their fingertips to explore and discover you.  
 

@@ -11,6 +11,7 @@ categories:
     - lifestyle-medicine
     - nature
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 Over the [past three years](https://davidcmolina.com/2022/11/26/podcast-of-the-week-labrada-saadia/) I've transitioned from prescriptive medicine to lifestyle medicine, one in which health is the foundation of living. This has resulted in losing over 77lbs, healthy blood work, shrinking shirt and pant size, including blazers, and no longer out of breath when participating in normal or incline activities. As some of you already know, I blanked out driving my dually fully loaded over the Portland St. John's bridge in summer 2022. That near life experience changed my perspective about entrepreneurship and hustle. 
 

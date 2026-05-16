@@ -6,6 +6,7 @@ date: 2023-06-29 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 This is a recap I gave earlier to a group of aspiring entrepreneurs, small business owners, and owner-operators on the topic of government contracting.
 

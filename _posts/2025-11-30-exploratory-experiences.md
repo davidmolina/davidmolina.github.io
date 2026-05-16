@@ -11,6 +11,7 @@ categories:
     - blind-spots
     - exploratory-experiences
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 No one is born an explorer, you become one through exploratory experiences. It's in exploratory experiences where your mind expands and rarely can you put it back where it was. You're never the same each time, and I highly recommend it for all ages. Personal timeline example: 
 

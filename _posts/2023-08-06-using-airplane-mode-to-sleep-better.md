@@ -6,6 +6,7 @@ date: 2023-08-06 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 For years I've suffered from lack of sleep. I imagined it was because I worked too hard, ate too close to going to bed, or over drank. The truth was twofold: being overweight and not getting regenerative sleep. While I've never been diagnosed by the VA with sleep apnea, I've been known to snore in my sleep and wake others up at the detriment of my relationships. One way to resolve sleep apnea is in fact losing excessive weight.
 

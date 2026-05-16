@@ -6,6 +6,7 @@ date: 2023-11-11 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 Today on Veteran's Day I want to share this post, an oldie but one that has been going around for about two years. I believe it was written by [Kyle McClelland](https://www.linkedin.com/posts/kyle-m-mcclelland-8848a5a_to-understand-a-military-veteran-you-must-activity-6864010664197812224-PtYF) and describes what many of us who've served in uniform feel today.
 

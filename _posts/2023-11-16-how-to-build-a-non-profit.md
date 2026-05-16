@@ -6,6 +6,7 @@ date: 2023-11-16 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 Earlier this evening I was chatting with a business student about building a non-profit. This is an update to my earlier, [Launching a Nonprofit the Operation Code Way](https://davidcmolina.com/2017/07/22/launching-a-nonprofit-the-operationcode-way/). Let me preface by saying, start with the problem. What problem are you trying to solve?
 

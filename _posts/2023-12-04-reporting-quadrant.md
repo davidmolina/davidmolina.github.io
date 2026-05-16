@@ -6,6 +6,7 @@ date: 2023-12-04 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 This afternoon I observed a conversation between a business owner and an employee. The conversation centered on updates, taskers, and what is expected.
 

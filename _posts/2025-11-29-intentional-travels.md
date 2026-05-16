@@ -11,6 +11,7 @@ categories:
     - zoom
     - virtual-assistants
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 In every aspect of business, startup and even in the military, a team is what makes it go around. Most recently in my downtown office I hired my first administrative assistant who went onto bigger and greener pasture co-founding her own construction company. A year later I went through a few virtual assistants to help with day-to-day new business development, research and clerical tasks. Today, I'm going to visit the last one, spend some time chatting and share lessons learned, best practices, and tips how software and AI is impacting the industry. 
 

@@ -6,6 +6,7 @@ date: 2023-12-02 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 When one of my twins, Citlali, mentioned this afternoon she wanted to learn how to invest, alongside [Crunchbase](https://www.crunchbase.com/), [Morningstar](https://www.morningstar.com/) and [Robinhood](https://robinhood.com/us/en/), I thought about Bloom.
 

@@ -11,6 +11,7 @@ categories:
     - leadership
     - systems
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 For benefits employees we all know what we’re going to collect on the day after our 20 years. I joined the Army reserve after putting myself through community college and after 20 years I wouldn’t have seen a dime until well into my 60s. For some they do that, for others not so much.
 

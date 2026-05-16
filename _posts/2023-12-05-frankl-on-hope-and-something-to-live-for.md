@@ -6,6 +6,7 @@ date: 2023-12-05 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 This morning on our riverwalk and observing the sunset, reflecting and taking it in we stopped by a small coffee shop. The business, a moving trailer was retrofitted with a full barista bar and the opening was a tiny open source library. A few items to note:
 - Every conceivable coffee and specialty drink could be prepared

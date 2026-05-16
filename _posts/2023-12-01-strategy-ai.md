@@ -6,6 +6,7 @@ date: 2023-12-01 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 Back on active duty I served as the S-2/3 Officer in Charge (OIC), Protocol and Public Affairs Officer for a unique wartime battalion sized organization comprised of military service members, active, reserve and retiree recall, GS civilians and Department of Defense contractors. During my 24-month tour of duty, officers get rated annually and in this rating our supervisors have an opportunity to recommend several future career path opportunities to continue service in uniform.
 

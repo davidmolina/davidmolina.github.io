@@ -6,6 +6,7 @@ date: 2023-11-30 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 Picture this. You drive almost an hour to a function only to arrive and quickly decide about the opportunity cost and time decay. I arrived and not 7 minutes later I was departing with a handout and names of the points of contact I needed.
 

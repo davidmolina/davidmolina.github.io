@@ -10,6 +10,7 @@ categories:
     - lban
     - management-assessment
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 During the Stanford GSB [LBAN Program](https://www.lban.us/) Latino entrepreneurs benefit from several, incuding:
 

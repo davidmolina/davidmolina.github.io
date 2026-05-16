@@ -6,6 +6,7 @@ date: 2023-12-13 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
 ---
+[@davidcmolina](https://www.instagram.com/davidcmolina)
 
 Over the years I’ve read about the importance of collaboration w/ competitors vs. competing with them.
 
