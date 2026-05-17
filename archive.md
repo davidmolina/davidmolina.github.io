@@ -2,7 +2,7 @@
 layout: default
 title: All Posts
 description: >
-    A compilation of David Molina's blogs and posts since 2009. Welcome.  
+    David Molina writes about systems thinking, entrepreneurship, and leadership at davidcmolina.com.
 author: "David Molina"
 permalink: /archive/
 ---
