@@ -45,6 +45,19 @@ $on-laptop: 800px;
 @import "base", "layout", "syntax-highlighting";
 
 /* ---------------------------------
+   Embedded media
+---------------------------------- */
+
+iframe[src*="player.vimeo.com"],
+iframe[src*="youtube.com/embed"] {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+}
+
+/* ---------------------------------
    Post header image
 ---------------------------------- */
 
