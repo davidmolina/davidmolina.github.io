@@ -63,11 +63,37 @@ iframe[src*="youtube.com/embed"] {
 
 .post-header-image {
   width: 100%;
+  max-width: 620px;
+  max-height: 70vh;
   height: auto;
-  margin: 1.75rem 0 2rem;
+  margin: 1.75rem auto 2rem;
   border-radius: 12px;
   display: block;
+  object-fit: contain;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.post-content img[src*="amazonaws.com"] {
+  display: block;
+  width: auto;
+  max-width: min(100%, 620px);
+  max-height: 70vh;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+.post-content a:has(img[src*="amazonaws.com"]) {
+  display: block;
+}
+
+@include media-query($on-palm) {
+  .post-header-image,
+  .post-content img[src*="amazonaws.com"] {
+    width: 100%;
+    max-height: none;
+  }
 }
 
 .post-author-social {
