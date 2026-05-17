@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "What Makes a Cover Letter"
-subtitle: "A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume."
+subtitle: "A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume. This is what I’ve used and its worked:"
+description: "A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume. This is what I’ve used and its worked:"
 date: 2023-12-10 11:12:43 -0800
 author: "David Molina"
 categories: jekyll update
