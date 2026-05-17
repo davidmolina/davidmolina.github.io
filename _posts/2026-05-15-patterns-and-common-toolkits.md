@@ -23,8 +23,6 @@ What’s a business owner’s sales toolkit? A phone, and you. Deals don’t clo
 
 What can be permanently delegated? Everything else, from back office to administrative taskers, to a virtual assistant (VA). My last VA was in Puerto Vallarta, and the one before in Guadalajara. 
 
-Closing a sales deal while enjoying and in the presence of your family has got to be the biggest flex. It’s in these micro-breaks turned full day breaks where the magic happens— where deals close because you were in an environment of unconditional love, and you in a safe environment. 
-
-Find your sweet spot.
+Closing a sales deal while enjoying and in the presence of your family has got to be the biggest flex. It’s in these micro-breaks turned full day breaks where the magic happens— where deals close because you were in an environment of unconditional love. Find your sweet spot.
 
 #sales #remote #microbreaks
