@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Strategy AI"
-subtitle: "How several INSEAD MBAs produced a similar strategy as a machine."
+description: >
+    Alongside human resource officer I was being encouraged to go into a very specific functional area called 59, or an Army Strategists...
 date: 2023-12-01 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - strategy
+    - strategy-ai
+    - mba-students
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
