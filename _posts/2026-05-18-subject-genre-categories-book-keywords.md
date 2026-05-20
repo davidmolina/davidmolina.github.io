@@ -3,7 +3,7 @@ layout: post
 title:  "Subject/Genre Categories, Book Keywords, and Assessment Reports"
 description: >
   In preparation for The Principles of MESLO summer release, my publishing assistant requested subject/genre categories, and book keywords...
-date: 2026-05-16 11:12:43 -0800
+date: 2026-05-18 11:12:43 -0800
 author: "David Molina"
 categories: 
     - publishing
