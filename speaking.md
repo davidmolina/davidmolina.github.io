@@ -33,4 +33,5 @@ Topics often include estimating and pricing, operational systems, delegation, ba
 - CodeConf LA
 - Tech Inclusion Seattle
 
+## Inquiry
 For workshops, speaking engagements, technical assistance initiatives, or operational training inquiries, [please get in touch](mailto:david@molinas.co) or connect via [LinkedIn](https://www.linkedin.com/in/davidcmolina/).
