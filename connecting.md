@@ -23,5 +23,5 @@ Not currently as active on:
 - [Tumblr - @davidcmolina](https://davidcmolina.tumblr.com/)
 - [Twitter - @davidcmolina](https://twitter.com/davidcmolina)
 
-Email and Good Old Fashion:
-[Email](mailto:david.c.molina@gmail.com) 
+Or, if you prefer email: 
+[Say hello](mailto:david@molinas.co)
