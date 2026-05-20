@@ -2,7 +2,11 @@
 layout: post
 title:  "Tech Inclusion Seattle"
 date:   2017-06-14 08:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - tech-inclusion-seattle
+    - tech-inclusivity
+    - operationcode
 ---
 
 This morning I traveled to Seattle, Wa. to be on a panel at Tech Inclusion Seattle. The focus of the event: creating solutions to jobs, access and opportunity, empathy and allyship, inclusive and accessible design, and creating inclusive team.

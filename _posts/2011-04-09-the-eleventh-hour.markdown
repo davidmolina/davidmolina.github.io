@@ -2,7 +2,9 @@
 layout: post
 title:  "The Eleventh Hour"
 date:   2011-04-09 08:12:43 -0800
-categories: jekyll update
+categories: 
+    - federal-government-shutdown
+    - congressional-standoff
 ---
 
 This week the stress for almost every American reached new heights, be it in Oregon serving in the National Guard or Reserves to serving in the Middle East, when Congress and President Obama nearly missed the deadline for passing an agreed budget. In fact, for anyone serving in the military or civilian personnel in the federal government it became much more personal.

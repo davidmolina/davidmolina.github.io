@@ -2,7 +2,10 @@
 layout: post
 title:  "Moving Military Families Courtesy of NorthAmerican Vanlines. Thanks Mike & Steve!"
 date:   2011-02-12 08:12:43 -0800
-categories: jekyll update
+categories: 
+    - oregon-maryland-delaware
+    - military-life
+    - reserve-active-mobilization
 ---
 
 Earlier today, the reality of moving to Delaware became ever so real when Mike & Steve pulled up at our Portland home on the corner of 52nd & Everett. Just as they had arrived to carefully organize our personal belongings like a puzzle onto their truck & take off, the entire process could not have run more smoother. Arriving early in the morning from their previous pickup in Seattle the gentlemen in the middle Mike who owns his truck and is an independent contractor for NorthAmerican VanLines, and his trustee Steve shared the duty. Upon arriving we assessed the house, reviewed the paperwork completed by our packers, Brian & Tim, from yesterday, and without further ado they were off. Steve brought everything out onto Everett Street near the truck ramp. Mike carefully organized our furniture, marked boxes, stacked them high, and secured them in place. In total there would be six seperate families belongings on board separated by floors & sections. Making it look easy, they still had another stop to go before getting on the road out east.

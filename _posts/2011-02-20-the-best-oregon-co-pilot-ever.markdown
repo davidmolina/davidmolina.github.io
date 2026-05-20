@@ -2,7 +2,10 @@
 layout: post
 title:  "The Best Oregon Co-Pilot Ever"
 date:   2011-02-20 08:12:43 -0800
-categories: jekyll update
+categories: 
+    - cross-country-travel
+    - oregon-maryland
+    - mobilized-to-active-duty
 ---
 
 This evening, I bid farewell to Edith's dad, my father-in-law, former-Pastor Juan Quiroz at [BWI](https://www.swarmapp.com/davidcmolina/checkin/4d617f6b5c39b1f7e387104a?s=u26F9y2kwD74EQzeo2taQqz4rRs). After trekking nearly 3,000 miles cross-country from Oregon to Maryland and then touring the Baltimore/DC area these past two days together he now heads to Oklahoma on a different mission--to help the brothers in that area rebuild their roof that caved in due to heavy snow with final destination to Oregon.

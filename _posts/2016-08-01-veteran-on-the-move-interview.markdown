@@ -2,7 +2,11 @@
 layout: post
 title:  "Interview with Joe Crane at Veteran on the Move Podcast"
 date:   2016-08-01 10:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - veteran-on-the-move-podcast
+    - operationcode
+    - veterans-transition
 ---
 
 As promised yesterday, podcast interview went live today. As it happens, a few weeks ago Rob Kriner, an [Operation Code](https://operationcode.org) marketing/communications volunteer introduced us to Joe Crane, a 24 year Military Veteran and the founder and host of the Veteran on the Move podcast. As Joe puts it:

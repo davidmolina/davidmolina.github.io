@@ -2,7 +2,10 @@
 layout: post
 title:  "Learning to Code - Building a URL from Scratch"
 date:   2012-10-14 17:12:43 -0800
-categories: jekyll update
+categories: 
+    - john-sedgewick
+    - learning-html
+    - baltimore-open-source-hack-night
 ---
 Since 1996, when I was first introduced to HTML by Mr. Sedgewick at Mount Vernon High, I’ve had this itch to craft and build online. Like many detours in life mine took  another route of which I’m now reeling myself back from. A few years ago, a good friend from Oregon State University, Oktaviano Merecias kept inviting me to a little bookstore called Powell’s in downtown, Portland. There we learned everything about WordPress, Joomla and Drupal together determined to do it ourselves. Ultimately, I learned WordPress enough to build BilingualHire, Casa Latinos Unidos, and Dover Montessori Country Day Academy to name a few. At the same time I subscribed to Robert Scoble’s Twitter lists, including: Programmer where I picked up bits of knowledge every time I looked in the need.
 

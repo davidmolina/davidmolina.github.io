@@ -4,7 +4,10 @@ title:  "Avoid Technical Debt and Duplication"
 subtitle: "Why technical debt slows down entrepreneurs and why we need to kill duplication."
 date: 2023-06-28 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - technical-debt
+    - file-mapping
+    - backoffice
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 

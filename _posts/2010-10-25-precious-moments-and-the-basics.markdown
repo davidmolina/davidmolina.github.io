@@ -2,7 +2,10 @@
 layout: post
 title:  "Precious moments and the basics."
 date:   2010-10-25 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - paloma-molina
+    - citlali-molina
+    - familia-molina
 ---
 
 Since 8/27, Edith and I haven't taken the trek up north to Mount Vernon, Washington. Our twins, Paloma & Citlali, were preemies and too small to travel. Nearly two months later we did and my mom, brothers and sisters were able to spend precious moments with them. We are so happy we did. To see family hug and hold the little ones brings us back to what is important in life, to see Maya read to her older cousins and for the aunts and uncles to meet the twins is an incredible and fulfilling feeling as parents.

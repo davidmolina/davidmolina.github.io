@@ -2,7 +2,11 @@
 layout: post
 title:  "Full Descriptive Biographies"
 date:   2016-04-07 14:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - tell-your-story
+    - biographies
+    - thinkmujer
 ---
 
 I had a huge and pivotal morning meeting in downtown, Portland. Literally. The meeting was about something that doesn't exist, that will exist, and the documents that must be created to support it's existence.

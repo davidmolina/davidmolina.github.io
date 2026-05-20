@@ -4,8 +4,11 @@ title:  "Operation Code Interviews with Vets in Tech - David Molina, former U.S.
 subtitle: "Ep. 002 - David Molina is the founder of Operation Code. In this interview, he describes his Army career, how he found his way into the tech industry with no prior training, and how he started Operation Code to help veterans like him learn software and code the future."
 date:   2019-01-15 08:12:43 -0800
 author: "David Molina"
-categories: jekyll update
 header-img: "https://davidmolina.s3.us-west-2.amazonaws.com/operationcode_interviews_with_vets_in_tech_davidmolina.png"
+categories: 
+    - operationcode
+    - podcast
+    - opensource
 ---
 
 Today, I was interviewed on the Operation Code podcast by former Googler and podcast host, Bob Purvy. The Operation Code podcast was his brainchild and he brought it to life and we're all so thrilled he volunteers his time to coordinate, schedule, interview, edit then deploy it onto the web.

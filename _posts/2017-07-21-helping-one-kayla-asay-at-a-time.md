@@ -2,7 +2,11 @@
 layout: post
 title:  "Helping One Kayla Asay at a Time"
 date:   2017-07-21 08:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - operationcode
+    - tech-jobs-advice
+    - breaking-into-tech
 ---
 
 This morning I had a great visit from one of our [Operation Code](https://operationcode.org) members, an Army veteran who's looking to relocate to Portland, Ore. Kayla Asay just graduated Code Fellows Seattle studying Full-Stack JavaScript and looking to relocate to the City of Roses. While we conduct virtual career and employment support via our [Slack channel](operation-code.slack.com), nothing beats in person. In the Infantry, it's called, "Eyes on the objective." In my office, we discussed the various Portland startups hiring and made several intros, including Marty Nelson, CEO and Chief Instructor at Code Fellows PDX (soon to be Alchemy Code Labs).

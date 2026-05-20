@@ -2,7 +2,11 @@
 layout: post
 title:  "Scaling an Idea"
 date:   2017-04-26 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - scaling-an-idea
+    - operationcode-founding
+    - problem-solving
 ---
 
 Today, I had a productive (lunch) meeting w/ a friend about a project he wants to take into the wild. At first glance it sounded like a nonprofit. As we discussed further, we reasoned it could be a business. The thing is nonprofits can be launched in phases, ex. fiscal sponsorship (10% fee, requiring no board), to a full-fledged independent 501c3 charity (0% fee, requiring a board, IRS filing, etc). A business on the other hand wouldn't be so ridden with red-tape. The common denominator here is filing, name, domain (website), an email and a way to accept payments. Filing is give or take $100 (name), domain is $52 w/ [DNSimple](https://dnsimple.com/), email is $5 monthly w/ [Google](https://gsuite.google.com), and [Stripe](https://stripe.com/) is just a small nominal fee. On this last one, [Wufoo](https://www.wufoo.com/) is great for non-coders.

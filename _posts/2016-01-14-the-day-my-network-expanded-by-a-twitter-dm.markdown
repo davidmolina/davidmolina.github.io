@@ -2,7 +2,14 @@
 layout: post
 title:  "The Day my Network Expanded by a Twitter DM"
 date:   2016-01-14 17:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - jonathan-coveney
+    - laura-gomez
+    - nick-frost
+    - elmer-thomas
+    - pete-runyon
+    - operationcode
 ---
 I grew up poor, jumping from multiple migrant farmworker camps to the next, starting in Hood River, Oregon and ultimately landing in the Skagit Valley, just north of Seattle. Our safety net was always more work than there were Mexicans to do it. Our safety net was community, pre-internet, where our families would get together on weekends for carnitas, chicharrones and cueritos de puerco. There was the Sunrise Apartments, La Paloma and Section-8 housing. Long before the DM there was carne asadas and the network was who you knew.
 
@@ -28,7 +35,7 @@ I spent a good half of 2013 and 2014 trying to survive post-military, learning t
 When I couldn’t find someone and I got over the imposter syndrome, I spent the latter half of 30-days working on the app until it was live. When I got stuck and had blown over five hundreds dollars leveraging HackHands(), I began re-asking various code schools if I could now use my New GI Bill. After countless, “no’s” and “sorry, bureaucracy can be slow” I began asking more pointed questions like, “am I the only one asking this questions or are there others?” What I found out was that I wasn’t alone. Kristen Smith, then CEO of Code Fellows response of, “over 25% of monthly inquiries are New GI Bill-related” pissed me off. Her attitude of just, “fucking ship it” was empowering. On August 21, 2014, I committed the first line of code to GitHub launching Operation Code, then a simple petition asking Congress to allow code schools to use the New GI Bill (of course it’s more complicated as we later found out). I would later spend 6 mos evolving this, 6 mos under a fiscal sponsor until the DM that changed it all.
 The DM that changed and accelerated most everything and has led me on a path to diversify the tech industry with military veterans came to and from Jonathan Coveney. He had been very helpful providing invaluable feedback on the BilingualHire app. Prior to that he gave great input on NestNote. In one instance, he mentioned another individual that I should connect with. Another Hispanic. That person was laura i. gómez. She was just leaving Twitter, had traveled extensively throughout Latin America and was getting ready to launch her own tech startup focused on diversifying the tech workforce using machine learning. It took nearly two-years for us to meet in person, but we DM’d periodically.
 
-I was in San Francisco for Signal and had tweeted to my followers to meet at 21st amendment for drinks and chat Operation Code, then a project under a fiscal sponsor. That night we had a ton of folks come out from SendGrid and everyone wanted to learn what this Operation Code was — but, most importantly how they could help. I gave broad overviews in military lingo covering the strategic, operational and tactical elements. But it was the very presence and persistence of the individuals that came out for drinks that night, including laura i. game, Nick Frost, Elmer Thomas, and Pete Runyon that encouraged me to look outward. The Silicon Valley breed is unlike the Skagit Valley breed. Within weeks I split Operation Code from the fiscal sponsor. It was liberating.
+I was in San Francisco for Signal and had tweeted to my followers to meet at 21st amendment for drinks and chat Operation Code, then a project under a fiscal sponsor. That night we had a ton of folks come out from SendGrid and everyone wanted to learn what this Operation Code was — but, most importantly how they could help. I gave broad overviews in military lingo covering the strategic, operational and tactical elements. But it was the very presence and persistence of the individuals that came out for drinks that night, including Laura Gomez, Nick Frost, Elmer Thomas, and Pete Runyon that encouraged me to look outward. The Silicon Valley breed is unlike the Skagit Valley breed. Within weeks I split Operation Code from the fiscal sponsor. It was liberating.
 
 It’s no surprise then that these four individuals today serve on the Operation Code governing board of directors and are helping shape the future of the organization that is being built while we fly it.
 

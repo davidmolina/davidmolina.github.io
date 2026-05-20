@@ -2,7 +2,10 @@
 layout: post
 title:  "Insightful tidbits. Insightful Marshall."
 date:   2011-01-08 17:12:43 -0800
-categories: jekyll update
+categories: 
+    - marshall-kirkpatrick
+    - readwriteweb
+    - mentorship
 ---
 
 Recently, I had tea w/ Marshall Kirkpatrick ([@marshallk](http://twitter.com/marshallk)) of [ReadWriteWeb](http://thenextweb.com/entrepreneur/2011/11/11/marshall-kirkpatrick-steps-down-from-readwriteweb-to-start-his-own-company-plexus-engine/#gref) at Portland's own tea shop, [Townshend's](http://www.townshendstea.com/). We discussed a variety of topics, from current projects to startup resources. Note: if you're in or visiting Portland and love tea, Townshend's is a delight.

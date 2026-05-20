@@ -2,7 +2,12 @@
 layout: post
 title:  "Blog Migration Complete"
 date:   2017-01-02 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - posterous
+    - tumblr
+    - blog-migration
+    - jekyll
 ---
 
 Anyone who's ever tried blogging knows what a pain it is to write and publish their work, and own their work.

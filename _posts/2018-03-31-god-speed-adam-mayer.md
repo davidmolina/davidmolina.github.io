@@ -4,8 +4,11 @@ title:  "God Speed Adam Mayer"
 subtitle: "This morning Oregon lost an American patriot— unexpectedly. Rest in peace brother."
 date:   2018-03-31 08:12:43 -0800
 author: "David Molina"
-categories: jekyll update
 header-img: "img/adam-mayer.png"
+categories: 
+    - obituary
+    - rememberance
+    - adam-mayer
 ---
 
 This morning Oregon lost an American patriot— unexpectedly. We had just broke bread this past Wednesday at my Campaign Kick-Off. A fellow Republican PCP, Adam mostly spent the entire eve bottle feeding baby Edith. He leaves behind his amazing wife, Christiana, whom were married in New York on September 24, 1994. That eve, at the former Cornelius Mayor’s home Adam introduced me to another PCP who would knock on doors. He had a big smile. The campaign was coming along.

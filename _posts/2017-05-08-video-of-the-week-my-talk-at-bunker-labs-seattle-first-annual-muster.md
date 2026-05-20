@@ -2,7 +2,11 @@
 layout: post
 title:  "Video Of The Week: My Talk At Bunker Labs Seattle, First Annual Muster"
 date:   2017-05-08 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - bunker-labs-seattle
+    - operationcode
+    - annual-muster
 ---
 
 Last Friday afternoon, I went to [Bunker Labs Seattle](https://bunkerlabs.org/seattle/) for their first annual muster and spoke for about 15mins.

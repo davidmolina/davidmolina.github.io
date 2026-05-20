@@ -2,7 +2,10 @@
 layout: post
 title:  "Balancing Family and Work"
 date:   2016-04-08 14:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - work-life-balance
+    - small-business-family
 ---
 
 Today, my better half, Edith, departed to Eastern Oregon on a small chartered plane as part of her consulting work. The client had been coming here to Beaverton off-and-on the last few months and now it was time to meet the board and staff and take their group one step further. But there was a time after active-duty (2013-early 2015) when I was so busy working that all Edith could do was support me, raising our daughters, and holding down the fort and putting her dreams on hold. But these can only be bottled up for so long.

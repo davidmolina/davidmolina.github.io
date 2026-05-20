@@ -4,7 +4,10 @@ title:  "Open Source Night Baltimore Anniversary"
 subtitle: "Today, 13 years ago on Sept 25, 2012 I attended my first Open Source Night in Baltimore, a place to create, tinker and hack something together."
 date: 2023-09-25 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - opensource 
+    - livehack 
+    - pairing
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
@@ -20,4 +23,3 @@ The objective: emulate the live application on our machines and ensure [localhos
 
 Pairing has significant benefits not the least accelerating our pathway to much faster results. The key is to know who and when to pair with. The more important key is to never stop tinkering and building. It's the most important way to learn, get traction and validate the business model.
 
-#opensource #livehack #pairing

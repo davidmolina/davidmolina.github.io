@@ -2,7 +2,10 @@
 layout: post
 title:  "Our vote. Enthusiasm gap and cake."
 date:   2010-10-25 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - commission-on-hispanic-affairs
+    - national-electorate
+    - get-out-the-vote
 ---
 
 Monday morning, I skipped gym at 24 Hour Fitness to drop our ballots off in Portland. We had been sitting on them over the weekend and hadn't even completed them (Edith was early on this one) until last, Friday. It wasn't a challenge at all. Having three very small children in the house is.

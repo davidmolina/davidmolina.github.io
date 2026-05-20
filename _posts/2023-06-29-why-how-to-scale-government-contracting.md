@@ -4,7 +4,10 @@ title:  "Why and How to Scale a Government Contracting Company"
 subtitle: "Step by step process to bid a government contract and what to watch out for."
 date: 2023-06-29 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - government-contracting
+    - small-business
+    - gcap-ptac-apex
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 

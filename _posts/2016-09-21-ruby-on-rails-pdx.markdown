@@ -2,7 +2,11 @@
 layout: post
 title:  "Ruby on Rails PDX"
 date:   2016-09-21 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - ruby-on-rails-pdx
+    - opensource
+    - operationcode
 ---
 
 A little over a week ago during my trip to [GitHub Universe](http://githubuniverse.com/), my friend and rubyist mentor, [Chris Hough](https://twitter.com/chrishough), sent me a text to invite me to give a talk at Ruby on Rails PDX, a Portland meetup group where rails developers convene around the Ruby on Rails framework, building Rails Applications.

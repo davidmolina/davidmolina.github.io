@@ -2,7 +2,11 @@
 layout: post
 title:  "Post-ThinkMujer Summit Portland"
 date:   2016-06-17 14:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - thinkmujer
+    - university-of-portland
+    - latina-leadership
 ---
 
 Like anyone that attended this year's ThinkMujer Summit at the University of Portland, I was impressed and in awe that 200 Latina professionals, bilingual and bicultural could be assembled in one place. More than anything I was impressed by the cohesive team that helped put it together, from University of Portland students to Latina leaders in the community. The summit opened with opening remarks, "we need more people, more diverse points of views at the seat of the table." This was a powerful reminder to everyone why we do what we do.

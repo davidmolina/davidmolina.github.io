@@ -2,7 +2,11 @@
 layout: post
 title:  "Leveraging 1Password"
 date:   2016-06-26 11:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - 1password
+    - password-manager
+    - password-encryption
 ---
 In a world where teams work remotely, in a decentralized operating environment, where you have to trust in your team to get things done ensuring others on the team can gain access to key digital assets, leveraging a password app is key. Literally.
 

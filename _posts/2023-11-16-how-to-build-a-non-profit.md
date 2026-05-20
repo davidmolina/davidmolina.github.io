@@ -4,7 +4,10 @@ title:  "How To Build A Nonprofit (2023 Guide)"
 subtitle: "Step by step process to build a nonprofit from scratch."
 date: 2023-11-16 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - nonprofit-startup
+    - 501c3-stratey
+    - board-guidance
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 

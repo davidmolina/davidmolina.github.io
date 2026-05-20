@@ -2,7 +2,11 @@
 layout: post
 title:  "Weekend at Lincoln City"
 date:   2016-07-31 10:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - lincoln-city-oregon
+    - oregon-coast
+    - relax-reset-recharge
 ---
 
 We just returned from a long weekend with no phone connectivity (limited internet) at the Oregon coast where we spent time building sandcastles, building mini forts made of beach wood (see photo below), [chasing seagulls, bonfires and watching stars](https://snapchat.com/add/davidcmolina), grilling, hot-tubbing, and catching up with old friends. Side note: I did only one work-related podcast interview, that I'll share tomorrow Monday.

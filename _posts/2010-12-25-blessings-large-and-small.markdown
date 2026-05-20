@@ -2,7 +2,10 @@
 layout: post
 title:  "Blessings large and small."
 date:   2010-12-25 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - the-dalles-oregon
+    - iglesia-christiana-universal-apostolica-de-jesus-pentecostes-of-the-dalles
+    - juan-quiroz
 ---
 
 Yesterday, Edith and I participated in Christmas Eve service at [Iglesia Christiana Universal Apostolica de Jesus Pentecostes of the Dalles](https://foursquare.com/v/iglesia-cristiana-universal-apostolica-de-jesus-pentecostes/4c433c0dda3dc9286b9acbb9). This church was founded over 20 years ago by Edith's dad, former-Pastor Juan Quiroz. He received the 'blessing' and 'authority' from the head church prior to immigrating to Oregon from Mexico City decades ago fully equipped with how-to manuals, officially signed papers with the goal of taking the words of the Bible and sharing them with others in The Dalles, Oregon, a small rural town just an hour east of Portland-metro on the Columbia Gorge.

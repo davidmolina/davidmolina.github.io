@@ -4,8 +4,11 @@ title:  "Dorchester Conference, Welches, Oregon"
 subtitle: "Heading to Welches this weekend for the oldest annual political conference in the United States"
 date:   2019-04-12 08:12:43 -0800
 author: "David Molina"
-categories: jekyll update
 header-img: "img/dorchester_conference.png"
+categories: 
+    - dorchester-conference
+    - oregon-leadership
+    - oregon
 ---
 
 This weekend I headed to the Resort at the Mountain in Welches, Oregon for [Dorchester Conference](https://www.dorchester.org/), the oldest annual political conference in the country. This is my second time attending. Last year's Dorchester was held in Salem when my good friend, [Mark Fitz](https://www.linkedin.com/in/markfitzoregon), Army veteran and small business owner invited me. Mark came through an introduction during my [first run for public office](https://www.molinafororegon.com/). We first met for breakfast in downtown Portland last year and our discussion felt like a wind tunnel of information, pollination of ideas. If you know Mark, you'll know he'll always rope you in to get you plugged in. Mark currently serves on the board of directors.

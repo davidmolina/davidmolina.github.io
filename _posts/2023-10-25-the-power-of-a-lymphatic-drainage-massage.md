@@ -4,7 +4,10 @@ title:  "The Power of a Lymphatic Drainage Massage"
 subtitle: "How a lymphatic drainage massage can help you restore regenerative sleep."
 date: 2023-10-25 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - lifestyle-medicine
+    - lymphatic-massage
+    - natural-healing
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 

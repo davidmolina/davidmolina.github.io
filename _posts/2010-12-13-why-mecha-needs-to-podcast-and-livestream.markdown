@@ -2,7 +2,10 @@
 layout: post
 title:  "Why MEChA needs to podcast and livestream."
 date:   2010-12-13 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - podcast
+    - livestream
+    - student-organizing
 ---
 
 Fact: National, regional and state [MEChA](http://nationalmecha.org/) is much more technologically organized than in the 1960s. Printed newsletters and authoring pamphlets to distribute could only go so far. Today, more members own a smart phone than non-smart phones and nearly every chapter has a Facebook page. Nearly every chapter has a webmaster (usually under the schools URL). We IM, email, Facebook and Tweet each other.  

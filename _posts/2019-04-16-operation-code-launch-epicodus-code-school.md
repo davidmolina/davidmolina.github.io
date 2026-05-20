@@ -4,8 +4,11 @@ title:  "Operation Code Launch Four Years Ago Today"
 subtitle: "Today, April 16, 2019 marks four years since the Operation Code launch party at Portland-based Epicodus code school"
 date:   2019-04-16 08:12:43 -0800
 author: "David Molina"
-categories: jekyll update
 header-img: "img/.png"
+categories: 
+    - operationcode
+    - veterans-nonprofit
+    - 501c3-veterans
 ---
 
 Today, Facebook reminded me of the [Operation Code](https://twitter.com/@operation_code) Launch Party held on [Thursday, April 16, 2015](https://www.eventbrite.com/e/operation-code-launch-party-tickets-16494832488?fbclid=IwAR3a3CK4pc8lZ71jAQVkUF6Odk-b9x74BzG79TT0Jg0P10EqSAwXyZlOjtM#) at [Epicodus code school](https://www.epicodus.com/blog). The event drew over 75 friends and family to downtown Portland, including representatives from all Portland-based code schools and Sen. Ron Wyden and Congressman Blumenauer's office.

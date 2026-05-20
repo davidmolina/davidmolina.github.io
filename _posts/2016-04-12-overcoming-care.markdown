@@ -2,7 +2,11 @@
 layout: post
 title:  "Overcoming Care"
 date:   2016-04-12 14:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - red-consulting-group
+    - startup-launch
+    - viral-marketing
 ---
 
 Over the weekend, I took our daughters to [Henry Hagg Lake](https://www.instagram.com/p/BD_dOEZxUl9/?taken-by=davidcmolina) to hike and get away from our computers. During our visit we saw the road cracked in so many ways and my daughters began asking why no one cared. While I believe ODOT cares, I think there's other elements at play here. Hence this post.

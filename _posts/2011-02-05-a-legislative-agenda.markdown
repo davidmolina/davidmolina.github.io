@@ -2,7 +2,10 @@
 layout: post
 title:  "A Legislative Agenda."
 date:   2011-02-05 08:12:43 -0800
-categories: jekyll update
+categories: 
+    - legislative-agenda
+    - policy-formulation
+    - legislative-session
 ---
 
 Over the past few months, I've received a ton of correspondence, messages and phone calls for legislative agenda this or that. Sure, the legislative season in Oregon and much of the country is in full-effect, but it surprises me how many miss the mark, misunderstand the legislative process and underestimate the importance of pre-planning and key players.

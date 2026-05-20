@@ -4,7 +4,10 @@ title:  "Frankl On Hope, Something To Live For"
 subtitle: "A morning river walk turns into reading and a beautiful business model."
 date: 2023-12-05 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - coffee
+    - openlibrary
+    - authors
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
@@ -26,4 +29,4 @@ In Frankl's Foreward a few parts stood out:
 
 I do find meaning in taking in the sun every morning, the birds chirping, the feel of grass on my feet, and that we can do what we want to do and is needed in the world.
 
-#coffee #openlibrary #authors
+

@@ -2,7 +2,10 @@
 layout: post
 title:  "Google TV finally listens to consumers and advertisers. Auburn vs Oregon 2011."
 date:   2011-01-08 17:12:43 -0800
-categories: jekyll update
+categories: 
+    - google-tv
+    - google-hardware
+    - content-shifting
 ---
 
 As we sit here as a family watching the [Oregon Auburn 2011 game](http://twitter.com/search/Oregon%20Auburn%20game#) on the big screen courtesy of GoogleTV I'm in awe. The picture is crisp. The streaming is flying. And, most importantly the content is not blocked. Unlike streaming the internet on our computers, GoogleTV prevents us a similar positive and seamless experience.

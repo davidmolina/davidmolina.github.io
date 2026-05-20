@@ -2,7 +2,11 @@
 layout: post
 title:  "Going Backwards in New York City. Airbnb"
 date:   2016-06-18 14:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - sharing-economy
+    - policy-politics-nyc
+    - homeowners-ecosystem
 ---
 
 Any traveler watching the news of late will notice something extraordinary happening and playing across the United States, and it's worrisome to this entrepreneur and it should be to you. We saw that with [Uber](https://www.uber.com) in Austin, and now we're seeing it play out in New York City with [Airbnb](https://www.airbnb.com). I love both services and here's why. During a business trip to Washington, D.C. in 2013, I stayed at a friend and his girlfriend's home just across the Potomac River. At Georgetown University I tried to catch a cab back at night to Anaconda and taxi after taxi refused. When a fellow veteran and peer from the Techstars Patriot Boot Camp insisted I use Uber, I did. Without hesitation that Uber not just took me to my friend's neighborhood, but literally to his exact home. Why? Because according to my Uber driver, Anaconda is a pretty rough spot.

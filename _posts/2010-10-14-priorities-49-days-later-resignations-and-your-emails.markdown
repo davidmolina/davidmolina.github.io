@@ -2,7 +2,10 @@
 layout: post
 title:  "Priorities. 49 days later. Resignations and your emails."
 date:   2010-10-14 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - volunteer-board-resignations
+    - familia-molina
+    - molina-family
 ---
 
 As many of you already know 49 days ago, Edith and I were blessed w/ Paloma & Citlali, twins. At that time we thought, or at least I did that I could continue at the same rate/trajectory that I had long been used to. That is volunteer boards, commissions, advisory groups, task forces, speaker, even guest-blogging etc, but I seriously miscalculated. Edith long ago took an, "until time permits" sabbatical from Radio Tonalli and everything else as she actually read, "Having Twins: What You Need to Know" and took better notes during our doctors visits at Portland Providence. That and we love spending time w/ our newborns and Maya who's in her terrible twos. Those are moments that are worth every chance.

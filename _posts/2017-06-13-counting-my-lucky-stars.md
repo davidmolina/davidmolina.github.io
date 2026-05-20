@@ -2,7 +2,12 @@
 layout: post
 title:  "Counting My Lucky Stars"
 date:   2017-06-13 08:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - mayamolina
+    - school-field-trips
+    - work-from-home
+    - parenting
 ---
 
 Today, I had the privilege to accompany my oldest daughter on her last field trip of her 3rd grade to Fernhill Wetlands. Earlier this year I also accompanied my twins, Paloma & Citlali, on their 1st grade field trip to the Oregon Museum of Science and Industry.

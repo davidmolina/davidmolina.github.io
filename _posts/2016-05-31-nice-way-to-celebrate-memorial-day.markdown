@@ -2,7 +2,11 @@
 layout: post
 title:  "A Nice Way To Celebrate Memorial Day"
 date:   2016-05-31 14:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - memorial-day
+    - operationcode
+    - infantryman-omar-mora
 ---
 
 During the course of my last active-duty mobilization at Dover AFB I met many families who had lost their loved ones in service to our country. In the fall 2011, I met the mother of a Navy Seal who was lost in the Chinook that went down in Afghanistan. In between the Dignified Transfer ceremony I expressed, in between holding back tears, my condolence for her son. Her response, "My son wouldn't have wanted to be anywhere else on earth than with his brothers that day--from the day he was born to the day of the Chinook he lived life to the fullest extreme."

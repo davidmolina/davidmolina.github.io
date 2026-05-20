@@ -2,7 +2,10 @@
 layout: post
 title:  "Why Molina Recommends Rework & Be Like Rowan"
 date:   2011-02-24 08:12:43 -0800
-categories: jekyll update
+categories: 
+    - be-like-rowan
+    - rework-review
+    - life-on-active-duty
 ---
 
 About two months ago or so back in Portland, Oregon--in the midst of building up BilingualHire into a bilingual staffing company, changing diapers and feeding Paloma & Citlali--I was going through my daily feeds. One of the feeds in Quora read something like, "How did Jason Fried get on the Groupon Board of Directors," or something to this line. Obviously, we know what Groupon is, but right off the top I missed who Jason was. I searched for him and came across 37signals and more importantly came across Rework, by Jason Fried and David Heinemeier Hansson. The two lines that captured my attention came from Mark Cuban writing,

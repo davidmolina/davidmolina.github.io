@@ -2,7 +2,11 @@
 layout: post
 title:  "Hurry Up and Wait"
 date:   2016-04-06 12:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - operationcode
+    - sgt-first-class-george-everts
+    - veterans-red-tape
 ---
 
 Portland is warming up fast. 72 here today. This morning on the way to work we saw a drone flying over the Forest Grove fields. I was driving so I couldn't tweet it. It was a pretty good size, small airplane-type, and led to a conversation with my wife, Edith, about good uses, from military operations to photographers and business uses. Out here, I immediately thought investors might be plotting growth.

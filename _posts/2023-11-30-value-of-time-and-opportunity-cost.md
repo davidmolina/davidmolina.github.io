@@ -4,7 +4,10 @@ title:  "Value of Time and Time Decay"
 subtitle: "Why valuing your time and knowing when to pause is key."
 date: 2023-11-30 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - time-management
+    - business-strategy
+    - intuition
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 

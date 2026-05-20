@@ -23,5 +23,3 @@ You see. You don’t take advice from people who’ve never been there. You take
 After 18 months of lifestyle medicine, estilo de vida, I dropped from 299+ lbs. to 216.5 lbs. Today, I’m closer to 223 lbs., and body works as God intended. Inflammation was the silent killer and I’m grateful I learned about this lifestyle before it was too late. 
 
 Suffice to say, while I didn’t order a full bagel w/ cream cheese I did take a few bites of one from my friends, and had the most delicious dirty chai. Go [visit them](https://www.facebook.com/people/Whidbey-Island-Bagel-Factory-MV-102-So-10th-St/100035400022025/) if you’re in the area. 
-
-#lifestyle-medicine #skagit #bagels

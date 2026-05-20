@@ -4,7 +4,10 @@ title:  "Reporting Quadrant"
 subtitle: "A quadrant that helps subordinates better report."
 date: 2023-12-04 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - briefings
+    - updates
+    - quadrant-briefing
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
@@ -37,4 +40,4 @@ The briefing tool is designed to be interactive, including:
 
 The key is to make updates informative, organized and provide an opportunity to discover bottlenecks. Entrepreneurs and business owners have the most influence here. This is where they should live the most and pays the most dividends.
 
-#briefings #updates #valueadd
+

@@ -2,7 +2,10 @@
 layout: post
 title:  "Home alone w/ Paloma & Citlali. #joytotheworld."
 date:   2010-12-06 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - paloma-molina
+    - citlali-molina
+    - familia-molina
 ---
 
 Here our twins, Paloma & Citlali at almost 4 months. In this shot, a family friend, Carol, made some cool homemade sweaters for the twins.

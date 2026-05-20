@@ -2,7 +2,11 @@
 layout: post
 title:  "Mole and Interview Cake With Kyle Holmberg"
 date:   2017-05-23 00:00:03 -0100
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - operationcode
+    - tech-jobs-preparation
+    - interview-cake
 ---
 
 This past Sunday I met up for lunch w/ prior service Oregon National guardsman [Kyle Holmberg](https://kylemh.com/) who was in town for [PyCon](https://us.pycon.org/2017/), the largest annual gathering for the community that uses and develops the open-source Python programming language.

@@ -2,7 +2,11 @@
 layout: post
 title:  "David Molina at 38"
 date:   2017-04-08 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - davidmolina-at-38
+    - code-grit-hustle
+    - startup-life
 ---
 
 _I don't pretend to know all the answers, and will fail many times before finding them, but I won't settle for status quo or stop finding them._

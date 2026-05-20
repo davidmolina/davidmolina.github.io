@@ -4,7 +4,10 @@ title:  "Kyle McClelland on Veteran's Day"
 subtitle: "The meaning and significance of Veteran's Day."
 date: 2023-11-11 11:12:43 -0800
 author: "David Molina"
-categories: jekyll update
+categories: 
+    - veterans-day
+    - military-veterans
+    - veteran-life
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 

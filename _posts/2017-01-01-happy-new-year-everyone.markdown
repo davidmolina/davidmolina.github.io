@@ -2,7 +2,11 @@
 layout: post
 title:  "Happy New Year Everyone"
 date:   2017-01-01 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - happy-new-year
+    - operationcode-board
+    - family-time
 ---
 
 Happy New Year Everyone. We arrived late this evening from a weekend in Mount Vernon, Washington ([Skagit Valley](https://twitter.com/search?q=skagitvalley)) visiting mom, sisters, nephews and nieces. As is typical with small children we usually make several stops along the way up from Portland, usually around the JBLM and Seattle area.

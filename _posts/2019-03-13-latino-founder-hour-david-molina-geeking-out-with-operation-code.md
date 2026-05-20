@@ -4,8 +4,11 @@ title:  "Latino Founder Hour: David Molina Geeking Out with Operation Code"
 subtitle: "David Molina (ret. Captain U.S. Army) is Founder of Operation Code and self-taught writing the first line of code to petition Congress to expand the New GI Bill to include coding schools, a benefit he couldn’t use after exiting after 12 years in uniform. An entrepreneur, David has built numerous startups, has testified before members of Congress to expand technical education for veterans and spouses, and as a former captain in the Army was recipient of the Lt. Rowan Award, Meritorious Service Medal and Army Commendation Medal."
 date:   2019-03-13 08:12:43 -0800
 author: "David Molina"
-categories: jekyll update
 header-img: "https://davidmolina.s3.us-west-2.amazonaws.com/latino_founder_hour_panel.png"
+categories: 
+    - latino-founder-hour
+    - operationcode
+    - nedspace
 ---
 
 Today, I was interviewed on Latino Founder Hour by tech entrepreneur Edgar Navas over at NedSpace, Portland's original co-working space with some of the most amazing views around at the Union Bank of California Tower. Latino Founder Hour interviews Latino entrepreneurs from around the globe solving complicated problems and bringing them to life.

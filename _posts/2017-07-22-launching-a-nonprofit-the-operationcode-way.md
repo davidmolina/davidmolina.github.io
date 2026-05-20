@@ -2,7 +2,11 @@
 layout: post
 title:  "Launching a Nonprofit, the Operation Code Way"
 date:   2017-07-22 08:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - operationcode
+    - nonprofit-guidance
+    - nonprofit-startup-kit
 ---
 
 This afternoon I spoke to my friend, Alexander Días Rios, who was inquiring on Facebook information on launching a nonprofit. I had commented that I'd be happy to share my experience, and lessons learned with [Operation Code](https://operationcode.org). We spoke by phone over the weekend, and this is a rough outline of our conversation:

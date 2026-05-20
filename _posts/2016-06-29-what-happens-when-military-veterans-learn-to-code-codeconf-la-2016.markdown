@@ -2,7 +2,11 @@
 layout: post
 title:  "What Happens When Military Veterans Learn to Code. CodeConf LA 2016"
 date:   2016-06-29 11:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - codeconf
+    - github-codeconf
+    - operationcode
 ---
 
 I presented the talk, "[When Happens When Military Veterans Learn to Code](http://codeconf.com/speakers/david-molina.html)," at [CodeConf](http://codeconf.com) LA this week. The full slides are available on [Speaker Deck in PDF](https://speakerdeck.com/davidmolina/what-happens-when-military-veterans-learn-to-code).

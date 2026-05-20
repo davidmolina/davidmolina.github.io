@@ -2,7 +2,11 @@
 layout: post
 title:  "Speaking At Tech Jobs Tour Seattle"
 date:   2017-05-23 01:01:01 -0500
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - tech-jobs-tour-seattle
+    - americas-cto
+    - operationcode
 ---
 
 This Wednesday afternoon, [I'll be speaking](https://techjobstour.com/speakers/dave-molina/) at [Tech Jobs Tour Seattle](https://techjobstour.com/tour-stops/seattle/) during the evening and probably before the 3rd Chief Technology Officer of the United States of America Megan Smith. I don't know the order, but it's this Wednesday along an amazing array of founders, entrepreneurs and software engineers, and many others.

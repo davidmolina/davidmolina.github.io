@@ -2,7 +2,11 @@
 layout: post
 title:  "Remembering Oscar Montemayor"
 date:   2016-10-21 04:02:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - obituary
+    - rememberance
+    - oscar-montemayor
 ---
 
 Oscar, hermano. Words cannot express the lives you impacted throughout decades of selfless service to not just @oregonstate, but students everywhere. We will miss you sorely at all the events and ceremonies celebrating the closing of one chapter and the opening of the next. But we know you will be with us every step of the way. Until we meet again, Oscar. #oregonstate #gobeavs #rememberingoscar. 

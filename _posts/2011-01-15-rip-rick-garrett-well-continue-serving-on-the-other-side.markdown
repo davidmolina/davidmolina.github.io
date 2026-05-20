@@ -2,7 +2,11 @@
 layout: post
 title:  "RIP Rick Garrett. We'll Continue Serving on The Other Side."
 date:   2011-01-15 08:12:43 -0800
-categories: jekyll update
+categories: 
+    - obituary
+    - rememberance
+    - rick-garrett
+    - jped-family
 ---
 
 This past Thursday, a former co-worker and friend from my previous active-duty military assignment, The Joint Personal Effects Depot (JPED) served God on this earth one last time and it pains me he's gone. The JPED is ground zero for processing the personal belongings & cherished memories for nearly every American killed-in-action or wounded from the Wars in Iraq & Afghanistan. When JPED was stood up after the 9/11 Pentagon attacks at Fort Myers, Virginia and later relocated to Aberdeen Proving Ground (APG), Maryland, Rick Garrett was one of the first non-uniforms on the ground to help document this part of 21st century military history. A trained & professional photographer, he captured the memories as the personal belongings arrived off the trucks, unpacked, properly prepared and moved along for final outbound shipment. He would later train other non-uniform and uniform service-members on photographing the inventory process. A perfectionist who shared his love of the camera--and equally his love of golf, but mostly how he wanted to serve our nation & her patriots in her greatest time of need. I once asked Rick, "you could be doing anything else, but you're here right in the thick of it." His response: "I love it here. This is one way I can serve those who have served us."

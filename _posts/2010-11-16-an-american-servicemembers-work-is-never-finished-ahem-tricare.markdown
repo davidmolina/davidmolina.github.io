@@ -2,7 +2,10 @@
 layout: post
 title:  "An American Servicemembers work is never finished. Ahem, Tricare."
 date:   2010-11-16 14:12:43 -0800
-categories: jekyll update
+categories: 
+    - veterans-struggle
+    - veterans-health-benefits
+    - tricare
 ---
 
 I was reading through the newspaper paper, and ran into this picture of a Sergeant telling youngsters about his medals. From the drawing:

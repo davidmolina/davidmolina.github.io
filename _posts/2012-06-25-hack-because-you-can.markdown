@@ -2,7 +2,11 @@
 layout: post
 title:  "Hack Because You Can"
 date:   2012-06-25 17:12:43 -0800
-categories: jekyll update
+categories: 
+    - angelhack
+    - learning-to-code
+    - hackathon
+    - nyc
 ---
 I just returned from 3 nights, 4 days in New York City for my first Hackathon. While I didn’t join any of the teams (I came out as a volunteer) I did get my first glimpse into this world that builds teams and internet startups from the ground up in 24-hours in the most fascinating process. The event was called AngelHack and the event hosted four total in four cities across the United States on this very same weekend.
 

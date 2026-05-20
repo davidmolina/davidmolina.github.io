@@ -2,7 +2,11 @@
 layout: post
 title:  "The Calm Before the ThinkMujer Summit Storm"
 date:   2016-06-02 14:12:43 -0800
-categories: jekyll update
+author: "David Molina"
+categories: 
+    - thinkmujer
+    - thinkmujer-summit
+    - thinkmujer-lessons-takeaways
 ---
 
 In early April I wrote about the need to [balance family and work](https://davidcmolina.com/2016/04/08/balancing-family-and-work/) and mentioned how my wife, Edith, was once again organizing the [ThinkMujer Summit](http://thinkmujer.com/program/), a one-day, single-track annual event that convenes the region's foremost Latina thinkers and doers to gain leadership insights, network for personal and professional growth, and share each other's stories. This year I got more involved than last year. The key difference between last and this that I saw in Edith: relaxed.
