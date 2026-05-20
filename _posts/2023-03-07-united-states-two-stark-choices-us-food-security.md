@@ -37,4 +37,4 @@ Securing the U.S. border, preserving food sovereignty, expanding H-2A visas, clo
 
 U.S. Food Security depends on it.
 
-*David Molina is a former Army Captain and founder of veterans nonprofit Operation Code. He is a native of Skagit County, Washington and serves as government affairs counselor for Fuerza, a boutique H-2A government compliance firm in support of American family farms, U.S. food security, and economic opportunities for foreign workers.*
+*David Molina is a former Army Captain and founder of veterans nonprofit Operation Code. He is a native of Skagit County, Washington and serves as government affairs counselor for [Fuerza](https://www.fuerzalabor.com/), a boutique H-2A government compliance firm in support of American family farms, U.S. food security, and economic opportunities for foreign workers.*

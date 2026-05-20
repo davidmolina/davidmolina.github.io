@@ -3,7 +3,6 @@ layout: post
 title:  "Huddles To Build Momentum"
 description: > 
     Why daily huddles, weekly management, and quarterly/annual reviews create momentum and make it easier to exit or grow your business.
-image: "https://davidmolina.s3.us-west-2.amazonaws.com/molinas_estimating.jpeg"
 date: 2023-12-14 11:12:43 -0800
 author: "David Molina"
 categories: 

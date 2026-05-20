@@ -3,7 +3,6 @@ layout: post
 title:  "Patterns and Common Toolkits"
 description: >
     After closing a business deal, pay close attention to your daily patterns when transacting. It's in the patterns where you can see where you transact more and it's where you least expect it...
-image: "https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_road.jpeg"
 date: 2026-05-15 11:12:43 -0800
 author: "David Molina"
 categories: 

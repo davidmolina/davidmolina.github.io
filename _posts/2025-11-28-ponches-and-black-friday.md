@@ -3,7 +3,6 @@ layout: post
 title:  "Ponches and Black Friday"
 description: >
     Spending the week supporting small businesses for Black Friday, starting with ponches...
-image: "https://davidmolina.s3.us-west-2.amazonaws.com/ponche_blackfriday.jpeg"
 date: 2025-11-28 11:12:43 -0800
 author: "David Molina"
 categories: 

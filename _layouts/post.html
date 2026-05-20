@@ -35,8 +35,13 @@ layout: default
   {% endcapture %}
 
   {% assign article_body = content
-    | replace: '<p><a href="https://www.instagram.com/davidcmolina">@davidcmolina</a></p>', author_social
+    | replace: '<p><a href="https://www.instagram.com/davidcmolina">@davidcmolina</a></p>', ''
+    | replace: '<p><a href="https://www.instagram.com/davidcmolina/">@davidcmolina</a></p>', ''
+    | replace: '<p><a href="http://instagram.com/davidcmolina">@davidcmolina</a></p>', ''
+    | replace: '<p><a href="http://instagram.com/davidcmolina/">@davidcmolina</a></p>', ''
   %}
+
+  {{ author_social }}
 
   <div class="post-content" itemprop="articleBody">
     {{ article_body }}

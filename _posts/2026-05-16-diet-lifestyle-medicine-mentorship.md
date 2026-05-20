@@ -3,7 +3,6 @@ layout: post
 title:  "Diet, Lifestyle Medicine, and Business Health"
 description: >
     I was hanging w/ some friends at Whidbey Island Bagel Factory and a friend remarked, “that diet you’re doing is helping you… you’re looking healthier.” Diet is when you’re punishing yourself and limiting certain foods to lose weight, taking meds, and sipping powders etc. In my case, it’s lifestyle medicine... 
-image: "https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_collared_shirt.jpeg"
 date: 2026-05-16 11:12:43 -0800
 author: "David Molina"
 categories: 

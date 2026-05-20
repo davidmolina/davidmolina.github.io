@@ -3,7 +3,6 @@ layout: post
 title:  "Podcast of the Week: Labrada & Saadia"
 description: >
     As some of you know I had to step away a few months ago, and reset. Some do it every Sunday, some annually on January 1st and others until you get tapped on the shoulder because they know better and want only the best for you....
-image: "https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_zoom_call.jpeg"
 date: 2022-11-26 11:12:43 -0800
 author: "David Molina"
 categories: 

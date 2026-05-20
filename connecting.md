@@ -24,4 +24,4 @@ Not currently as active on:
 - [Twitter - @davidcmolina](https://twitter.com/davidcmolina)
 
 Or, if you prefer email: 
-[Say hello](mailto:david@molinas.co)
+[Say hello](mailto:david@molinas.co).
