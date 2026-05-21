@@ -1,6 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
+.gem
+_vendor
 .env
 .env.*
 !.env.example
