@@ -7,6 +7,7 @@ author: "David Molina"
 permalink: /now/
 
 ---
+> Novelist Toni Morrison on invention: "If there's a book that you want to read, but it hasn't been written yet, then you must write it. The same is true of any endeavor: if the solution you seek doesn't exist, create it."
 
 This is a snapshot of what I’m focused on right now.  
 Structured loosely around a [simple reporting quadrant](https://davidcmolina.com/2023/12/04/reporting-quadrant/) I’ve used over time.
