@@ -2,7 +2,7 @@
 layout: default
 title: All Posts
 description: >
-    David Molina writes about systems thinking, entrepreneurship, and leadership at davidcmolina.com.
+    David Molina writes about systems thinking, entrepreneurship, leadership, and building enduring organizations.
 author: "David Molina"
 permalink: /archive/
 ---

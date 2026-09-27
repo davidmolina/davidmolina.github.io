@@ -1,6 +1,6 @@
 name: David Molina
 title: David Molina
-description: "David Molina is a mission-driven founder turned M&A Advisor and Business Broker."
+description: "David Molina writes about systems thinking, entrepreneurship, leadership, and building enduring organizations."
 author: David Molina
 email: david.c.molina@gmail.com
 # GitHub Pages cannot run server-side functions.
@@ -9,7 +9,7 @@ email: david.c.molina@gmail.com
 subscribe_endpoint: ""
 
 # RDF structured data
-job_title: M&A Advisor and Business Broker
+job_title: Entrepreneur and Advisor
 employer: Independent
 url: "https://davidcmolina.com"
 baseurl: ""
@@ -51,9 +51,9 @@ navigation:
     url: /about/
   - title: Writing
     url: /archive/
-  - title: Now
-    url: /now/
   - title: Book
     url: https://principlesofmeslo.com/
+  - title: Business Sales
+    url: https://molinas.consulting/
   - title: Speaking
     url: /speaking/

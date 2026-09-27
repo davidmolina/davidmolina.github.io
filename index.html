@@ -5,10 +5,7 @@ title: David Molina
 
 <style>
   .container {
-    display: grid;
-    grid-template-columns: 1fr 280px;
-    gap: 40px;
-    max-width: 1000px;
+    max-width: 680px;
     margin: 0 auto;
   }
 
@@ -16,8 +13,11 @@ title: David Molina
     max-width: 640px;
   }
 
-  .sidebar {
-    font-size: 0.9rem;
+  .site-label {
+    color: #666;
+    font-size: 0.85rem;
+    margin-bottom: 0.4rem;
+    text-transform: uppercase;
   }
 
   h1 {
@@ -45,33 +45,30 @@ title: David Molina
     margin-right: 12px;
   }
 
-  .post {
-    margin-bottom: 18px;
+  .pathways,
+  .next-steps {
+    border-top: 1px solid #e8e8e8;
+    margin-top: 2rem;
+    padding-top: 1.25rem;
   }
 
-  .post-title {
-    font-weight: bold;
+  .pathway {
+    margin-bottom: 1rem;
   }
 
-  .post-meta {
-    color: #666;
-    font-size: 0.8rem;
+  .pathways h2 {
+    margin-top: 0;
   }
 
-  .post-excerpt {
-    color: #333;
-    margin-top: 4px;
+  .pathway h3 {
+    color: #075a9c;
+    font-size: 1.18rem;
+    font-weight: 700;
+    margin: 0 0 0.35rem;
   }
 
-  .more-links {
-    margin-top: 20px;
-    display: block;
-  }
-
-  @media (max-width: 800px) {
-    .container {
-      grid-template-columns: 1fr;
-    }
+  .pathway p {
+    margin-bottom: 0.25rem;
   }
 </style>
 
@@ -80,113 +77,52 @@ title: David Molina
   <!-- MAIN COLUMN -->
   <div class="main">
 
-    <h1>Hi, I’m David Molina.</h1>
+    <p class="site-label">DAVIDCMOLINA.COM</p>
 
-    <p>I do exit planning strategy for contractors, service providers,  and operators.</p>
+    <h1>Building organizations that endure.</h1>
+
+    <p><strong>Systems. Entrepreneurship. Leadership. Ownership.</strong></p>
 
     <p>
-      Most businesses don’t struggle because of effort — they struggle because they don’t have structure. These structures are the foundation for how work gets done, how people get paid, and how the business is valued. They’re also the foundation for a business that’s predictable and profitable.
+      I’m David Molina — an author, entrepreneur, and M&A advisor. My work focuses on the systems behind durable organizations: how they price, decide, operate, grow, and exit.
     </p>
 
     <p>
-      My work focuses on helping contractors and operators understand their numbers, structure their work, and run more predictable operations.
+      My perspective has been shaped by military leadership, entrepreneurship, federal contracting, nonprofit leadership, board service, advising business owners, and building the MESLO framework.
     </p>
 
-    <p class="links">
-      <a href="https://molinas.consulting/">Exit Planning</a>
-      <a href="https://stan.store/principlesofmeslo/p/the-meslo-starter-kit">The MESLO Starter Kit</a>
-      <a href="https://calendly.com/davidcmolina">Book a Call</a>
+    <p>
+      The central question is simple: how do we build organizations that become less dependent on the founder and more valuable over time?
     </p>
 
     <img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_headshot.jpeg"
-     alt="David Molina visiting an old Army friend in Louisiana"
+     alt="David Molina"
      style="width:200px; float:left; margin: 0 20px 10px 0; border-radius:6px;" />
 
-    <h2>What I’m focused on</h2>
-    <ul>
-      <li>Helping business owners with valuations and retiring before the age of 82. <a href="https://molinas.consulting/">Request a consultation</a>.</li>
-      <li>Final print layout review of <em><a href="https://principlesofmeslo.com/">The Principles of MESLO (summer 2026)</a></em>
-      </li>
-      <li>Teaching operators how to price and run work profitably, getting to the value of <em>x</em> (bid price), and value of <em>t</em> (time). <a href="https://stan.store/principlesofmeslo/p/the-meslo-starter-kit">Modernize Estimating Workflows</a>.</li>
+    <section class="pathways" aria-labelledby="pathways-heading">
+      <h2 id="pathways-heading">My Work</h2>
 
-    </ul>
-
-    <h2>The work</h2>
-
-    <p>
-      After my last active-duty assignment, I got into coding and open source. This led to getting into construction and scaling a federal contracting business, where the real problem wasn’t getting jobs — it was running them profitably.
-    </p>
-
-    <p>
-      That led to building the MESLO framework: a system to structure costs, pricing, and operations in a way that reflects how work actually happens.
-    </p>
-
-    <p>
-      It’s now used by contractors, home inspectors, and service businesses to bring clarity to their numbers and their day-to-day operations. The objective: a profitable business that’s predictable and valued more for a business owner's exit to retirement. <a href="https://davidcmolina.com/about/">Full bio</a>. 
-    </p>
-
-  </div>
-
-  <!-- SIDEBAR -->
-  <div class="sidebar">
-
-    <h2>Recent Posts</h2>
-
-    {% for post in site.posts limit:5 %}
-      {% assign ex = post.description | default: post.content %}
-
-      {%- if ex contains '</blockquote>' -%}
-        {%- assign ex = ex | split: '</blockquote>' | last -%}
-      {%- endif -%}
-
-      {%- if ex contains 'post-author-social' -%}
-        {%- assign ex = ex | split: '</p>' | last -%}
-      {%- endif -%}
-
-      {%- assign ex = ex | strip_html | normalize_whitespace -%}
-      {%- assign ex = ex | replace_first: '@davidcmolina ', '' -%}
-      {%- assign ex = ex | replace: '?', '. ' | replace: '!', '. ' -%}
-
-      {%- assign parts = ex | split: '.' -%}
-
-      {%- assign s1 = parts[0] | strip -%}
-      {%- assign s2 = parts[1] | strip -%}
-      {%- assign s3 = parts[2] | strip -%}
-
-      {%- assign preview = s1 -%}
-
-      {%- if s2 and s2 != '' -%}
-        {%- assign preview = preview | append: '. ' | append: s2 -%}
-      {%- endif -%}
-
-      {%- if s1.size < 80 and s3 and s3 != '' -%}
-        {%- assign preview = preview | append: '. ' | append: s3 -%}
-      {%- endif -%}
-
-      {%- if preview == '' -%}
-        {%- assign preview = ex | truncate: 180 -%}
-      {%- endif -%}
-
-      <div class="post">
-
-        <div class="post-title">
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </div>
-
-        <div class="post-meta">
-          {{ post.date | date: "%b %-d, %Y" }}
-        </div>
-
-        <div class="post-excerpt">
-          {{ preview | strip | truncatewords:18 }}
-        </div>
-
+      <div class="pathway">
+        <h3>The Principles of MESLO</h3>
+        <p><em>The Principles of MESLO</em> explores estimating, pricing, operational systems, and the disciplines required to build an enduring organization.</p>
+        <p><a href="https://principlesofmeslo.com/">Explore MESLO →</a></p>
       </div>
-    {% endfor %}
 
-    <a class="more-links" href="/archive/">
-      → More Links
-    </a>
+      <div class="pathway">
+        <h3>Mergers &amp; Acquisitions</h3>
+        <p><strong>Business Broker · Sell-Side M&amp;A</strong></p>
+        <p>I work with established business owners considering a sale, succession, or ownership transition — with a focus on enterprise value, sell-side strategy, and preparing and positioning the business for its next owner.</p>
+        <p><strong>Considering selling your business?</strong></p>
+        <p>If you own a business and are thinking about what comes next, call or text me directly at <strong><a href="tel:+12533191101">(253) 319-1101</a></strong>. Leave a message if I’m unavailable and I’ll follow up.</p>
+        <p><a href="https://molinas.consulting/">Learn about selling your business →</a></p>
+      </div>
+
+      <div class="pathway">
+        <h3>Speaking</h3>
+        <p>Talks and workshops on systems thinking, entrepreneurship, leadership, government contracting, MESLO, and building organizations that endure beyond their founders.</p>
+        <p><a href="/speaking/">Speaking &amp; workshops →</a></p>
+      </div>
+    </section>
 
   </div>
 

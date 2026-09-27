@@ -2,19 +2,19 @@
 layout: page
 title: About David Molina
 description: >
-     David Molina is a mission-driven founder and former Army Captain turned M&A Advisor and business broker. Molina works remote across the pacific northwest.
+     David Molina writes about systems thinking, entrepreneurship, leadership, and building enduring organizations.
 author: "David Molina"
 permalink: /about/
 ---
 
-Hi, I'm David Molina. I'm a mission-driven founder and former Army Captain turned M&A Advisor and business broker. Previously, I founded a federal government contracting company, a remote/decentralized national veterans nonprofit, a bilingual job board, served in the Army (enlisted and officer), served two terms as a governor-appointed commissioner, and got my start working in the fields harvesting oysters, picking apples, cucumbers and berries across western and eastern Washington. Originally from Hood River, Oregon, I was raised in a little farm town just 60m north of Seattle in Mount Vernon, Wash. Some of my projects are below. 
+Hi, I'm David Molina. I write about systems thinking, entrepreneurship, leadership, and building enduring organizations. My perspective comes from serving in the Army as both an enlisted soldier and officer, founding a federal government contracting company, building a remote national veterans nonprofit, creating a bilingual job board, advising business owners, serving two terms as a governor-appointed commissioner, and getting my start working in the fields harvesting oysters, apples, cucumbers, and berries across western and eastern Washington. Originally from Hood River, Oregon, I was raised in a small farm town 60 miles north of Seattle in Mount Vernon, Wash. Some of my projects are below.
 
 <img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_headshot.jpeg"
      alt="David Molina visiting an old Army friend in Louisiana"
      style="width:200px; float:left; margin: 0 20px 10px 0; border-radius:6px;" />
 
 ### davidcmolina.com
-Launched in 2009, [davidcmolina.com](https://www.davidcmolina.com) (previously, davidmolina.github.io) is my personal sandbox-- a place for my writing, research, and what I find interesting. Topics include, strategy, planning, execution, technology, and lifestyle medicine. It's where all my long reads go. 
+Launched in 2009, [davidcmolina.com](https://www.davidcmolina.com) (previously, davidmolina.github.io) is where I write about systems thinking, entrepreneurship, leadership, and building enduring organizations. It is the authority and ideas layer for my work: a place to ask how leaders think in systems, how organizations institutionalize knowledge, and how founders move from operator to owner to steward.
 
 Previously, my thoughts and insights spread across various publishing platforms, including Blogspot, Tumblr, Posterous, and Medium. While these are good writing platforms, I preferred to code. Now all my work lives under one roof, built in [Jekyll](https://jekyllrb.com/), hosted on GitHub, and available freely. If you prefer more daily, short stories of my day you can find me on various [social platforms here](/connecting.md), or [resume/CV](/resume/).
 
@@ -58,4 +58,4 @@ Following my first active duty assignment at Aberdeen Proving Ground, Maryland, 
 ### Talks, Workshops
 For workshops, speaking engagements, technical assistance initiatives, or operational training inquiries, [please get in touch](mailto:david@molinas.co) or connect via [LinkedIn](https://www.linkedin.com/in/davidcmolina/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xN7yMoe38xc" frameborder="0" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xN7yMoe38xc" frameborder="0" allowfullscreen></iframe>

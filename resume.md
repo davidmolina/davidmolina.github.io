@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 description: >
-    David Molina is an entrepreneur, former Army Captain, and systems-driven founder. Open to board opportunities.
+    David Molina is an entrepreneur, former Army Captain, and systems-driven founder focused on leadership and enduring organizations.
 author: "David Molina"
 permalink: /resume/
 ---
