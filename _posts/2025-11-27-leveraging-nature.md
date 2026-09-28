@@ -5,6 +5,7 @@ description: >
     Over the past three years I've transitioned from prescriptive medicine to lifestyle medicine, one in which health is the foundation of living. This has resulted in losing over 77lbs...
 date: 2025-11-27 11:12:43 -0800
 author: "David Molina"
+theme: lifestyle-medicine
 categories: 
     - health
     - lifestyle-medicine
@@ -29,4 +30,4 @@ In my [healing journey](https://www.instagram.com/p/DNIzp7Exonk/?img_index=1), I
 - A cup of milk turmeric tea with a pinch of fresh black pepper. This tea is calming and puts most anyone to sleep within the hour. 
 - Massage magnesium spray, a powerful mineral spray on chest, stomach and calf leg. It causes 300 chain reactions in our bodies that often don't communicate, absorb vitamins, and healing properties from food. The calf is also known as our secondary heart.
 
-When we know better, we must do better. 
+When we know better, we must do better.

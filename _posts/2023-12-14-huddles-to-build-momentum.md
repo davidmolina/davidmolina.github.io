@@ -5,6 +5,7 @@ description: >
     Why daily huddles, weekly management, and quarterly/annual reviews create momentum and make it easier to exit or grow your business.
 date: 2023-12-14 11:12:43 -0800
 author: "David Molina"
+theme: systems
 categories: 
     - business
     - leadership

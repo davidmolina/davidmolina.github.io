@@ -4,6 +4,7 @@ title:  "Using Airplane Mode To Sleep Better"
 subtitle: "How to sleep better by turning your phone on airplane mode."
 date: 2023-08-06 11:12:43 -0800
 author: "David Molina"
+theme: lifestyle-medicine
 categories: 
     - lifestyle-medicine
     - airplane-mode

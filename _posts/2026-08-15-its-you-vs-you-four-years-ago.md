@@ -5,6 +5,7 @@ description: >
   It’s not you vs. you, it’s you vs. you four years ago. Why four? Not too short, not too long. Every four years you build on top of the last four. Every four years you have the opportunity to re-invent yourself and grow. It’s you vs. you four years ago...
 date: 2026-08-15 11:12:43 -0800
 author: "David Molina"
+theme: leadership
 categories: 
     - growth
     - leadership
@@ -63,4 +64,4 @@ From 1994 to 1998
 - First construction job as laborer and working outside agriculture. 
 - Learned to code HTML website in a high school class.
 
-Do yours. Reread it quarterly to inspire and fuel you. Not every four years, but often. 
+Do yours. Reread it quarterly to inspire and fuel you. Not every four years, but often.

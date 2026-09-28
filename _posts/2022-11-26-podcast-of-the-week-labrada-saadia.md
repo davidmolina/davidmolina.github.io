@@ -5,6 +5,7 @@ description: >
     As some of you know I had to step away a few months ago, and reset. Some do it every Sunday, some annually on January 1st and others until you get tapped on the shoulder because they know better and want only the best for you....
 date: 2022-11-26 11:12:43 -0800
 author: "David Molina"
+theme: lifestyle-medicine
 categories: 
     - podcast
     - lifestyle-medicine

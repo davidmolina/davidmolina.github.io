@@ -5,6 +5,7 @@ description: >
     I was hanging w/ some friends at Whidbey Island Bagel Factory and a friend remarked, “that diet you’re doing is helping you… you’re looking healthier.” Diet is when you’re punishing yourself and limiting certain foods to lose weight, taking meds, and sipping powders etc. In my case, it’s lifestyle medicine... 
 date: 2026-05-16 11:12:43 -0800
 author: "David Molina"
+theme: lifestyle-medicine
 categories: 
     - lifestyle-medicine
     - skagit

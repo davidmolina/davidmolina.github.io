@@ -5,6 +5,7 @@ description: >
     After closing a business deal, pay close attention to your daily patterns when transacting. It's in the patterns where you can see where you transact more and it's where you least expect it...
 date: 2026-05-15 11:12:43 -0800
 author: "David Molina"
+theme: systems
 categories: 
     - patterns
     - sales
