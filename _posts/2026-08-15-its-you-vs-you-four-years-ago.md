@@ -3,7 +3,7 @@ layout: post
 title:  "It's You Vs. You Four Years Ago"
 description: >
   It’s not you vs. you, it’s you vs. you four years ago. Why four? Not too short, not too long. Every four years you build on top of the last four. Every four years you have the opportunity to re-invent yourself and grow. It’s you vs. you four years ago...
-date: 2026-08-16 11:12:43 -0800
+date: 2026-08-15 11:12:43 -0800
 author: "David Molina"
 categories: 
     - growth
