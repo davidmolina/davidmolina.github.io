@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Speaking
+seo_title: David Molina | Speaker on Government Contracting, Estimating & Leadership
 description: >
-    David Molina speaks on modern estimating, government contracting, leadership, entrepreneurship, ownership, and building organizations that endure.
+    David Molina is an author, entrepreneur, M&A advisor, and speaker on modern estimating, government contracting, leadership, entrepreneurship, and building organizations that endure.
 author: "David Molina"
 permalink: /speaking/
 redirect_from:
@@ -259,33 +260,40 @@ redirect_from:
     <h2 id="inquiry-heading">Invite David to Speak</h2>
     <p>For speaking engagements, workshops, and planner inquiries, use the fields below to draft an email with the details needed to evaluate fit, format, and timing.</p>
 
-    <form class="speaking-form" action="mailto:david@molinas.co" method="post" enctype="text/plain">
-      <label>Organization
-        <input type="text" name="Organization">
+    <form class="speaking-form" id="speaking-inquiry-form" action="mailto:david@molinas.co" method="post" enctype="text/plain">
+      <label>Company / Organization
+        <input type="text" name="Company / Organization">
       </label>
 
-      <label>Contact name
-        <input type="text" name="Contact name">
+      <label>Point of Contact
+        <input type="text" name="Point of Contact">
       </label>
 
-      <label>Email or phone
-        <input type="text" name="Email or phone">
+      <label>Phone
+        <input type="tel" name="Phone">
       </label>
 
-      <label>Event date
-        <input type="text" name="Event date">
+      <label>Event Date
+        <input type="date" name="Event Date">
       </label>
 
-      <label>Event location
-        <input type="text" name="Event location">
+      <label>Event Location
+        <input type="text" name="Event Location" placeholder="Venue, city, state, or virtual">
       </label>
 
-      <label>Expected attendance
-        <input type="text" name="Expected attendance">
+      <label>Expected Attendance
+        <select name="Expected Attendance">
+          <option>Under 100</option>
+          <option>100-250</option>
+          <option>250-500</option>
+          <option>500-1500</option>
+          <option>1500-2500</option>
+          <option>2500+</option>
+        </select>
       </label>
 
-      <label>Books for attendees
-        <select name="Books for attendees">
+      <label>Books for Attendees
+        <select name="Books for Attendees">
           <option>No books needed</option>
           <option>Interested - quantity TBD</option>
           <option>10-24 copies</option>
@@ -296,8 +304,8 @@ redirect_from:
         </select>
       </label>
 
-      <label>Book arrangement
-        <select name="Book arrangement">
+      <label>Book Arrangement
+        <select name="Book Arrangement">
           <option>Organization purchases copies for attendees</option>
           <option>Interested in on-site book sales</option>
           <option>Interested in signed copies</option>
@@ -305,8 +313,8 @@ redirect_from:
         </select>
       </label>
 
-      <label>Engagement format
-        <select name="Engagement format">
+      <label>Engagement Format
+        <select name="Engagement Format">
           <option>Keynote</option>
           <option>Workshop</option>
           <option>Panel</option>
@@ -315,8 +323,8 @@ redirect_from:
         </select>
       </label>
 
-      <label>Topic of interest
-        <select name="Topic of interest">
+      <label>Topic of Interest
+        <select name="Topic of Interest">
           <option>Government Contracting &amp; Estimating</option>
           <option>Leadership &amp; Entrepreneurship</option>
           <option>Veterans &amp; Technology</option>
@@ -325,8 +333,8 @@ redirect_from:
         </select>
       </label>
 
-      <label>Speaking / program budget
-        <select name="Speaking / program budget">
+      <label>Speaking / Program Budget
+        <select name="Speaking / Program Budget">
           <option>Under $2,500</option>
           <option>$2,500-$5,000</option>
           <option>$5,000-$10,000</option>
@@ -336,8 +344,8 @@ redirect_from:
         </select>
       </label>
 
-      <label>Travel &amp; lodging
-        <select name="Travel and lodging">
+      <label>Travel &amp; Lodging
+        <select name="Travel and Lodging">
           <option>Organization covers travel and lodging</option>
           <option>Organization covers travel only</option>
           <option>Organization covers lodging only</option>
@@ -357,3 +365,31 @@ redirect_from:
     </form>
   </section>
 </main>
+
+<script>
+  (function () {
+    var form = document.getElementById("speaking-inquiry-form");
+
+    if (!form) {
+      return;
+    }
+
+    form.addEventListener("submit", function (event) {
+      event.preventDefault();
+
+      var data = new FormData(form);
+      var company = data.get("Company / Organization") || "Organization";
+      var location = data.get("Event Location") || "Event Location";
+      var attendance = data.get("Expected Attendance") || "Expected Attendance";
+      var topic = data.get("Topic of Interest") || "Topic of Interest";
+      var subject = "Speaking: " + company + " at " + location + " for " + attendance + " on " + topic;
+      var lines = [];
+
+      data.forEach(function (value, key) {
+        lines.push(key + ": " + value);
+      });
+
+      window.location.href = "mailto:david@molinas.co?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(lines.join("\n"));
+    });
+  })();
+</script>

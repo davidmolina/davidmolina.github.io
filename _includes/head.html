@@ -6,5 +6,21 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
 
-  {% seo %}
+  {% if page.seo_title %}
+    {% assign seo_description = page.description | default: site.description | strip %}
+    <title>{{ page.seo_title | escape }}</title>
+    <meta name="description" content="{{ seo_description | escape }}" />
+    <meta property="og:title" content="{{ page.seo_title | escape }}" />
+    <meta property="og:description" content="{{ seo_description | escape }}" />
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta property="og:site_name" content="{{ site.title | escape }}" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="{{ page.seo_title | escape }}" />
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":{{ page.author | default: site.author | jsonify }}},"description":{{ seo_description | jsonify }},"headline":{{ page.seo_title | jsonify }},"url":{{ page.url | absolute_url | jsonify }}}</script>
+  {% else %}
+    {% seo %}
+  {% endif %}
 </head>
