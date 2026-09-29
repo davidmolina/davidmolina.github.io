@@ -28,7 +28,7 @@ Within about a week, my enlisted career took a different direction. I signed a n
 
 I also moved from living off campus with a friend to [Sigma Nu Fraternity](https://www.sigmanu.org/). Ben Culver came over to ROTC, walked me over to the house, and showed me the place where I would eventually sleep, study, eat, and live alongside my fraternity brothers. Several were also in ROTC—not only Army, but Navy, Marine Corps, and Air Force programs.
 
-My weekends changed, too. I transferred from the 364th Civil Affairs Brigade to the 104th Division and began filling leadership positions at a drill sergeant company while developing as a cadet. On campus, mornings were no longer simply the gym, coffee, or studying early. They became early formations, physical training, 5K and 10K runs, and getting smoked alongside other cadets.
+My weekends changed, too. Before transferring from the 364th Civil Affairs Brigade to the 104th Division, I was reassigned to the Special Functions Team under Lt. Col. Lopey, where I took on a variety of planning and training assignments supporting officers preparing for deployment. Not long afterward, I transferred to the 104th to align more closely with my own junior officer development and began filling leadership positions in a drill sergeant company while developing as a cadet. On campus, mornings were no longer simply the gym, coffee, or studying early. They became early formations, physical training, 5K and 10K runs, and getting smoked alongside other cadets.
 
 Meanwhile, people I knew in the enlisted ranks were deploying to Afghanistan and Iraq, including my own little brother, Victor Molina, who deployed with the 1st Marine Division as part of the initial invasion of Iraq during Operation Iraqi Freedom.
 
