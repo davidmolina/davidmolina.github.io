@@ -108,30 +108,18 @@ She told me that her son had been born kicking and moving. He was born to do thi
 
 Then she told me not to cry for him.
 
-Live your life.
-
-Give it everything you've got in his honor.
-
-Live for him and for all his brothers.
-
-Twenty-five years after September 11, those words still come back to me.
+Live your life. Give it everything you've got in his honor. Live for him and for all his brothers. Twenty-five years after September 11, those words still come back to me.
 
 A quarter century is long enough to see that our lives are rarely shaped by one decision alone. They are shaped by moments, people, assignments, conversations, opportunities, failures, responsibilities, and sometimes events completely outside our control.
 
 September 11 changed the trajectory of my life.
 
-It led, directly and indirectly, to ROTC, Infantry School, aide-de-camp assignments, active-duty service, JPED, veterans advocacy, Operation Code, entrepreneurship, and much of the systems thinking that still shapes my work today.
+It led, directly and indirectly, to ROTC, Sigma Nu, Infantry School, aide-de-camp assignments, active-duty service, JPED, veterans advocacy, Operation Code, entrepreneurship, and much of the systems thinking that still shapes my work today.
 
 There are now adults beginning careers who weren't alive on September 11, 2001.
 
-For those of us who remember that Tuesday morning, remembrance should be about more than remembering where we were.
+For those of us who remember that Tuesday morning, remembrance should be about more than remembering where we were. It should also cause us to ask what we did with the years that followed. I still think about that mother at Dover.
 
-It should also cause us to ask what we did with the years that followed.
-
-I still think about that mother at Dover.
-
-Live your life.
-
-Give it everything you've got.
+Live your life. Give it everything you've got.
 
 Twenty-five years later, I can't think of a better way to honor them.
