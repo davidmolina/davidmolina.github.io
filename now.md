@@ -8,9 +8,9 @@ author: "David Molina"
 permalink: /now/
 ---
 
-Last updated: October 1, 2026 · [What's a /now page?](https://nownownow.com/about)
+Last updated: October 2, 2026 · [What's a /now page?](https://nownownow.com/about)
 
-Currently building automation, putting my first book into the world, thinking about ownership and what makes organizations endure—and living in 198 square feet while doing it.
+Currently building automation, helping business owners think through valuation and what comes next, putting my first book into the world, and living in 198 square feet while doing it.
 
 ## 2026
 
@@ -20,12 +20,14 @@ Currently building automation, putting my first book into the world, thinking ab
 ### September
 
 - **Published my first book.** *The Principles of MESLO: The Art & Science of an Estimate* is now published in paperback and Kindle, with broader distribution underway. Recorded the audiobook, too.
-- **Oldest off to college.** Moved our oldest daughter into her college dorm.
+- **Moved our oldest daughter into college.** Helped her move into her dorm and begin a new chapter.
 - **Went to the WeTrain Washington Annual Gala.** Reconnected with people and helped support a great cause.
 
 ### August
 
-- **Trained and certified eight Hispanic contractor firms.** Licensed the book curriculum and taught it over a four-week cohort.
+- **Trained and certified eight Hispanic contractor firms.** Taught the MESLO curriculum over a four-week cohort.
+- **Started turning MESLO into a live workshop.** Developed a half-day pricing workshop for contractors, along with worksheets and field materials to take the framework beyond the book.
+- **Looked back at four years of lifestyle change.** I was down 79 pounds from 2022 and wrote about the difference between competing with everyone else and competing with your former self.
 - **Hiked Oyster Dome.**
 
 ### July
@@ -42,18 +44,19 @@ Currently building automation, putting my first book into the world, thinking ab
 - **Joined an impromptu Operation Code Seattle meetup.**
 
 ### May
-- **Returned to developing talks and workshops.** Began turning MESLO, estimating, and government-contracting experience into new speaking material.
+- **Started developing new talks and workshops.** Began turning MESLO, estimating, and government-contracting experience into speaking material.
 - **Hiked Latourell Falls.**
 - **Spent time on the Oregon Coast** for a friend's birthday.
 
 ### April
-
-- **Onboarded and trained with a new business brokerage.**
+- **Onboarded and trained with a new business brokerage.** Began formally building the M&A side of my work.
+- **Worked through a potential business acquisition.** Dug into ownership, seller financing, transition, and what it would actually take to make the deal work.
+- **Started taking MESLO beyond the book.** Began developing tools and materials that could turn the framework into something business owners could actually use.
 
 ### March
-
 - **Saw Jupiter** on a clear night from the Oregon Coast.
 - **Started shooting video content** for @principlesofmeslo.
+- **Started building principlesofmeslo.com.** Built the initial MESLO landing page in Next.js as a home for the book and framework.
 
 ### February
 
@@ -62,5 +65,7 @@ Currently building automation, putting my first book into the world, thinking ab
 - **Traveled to Mount Vernon to remove a massive tree stump.** Tacos and whiskey to celebrate.
 
 ### January
-
+- **Worked on a GSA Multiple Award Schedule offer.** Another step deeper into the machinery of federal contracting.
 - **Traveled to Louisiana to visit an old Army friend.** Helped him and his virtual assistant operationalize their back office and, before departing, visited the famous Daiquiri Express.
+
+This page is an ongoing record of what I'm doing now. For essays and longer ideas, visit [Writing](/writing/).
