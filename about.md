@@ -29,9 +29,7 @@ During this time, I worked 1:1 with contractors as a fractional executive, and g
 <img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_tri-cities.jpeg"
      alt="David Molina speaking in Tri-Cities" />
 
-Regardless of geography, a small business contractor can now [purchase the master takeoff](https://stan.store/principlesofmeslo) and formulas, and schedule a 1:1 call with me to go over their markups, margins, and pricing strategy. 
-
-In 2013, I sat down over three weeks to write a 33,000 word manuscript. [_The Principles of MESLO_](https://principlesofmeslo.com/), a book about getting to the value of x (bid price), value of t (time), and operationalizing the back office. It's currently scheduled for a summer 2026 release. In the interim, I've open sourced the business plans,  operations handbooks, naming conventions, and filemapping systems on the book landing page. Just scroll to the MESLO Starter Kit.
+In 2013, I sat down over three weeks to write a 33,000 word manuscript. [_The Principles of MESLO_](https://principlesofmeslo.com/), a published book about getting to the value of x (bid price), value of t (time), and operationalizing the back office. I've also open sourced the business plans, operations handbooks, naming conventions, and filemapping systems on the book landing page. Just scroll to the MESLO Starter Kit.
 
 ### Molinas Construction Co. 
 In 2015, I founded [Molinas Construction Company](https://www.molinas.co/), a federal contracting firm serving government agencies and commercial clients. What began as a garage-based company evolved from large landscaping IDIQs into five divisions across general contractor, earthwork, material procurement, equipment procurement, and tenant leasing. From 2018 to 2022 I ran the company full-time and prioritized recruiting and retaining veterans, Latina/os, immigrants, and young people into the trades. During this time, I volunteered and served on multiple boards including, the [Oregon State University Alumni Association](https://fororegonstate.org/), the [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu), and [LatinoBuilt](https://latinobuilt.org/). After leading the company through sustained growth, I transitioned from day-to-day operations to focus on advisory work and long-term strategic initiatives.
@@ -56,6 +54,6 @@ From 2011 to 2013 I served as an Army Captain at the [Joint Personal Effects Dep
 Following my first active duty assignment at Aberdeen Proving Ground, Maryland, I staffed the [Oregon House Committee on Veterans & Emergency Services](https://www.oregonlegislature.gov/committees/hvet). Earlier in my military career, I served as an Executive Assistant (Aide-de-Camp) to an Army General Officer, gaining early exposure to executive coordination, strategic planning, and institutional stewardship. Prior to commissioning, I was an enlisted soldier assigned to the 364th Civil Affairs Brigade. In my early 20s, I was appointed by Oregon Governor Ted Kulongoski to the [Oregon Commission on Hispanic Affairs](https://www.oregon.gov/oac/ocha/Pages/index.aspx), serving as Vice Chair and organizing public forums on civil rights, healthcare disparities, and workforce access. 
 
 ### Talks, Workshops
-For workshops, speaking engagements, technical assistance initiatives, or operational training inquiries, [please get in touch](mailto:david@molinas.co) or connect via [LinkedIn](https://www.linkedin.com/in/davidcmolina/).
+For workshops, speaking engagements, technical assistance initiatives, or operational training inquiries, [get in touch](/speaking).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xN7yMoe38xc" frameborder="0" allowfullscreen></iframe>
