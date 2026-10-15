@@ -27,6 +27,7 @@ social:
 github_username: davidmolina
 
 # Build settings
+timezone: America/Los_Angeles
 markdown: kramdown
 branch: master
 
