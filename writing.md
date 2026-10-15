@@ -251,6 +251,9 @@ redirect_from:
 .editorial-more:hover {
   background:#444;
 }
+.editorial-more[hidden] {
+  display:none;
+}
 @media(max-width:760px) {
   .editorial {
     padding:1rem .85rem 3rem;
@@ -469,10 +472,7 @@ redirect_from:
     </div>
     <div class="editorial-archive" id="editorial-archive-list">
       {% for post in editorial_posts %}
-        <article class="editorial-archive-item"{% if forloop.index >
-          12 %} hidden
-        {% endif %}
-        >
+        <article class="editorial-archive-item"{% if forloop.index > 12 %} hidden{% endif %}>
         <a href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
@@ -492,3 +492,15 @@ redirect_from:
 <script>
   (function () {
     var button = document.getElementById('editorial-more');
+    var archive = document.getElementById('editorial-archive-list');
+    if (!button || !archive) return;
+
+    button.addEventListener('click', function () {
+      var hiddenItems = archive.querySelectorAll('.editorial-archive-item[hidden]');
+      for (var i = 0; i < Math.min(12, hiddenItems.length); i++) {
+        hiddenItems[i].hidden = false;
+      }
+      button.hidden = archive.querySelectorAll('.editorial-archive-item[hidden]').length === 0;
+    });
+  }());
+</script>
