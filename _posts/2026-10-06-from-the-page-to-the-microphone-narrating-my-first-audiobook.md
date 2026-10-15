@@ -5,7 +5,7 @@ description: >
   From two days in the recording studio to weeks of listening,
   reviewing, and remastering, a behind-the-scenes look at
   producing The Principles of MESLO audiobook.
-date: 2026-10-13 19:00:00 -0700
+date: 2026-10-06 19:00:00 -0700
 author: "David Molina"
 theme: leadership
 categories:
