@@ -1,129 +1,533 @@
 ---
 layout: default
-title: David Molina
+title:David Molina
 ---
 
 <style>
-  .container {
-    max-width: 680px;
+  .home-editorial {
+    max-width: 1040px;
     margin: 0 auto;
+    color: #222;
   }
 
-  .main {
-    max-width: 640px;
+  .home-editorial *,
+  .home-editorial *::before,
+  .home-editorial *::after {
+    box-sizing: border-box;
   }
 
-  .site-label {
-    color: #666;
-    font-size: 0.85rem;
-    margin-bottom: 0.4rem;
-    text-transform: uppercase;
+  .home-editorial a,
+  .home-editorial a:visited {
+    color: #222;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
   }
 
-  h1 {
-    font-size: 2.2rem;
-    margin-bottom: 1rem;
-  }
-
-  h2 {
-    margin-top: 2.5rem;
-    font-size: 1.3rem;
-  }
-
-  p {
-    margin-bottom: 1rem;
-    line-height: 1.6;
-  }
-
-  a,
-  a:visited {
-    text-decoration: underline;
-    color: #0984e3;
-  }
-
-  .links a {
-    margin-right: 12px;
-  }
-
-  .pathways,
-  .next-steps {
-    border-top: 1px solid #e8e8e8;
-    margin-top: 2rem;
-    padding-top: 1.25rem;
-  }
-
-  .pathway {
-    margin-bottom: 1rem;
-  }
-
-  .pathways h2 {
-    margin-top: 0;
-  }
-
-  .pathway h3 {
+  .home-editorial a:hover {
     color: #075a9c;
-    font-size: 1.18rem;
-    font-weight: 700;
-    margin: 0 0 0.35rem;
   }
 
-  .pathway p {
-    margin-bottom: 0.25rem;
+  .home-editorial .eyebrow {
+    font-family: Arial, sans-serif;
+    font-size: .72rem;
+    font-weight: 700;
+    letter-spacing: .11em;
+    text-transform: uppercase;
+    color: #777;
+  }
+
+  .home-editorial .home-masthead {
+    text-align: center;
+    border-bottom: 1px solid #d9d9d9;
+    padding: 1.6rem 0 1.35rem;
+  }
+
+  .home-editorial .home-masthead .site-name {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(1.55rem, 3vw, 2.25rem);
+    font-weight: 700;
+    letter-spacing: -.035em;
+    margin: .35rem 0 .4rem;
+  }
+
+  .home-editorial .home-masthead .topics {
+    margin: 0;
+    color: #555;
+    font-size: .88rem;
+  }
+
+  .home-editorial .home-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .75rem 1.6rem;
+    padding: .95rem 0;
+    border-bottom: 1px solid #d9d9d9;
+    font-size: .9rem;
+  }
+
+  .home-editorial .home-nav a {
+    text-decoration: none;
+  }
+
+  .home-editorial .home-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.4fr) minmax(240px, .75fr);
+    gap: clamp(1.5rem, 5vw, 4rem);
+    padding: 3.25rem 0 2.75rem;
+    align-items: center;
+  }
+
+  .home-editorial h1,
+  .home-editorial h2,
+  .home-editorial h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #181818;
+  }
+
+  .home-editorial h1 {
+    font-size: clamp(2.6rem, 5.6vw, 4.7rem);
+    letter-spacing: -.045em;
+    line-height: 1.08;
+    margin: .6rem 0 1.35rem;
+  }
+
+  .home-editorial .home-deck {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(1.15rem, 2vw, 1.45rem);
+    line-height: 1.4;
+    margin: 0 0 1.25rem;
+  }
+
+  .home-editorial p {
+    line-height: 1.7;
+    margin: 0 0 1rem;
+  }
+
+  .home-editorial .home-hero-photo {
+    margin: 0;
+  }
+
+  .home-editorial .home-hero-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    border-radius: 2px;
+  }
+
+  .home-editorial .home-hero-photo figcaption {
+    font-size: .75rem;
+    color: #777;
+    margin-top: .5rem;
+  }
+
+  .home-editorial .home-thesis {
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+    padding: 1.6rem 0;
+    display: grid;
+    grid-template-columns: 170px 1fr;
+    gap: 1.5rem;
+  }
+
+  .home-editorial .home-thesis p {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(1.2rem, 2.3vw, 1.65rem);
+    line-height: 1.45;
+    margin: 0;
+  }
+
+  .home-editorial .home-section {
+    padding: 2.4rem 0;
+    border-bottom: 1px solid #d9d9d9;
+  }
+
+  .home-editorial .section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.35rem;
+  }
+
+  .home-editorial h2 {
+    font-size: clamp(1.7rem, 3vw, 2.2rem);
+    margin: 0;
+    letter-spacing: -.025em;
+  }
+
+  .home-editorial .pathway-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0;
+  }
+
+  .home-editorial .pathway {
+    padding: 0 1.4rem;
+    border-left: 1px solid #dedede;
+  }
+
+  .home-editorial .pathway:first-child {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .home-editorial .pathway:last-child {
+    padding-right: 0;
+  }
+
+  .home-editorial .pathway h3 {
+    font-size: 1.35rem;
+    line-height: 1.22;
+    margin: .5rem 0 .8rem;
+  }
+
+  .home-editorial .pathway p {
+    font-size: .96rem;
+  }
+
+  .home-editorial .pathway .action {
+    font-weight: 600;
+    margin-top: 1.2rem;
+  }
+
+  .home-editorial .contact-note {
+    background: #f8f7f4;
+    padding: .95rem 1rem;
+    margin: 1.1rem 0;
+    font-size: .91rem;
+  }
+
+  .home-editorial .contact-note p:last-child {
+    margin-bottom: 0;
+  }
+
+  .home-editorial .home-writing {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.3rem;
+  }
+
+  .home-editorial .writing-teaser {
+    border-top: 2px solid #222;
+    padding-top: .8rem;
+  }
+
+  .home-editorial .writing-teaser h3 {
+    font-size: 1.3rem;
+    line-height: 1.25;
+    margin: .4rem 0 .65rem;
+  }
+
+  .home-editorial .writing-teaser h3 a {
+    text-decoration: none;
+  }
+
+  .home-editorial .writing-teaser .date {
+    font-size: .78rem;
+    color: #777;
+  }
+
+  .home-editorial .writing-teaser p {
+    font-size: .92rem;
+  }
+
+  .home-editorial .home-footer-note {
+    padding: 2rem 0;
+    text-align: center;
+    font-size: .9rem;
+  }
+
+  @media (max-width: 760px) {
+    .home-editorial .home-hero {
+      grid-template-columns: 1fr;
+      padding: 2rem 0;
+    }
+
+    .home-editorial .home-hero-photo {
+      max-width: 360px;
+    }
+
+    .home-editorial .home-thesis {
+      grid-template-columns: 1fr;
+      gap: .6rem;
+    }
+
+    .home-editorial .pathway-grid,
+    .home-editorial .home-writing {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .home-editorial .pathway,
+    .home-editorial .pathway:first-child,
+    .home-editorial .pathway:last-child {
+      border-left: 0;
+      border-top: 1px solid #dedede;
+      padding: 1.25rem 0 0;
+    }
   }
 </style>
 
-<div class="container">
+<div class="home-editorial">
 
-  <!-- MAIN COLUMN -->
-  <div class="main">
+  <!-- MASTHEAD -->
+  <header class="home-masthead">
+    <div class="eyebrow">
+      Author · Entrepreneur · M&amp;A Advisor
+    </div>
 
-    <p class="site-label">DAVIDCMOLINA.COM</p>
+    <p class="site-name">DAVID MOLINA</p>
 
-    <h1>Building organizations that endure.</h1>
+    <p class="topics">
+      Systems &nbsp;·&nbsp; Entrepreneurship &nbsp;·&nbsp;
+      Leadership &nbsp;·&nbsp; Ownership
+    </p>
+  </header>
 
-    <p><strong>Systems. Entrepreneurship. Leadership. Ownership.</strong></p>
+  <!-- SITE NAVIGATION -->
+  <nav class="home-nav" aria-label="Explore the website">
+    <a href="{{ '/writing/' | relative_url }}">Writing</a>
+    <a href="{{ '/about/' | relative_url }}">About</a>
+    <a href="{{ '/book/' | relative_url }}">The Book</a>
+    <a href="{{ '/speaking/' | relative_url }}">Speaking</a>
+  </nav>
+
+  <!-- HERO / INTRODUCTION -->
+  <section class="home-hero" aria-labelledby="home-title">
+
+    <div>
+      <p class="eyebrow">
+        Ideas, experience &amp; perspective
+      </p>
+
+      <h1 id="home-title">
+        Building organizations that endure.
+      </h1>
+
+      <p class="home-deck">
+        <strong>
+          Systems. Entrepreneurship. Leadership. Ownership.
+        </strong>
+      </p>
+
+      <p>
+        I’m David Molina—an author, entrepreneur, and M&amp;A advisor.
+        My work focuses on the systems behind durable organizations:
+        how they price, decide, operate, grow, and exit.
+      </p>
+
+      <p>
+        My perspective has been shaped by military leadership,
+        entrepreneurship, federal contracting, nonprofit leadership,
+        board service, advising business owners, and building
+        the MESLO framework.
+      </p>
+
+      <p>
+        <a href="{{ '/about/' | relative_url }}">
+          More about me →
+        </a>
+        &nbsp;&nbsp;
+        <a href="{{ '/writing/' | relative_url }}">
+          Read my writing →
+        </a>
+      </p>
+    </div>
+
+    <figure class="home-hero-photo">
+      <img
+        src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_headshot.jpeg"
+        alt="Portrait of David Molina"
+        width="640"
+        height="800"
+        fetchpriority="high"
+      >
+
+      <figcaption>David Molina</figcaption>
+    </figure>
+
+  </section>
+
+  <!-- CENTRAL QUESTION -->
+  <aside class="home-thesis" aria-label="Central question">
+
+    <span class="eyebrow">
+      The central question
+    </span>
 
     <p>
-      I’m David Molina — an author, entrepreneur, and M&A advisor. My work focuses on the systems behind durable organizations: how they price, decide, operate, grow, and exit.
+      How do we build organizations that become less dependent
+      on the founder and more valuable over time?
     </p>
 
-    <p>
-      My perspective has been shaped by military leadership, entrepreneurship, federal contracting, nonprofit leadership, board service, advising business owners, and building the MESLO framework.
-    </p>
+  </aside>
 
-    <p>
-      The central question is simple: how do we build organizations that become less dependent on the founder and more valuable over time?
-    </p>
+  <!-- MY WORK -->
+  <section class="home-section" aria-labelledby="work-heading">
 
-    <img src="https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_headshot.jpeg"
-     alt="David Molina"
-     style="width:200px; float:left; margin: 0 20px 10px 0; border-radius:6px;" />
+    <div class="section-heading">
+      <h2 id="work-heading">My Work</h2>
 
-    <section class="pathways" aria-labelledby="pathways-heading">
-      <h2 id="pathways-heading">My Work</h2>
+      <span class="eyebrow">
+        Three areas of focus
+      </span>
+    </div>
 
-      <div class="pathway">
+    <div class="pathway-grid">
+
+      <!-- MESLO -->
+      <article class="pathway">
+
+        <span class="eyebrow">
+          01 / Framework &amp; authorship
+        </span>
+
         <h3>The Principles of MESLO</h3>
-        <p><em>The Principles of MESLO</em> explores estimating, pricing, operational systems, and the disciplines required to build an enduring organization.</p>
-        <p><a href="https://principlesofmeslo.com/">Explore MESLO →</a></p>
-      </div>
 
-      <div class="pathway">
+        <p>
+          <em>The Principles of MESLO</em> explores estimating,
+          pricing, operational systems, and the disciplines
+          required to build an enduring organization.
+        </p>
+
+        <p class="action">
+          <a href="https://principlesofmeslo.com/">
+            Explore MESLO →
+          </a>
+        </p>
+
+      </article>
+
+      <!-- MERGERS & ACQUISITIONS -->
+      <article class="pathway">
+
+        <span class="eyebrow">
+          02 / Advisory
+        </span>
+
         <h3>Mergers &amp; Acquisitions</h3>
-        <p><strong>Business Broker · Sell-Side M&amp;A</strong></p>
-        <p>I work with established business owners considering a sale, succession, or ownership transition — with a focus on enterprise value, sell-side strategy, and preparing and positioning the business for its next owner.</p>
-        <p><strong>Considering selling your business?</strong></p>
-        <p>If you own a business and are thinking about what comes next, call or text me directly at <strong><a href="tel:+12533191101">(253) 319-1101</a></strong>. Leave a message if I’m unavailable and I’ll follow up.</p>
-        <p><a href="https://molinas.consulting/">Learn about selling your business →</a></p>
-      </div>
 
-      <div class="pathway">
+        <p>
+          <strong>Business Broker · Sell-Side M&amp;A</strong>
+        </p>
+
+        <p>
+          I work with established business owners considering
+          a sale, succession, or ownership transition—with
+          a focus on enterprise value, sell-side strategy,
+          and preparing and positioning the business for
+          its next owner.
+        </p>
+
+        <div class="contact-note">
+
+          <p>
+            <strong>Considering selling your business?</strong>
+          </p>
+
+          <p>
+            Call or text
+            <a href="tel:+12533191101">(253) 319-1101</a>.
+            Leave a message if I’m unavailable and I’ll follow up.
+          </p>
+
+        </div>
+
+        <p class="action">
+          <a href="https://molinas.consulting/">
+            Learn about selling your business →
+          </a>
+        </p>
+
+      </article>
+
+      <!-- SPEAKING -->
+      <article class="pathway">
+
+        <span class="eyebrow">
+          03 / Speaking &amp; education
+        </span>
+
         <h3>Speaking</h3>
-        <p>Talks and workshops on systems thinking, entrepreneurship, leadership, government contracting, MESLO, and building organizations that endure beyond their founders.</p>
-        <p><a href="/speaking/">Speaking &amp; workshops →</a></p>
-      </div>
-    </section>
 
+        <p>
+          Talks and workshops on systems thinking,
+          entrepreneurship, leadership, government contracting,
+          MESLO, and building organizations that endure
+          beyond their founders.
+        </p>
+
+        <p class="action">
+          <a href="{{ '/speaking/' | relative_url }}">
+            Speaking &amp; workshops →
+          </a>
+        </p>
+
+      </article>
+
+    </div>
+
+  </section>
+
+  <!-- LATEST WRITING -->
+  <section class="home-section" aria-labelledby="latest-heading">
+
+    <div class="section-heading">
+      <h2 id="latest-heading">Latest Writing</h2>
+
+      <a href="{{ '/writing/' | relative_url }}">
+        All writing →
+      </a>
+    </div>
+
+    <div class="home-writing">
+
+      {% for post in site.posts limit:3 %}
+
+        <article class="writing-teaser">
+
+          {% if post.theme %}
+            <span class="eyebrow">
+              {{ post.theme | replace: '-', ' ' | capitalize }}
+            </span>
+          {% elsif post.categories.size > 0 %}
+            <span class="eyebrow">
+              {{ post.categories.first | replace: '-', ' ' | capitalize }}
+            </span>
+          {% endif %}
+
+          <h3>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+
+          <p class="date">
+            {{ post.date | date: '%b %-d, %Y' }}
+          </p>
+
+          {% assign summary = post.description | default: post.excerpt %}
+
+          <p>
+            {{ summary | markdownify | strip_html | normalize_whitespace | truncatewords: 24 }}
+          </p>
+
+        </article>
+
+      {% endfor %}
+
+    </div>
+
+  </section>
+
+  <!-- FOOTER -->
+  <div class="home-footer-note">
+    More essays, observations, and ideas in
+    <a href="{{ '/writing/' | relative_url }}">
+      Writing →
+    </a>
   </div>
 
 </div>

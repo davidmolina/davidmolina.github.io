@@ -2,37 +2,89 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<style>
+  .editorial-post { --ep-ink:#202020; --ep-muted:#6d6d6d; --ep-rule:#dedbd6; --ep-accent:#8b641f; color:var(--ep-ink); max-width:1100px; margin:0 auto; padding:1.5rem 1.25rem 4rem; }
+  .editorial-post a { color:inherit; }
+  .ep-topline { display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; padding-bottom:1rem; border-bottom:1px solid var(--ep-rule); font:600 .76rem/1.4 system-ui,sans-serif; letter-spacing:.09em; text-transform:uppercase; }
+  .ep-topline a { text-decoration:none; }
+  .ep-topline a:hover { text-decoration:underline; }
+  .ep-header { max-width:850px; margin:3rem auto 2rem; text-align:center; }
+  .ep-category { color:var(--ep-accent); font:700 .78rem/1.4 system-ui,sans-serif; text-transform:uppercase; letter-spacing:.1em; margin-bottom:1rem; }
+  .ep-title { font-family:Georgia,'Times New Roman',serif; font-weight:700; font-size:clamp(2.35rem,5.8vw,4.6rem); line-height:1.08; letter-spacing:-.035em; margin:0 0 1.2rem; }
+  .ep-deck { max-width:740px; margin:0 auto 1.5rem; font:1.22rem/1.6 Georgia,'Times New Roman',serif; color:#525252; }
+  .ep-meta { color:var(--ep-muted); font: .85rem/1.6 system-ui,sans-serif; }
+  .ep-meta a { text-decoration:none; }
+  .ep-hero { margin:2.5rem auto 3rem; max-width:1050px; }
+  .ep-hero img { width:100%; height:auto; max-height:610px; object-fit:cover; display:block; }
+  .ep-hero figcaption { color:var(--ep-muted); font:.78rem/1.5 system-ui,sans-serif; margin-top:.55rem; }
+  .ep-reading-column { max-width:740px; margin:0 auto; }
+  .ep-author { display:flex; align-items:center; gap:.8rem; border-top:1px solid var(--ep-rule); border-bottom:1px solid var(--ep-rule); padding:.85rem 0; margin-bottom:2.4rem; font:.85rem/1.4 system-ui,sans-serif; }
+  .ep-author img { width:43px; height:43px; object-fit:cover; border-radius:50%; }
+  .ep-author strong { display:block; }
+  .ep-author a { color:var(--ep-muted); text-decoration:none; }
+  .ep-content { font:1.12rem/1.85 Georgia,'Times New Roman',serif; overflow-wrap:anywhere; }
+  .ep-content p { margin:0 0 1.4em; }
+  .ep-content h2,.ep-content h3,.ep-content h4 { font-family:Georgia,'Times New Roman',serif; line-height:1.25; margin:2.1em 0 .75em; }
+  .ep-content h2 { font-size:1.75rem; }
+  .ep-content h3 { font-size:1.35rem; }
+  .ep-content a { text-decoration:underline; text-underline-offset:3px; }
+  .ep-content blockquote { margin:2rem 0; padding:.15rem 0 .15rem 1.5rem; border-left:3px solid var(--ep-accent); font-style:italic; }
+  .ep-content img { max-width:100%; height:auto; }
+  .ep-content figure { margin:2rem 0; }
+  .ep-content figcaption { font:.8rem/1.5 system-ui,sans-serif; color:var(--ep-muted); }
+  .ep-content ul,.ep-content ol { padding-left:1.5rem; margin-bottom:1.5rem; }
+  .ep-content li { margin-bottom:.45rem; }
+  .ep-content pre { overflow-x:auto; padding:1rem; background:#f4f2ef; font-size:.85rem; }
+  .ep-content table { display:block; overflow-x:auto; font-size:.9rem; }
+  .ep-share { border-top:1px solid var(--ep-rule); border-bottom:1px solid var(--ep-rule); margin:3rem 0; padding:1.25rem 0; }
+  .ep-share-label { font:700 .75rem/1.4 system-ui,sans-serif; letter-spacing:.08em; text-transform:uppercase; margin:0 0 .8rem; }
+  .ep-share-actions { display:flex; gap:.55rem; flex-wrap:wrap; }
+  .ep-share-link { display:inline-flex; align-items:center; gap:.4rem; border:1px solid var(--ep-rule); padding:.55rem .75rem; background:transparent; color:var(--ep-ink); font:600 .8rem/1 system-ui,sans-serif; text-decoration:none; cursor:pointer; }
+  .ep-share-link:hover { background:#f5f2ec; }
+  .ep-share-link svg { width:15px; height:15px; fill:none; stroke:currentColor; stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round; }
+  .ep-share-link .ep-icon-fill { fill:currentColor; stroke:none; }
+  .ep-pagination { display:grid; grid-template-columns:1fr 1fr; gap:1.5rem; margin:2.5rem 0; }
+  .ep-pagination a { display:block; border-top:1px solid var(--ep-rule); padding-top:1rem; text-decoration:none; font-family:Georgia,'Times New Roman',serif; font-size:1.2rem; line-height:1.35; }
+  .ep-pagination a:hover { text-decoration:underline; }
+  .ep-pagination small { display:block; font:700 .7rem/1.5 system-ui,sans-serif; color:var(--ep-muted); text-transform:uppercase; letter-spacing:.06em; margin-bottom:.35rem; }
+  .ep-pagination .ep-next { text-align:right; }
+  .ep-footer-links { display:flex; gap:1.2rem; justify-content:center; border-top:1px solid var(--ep-rule); padding-top:1.5rem; font:.85rem/1.4 system-ui,sans-serif; }
+  @media(max-width:650px) { .editorial-post { padding:1rem 1rem 3rem; } .ep-header { margin:2rem auto 1.5rem; } .ep-deck { font-size:1.08rem; } .ep-hero { margin:1.5rem auto 2rem; } .ep-content { font-size:1.05rem; line-height:1.75; } .ep-pagination { grid-template-columns:1fr; } .ep-pagination .ep-next { text-align:left; } }
+</style>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+<article class="editorial-post" itemscope itemtype="https://schema.org/BlogPosting">
+  <nav class="ep-topline" aria-label="Publication navigation">
+    <a href="{{ '/writing/' | relative_url }}">← All writing</a>
+    <span>David Molina <span aria-hidden="true">/</span> Essays &amp; Perspectives</span>
+  </nav>
 
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: "%b %-d, %Y" }}
-      </time>
+  {% assign category_label = page.theme | default: page.categories.first | default: 'Writing' | replace: '-', ' ' | capitalize %}
+  {% if page.theme == 'lifestyle-medicine' %}{% assign category_label = 'Lifestyle Medicine' %}{% endif %}
 
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span itemprop="name">{{ page.author }}</span>
-          </span>
-      {% endif %}
-    </p>
-
-    {% if page.image %}
-      <img class="post-header-image"
-           src="{{ page.image | relative_url }}"
-           alt="{{ page.title | escape }}"
-           itemprop="image">
+  <header class="ep-header">
+    <div class="ep-category">{{ category_label | escape }}</div>
+    <h1 class="ep-title" itemprop="headline name">{{ page.title | escape }}</h1>
+    {% if page.description %}
+      <p class="ep-deck" itemprop="description">{{ page.description | strip_html | normalize_whitespace | escape }}</p>
     {% endif %}
+    <div class="ep-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: '%B %-d, %Y' }}</time>
+      {% if page.author %}
+        <span aria-hidden="true"> · </span>
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">{{ page.author | escape }}</span></span>
+      {% endif %}
+      {% if page.updated %}
+        <span aria-hidden="true"> · </span> Updated <time datetime="{{ page.updated | date_to_xmlschema }}" itemprop="dateModified">{{ page.updated | date: '%B %-d, %Y' }}</time>
+      {% endif %}
+    </div>
   </header>
 
-  {% capture author_social %}
-<p class="post-author-social">
-  <img src="{{ '/img/david-molina-circle-balanced.png' | relative_url }}" alt="David Molina">
-  <a href="https://www.instagram.com/davidcmolina">@davidcmolina</a>
-</p>
-  {% endcapture %}
+  {% if page.image %}
+    <figure class="ep-hero">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}" itemprop="image" loading="eager" fetchpriority="high">
+      {% if page.image_caption %}<figcaption>{{ page.image_caption | escape }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
 
   {% assign article_body = content
     | replace: '<p><a href="https://www.instagram.com/davidcmolina">@davidcmolina</a></p>', ''
@@ -41,83 +93,62 @@ layout: default
     | replace: '<p><a href="http://instagram.com/davidcmolina/">@davidcmolina</a></p>', ''
   %}
 
-  {{ author_social }}
+  <div class="ep-reading-column">
+    <div class="ep-author">
+      <img src="{{ '/img/david-molina-circle-balanced.png' | relative_url }}" alt="David Molina" loading="lazy">
+      <div><strong>{{ page.author | default: 'David Molina' | escape }}</strong><a href="https://www.instagram.com/davidcmolina/" target="_blank" rel="noopener noreferrer">@davidcmolina</a></div>
+    </div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ article_body }}
+    <div class="ep-content" itemprop="articleBody">{{ article_body }}</div>
+
+    {% assign share_url = page.url | absolute_url %}
+    {% assign share_url_encoded = share_url | url_encode %}
+    {% assign share_title_encoded = page.title | url_encode %}
+    <section class="ep-share" aria-label="Share this essay">
+      <p class="ep-share-label">Share this essay</p>
+      <div class="ep-share-actions">
+        <a class="ep-share-link" href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a class="ep-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a class="ep-share-link" href="https://twitter.com/intent/tweet?text={{ share_title_encoded }}&amp;url={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer">X</a>
+        <a class="ep-share-link" href="mailto:?subject={{ share_title_encoded }}&amp;body={{ share_url_encoded }}">Email</a>
+        <button class="ep-share-link" type="button" id="ep-copy-link" data-url="{{ share_url | escape }}">Copy link</button>
+      </div>
+    </section>
+
+    <nav class="ep-pagination" aria-label="Article navigation">
+      <div>
+        {% if page.previous %}
+          <a href="{{ page.previous.url | relative_url }}"><small>← Older article</small>{{ page.previous.title | escape }}</a>
+        {% endif %}
+      </div>
+      <div class="ep-next">
+        {% if page.next %}
+          <a href="{{ page.next.url | relative_url }}"><small>Newer article →</small>{{ page.next.title | escape }}</a>
+        {% endif %}
+      </div>
+    </nav>
+    <nav class="ep-footer-links" aria-label="Site navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/writing/' | relative_url }}">All writing</a>
+    </nav>
   </div>
-
-  {% assign share_url = site.url | append: page.url %}
-  {% assign share_url_encoded = share_url | cgi_escape %}
-  {% assign share_title = page.title %}
-  {% assign share_title_encoded = share_title | cgi_escape %}
-
-  <section class="post-share" aria-label="Share this essay">
-    <span class="post-share-label">Share this essay</span>
-    <div class="post-share-actions">
-      <a class="post-share-link" href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer" aria-label="Share on LinkedIn" data-native-share="true" data-share-url="{{ share_url }}" data-share-title="{{ share_title | escape }}">
-        <svg aria-hidden="true" viewBox="0 0 24 24">
-          <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"></path>
-          <rect x="2" y="9" width="4" height="12"></rect>
-          <circle cx="4" cy="4" r="2"></circle>
-        </svg>
-        <span>LinkedIn</span>
-      </a>
-      <a class="post-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook" data-native-share="true" data-share-url="{{ share_url }}" data-share-title="{{ share_title | escape }}">
-        <svg aria-hidden="true" viewBox="0 0 24 24">
-          <path d="M14 8h3V4h-3a5 5 0 0 0-5 5v3H6v4h3v4h4v-4h3l1-4h-4V9a1 1 0 0 1 1-1z"></path>
-        </svg>
-        <span>Facebook</span>
-      </a>
-      <a class="post-share-link" href="https://twitter.com/intent/tweet?text={{ share_title_encoded }}&url={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer" aria-label="Share on X" data-native-share="true" data-share-url="{{ share_url }}" data-share-title="{{ share_title | escape }}">
-        <svg aria-hidden="true" viewBox="0 0 24 24">
-          <path d="M4 4l11.73 16h4.27L8.27 4z"></path>
-          <path d="M4 20l6.77-6.77"></path>
-          <path d="M13.23 10.77L20 4"></path>
-        </svg>
-        <span>X</span>
-      </a>
-      <a class="post-share-link" href="mailto:?subject={{ share_title_encoded }}&body={{ share_url_encoded }}" aria-label="Share by email">
-        <svg aria-hidden="true" viewBox="0 0 24 24">
-          <rect x="3" y="5" width="18" height="14" rx="2"></rect>
-          <path d="M3 7l9 6 9-6"></path>
-        </svg>
-        <span>Email</span>
-      </a>
-      <button class="post-share-link post-share-copy" type="button" data-share-url="{{ page.url | absolute_url }}" aria-label="Copy link">
-        <svg aria-hidden="true" viewBox="0 0 24 24">
-          <path d="M10 13a5 5 0 0 0 7.54.54l2-2a5 5 0 0 0-7.07-7.07l-1.15 1.15"></path>
-          <path d="M14 11a5 5 0 0 0-7.54-.54l-2 2a5 5 0 0 0 7.07 7.07l1.15-1.15"></path>
-        </svg>
-        <span>Copy link</span>
-      </button>
-    </div>
-  </section>
-
-<nav class="post-nav" aria-label="Post navigation">
-  <div class="post-nav-inner">
-
-    <div class="post-nav-left">
-      {% if page.previous %}
-        <a href="{{ page.previous.url | relative_url }}">
-          &larr; Newer: {{ page.previous.title }}
-        </a>
-      {% endif %}
-    </div>
-
-    <div class="post-nav-right">
-      {% if page.next %}
-        <a href="{{ page.next.url | relative_url }}">
-          Older: {{ page.next.title }} &rarr;
-        </a>
-      {% endif %}
-    </div>
-</nav>
-
-  <p class="post-links" style="margin-top:1rem;">
-    <a href="{{ "/" | relative_url }}">← Home</a>
-    &nbsp;•&nbsp;
-    <a href="{{ "/writing/" | relative_url }}">All writing →</a>
-  </p>
-
 </article>
+
+<script>
+(function () {
+  var button = document.getElementById('ep-copy-link');
+  if (!button) return;
+  button.addEventListener('click', function () {
+    var url = button.getAttribute('data-url');
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(url).then(function () {
+        button.textContent = 'Copied!';
+      }).catch(function () {
+        window.prompt('Copy this link:', url);
+      });
+    } else {
+      window.prompt('Copy this link:', url);
+    }
+  });
+})();
+</script>
