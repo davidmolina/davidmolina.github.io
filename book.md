@@ -212,8 +212,36 @@ redirect_from:
   </p>
 </div>
 
+
+<section class="meslo-audio">
+  <h2>Listen to the Preface</h2>
+
+  <p>
+    <em>The Principles of MESLO: The Art &amp; Science
+    of an Estimate</em><br>
+    Narrated by author David Molina.
+  </p>
+
+  <p>Hear the story that inspired The Principles of MESLO, narrated by the author.</p>
+
+  <audio
+    controls
+    preload="metadata"
+    playsinline
+    style="width:100%; max-width:640px;"
+    aria-label="Listen to The Principles of MESLO Preface"
+  >
+    <source
+      src="https://davidmolina.s3.us-west-2.amazonaws.com/005+-+Preface+-+The+Principles+of+MESLO.mp3"
+      type="audio/mpeg"
+    >
+    Your browser does not support audio playback.
+  </audio>
+</section>
+
+
 <p class="book-action">
   <a href="https://principlesofmeslo.com/">
-    Visit the book website →
+    Explore the Book &amp; Purchase a Copy →
   </a>
 </p>
