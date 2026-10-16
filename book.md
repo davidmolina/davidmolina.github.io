@@ -2,12 +2,34 @@
 layout: default
 title: The Principles of MESLO
 description: >
-    The Principles of MESLO is David Molina's book on estimating, pricing, operational systems, and building organizations that endure.
+    The Principles of MESLO introduces MESLO, an estimating and operational framework developed by David Molina to help contractors understand costs, price profitably, and build enduring organizations.
 author: "David Molina"
 permalink: /book/
 redirect_from:
   - /meslo/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "{{ page.url | absolute_url }}#book",
+  "name": "The Principles of MESLO: The Art & Science of an Estimate",
+  "description": {{ page.description | strip | jsonify }},
+  "url": "https://principlesofmeslo.com/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | absolute_url | jsonify }}
+  },
+  "author": {
+    "@type": "Person",
+    "@id": "https://davidcmolina.com/#person",
+    "name": "David Molina",
+    "url": "https://davidcmolina.com/"
+  },
+  "inLanguage": "en"
+}
+</script>
 
 <style>
   .book-editorial {
@@ -40,40 +62,6 @@ redirect_from:
     font-weight: 700;
     letter-spacing: .11em;
     text-transform: uppercase;
-  }
-
-  .book-editorial .book-masthead {
-    border-bottom: 1px solid #d9d9d9;
-    padding: 1.6rem 0 1.35rem;
-    text-align: center;
-  }
-
-  .book-editorial .book-masthead .site-name {
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: clamp(1.55rem, 3vw, 2.25rem);
-    font-weight: 700;
-    letter-spacing: -.035em;
-    margin: .35rem 0 .4rem;
-  }
-
-  .book-editorial .book-masthead .topics {
-    color: #555;
-    font-size: .88rem;
-    margin: 0;
-  }
-
-  .book-editorial .book-nav {
-    border-bottom: 1px solid #d9d9d9;
-    display: flex;
-    flex-wrap: wrap;
-    font-size: .9rem;
-    gap: .75rem 1.6rem;
-    justify-content: center;
-    padding: .95rem 0;
-  }
-
-  .book-editorial .book-nav a {
-    text-decoration: none;
   }
 
   .book-editorial h1,
@@ -170,24 +158,6 @@ redirect_from:
 
 <div class="book-editorial">
 
-  <!-- MASTHEAD -->
-  <header class="book-masthead">
-    <div class="eyebrow">Author · Entrepreneur · M&amp;A Advisor</div>
-    <p class="site-name">DAVID MOLINA</p>
-    <p class="topics">
-      Systems &nbsp;·&nbsp; Entrepreneurship &nbsp;·&nbsp;
-      Leadership &nbsp;·&nbsp; Ownership
-    </p>
-  </header>
-
-  <!-- SITE NAVIGATION -->
-  <nav class="book-nav" aria-label="Explore the website">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/writing/' | relative_url }}">Writing</a>
-    <a href="{{ '/about/' | relative_url }}">About</a>
-    <a href="{{ '/speaking/' | relative_url }}">Speaking</a>
-  </nav>
-
   <!-- BOOK INTRODUCTION -->
   <section class="book-hero" aria-labelledby="book-title">
     <p class="eyebrow">The Book · David Molina</p>
@@ -201,9 +171,10 @@ redirect_from:
 
 <div class="book-intro">
   <p>
-    <em>The Principles of MESLO</em> is my book-length work on
-    estimating, pricing, operational systems, and the disciplines
-    required to build an enduring organization.
+    <a href="https://principlesofmeslo.com/"><em>The Principles of MESLO</em></a>
+    introduces MESLO, an estimating and operational framework developed by
+    David Molina to help contractors understand costs, price profitably, and
+    build enduring organizations.
   </p>
 
   <p>
@@ -213,16 +184,14 @@ redirect_from:
 </div>
 
 
-<section class="meslo-audio">
-  <h2>Listen to the Preface</h2>
+<section class="meslo-audio" aria-labelledby="meslo-audio-title">
+  <h2 id="meslo-audio-title">Listen to the Preface</h2>
 
   <p>
-    <em>The Principles of MESLO: The Art &amp; Science
-    of an Estimate</em><br>
-    Narrated by author David Molina.
+    Hear the story that inspired
+    <em>The Principles of MESLO</em>,
+    narrated by author David Molina.
   </p>
-
-  <p>Hear the story that inspired The Principles of MESLO, narrated by the author.</p>
 
   <audio
     controls
@@ -245,3 +214,6 @@ redirect_from:
     Explore the Book &amp; Purchase a Copy →
   </a>
 </p>
+
+</section>
+</div>
