@@ -54,38 +54,6 @@ redirect_from:
     color: var(--muted);
   }
 
-  .speaking-editorial .masthead {
-    text-align: center;
-    border-bottom: 1px solid var(--line);
-    padding: 1.6rem 0 1.35rem;
-  }
-
-  .speaking-editorial .masthead .site-name {
-    font: 700 clamp(1.55rem, 3vw, 2.25rem)/1.2 Georgia, serif;
-    letter-spacing: -.035em;
-    margin: .35rem 0 .4rem;
-  }
-
-  .speaking-editorial .masthead .topics {
-    margin: 0;
-    font-size: .88rem;
-    color: #555;
-  }
-
-  .speaking-editorial .page-nav {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: .75rem 1.6rem;
-    padding: .95rem 0;
-    border-bottom: 1px solid var(--line);
-    font-size: .9rem;
-  }
-
-  .speaking-editorial .page-nav a {
-    text-decoration: none;
-  }
-
   .speaking-editorial .hero {
     padding: 2.5rem 0 2.3rem;
     border-bottom: 1px solid var(--line);
@@ -229,6 +197,36 @@ redirect_from:
     resize: vertical;
   }
 
+  .speaking-editorial .engagement-types {
+    border: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .speaking-editorial .engagement-types legend {
+    font-size: .87rem;
+    font-weight: 700;
+    margin-bottom: .5rem;
+  }
+
+  .speaking-editorial .engagement-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem 1.2rem;
+  }
+
+  .speaking-editorial .engagement-options label {
+    align-items: center;
+    display: flex;
+    font-weight: 400;
+    gap: .45rem;
+  }
+
+  .speaking-editorial .engagement-options input {
+    margin: 0;
+    width: auto;
+  }
+
   .speaking-editorial .full-width {
     grid-column: 1 / -1;
   }
@@ -264,31 +262,12 @@ redirect_from:
       display: block;
     }
 
-    .speaking-editorial .page-nav {
-      gap: .7rem 1rem;
-    }
-
     .speaking-editorial .hero {
       padding-top: 1.5rem;
     }
   }
 </style>
 <main class="speaking-editorial">
-  <header class="masthead">
-    <div class="eyebrow">Author · Entrepreneur · M&amp;A Advisor</div>
-    <p class="site-name">DAVID MOLINA</p>
-    <p class="topics">Systems · Entrepreneurship · Leadership · Ownership</p>
-  </header>
-
-  <nav class="page-nav" aria-label="Explore the website">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/writing/' | relative_url }}">Writing</a>
-    <a href="{{ '/about/' | relative_url }}">About</a>
-    <a href="{{ '/book/' | relative_url }}">The Book</a>
-    <a href="#talks">Talks</a>
-    <a href="#inquiry">Inquiries</a>
-  </nav>
-
   <section class="hero" aria-labelledby="speaking-heading">
     <figure>
       <img
@@ -311,7 +290,7 @@ redirect_from:
       </p>
       <div class="actions">
         <a href="#talks">Explore Talks →</a>
-        <a href="#inquiry">Invite David to Speak →</a>
+        <a href="#inquiry">Book Now →</a>
       </div>
     </div>
   </section>
@@ -337,6 +316,16 @@ redirect_from:
         connects modern estimating, AI-assisted solicitation analysis, go/no-go
         decision-making, and operational readiness into one practical system.
       </p>
+      <div class="two-col">
+        <div>
+          <h4>Bidding &amp; estimating workshops</h4>
+          <p>Analyze solicitations, make go/no-go decisions, understand costs, and build a profitable bid.</p>
+        </div>
+        <div>
+          <h4>Back-office operations training</h4>
+          <p>Strengthen estimating workflows, cost visibility, and the operating systems needed to deliver the work.</p>
+        </div>
+      </div>
       <p class="talk-meta">
         <strong>Best for:</strong> APEX Accelerators · procurement technical-assistance
         programs · ports · transit agencies · DOT programs · SBA/resource partners ·
@@ -423,6 +412,8 @@ redirect_from:
       <ul>
         <li>APEX Estimating Essentials</li>
         <li>Tabor100</li>
+        <li>DES</li>
+        <li>Mi Centro</li>
         <li>Migrant Youth Conference</li>
       </ul>
     </div>
@@ -430,148 +421,51 @@ redirect_from:
 
   <section class="section" id="inquiry" aria-labelledby="inquiry-heading">
     <div class="section-heading">
-      <h2 id="inquiry-heading">Invite David to Speak</h2>
+      <h2 id="inquiry-heading">Book a Workshop or Speaking Engagement</h2>
       <span class="eyebrow">Speaking &amp; workshop inquiries</span>
     </div>
     <p class="inquiry-intro">
-      For speaking engagements, workshops, and planner inquiries, use the fields
-      below to draft an email with the details needed to evaluate fit, format,
-      and timing. Your email application will open for review and sending.
+      For speaking engagements, workshops, and planner inquiries, send a few
+      details below. You can include any additional context that will help us
+      plan the engagement.
     </p>
-    <form class="inquiry-form" id="speaking-inquiry-form" action="mailto:david@molinas.co" method="post" enctype="text/plain">
+    <form class="inquiry-form" id="speaking-inquiry-form" action="https://formspree.io/f/xljgzylw" method="POST">
+      <input type="hidden" name="_subject" value="Speaking &amp; Workshop Inquiry">
       <label>
-        Company / Organization
-        <input type="text" name="Company / Organization">
+        Company/Organization
+        <input type="text" name="Company/Organization" autocomplete="organization" required>
       </label>
       <label>
         Point of Contact
-        <input type="text" name="Point of Contact">
+        <input type="text" name="Point of Contact" autocomplete="name" required>
       </label>
       <label>
-        Phone
-        <input type="tel" name="Phone">
+        Email
+        <input type="email" name="Email" autocomplete="email" required>
       </label>
-      <label>
-        Event Date
-        <input type="date" name="Event Date">
-      </label>
-      <label>
-        Event Location
-        <input type="text" name="Event Location" placeholder="Venue, city, state, or virtual">
-      </label>
-      <label>
-        Expected Attendance
-        <select name="Expected Attendance">
-          <option>Under 100</option>
-          <option>100-250</option>
-          <option>250-500</option>
-          <option>500-1500</option>
-          <option>1500-2500</option>
-          <option>2500+</option>
-        </select>
-      </label>
-      <label>
-        Books for Attendees
-        <select name="Books for Attendees">
-          <option>No books needed</option>
-          <option>Interested - quantity TBD</option>
-          <option>10-24 copies</option>
-          <option>25-49 copies</option>
-          <option>50-99 copies</option>
-          <option>100-249 copies</option>
-          <option>250+ copies</option>
-        </select>
-      </label>
-      <label>
-        Book Arrangement
-        <select name="Book Arrangement">
-          <option>Organization purchases copies for attendees</option>
-          <option>Interested in on-site book sales</option>
-          <option>Interested in signed copies</option>
-          <option>Not sure - please advise</option>
-        </select>
-      </label>
-      <label>
-        Engagement Format
-        <select name="Engagement Format">
-          <option>Keynote</option>
-          <option>Workshop</option>
-          <option>Panel</option>
-          <option>Executive session</option>
-          <option>Other</option>
-        </select>
-      </label>
-      <label>
-        Topic of Interest
-        <select name="Topic of Interest">
-          <option>Government Contracting &amp; Estimating</option>
-          <option>Leadership &amp; Entrepreneurship</option>
-          <option>Veterans &amp; Technology</option>
-          <option>Building Organizations That Endure</option>
-          <option>Custom</option>
-        </select>
-      </label>
-      <label>
-        Speaking / Program Budget
-        <select name="Speaking / Program Budget">
-          <option>Under $2,500</option>
-          <option>$2,500-$5,000</option>
-          <option>$5,000-$10,000</option>
-          <option>$10,000-$25,000</option>
-          <option>$25,000+</option>
-          <option>Government / institutional rate - TBD</option>
-        </select>
-      </label>
-      <label>
-        Travel &amp; Lodging
-        <select name="Travel and Lodging">
-          <option>Organization covers travel and lodging</option>
-          <option>Organization covers travel only</option>
-          <option>Organization covers lodging only</option>
-          <option>Travel/lodging must be included in speaker fee</option>
-          <option>Local / no overnight travel expected</option>
-          <option>Not sure / let&#x27;s discuss</option>
-        </select>
-      </label>
-      <p class="form-note full-width">Book purchases, travel, and other event expenses may be quoted separately.</p>
+      <fieldset class="engagement-types full-width">
+        <legend>Engagement Type</legend>
+        <div class="engagement-options">
+          <label><input type="radio" name="Engagement Type" value="Keynote / Speaking" required> Keynote / Speaking</label>
+          <label><input type="radio" name="Engagement Type" value="Workshop / Training"> Workshop / Training</label>
+          <label><input type="radio" name="Engagement Type" value="Panel / Other"> Panel / Other</label>
+        </div>
+      </fieldset>
+      <fieldset class="engagement-types full-width">
+        <legend>Preferred Presentation Language *</legend>
+        <div class="engagement-options">
+          <label><input type="radio" name="Preferred Presentation Language" value="English" required checked> English</label>
+          <label><input type="radio" name="Preferred Presentation Language" value="Spanish" required> Spanish</label>
+        </div>
+      </fieldset>
       <label class="full-width">
-        Notes
-        <textarea name="Notes"></textarea>
+        Event details
+        <textarea name="Event details" placeholder="Share the date, location, audience, or anything else that would help plan the engagement."></textarea>
       </label>
       <div class="full-width">
-        <button type="submit">Draft Speaking Inquiry →</button>
-        <p class="form-note">This opens your email application. Please send the drafted email to complete your inquiry.</p>
+        <button type="submit">Send Speaking Inquiry →</button>
+        <p class="form-note">You’ll be taken to a confirmation page after submitting your inquiry.</p>
       </div>
     </form>
   </section>
 </main>
-
-<script>
-  (function () {
-    var form = document.getElementById('speaking-inquiry-form');
-
-    if (!form) {
-      return;
-    }
-
-    form.addEventListener('submit', function (event) {
-      event.preventDefault();
-
-      var data = new FormData(form);
-      var company = data.get('Company / Organization') || 'Organization';
-      var location = data.get('Event Location') || 'Event Location';
-      var attendance = data.get('Expected Attendance') || 'Expected Attendance';
-      var topic = data.get('Topic of Interest') || 'Topic of Interest';
-      var subject = 'Speaking: ' + company + ' at ' + location + ' for ' + attendance + ' on ' + topic;
-      var lines = [];
-
-      data.forEach(function (value, key) {
-        lines.push(key + ': ' + value);
-      });
-
-      window.location.href = 'mailto:david@molinas.co?subject=' +
-        encodeURIComponent(subject) + '&body=' +
-        encodeURIComponent(lines.join('\n'));
-    });
-  }());
-</script>
