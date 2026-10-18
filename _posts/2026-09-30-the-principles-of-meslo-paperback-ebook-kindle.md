@@ -5,7 +5,7 @@ description: >
   My first book, The Principles of MESLO: The Art & Science of an Estimate, is now available. A look back at three years of writing, editing, and publishing—and the lessons learned along the way.
 date: 2026-09-30 11:12:43 -0700
 author: "David Molina"
-theme: leadership
+theme: entrepreneurship
 categories:
   - principles-of-meslo
   - contract-estimating

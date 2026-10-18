@@ -7,7 +7,7 @@ description: >
   producing The Principles of MESLO audiobook.
 date: 2026-10-06 19:00:00 -0700
 author: "David Molina"
-theme: leadership
+theme: entrepreneurship
 categories:
   - principles-of-meslo
   - authorship
