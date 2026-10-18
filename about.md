@@ -346,19 +346,17 @@ permalink: /about/
     <h3>molinas.consulting</h3>
   </div>
   <div class="about-project-body">
-    <p><a href="https://www.molinas.consulting/">molinas.consulting</a> started as an experiment pairing with small business contractors. In 2022, I began providing technical assistance to Seattle-area veteran-, women-, and minority-owned contractors on developing estimates, responding to RFPs, and building out their back offices.</p>
-    <p>The hands-on pairing approach reflects a simple belief: many of us learn best by doing, not by sitting through presentations. I worked with companies interested in projects involving King County, WSDOT, Sound Transit, and prime contractors.</p>
+    <p><a href="https://www.molinas.consulting/">molinas.consulting</a> began in 2022 as a hands-on consulting practice supporting Seattle-area veteran-, women-, and minority-owned small business contractors. I worked one-on-one with business owners on estimating, responding to RFPs, government contracting, and building the back-office systems necessary to operate and grow. This included helping contractors pursue opportunities with King County, WSDOT, Sound Transit, and commercial prime contractors.</p>
 
     <figure class="about-media">
       <img
         src="https://davidmolina.s3.us-west-2.amazonaws.com/david_jose_pairing_tabor.jpeg"
         alt="David Molina working with a client at Tabor 100"
-        loading="lazy"
-      >
+        loading="lazy">
       <figcaption>Working alongside a contractor at Tabor 100.</figcaption>
     </figure>
 
-    <p>I worked one-on-one with contractors as a fractional executive and spoke about government contracting, estimating strategies, and systematizing operations. In late 2025, I began shifting toward productized services and a stronger focus on enterprise value, succession, and sell-side M&amp;A advisory.</p>
+    <p>That experience reinforced a simple belief: many of us learn best by doing. Working alongside owners as a fractional executive, I saw firsthand how estimating, pricing, operational systems, and financial decision-making influence profitability and long-term business value. Those lessons became the foundation for my book, <a href="https://principlesofmeslo.com/"><em>The Principles of MESLO</em></a>.</p>
 
     <figure class="about-media">
       <img
@@ -370,6 +368,8 @@ permalink: /about/
     </figure>
   </div>
 </article>
+
+<p>In late 2025, my work began evolving from operational consulting toward enterprise value, ownership transitions, and mergers and acquisitions. Today, <a href="https://www.molinas.consulting/">molinas.consulting</a> focuses on sell-side M&A advisory and business brokerage, helping business owners understand what their businesses are worth, evaluate succession and exit options, prepare for buyer due diligence, and navigate the complexities of selling a business—including transactions involving owned or leased commercial real estate. The objective is to help owners make informed decisions about the businesses they've spent years building, their legacy, and turn the chapter page.</p>
 
 <article class="about-project">
   <div>
@@ -399,7 +399,7 @@ permalink: /about/
     <h3>BilingualHire</h3>
   </div>
   <div class="about-project-body">
-    <p>In 2013, I built a mobile-friendly job platform connecting employers with bilingual Spanish- and English-speaking talent. Employers could sign up, log in, and publish job postings without manual intervention.</p>
+    <p>In 2013, I built and co-founded <a href="https://www.crunchbase.com/organization/bilingualhire">BilingualHire</a>, a job platform app connecting employers with bilingual Spanish- and English-speaking talent. Employers could sign up, log in, and publish job postings without manual intervention.</p>
     <p>The following year, I built Operation Code, which quickly demanded my full attention. I sunset BilingualHire in 2015 to focus on Operation Code, and its remaining services folded into Molinas Construction Co.</p>
   </div>
 </article>
