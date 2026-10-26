@@ -15,6 +15,8 @@ Currently building automation, helping business owners think through valuation a
 ## 2026
 
 ### October 
+- **Traveled to Anacortes for a birthday brunch.** Enjoyed time with my sister, including a conversation about lifestyle medicine and the benefits of sustainable lifestyle changes.
+- **Released The Principles of MESLO audiobook on Audible and Spotify.** Submitted to both platforms on Monday, and by the weekend, the audiobook was available to listeners.
 - **Spoke on government contracting.** Led a session on knowing the opportunity, knowing your number, and making the decision.
 
 ### September
