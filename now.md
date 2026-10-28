@@ -8,7 +8,7 @@ author: "David Molina"
 permalink: /now/
 ---
 
-Last updated: October 2, 2026 · [What's a /now page?](https://nownownow.com/about)
+Last updated: October 26, 2026 · [What's a /now page?](https://nownownow.com/about)
 
 Currently building automation, helping business owners think through valuation and what comes next, putting my first book into the world, and living in 198 square feet while doing it.
 
