@@ -22,6 +22,12 @@ Similar to pop up vendors, once the contractor scanned the QR code and showed me
 
 I wanted to make signing & shipping personalized paperback copies The Principles of MESLO easier. Now anyone across the continental United States can click the link, fill out their shipping details, and receive a signed copy within a week. 
 
+### Independent Book Distribution
+
+In early October, The Principles of MESLO went live on Amazon and Barnes & Noble. While readers could buy the paperback, eBook/ Kindle, and hardcover, they still couldn't listen to it on the way to work. A few weeks later we fixed that problem by adding Audible and Spotify. 
+
+Now we've added another option: signed & shipped copies making independent book distribution (and, hence sales) a more remote/ decentralized operation. 
+
 ### What's Next
 
 Next, I'm focused on doing as many author book signings & fireside chats through the end of the year. If you or your organization is interested, [get in touch](https://davidcmolina.com/speaking/).
