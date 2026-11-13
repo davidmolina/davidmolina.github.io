@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotify Enabled"
+title: "The Principles of MESLO: Spotify Enabled"
 description: >
   Uploading The Principles of MESLO audiobook to Spotify in 3, 2, 1...
 date: 2026-10-12 19:00:00 -0700

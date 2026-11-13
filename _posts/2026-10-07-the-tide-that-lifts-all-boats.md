@@ -24,9 +24,9 @@ The Regional Contracting Forum (RCF) brings government agencies, prime contracto
 
 Not another Zoom or Teams meeting. An opportunity to connect in person.
 
-People travel from across Washington to attend. Organizations represented include WSDOT, Hanford, NWMBA, NAMC Washington, Tabor 100, COMTO Washington, King County, Sound Transit, the Council, and numerous public agencies and prime contractors.
+People travel from across Washington to attend. Organizations represented include WSDOT, Hanford, [NWMBA](https://nwmba.org/), [NAMC Washington](https://namcwa.com/), [Tabor 100](https://tabor100.org/), COMTO Washington, King County, Sound Transit, the Council, and numerous public agencies and prime contractors.
 
-One of the first people I encountered was a former Tabor 100 client.
+One of the first people I encountered was a former [Tabor 100](https://tabor100.org/) client.
 
 Years earlier, I had worked with this contractor on estimating and pricing. Today, the business is still operating, profitable, and growing. 
 
