@@ -101,17 +101,12 @@ layout: default
 
     <div class="ep-content" itemprop="articleBody">{{ article_body }}</div>
 
-    {% assign share_url = page.url | absolute_url %}
-    {% assign share_url_encoded = share_url | url_encode %}
-    {% assign share_title_encoded = page.title | url_encode %}
-    <section class="ep-share" aria-label="Share this essay">
-      <p class="ep-share-label">Share this essay</p>
+    <section class="ep-share" aria-label="Stay in touch">
+      <p class="ep-share-label">Stay in touch</p>
       <div class="ep-share-actions">
-        <a class="ep-share-link" href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a class="ep-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer">Facebook</a>
-        <a class="ep-share-link" href="https://twitter.com/intent/tweet?text={{ share_title_encoded }}&amp;url={{ share_url_encoded }}" target="_blank" rel="noopener noreferrer">X</a>
-        <a class="ep-share-link" href="mailto:?subject={{ share_title_encoded }}&amp;body={{ share_url_encoded }}">Email</a>
-        <button class="ep-share-link" type="button" id="ep-copy-link" data-url="{{ share_url | escape }}">Copy link</button>
+        <a class="ep-share-link" href="https://www.linkedin.com/in/davidcmolina/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a class="ep-share-link" href="https://www.instagram.com/davidcmolina/" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a class="ep-share-link" href="https://calendly.com/davidcmolina" target="_blank" rel="noopener noreferrer">Book a 1:1</a>
       </div>
     </section>
 
@@ -133,22 +128,3 @@ layout: default
     </nav>
   </div>
 </article>
-
-<script>
-(function () {
-  var button = document.getElementById('ep-copy-link');
-  if (!button) return;
-  button.addEventListener('click', function () {
-    var url = button.getAttribute('data-url');
-    if (navigator.clipboard && window.isSecureContext) {
-      navigator.clipboard.writeText(url).then(function () {
-        button.textContent = 'Copied!';
-      }).catch(function () {
-        window.prompt('Copy this link:', url);
-      });
-    } else {
-      window.prompt('Copy this link:', url);
-    }
-  });
-})();
-</script>
