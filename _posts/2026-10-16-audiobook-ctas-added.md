@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audiobook CTAs Added"
+title: "The Principles of MESLO: Audiobook CTAs Added"
 description: >
   Adding audiobook CTAs to The Principles of MESLO landing page.
 date: 2026-10-16 19:00:00 -0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Audible Enabled"
+title: "The Principles of MESLO: Audible Enabled"
 description: >
   Submitting The Principles of MESLO audiobook to Audible through ACX.
 date: 2026-10-13 19:00:00 -0700
