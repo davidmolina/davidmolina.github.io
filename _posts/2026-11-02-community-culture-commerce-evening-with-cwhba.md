@@ -21,6 +21,8 @@ Inspired by the contractor conversations, I gifted a copy of [The Principles of 
 I got up, introduced myself, and told the crowd: 
 > "I wrote this book after unexpectedly helping a woman-owned certified contractor win a state-government contract... after twelve months of consulting it became obvious that the MESLO estimating and business systems book needed to get into more hands." 
 
-After my short remarks I reached into the bowl, selected a name, out loud, and handed the winning raffle contractor his paperback copy. He was ecstatic. We sat down, I signed his copy, and we got talking. After the event, several other contractors approached and wanted to meet and learn more about the book. After a quick chat, I sold and signed additional copies. 
+After my short remarks I reached into the bowl, selected and read the name out loud, and handed the winning raffle contractor his paperback copy. He was ecstatic. We sat down, I signed his copy, and we got talking. 
 
-I could not be more excited to share the MESLO pricing framework, the operational lessons learned, and digital best practices with contractors on in the Yakima Valley. 
+After the closing, several other contractors approached and wanted to meet and learn more about the book and the author behind it. I learned about local contracting challenges and the struggles of growing a business. After a quick chat, I sold and signed additional copies. 
+
+I could not be more excited to share the MESLO pricing framework, the operational lessons learned, and digital best practices with CWHBA contractors in central Washington. 
