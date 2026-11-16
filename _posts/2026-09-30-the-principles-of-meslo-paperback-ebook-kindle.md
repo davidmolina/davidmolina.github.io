@@ -14,7 +14,7 @@ categories:
 
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Today, I'm pleased to announce that my first book, ***[The Principles of MESLO: The Art & Science of an Estimate](https://www.amazon.com/dp/B0HLMLCSYQ)***, is now available in paperback, and digital editions.
+SEATTLE, Wash. — Today, I'm pleased to announce that my first book, ***[The Principles of MESLO: The Art & Science of an Estimate](https://www.amazon.com/dp/B0HLMLCSYQ)***, is now available in paperback, and digital editions.
 
 Writing, editing, and publishing are three vastly different skill sets, each carrying its own demands on time, resources, and patience. What began almost three years ago as an effort to explain a practical business framework became a much larger undertaking than I initially imagined.
 

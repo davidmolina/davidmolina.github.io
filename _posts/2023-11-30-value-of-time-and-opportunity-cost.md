@@ -11,7 +11,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Picture this. You drive almost an hour to a function only to arrive and quickly decide about the opportunity cost and time decay. I arrived and not 7 minutes later I was departing with a handout and names of the points of contact I needed.
+SEATTLE, Wash. — Picture this. You drive almost an hour to a function only to arrive and quickly decide about the opportunity cost and time decay. I arrived and not 7 minutes later I was departing with a handout and names of the points of contact I needed.
 
 A few items to note and thought process:
 - As you arrive and scan the room, you realize the event format and the type of information being provided by a 6-member panel is not conducive to your learning, transformational conversations, or practical to your timeline.

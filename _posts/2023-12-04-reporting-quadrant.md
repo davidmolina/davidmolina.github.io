@@ -11,7 +11,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-This afternoon I observed a conversation between a business owner and an employee. The conversation centered on updates, taskers, and what is expected.
+SEATTLE, Wash. — This afternoon I observed a conversation between a business owner and an employee. The conversation centered on updates, taskers, and what is expected.
 
 At a high level these are covered in a job description. A job description covers these in detail, but what about organizationally and day-to-day?
 

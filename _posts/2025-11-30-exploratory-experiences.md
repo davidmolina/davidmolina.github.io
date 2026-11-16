@@ -6,6 +6,7 @@ description: >
 image: "https://davidmolina.s3.us-west-2.amazonaws.com/david_molina_unionstation.jpeg"
 date: 2025-11-30 11:12:43 -0800
 author: "David Molina"
+theme: leadership
 categories: 
     - travel
     - blind-spots
@@ -13,7 +14,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-No one is born an explorer, you become one through exploratory experiences. It's in exploratory experiences where your mind expands and rarely can you put it back where it was. You're never the same each time, and I highly recommend it for all ages. Personal timeline example: 
+MEZCALES, Nayarit — No one is born an explorer, you become one through exploratory experiences. It's in exploratory experiences where your mind expands and rarely can you put it back where it was. You're never the same each time, and I highly recommend it for all ages. Personal timeline example: 
 
 - Child through pre-teen, my mom would pack us up in her Chevy pickup and we'd roadtrip to Mexico taking a few days to get there. This is before the North American Free Trade Agreement (NAFTA) and the further devaluation of the mighty dollar. We'd visit annually and it's where I first learned Spanish. Growing up as a migrant farm worker kid this was always a treat. 
 - At 10, a school field trip to Victoria, B.C. and where I first took a double-decker bus, enjoyed tea with croissants, and the most beautiful manicured gardens I've ever seen. 

@@ -3,6 +3,7 @@ layout: post
 title:  "Mole and Interview Cake With Kyle Holmberg"
 date:   2017-05-23 00:00:03 -0100
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - operationcode
     - tech-jobs-preparation

@@ -12,7 +12,7 @@ categories:
   - business-broker
 ---
 
-Acquiring a business without due diligence can increase risk, create unnecessary exposure, and compromise business ownership. Recently, I had a conversation with a business owner about an acquisition that didn’t unfold as expected. Like many entrepreneurs, the owner had spent years developing industry knowledge, building relationships, and growing a business. Acquiring another company, a parallel and complementary company, seemed like a logical next step. The missing key: the owner failed to secure the services of a business broker to conduct due diligence and identify blind spots.
+SEATTLE, Wash. — Acquiring a business without due diligence can increase risk, create unnecessary exposure, and compromise business ownership. Recently, I had a conversation with a business owner about an acquisition that didn’t unfold as expected. Like many entrepreneurs, the owner had spent years developing industry knowledge, building relationships, and growing a business. Acquiring another company, a parallel and complementary company, seemed like a logical next step. The missing key: the owner failed to secure the services of a business broker to conduct due diligence and identify blind spots.
 
 The new opportunity offered established employees, customers, systems, and a social footprint. There was just one problem. Buying revenue isn’t the same as buying a profitable, sustainable, and repeatable business model.
 

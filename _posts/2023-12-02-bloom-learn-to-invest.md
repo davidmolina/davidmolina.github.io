@@ -11,7 +11,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-When one of my twins, Citlali, mentioned this afternoon she wanted to learn how to invest, alongside [Crunchbase](https://www.crunchbase.com/), [Morningstar](https://www.morningstar.com/) and [Robinhood](https://robinhood.com/us/en/), I thought about Bloom.
+PORTLAND, Ore. — When one of my twins, Citlali, mentioned this afternoon she wanted to learn how to invest, alongside [Crunchbase](https://www.crunchbase.com/), [Morningstar](https://www.morningstar.com/) and [Robinhood](https://robinhood.com/us/en/), I thought about Bloom.
 
 Bloom is an app that aims to teach teens and young adults how to invest in the stock market and grow their wealth.
 

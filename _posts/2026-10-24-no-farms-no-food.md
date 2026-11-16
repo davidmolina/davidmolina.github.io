@@ -12,7 +12,7 @@ categories:
   - skagit-valley-wa
 ---
 
-Today, I spotted a ‘No Farms, No Food’ sticker while driving. It reminded me that many of us still believe farming isn’t simply a way of life—it’s a form of freedom. Previously, I wrote about [U.S. food security and the importance of supporting local family farms](/2023/03/07/united-states-two-stark-choices-us-food-security/). 
+SNOHOMISH, Wash. — Today, I spotted a ‘No Farms, No Food’ sticker while driving. It reminded me that many of us still believe farming isn’t simply a way of life—it’s a form of freedom. Previously, I wrote about [U.S. food security and the importance of supporting local family farms](/2023/03/07/united-states-two-stark-choices-us-food-security/). 
 
 Growing up in Hood River, Oregon, and later spending time in the Skagit Valley, I came to appreciate farming as a way of life. Which is why it’s important to check the label and country of origin. Instead of assuming. 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Helping One Kayla Asay at a Time"
 date:   2017-07-21 08:12:43 -0800
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - operationcode
     - tech-jobs-advice

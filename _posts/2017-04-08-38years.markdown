@@ -3,6 +3,7 @@ layout: post
 title:  "David Molina at 38"
 date:   2017-04-08 04:02:43 -0800
 author: "David Molina"
+theme: lifestyle-medicine
 categories: 
     - davidmolina-at-38
     - code-grit-hustle

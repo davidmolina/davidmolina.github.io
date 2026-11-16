@@ -3,6 +3,7 @@ layout: post
 title:  "Tech Inclusion Seattle"
 date:   2017-06-14 08:12:43 -0800
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - tech-inclusion-seattle
     - tech-inclusivity

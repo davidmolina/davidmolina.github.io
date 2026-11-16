@@ -3,6 +3,7 @@ layout: post
 title:  "Scaling an Idea"
 date:   2017-04-26 04:02:43 -0800
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - scaling-an-idea
     - operationcode-founding

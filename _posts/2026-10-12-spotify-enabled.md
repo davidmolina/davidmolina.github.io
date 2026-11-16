@@ -12,7 +12,7 @@ categories:
   - audiobook
 ---
 
-Now that [*The Principles of MESLO: The Art & Science of an Estimate*](/book) is available on Amazon (paperback and Kindle eBook) and Barnes & Noble (hardcover), the next step is bringing the book to audio. Today, I'm starting with Spotify.
+VANCOUVER, Wash. — Now that [*The Principles of MESLO: The Art & Science of an Estimate*](/book) is available on Amazon (paperback and Kindle eBook) and Barnes & Noble (hardcover), the next step is bringing the book to audio. Today, I'm starting with Spotify.
 
 I've used Spotify religiously for years to listen to music. When I learned about Spotify's audiobook platform for [authors](https://authors.spotify.com/) about a year ago, I knew I wanted to make my book available there, too.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Counting My Lucky Stars"
 date:   2017-06-13 08:12:43 -0800
 author: "David Molina"
+theme: ownership
 categories: 
     - mayamolina
     - school-field-trips

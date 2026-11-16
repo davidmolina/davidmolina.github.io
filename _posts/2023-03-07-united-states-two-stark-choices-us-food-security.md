@@ -4,6 +4,7 @@ title:  "United States Two Stark Choices and Food Security"
 subtitle: "The United States Faces Two Stark Choices: U.S. Food Security or Import From Abroad Often With Zero or Little Environmental Oversight"
 date: 2023-03-07 11:12:43 -0800
 author: "David Molina"
+theme: ownership
 categories: 
     - food-security
     - american-family-farms

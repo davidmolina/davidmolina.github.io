@@ -13,7 +13,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Every four years we individually and materially change, from national elections to special celebrations. It’s not you vs. you, it’s you vs. you four years ago. Why four? Not too short, not too long. Every four years you build on top of the last four. Every four years you have the opportunity to re-invent yourself and grow. It’s you vs. you four years ago. My example below. 
+SEATTLE, Wash. — Every four years we individually and materially change, from national elections to special celebrations. It’s not you vs. you, it’s you vs. you four years ago. Why four? Not too short, not too long. Every four years you build on top of the last four. Every four years you have the opportunity to re-invent yourself and grow. It’s you vs. you four years ago. My example below. 
 
 From 2022 to 2026
 - Adopted lifestyle medicine and dropped 79+ lbs. 

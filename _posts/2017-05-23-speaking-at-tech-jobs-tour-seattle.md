@@ -3,6 +3,7 @@ layout: post
 title:  "Speaking At Tech Jobs Tour Seattle"
 date:   2017-05-23 01:01:01 -0500
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - tech-jobs-tour-seattle
     - americas-cto

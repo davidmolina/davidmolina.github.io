@@ -12,7 +12,7 @@ categories:
   - leveraging-technology
 ---
 
-This evening, I conducted a two-hour workshop at [Mi Centro](https://micentrowa.org/) in Tacoma, Washington, titled Bid Analysis & Bid Submittal: Applying the MESLO Pricing System to Public Construction Contracts. The workshop brought together small business owners and contractors to work through an actual public construction solicitation, covering everything from solicitation review and quantity takeoff to profitable pricing and responsive bid submission.
+TACOMA, Wash. — This evening, I conducted a two-hour workshop at [Mi Centro](https://micentrowa.org/) in Tacoma, Washington, titled Bid Analysis & Bid Submittal: Applying the MESLO Pricing System to Public Construction Contracts. The workshop brought together small business owners and contractors to work through an actual public construction solicitation, covering everything from solicitation review and quantity takeoff to profitable pricing and responsive bid submission.
 
 Rather than simply discussing the concepts, we walked through the process together, using artificial intelligence (AI), technology, and the MESLO Pricing System to demonstrate how contractors can compete more effectively for government contracts. 
 

@@ -5,6 +5,7 @@ description: >
     Spending the week supporting small businesses for Black Friday, starting with ponches...
 date: 2025-11-28 11:12:43 -0800
 author: "David Molina"
+theme: systems
 categories: 
     - black-friday
     - small-business
@@ -13,7 +14,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-This week every business promotes Black Friday, or the period of time when business are trying to end the day in the black, not red, an accounting term for positive cash and profitability. If you own a small business you know exactly what this means. Business dependent, this means that you must figure out how to best position your product or service in front of customers balancing pricing strategy, timing, location and what people want. While word of mouth is important, understand your customers, patrons and clients have way more options at their fingertips to explore and discover you.  
+TEPIC, Nayarit — This week every business promotes Black Friday, or the period of time when business are trying to end the day in the black, not red, an accounting term for positive cash and profitability. If you own a small business you know exactly what this means. Business dependent, this means that you must figure out how to best position your product or service in front of customers balancing pricing strategy, timing, location and what people want. While word of mouth is important, understand your customers, patrons and clients have way more options at their fingertips to explore and discover you.  
 
 Whether you're in the product business, ex. food, beverage, retail, or service business, ex. photography, real estate, appraisal, architecture or construction, same thing applies, but 
 this means ensuring your customers, patrons and clients can find you regardless of hardware, software or AI. 

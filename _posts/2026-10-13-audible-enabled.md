@@ -12,7 +12,7 @@ categories:
   - audiobook
 ---
 
-Yesterday, the focus was uploading [*The Principles of MESLO: The Art & Science of an Estimate*](/book) audiobook files to Spotify. Today, the focus is on Audible, using Amazon's [Audiobook Creation Exchange (ACX)](https://www.acx.com/) platform.
+VANCOUVER, Wash. — Yesterday, the focus was uploading [*The Principles of MESLO: The Art & Science of an Estimate*](/book) audiobook files to Spotify. Today, the focus is on Audible, using Amazon's [Audiobook Creation Exchange (ACX)](https://www.acx.com/) platform.
 
 Similar to Spotify for Authors, ACX provides independent authors and publishers with a way to distribute audiobooks. The process was relatively straightforward, especially with the audio files already recorded, mastered, downloaded, and organized. I'm excited to get *The Principles of MESLO* into more readers' hands—or rather, listeners' ears.
 

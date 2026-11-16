@@ -12,7 +12,7 @@ categories:
   - audiobook
 ---
 
-Today, the [*The Principles of MESLO: The Art & Science of an Estimate*](/book) audiobook went live on Spotify and Audible. I was ecstatic when I received the alerts that the audiobook was live.
+VANCOUVER, Wash. — Today, the [*The Principles of MESLO: The Art & Science of an Estimate*](/book) audiobook went live on Spotify and Audible. I was ecstatic when I received the alerts that the audiobook was live.
 
 I spent the early afternoon adding two new calls to action (CTAs) to the book's landing page, giving visitors direct access to the audiobook on Spotify and Audible.
 

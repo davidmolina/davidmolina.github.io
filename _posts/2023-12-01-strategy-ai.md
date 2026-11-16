@@ -12,7 +12,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Back on active duty I served as the S-2/3 Officer in Charge (OIC), Protocol and Public Affairs Officer for a unique wartime battalion sized organization comprised of military service members, active, reserve and retiree recall, GS civilians and Department of Defense contractors. During my 24-month tour of duty, officers get rated annually and in this rating our supervisors have an opportunity to recommend several future career path opportunities to continue service in uniform.
+PORTLAND, Ore. — Back on active duty I served as the S-2/3 Officer in Charge (OIC), Protocol and Public Affairs Officer for a unique wartime battalion sized organization comprised of military service members, active, reserve and retiree recall, GS civilians and Department of Defense contractors. During my 24-month tour of duty, officers get rated annually and in this rating our supervisors have an opportunity to recommend several future career path opportunities to continue service in uniform.
 
 Alongside human resource officer I was being encouraged to go into a very specific functional area called 59, or an Army Strategists. According to the regulation:
 - These officers deliver winning, innovative solutions to address the complex challenges of the contemporary security environment.

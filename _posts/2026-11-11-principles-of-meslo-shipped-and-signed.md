@@ -12,7 +12,7 @@ categories:
   - autographed
 ---
 
-Today, I added a Signed & Shipped call to action (CTA) on [*The Principles of MESLO: The Art & Science of an Estimate*](https://principlesofmeslo.com/) landing page. Previously, I held a Facebook live where I posted the link. Now it's easier to find the link on the book landing page without digging around for the link.  
+SEATTLE, Wash. — Today, I added a Signed & Shipped call to action (CTA) on [*The Principles of MESLO: The Art & Science of an Estimate*](https://principlesofmeslo.com/) landing page. Previously, I held a Facebook live where I posted the link. Now it's easier to find the link on the book landing page without digging around for the link.  
 
 ### Stripe Payment System, QR Code, and Tap to Pay
 

@@ -14,7 +14,7 @@ categories:
   - leadership
 ---
 
-Today, I wrapped up my final review of the audiobook files for [*The Principles of MESLO: The Art & Science of an Estimate*](/book). I requested that three chapters receive additional audio mastering to address what sounded like excessive breathing between passages. Unlike reviewing a printed manuscript, reviewing an audiobook requires listening carefully to every word, pause, transition, and unexpected sound. I downloaded the audio files to my MacBook Air, put on headphones, and listened intently for anything that might distract from the listener's experience. 
+SEATTLE, Wash. — Today, I wrapped up my final review of the audiobook files for [*The Principles of MESLO: The Art & Science of an Estimate*](/book). I requested that three chapters receive additional audio mastering to address what sounded like excessive breathing between passages. Unlike reviewing a printed manuscript, reviewing an audiobook requires listening carefully to every word, pause, transition, and unexpected sound. I downloaded the audio files to my MacBook Air, put on headphones, and listened intently for anything that might distract from the listener's experience. 
 
 It's a different kind of editing process, but one that's equally important.
 

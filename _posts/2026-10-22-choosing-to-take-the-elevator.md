@@ -12,7 +12,7 @@ categories:
   - growth
 ---
 
-Years ago, I heard an analogy about opportunity. Not everyone arrives at the same building. Of those who do, not everyone enters. Some take the elevator, but they don’t all exit on the same floor. And even fewer choose to walk through the doors that open before them.
+SEATTLE, Wash. — Years ago, I heard an analogy about opportunity. Not everyone arrives at the same building. Of those who do, not everyone enters. Some take the elevator, but they don’t all exit on the same floor. And even fewer choose to walk through the doors that open before them.
 
 The remarkable thing about being human is that we can help shape our own destiny. Your vision is yours to materialize. 
 

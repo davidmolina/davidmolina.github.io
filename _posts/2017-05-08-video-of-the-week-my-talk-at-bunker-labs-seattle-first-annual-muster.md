@@ -3,6 +3,7 @@ layout: post
 title:  "Video Of The Week: My Talk At Bunker Labs Seattle, First Annual Muster"
 date:   2017-05-08 04:02:43 -0800
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - bunker-labs-seattle
     - operationcode

@@ -5,6 +5,7 @@ description: >
   In preparation for The Principles of MESLO summer release, my publishing assistant requested subject/genre categories, and book keywords...
 date: 2026-05-18 11:12:43 -0800
 author: "David Molina"
+theme: entrepreneurship
 categories: 
     - publishing
     - subject-genre-categories
@@ -12,7 +13,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Today, we closed out the day with several taskers on _[The Principles of MESLO](https://principlesofmeslo.com/)_ and an assessment report. 
+SEATTLE, Wash. — Today, we closed out the day with several taskers on _[The Principles of MESLO](https://principlesofmeslo.com/)_ and an assessment report. 
 
 First, I selected three subject/ genres. In selecting these, I had to visit the [BISG](https://www.bisg.org/complete-bisac-subject-headings-list), the subject heading authority, and determine the top three. I chose: BUSINESS & ECONOMICS / Small Business; BUSINESS & ECONOMICS / Operations Management; TECHNOLOGY & ENGINEERING / Construction / General. 
 

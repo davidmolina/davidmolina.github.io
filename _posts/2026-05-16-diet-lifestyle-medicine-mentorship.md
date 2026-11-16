@@ -13,7 +13,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-I was hanging w/ some friends at Whidbey Island Bagel Factory and a friend remarked, “that diet you’re doing is helping you… you’re looking healthier.” Diet is when you’re punishing yourself and limiting certain foods to lose weight, taking meds, and sipping powders etc. In my case, it’s lifestyle medicine. But this way of life didn’t happen with pills or injections. 
+SEATTLE, Wash. — I was hanging w/ some friends at Whidbey Island Bagel Factory and a friend remarked, “that diet you’re doing is helping you… you’re looking healthier.” Diet is when you’re punishing yourself and limiting certain foods to lose weight, taking meds, and sipping powders etc. In my case, it’s lifestyle medicine. But this way of life didn’t happen with pills or injections. 
 
 As written before, I had a [horrible accident in 2022](/2025/11/27/leveraging-nature/) in broad daylight. I passed out driving unexpectedly and when I opened my eyes a few split seconds later I had crashed my work truck, ruined the front right tire of my dually, and was in shock. A full day at the VA hospital later, new doses for medicine and steroid shots— I reverted to mentorship. 
 

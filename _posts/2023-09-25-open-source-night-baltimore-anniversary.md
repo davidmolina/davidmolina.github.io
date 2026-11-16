@@ -4,6 +4,7 @@ title:  "Open Source Night Baltimore Anniversary"
 subtitle: "Today, 13 years ago on Sept 25, 2012 I attended my first Open Source Night in Baltimore, a place to create, tinker and hack something together."
 date: 2023-09-25 11:12:43 -0800
 author: "David Molina"
+theme: systems
 categories: 
     - opensource 
     - livehack 

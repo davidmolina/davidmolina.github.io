@@ -9,7 +9,7 @@ categories: jekyll update
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume. This is what I've used and its worked: 
+MOUNT VERNON, Wash. — A cover letter for a job tells a story to the interviewing committee why they should proceed to the resume. This is what I've used and its worked: 
 
 [greeting, ex. Dear Last Name,]
 

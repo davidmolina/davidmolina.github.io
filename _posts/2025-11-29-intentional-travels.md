@@ -5,6 +5,7 @@ description: >
     Bridging the gap between Slack, Zoom and virtual meetups to in person conversations...
 date: 2025-11-29 11:12:43 -0800
 author: "David Molina"
+theme: systems
 categories: 
     - slack
     - zoom
@@ -12,7 +13,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-In every aspect of business, startup and even in the military, a team is what makes it go around. Most recently in my downtown office I hired my first administrative assistant who went onto bigger and greener pasture co-founding her own construction company. A year later I went through a few virtual assistants to help with day-to-day new business development, research and clerical tasks. Today, I'm going to visit the last one, spend some time chatting and share lessons learned, best practices, and tips how software and AI is impacting the industry. 
+MEZCALES, Nayarit — In every aspect of business, startup and even in the military, a team is what makes it go around. Most recently in my downtown office I hired my first administrative assistant who went onto bigger and greener pasture co-founding her own construction company. A year later I went through a few virtual assistants to help with day-to-day new business development, research and clerical tasks. Today, I'm going to visit the last one, spend some time chatting and share lessons learned, best practices, and tips how software and AI is impacting the industry. 
 
 All too often entrepreneurs spend most of their time on the operational and tactical elements of the business and barely enough time on strategy. But strategy and planning is key in long term growth and sustainability-- especially when there is so much [seismic activity](https://news.crunchbase.com/startups/tech-layoffs/) affecting business. 
 

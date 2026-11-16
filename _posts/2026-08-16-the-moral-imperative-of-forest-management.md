@@ -13,7 +13,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Every summer in the Pacific Northwest, wildfire becomes personal. Smoke settles into valleys and cities. The sky changes color. Air quality declines. Every re-downloads the [AirVisual app](https://www.iqair.com/air-quality-monitors/air-quality-app). Communities prepare to evacuate. Firefighters move toward places everyone else is trying to leave. If you live hundreds of miles from the fire itself, you can still wake up to an orange sun and smoke hanging over your neighborhood.
+SEATTLE, Wash. — Every summer in the Pacific Northwest, wildfire becomes personal. Smoke settles into valleys and cities. The sky changes color. Air quality declines. Every re-downloads the [AirVisual app](https://www.iqair.com/air-quality-monitors/air-quality-app). Communities prepare to evacuate. Firefighters move toward places everyone else is trying to leave. If you live hundreds of miles from the fire itself, you can still wake up to an orange sun and smoke hanging over your neighborhood.
 
 Then the debate begins. Was it climate? Lightning? Human activity? Forest management? Electrical infrastructure? Development patterns? Drought?
 

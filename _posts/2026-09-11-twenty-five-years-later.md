@@ -18,7 +18,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-On a Tuesday morning twenty-five years ago, I got the phone call that our country was under attack.
+SEATTLE, Wash. — On a Tuesday morning twenty-five years ago, I got the phone call that our country was under attack.
 
 I was an incoming junior at [Oregon State University](https://oregonstate.edu/) on the beautiful, tree-lined campus in Corvallis. At the time, I was an enlisted soldier assigned to the 364th Civil Affairs Brigade (Airborne), with at least six months of reserve drilling there under my belt.
 

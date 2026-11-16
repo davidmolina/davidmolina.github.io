@@ -11,7 +11,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-This morning on our riverwalk and observing the sunset, reflecting and taking it in we stopped by a small coffee shop. The business, a moving trailer was retrofitted with a full barista bar and the opening was a tiny open source library. A few items to note:
+WENATCHEE, Wash. — This morning on our riverwalk and observing the sunset, reflecting and taking it in we stopped by a small coffee shop. The business, a moving trailer was retrofitted with a full barista bar and the opening was a tiny open source library. A few items to note:
 - Every conceivable coffee and specialty drink could be prepared
 - If you only focused on the interior and friendly customer service you wouldn't think you were ordering from a trailer
 - The open library provided the ability to read while your drink was prepared and $8.00 if you chose to buy it

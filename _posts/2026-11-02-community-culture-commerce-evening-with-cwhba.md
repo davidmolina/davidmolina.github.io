@@ -5,14 +5,14 @@ description: >
   Kicking off the week at a Día de Los Muertos Contractors Meetup in Central Washington with a live DJ, no-host bar, Mexican-style buffet, loteria, and raffle. 
 date: 2026-11-02 19:00:00 -0700
 author: "David Molina"
-theme: ownership
+theme: entrepreneurship
 categories:
   - dia-de-los-muertos
   - yakima-washington
   - yakima-valley-wa
 ---
 
-This week we kicked off a week-long book tour and signing in a part of the Pacific Northwest that often gets very little attention and news coverage-- eastern Washington. It's an area where you can traverse a long distance in an hour or two, witness deer crossings, rolling fields where the horizon meets, and mountainous terrain that exposes the most beautiful rock formations. 
+YAKIMA, Wash. — This week we kicked off a week-long book tour and signing in a part of the Pacific Northwest that often gets very little attention and news coverage-- eastern Washington. It's an area where you can traverse a long distance in an hour or two, witness deer crossings, rolling fields where the horizon meets, and mountainous terrain that exposes the most beautiful rock formations. 
 
 Tonight, the Central Washington Home Builders Association (CWHBA) held their Día de los Muertos event with a live DJ, no-host bar, Mexican-style buffet, Loteria, and a raffle at Yakima-based, Puerto Escondido. Loteria was a real treat and brought back so many positive, familiar memories. Unlike bingo, a Loteria winner has to yell, "Loteria!" It was a very fun night that mixed business networking with the ambiance of one of the most iconic, Mexican competitive card games. 
 

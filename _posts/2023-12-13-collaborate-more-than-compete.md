@@ -8,7 +8,7 @@ categories: jekyll update
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-Over the years I’ve read about the importance of collaboration w/ competitors vs. competing with them.
+MOUNT VERNON, Wash. — Over the years I’ve read about the importance of collaboration w/ competitors vs. competing with them.
 
 Today, I was reminded why this is more advantageous in many scenarios. An industry newcomer is pidgin between competing on price (*below the value of x*) or somewhere in between.
 

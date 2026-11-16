@@ -3,6 +3,7 @@ layout: post
 title:  "What I'm Doing Now"
 date:   2017-04-30 04:02:43 -0800
 author: "David Molina"
+theme: systems
 categories: 
     - what-is-david-molina-up-to
     - david-molina-now

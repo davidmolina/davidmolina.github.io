@@ -14,7 +14,7 @@ categories:
 ---
 [@davidcmolina](https://www.instagram.com/davidcmolina)
 
-This morning the voice at the drive-through donut shop followed a simple script. It asked for our donut order, how many, whether we wanted anything else, and then prompted the price. It was a female voice. Instantly I knew it was AI. At the window, it was a human. Actually two humans. One was a supervisor.
+SEATTLE, Wash. — This morning the voice at the drive-through donut shop followed a simple script. It asked for our donut order, how many, whether we wanted anything else, and then prompted the price. It was a female voice. Instantly I knew it was AI. At the window, it was a human. Actually two humans. One was a supervisor.
 
 That small interaction stuck with me because it may be a glimpse into where customer support and business operations are heading. The AI wasn't trying to replace the entire experience. It was handling a repetitive part of the transaction: take the order, confirm the quantity, ask the next question, move the customer forward. The human was still there to confirm the order, take payment, and hand over the glazed donuts.
 
