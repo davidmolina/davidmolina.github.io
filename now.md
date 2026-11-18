@@ -8,11 +8,21 @@ author: "David Molina"
 permalink: /now/
 ---
 
-Last updated: October 26, 2026 · [What's a /now page?](https://nownownow.com/about)
+Last updated: November 17, 2026 · [What's a /now page?](https://nownownow.com/about)
 
 Currently building automation, helping business owners think through valuation and what comes next, putting my first book into the world, and living in 198 square feet while doing it.
 
 ## 2026
+
+### November
+
+- **Participated in a Happy Hour & Fireside Chat with the Northwest Mountain Minority Supplier Development Council.** Joined Council leadership and business owners in Tukwila for a discussion about the origins of MESLO, contractor business development, estimating, and building sustainable businesses. Concluded the evening with a book signing.
+
+- **Hosted an Instagram Live conversation.** Joined barber, stylist, and author Yvonne Ochoa for a discussion about The Principles of MESLO, entrepreneurship, and the experiences behind the book. I asked her about her new book, The Thriving Stylist. 
+
+- **Spent the weekend with Dad enjoying fresh aguachile and ceviche in Wenatchee.** Capped off a memorable weekend with a visit to Soap Lake and a scenic drive through North Central Washington, taking in the region's wide-open landscapes, rolling hills, and small-town charm. 
+
+- **Took The Principles of MESLO on the road across Eastern Washington.** Visited Yakima, Zillah, Royal City, Moses Lake, Connell, and the Tri-Cities, connecting with contractors, entrepreneurs, educators, and business owners while selling and signing books. Expanded outreach to Heritage University, Yakima Valley College, and Columbia Basin College to explore speaking engagements, educational partnerships, and opportunities to introduce MESLO to students and aspiring entrepreneurs.
 
 ### October 
 - **Traveled to Anacortes for a birthday brunch.** Enjoyed time with my sister, including a conversation about lifestyle medicine and the benefits of sustainable lifestyle changes.
